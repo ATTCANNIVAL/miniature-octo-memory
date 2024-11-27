@@ -1,0 +1,7 @@
+{
+  "Version": 1,
+  "MaxHeartContainers": 40,
+  "StartingHealthToggle": false,
+  "StartingHealth": 20,
+  "EternalHeartTemp": 8
+}
