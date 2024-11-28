@@ -347,6 +347,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-11-28 21:24:20 +0000",
+      "minecraft:spider": "2024-11-28 23:17:13 +0000",
       "minecraft:zombie": "2024-11-28 22:39:44 +0000"
     },
     "done": false
@@ -384,6 +385,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2024-11-28 22:35:55 +0000",
+      "rotten_flesh": "2024-11-28 23:17:28 +0000",
       "enchanted_golden_apple": "2024-11-28 22:21:26 +0000"
     },
     "done": false
