@@ -13850,3 +13850,116 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Nov2024 23:35:47.946] [Server thread/INFO] [forge.net.mca.MCA/]: TextComponent{text='Haris', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} has been infected
 [28Nov2024 23:37:14.917] [Worker-Main-106/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:shulkerboss at BlockPos{x=226, y=52, z=-5} at Chest with:minecraft:chests/simple_dungeon in dungeons_arise:foundry
 [28Nov2024 23:38:04.605] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[28Nov2024 23:38:44.320] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Elvis'/22398, l='ServerLevel[world]', x=94.49, y=66.00, z=259.99] died, message: 'Elvis fell out of the world'
+[28Nov2024 23:38:46.691] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Nov2024 23:38:46.709] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Nov2024 23:40:03.064] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Smajo'/22916, l='ServerLevel[world]', x=82.44, y=64.18, z=142.77] died, message: 'Smajo fell out of the world'
+[28Nov2024 23:40:28.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Removed entity from blacklist]
+[28Nov2024 23:40:36.965] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Sejad'/23921, l='ServerLevel[world]', x=52.94, y=71.00, z=185.07] died, message: 'Sejad fell out of the world'
+[28Nov2024 23:41:59.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[28Nov2024 23:42:03.798] [Server thread/INFO] [forge.net.mca.MCA/]: TextComponent{text='Haris', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} has been infected
+[28Nov2024 23:42:04.803] [Server thread/INFO] [forge.net.mca.MCA/]: TextComponent{text='Haris', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} has been infected
+[28Nov2024 23:43:46.632] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Nov2024 23:43:46.650] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Nov2024 23:44:11.653] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Emina'/24653, l='ServerLevel[world]', x=71.22, y=67.00, z=240.26] died, message: 'Emina was slain by ATT_CANNIVAL'
+[28Nov2024 23:44:52.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[28Nov2024 23:45:35.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[28Nov2024 23:45:39.188] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Ermin'/24674, l='ServerLevel[world]', x=73.58, y=67.00, z=238.13] died, message: 'Ermin (Following) was slain by ATT_CANNIVAL'
+[28Nov2024 23:46:36.652] [Worker-Main-110/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=473, y=19, z=172} at Chest with:minecraft:chests/simple_dungeon in dungeons_arise:foundry
+[28Nov2024 23:46:36.652] [Worker-Main-110/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:rabbitboss at BlockPos{x=474, y=19, z=143} at Barrel with:minecraft:chests/simple_dungeon in dungeons_arise:foundry
+[28Nov2024 23:46:36.653] [Worker-Main-110/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=452, y=23, z=141} at Barrel with:minecraft:chests/simple_dungeon in dungeons_arise:foundry
+[28Nov2024 23:46:36.653] [Worker-Main-110/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vindicatorboss at BlockPos{x=457, y=24, z=182} at Chest with:minecraft:chests/simple_dungeon in dungeons_arise:foundry
+[28Nov2024 23:46:59.318] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=452, y=23, z=185} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.319] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=452, y=23, z=185}
+[28Nov2024 23:46:59.319] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=448, y=24, z=190} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.319] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=448, y=24, z=190}
+[28Nov2024 23:46:59.319] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=457, y=24, z=182} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.319] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=457, y=24, z=182}
+[28Nov2024 23:46:59.319] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=458, y=22, z=177} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.319] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=458, y=22, z=177}
+[28Nov2024 23:46:59.373] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=451, y=21, z=140} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.373] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=451, y=21, z=140}
+[28Nov2024 23:46:59.373] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=452, y=23, z=141} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.373] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=452, y=23, z=141}
+[28Nov2024 23:46:59.373] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=451, y=20, z=140} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.373] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=451, y=20, z=140}
+[28Nov2024 23:46:59.373] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=451, y=21, z=141} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.373] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=451, y=21, z=141}
+[28Nov2024 23:46:59.374] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=452, y=21, z=140} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.374] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=452, y=21, z=140}
+[28Nov2024 23:46:59.374] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=451, y=23, z=140} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.374] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=451, y=23, z=140}
+[28Nov2024 23:46:59.374] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=451, y=23, z=141} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.374] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=451, y=23, z=141}
+[28Nov2024 23:46:59.374] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=452, y=23, z=140} but found not block entity block Block{minecraft:granite} at location
+[28Nov2024 23:46:59.374] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:granite} but failed at location BlockPos{x=452, y=23, z=140}
+[28Nov2024 23:46:59.374] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=451, y=20, z=141} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.374] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=451, y=20, z=141}
+[28Nov2024 23:46:59.374] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=452, y=20, z=140} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.374] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=452, y=20, z=140}
+[28Nov2024 23:46:59.375] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=452, y=21, z=141} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.375] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=452, y=21, z=141}
+[28Nov2024 23:46:59.375] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=452, y=20, z=141} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.375] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=452, y=20, z=141}
+[28Nov2024 23:46:59.871] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=471, y=19, z=143} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.872] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=471, y=19, z=143}
+[28Nov2024 23:46:59.872] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=474, y=19, z=143} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.872] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=474, y=19, z=143}
+[28Nov2024 23:46:59.872] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=472, y=19, z=143} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.872] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=472, y=19, z=143}
+[28Nov2024 23:46:59.872] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=473, y=19, z=143} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.873] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=473, y=19, z=143}
+[28Nov2024 23:46:59.876] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=470, y=19, z=147} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.876] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=470, y=19, z=147}
+[28Nov2024 23:46:59.876] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=471, y=19, z=146} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.876] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=471, y=19, z=146}
+[28Nov2024 23:46:59.877] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=470, y=19, z=148} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.877] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=470, y=19, z=148}
+[28Nov2024 23:46:59.877] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=471, y=19, z=147} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.877] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=471, y=19, z=147}
+[28Nov2024 23:46:59.877] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=470, y=19, z=145} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.877] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=470, y=19, z=145}
+[28Nov2024 23:46:59.878] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=470, y=19, z=146} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.878] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=470, y=19, z=146}
+[28Nov2024 23:46:59.878] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=471, y=19, z=145} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.878] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=471, y=19, z=145}
+[28Nov2024 23:46:59.879] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=471, y=19, z=148} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.879] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=471, y=19, z=148}
+[28Nov2024 23:46:59.879] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=468, y=20, z=153} but found not block entity block Block{minecraft:granite} at location
+[28Nov2024 23:46:59.879] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:granite} but failed at location BlockPos{x=468, y=20, z=153}
+[28Nov2024 23:46:59.920] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=473, y=19, z=172} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.920] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=473, y=19, z=172}
+[28Nov2024 23:46:59.920] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=473, y=19, z=173} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.920] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=473, y=19, z=173}
+[28Nov2024 23:46:59.920] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=477, y=19, z=172} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.920] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=477, y=19, z=172}
+[28Nov2024 23:46:59.920] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=473, y=19, z=174} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.920] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=473, y=19, z=174}
+[28Nov2024 23:46:59.921] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=473, y=19, z=175} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.921] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=473, y=19, z=175}
+[28Nov2024 23:46:59.921] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=477, y=19, z=174} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.921] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=477, y=19, z=174}
+[28Nov2024 23:46:59.921] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=467, y=19, z=169} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.921] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=467, y=19, z=169}
+[28Nov2024 23:46:59.921] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=477, y=19, z=175} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.921] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=477, y=19, z=175}
+[28Nov2024 23:46:59.922] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=474, y=22, z=185} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:46:59.922] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=474, y=22, z=185}
+[28Nov2024 23:47:00.043] [Worker-Main-102/DEBUG] [mixin/]: Mixing JigsawManagerAssemblerMixin from mixins.waystones.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[28Nov2024 23:47:00.052] [Worker-Main-102/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$2(Lnet/minecraft/world/gen/feature/jigsaw/JigsawPiece;)Z to md97f45f$lambda$getShuffledPieces$2$0 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[28Nov2024 23:47:00.052] [Worker-Main-102/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to md97f45f$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[28Nov2024 23:47:00.052] [Worker-Main-102/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to md97f45f$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[28Nov2024 23:47:00.078] [Worker-Main-110/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (500 | 49 | -396).
+[28Nov2024 23:47:00.079] [Worker-Main-110/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[28Nov2024 23:47:00.079] [Worker-Main-110/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 4(0) Rooms
+[28Nov2024 23:47:00.079] [Worker-Main-110/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[28Nov2024 23:47:00.079] [Worker-Main-110/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 4(0) Rooms
+[28Nov2024 23:47:00.079] [Worker-Main-110/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[28Nov2024 23:47:00.080] [Worker-Main-110/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 12(0) Nodes and 5(0) Rooms
+[28Nov2024 23:47:00.080] [Worker-Main-110/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[28Nov2024 23:47:00.080] [Worker-Main-110/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 11(0) Nodes and 6(0) Rooms
+[28Nov2024 23:47:00.080] [Worker-Main-110/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[28Nov2024 23:47:00.080] [Worker-Main-110/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(0) Nodes and 4(0) Rooms
+[28Nov2024 23:47:00.084] [Worker-Main-110/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [36, -20] with a total of 342 pieces.
+[28Nov2024 23:47:01.362] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=481, y=19, z=165} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 23:47:01.362] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=481, y=19, z=165}
