@@ -7657,3 +7657,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Nov2024 22:40:25.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
 [28Nov2024 22:41:13.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 1000]
 [28Nov2024 22:45:52.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 13000]
+[28Nov2024 22:59:25.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL died
+[28Nov2024 22:59:27.819] [Server thread/INFO] [tac/]: PENDING
+[28Nov2024 22:59:27.823] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@5ab5a40a (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 22:59:27.823] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@15acafa5 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 22:59:27.823] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@e5c5fc4 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[28Nov2024 22:59:27.823] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3c347dce (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 22:59:27.824] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@40e51999 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[28Nov2024 22:59:27.824] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@696bc784 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 22:59:27.824] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4489c5ee (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 22:59:27.825] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@76f20927 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 22:59:32.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to 10.5, 72.5, 409.5]

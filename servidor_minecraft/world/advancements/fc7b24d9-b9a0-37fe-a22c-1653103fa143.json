@@ -145,6 +145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 23:02:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_crate": {
     "criteria": {
       "has_planks": "2024-11-28 22:24:13 +0000"
@@ -190,6 +196,12 @@
   "cfm:recipes/cfm/stripped_oak_coffee_table": {
     "criteria": {
       "has_planks": "2024-11-28 22:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 23:02:04 +0000"
     },
     "done": true
   },
@@ -266,9 +278,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 23:02:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-11-28 22:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 23:02:04 +0000"
     },
     "done": true
   },
@@ -287,6 +311,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-11-28 22:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 23:02:04 +0000"
     },
     "done": true
   },
@@ -517,6 +547,12 @@
       "has_netherite_ingot": "2024-11-28 21:21:08 +0000",
       "has_crying_obsidian": "2024-11-28 21:21:08 +0000",
       "has_the_recipe": "2024-11-28 21:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 23:02:04 +0000"
     },
     "done": true
   },
