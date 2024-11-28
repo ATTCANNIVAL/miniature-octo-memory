@@ -13318,3 +13318,450 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Nov2024 22:59:32.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to 10.5, 72.5, 409.5]
 [28Nov2024 23:03:46.635] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [28Nov2024 23:03:46.654] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Nov2024 23:08:46.462] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Nov2024 23:08:46.478] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Nov2024 23:11:06.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[28Nov2024 23:11:17.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Rat King
+[28Nov2024 23:11:19.447] [Server thread/INFO] [tac/]: PENDING
+[28Nov2024 23:11:19.453] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@5ab5a40a (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 23:11:19.453] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@15acafa5 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 23:11:19.453] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@e5c5fc4 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[28Nov2024 23:11:19.453] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3c347dce (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 23:11:19.454] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@40e51999 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[28Nov2024 23:11:19.454] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@696bc784 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 23:11:19.454] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4489c5ee (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 23:11:19.455] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@76f20927 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 23:11:25.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to 17.5, 72.5, 406.5]
+[28Nov2024 23:12:27.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Infected Spec Ops Soldier
+[28Nov2024 23:12:28.758] [Server thread/INFO] [tac/]: PENDING
+[28Nov2024 23:12:28.763] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@5ab5a40a (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 23:12:28.763] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@15acafa5 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 23:12:28.763] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@e5c5fc4 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[28Nov2024 23:12:28.763] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3c347dce (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 23:12:28.764] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@40e51999 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[28Nov2024 23:12:28.764] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@696bc784 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 23:12:28.765] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4489c5ee (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 23:12:28.765] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@76f20927 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 23:12:34.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[28Nov2024 23:12:37.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -43.5, 61.5, 393.5]
+[28Nov2024 23:12:57.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[28Nov2024 23:13:03.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[28Nov2024 23:13:14.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Cover Me With Diamonds]
+[28Nov2024 23:13:25.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[28Nov2024 23:13:46.656] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Nov2024 23:13:46.673] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Nov2024 23:14:00.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Rat King
+[28Nov2024 23:14:02.271] [Server thread/INFO] [tac/]: PENDING
+[28Nov2024 23:14:02.276] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@5ab5a40a (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 23:14:02.276] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@15acafa5 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 23:14:02.276] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@e5c5fc4 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[28Nov2024 23:14:02.277] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3c347dce (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 23:14:02.277] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@40e51999 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[28Nov2024 23:14:02.279] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@696bc784 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 23:14:02.279] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4489c5ee (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 23:14:02.280] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@76f20927 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 23:14:07.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -58.5, 66.5, 413.5]
+[28Nov2024 23:14:30.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Fast infected
+[28Nov2024 23:14:31.912] [Server thread/INFO] [tac/]: PENDING
+[28Nov2024 23:14:31.915] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@5ab5a40a (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 23:14:31.915] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@15acafa5 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 23:14:31.916] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@e5c5fc4 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[28Nov2024 23:14:31.916] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3c347dce (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 23:14:31.917] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@40e51999 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[28Nov2024 23:14:31.917] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@696bc784 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 23:14:31.917] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4489c5ee (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 23:14:31.918] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@76f20927 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 23:14:36.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -74.5, 62.5, 459.5]
+[28Nov2024 23:14:56.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 13000]
+[28Nov2024 23:16:01.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Infected Dog
+[28Nov2024 23:16:03.453] [Server thread/INFO] [tac/]: PENDING
+[28Nov2024 23:16:03.457] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@5ab5a40a (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 23:16:03.457] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@15acafa5 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 23:16:03.457] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@e5c5fc4 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[28Nov2024 23:16:03.458] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3c347dce (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 23:16:03.458] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@40e51999 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[28Nov2024 23:16:03.459] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@696bc784 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 23:16:03.459] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4489c5ee (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 23:16:03.459] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@76f20927 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 23:16:21.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -29.5, 68.5, 477.5]
+[28Nov2024 23:16:37.653] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (212 | 49 | 612).
+[28Nov2024 23:16:37.656] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[28Nov2024 23:16:37.659] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 3(0) Rooms
+[28Nov2024 23:16:37.659] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[28Nov2024 23:16:37.660] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 4(0) Rooms
+[28Nov2024 23:16:37.660] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[28Nov2024 23:16:37.661] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 12(0) Nodes and 4(0) Rooms
+[28Nov2024 23:16:37.661] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[28Nov2024 23:16:37.661] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 9(3) Nodes and 4(0) Rooms
+[28Nov2024 23:16:37.661] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[28Nov2024 23:16:37.661] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 8(0) Nodes and 5(0) Rooms
+[28Nov2024 23:16:37.669] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [18, 43] with a total of 322 pieces.
+[28Nov2024 23:16:44.885] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [13,42]
+[28Nov2024 23:16:44.886] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (210 | 40 | 682)
+[28Nov2024 23:16:44.902] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (210 | 40 | 682)
+[28Nov2024 23:16:44.902] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (209 | 31 | 681)
+[28Nov2024 23:16:44.905] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (209 | 31 | 681)
+[28Nov2024 23:16:44.905] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (214 | 22 | 687)
+[28Nov2024 23:16:44.906] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (214 | 22 | 687)
+[28Nov2024 23:16:44.906] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/multipart/short_node_connector at (214 | 22 | 687)
+[28Nov2024 23:16:44.906] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/multipart/short_node_connector at (214 | 22 | 687)
+[28Nov2024 23:16:44.906] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (209 | 22 | 672)
+[28Nov2024 23:16:44.913] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (209 | 22 | 672)
+[28Nov2024 23:16:44.913] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/room at (209 | 22 | 672)
+[28Nov2024 23:16:44.915] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/room at (209 | 22 | 672)
+[28Nov2024 23:16:44.915] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_180 at (214 | 20 | 686)
+[28Nov2024 23:16:44.915] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_180 at (214 | 20 | 686)
+[28Nov2024 23:16:44.915] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (208 | 13 | 680)
+[28Nov2024 23:16:44.917] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (208 | 13 | 680)
+[28Nov2024 23:16:44.921] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [13,42]
+[28Nov2024 23:16:44.960] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [13,43]
+[28Nov2024 23:16:44.960] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (214 | 40 | 695)
+[28Nov2024 23:16:44.960] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (214 | 40 | 695)
+[28Nov2024 23:16:44.960] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (213 | 40 | 697)
+[28Nov2024 23:16:44.961] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (213 | 40 | 697)
+[28Nov2024 23:16:44.961] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (210 | 40 | 682)
+[28Nov2024 23:16:44.963] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (210 | 40 | 682)
+[28Nov2024 23:16:44.963] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_light with rotation COUNTERCLOCKWISE_90 at (213 | 40 | 702)
+[28Nov2024 23:16:44.963] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_light with rotation COUNTERCLOCKWISE_90 at (213 | 40 | 702)
+[28Nov2024 23:16:44.963] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (221 | 40 | 702)
+[28Nov2024 23:16:44.963] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (221 | 40 | 702)
+[28Nov2024 23:16:44.963] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (214 | 31 | 696)
+[28Nov2024 23:16:44.963] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (214 | 31 | 696)
+[28Nov2024 23:16:44.963] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (213 | 31 | 697)
+[28Nov2024 23:16:44.964] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (213 | 31 | 697)
+[28Nov2024 23:16:44.964] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (209 | 31 | 681)
+[28Nov2024 23:16:44.968] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (209 | 31 | 681)
+[28Nov2024 23:16:44.968] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (213 | 31 | 702)
+[28Nov2024 23:16:44.969] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (213 | 31 | 702)
+[28Nov2024 23:16:44.969] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (213 | 22 | 688)
+[28Nov2024 23:16:44.969] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (213 | 22 | 688)
+[28Nov2024 23:16:44.969] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/node/connector/connector_3 at (213 | 22 | 688)
+[28Nov2024 23:16:44.970] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/node/connector/connector_3 at (213 | 22 | 688)
+[28Nov2024 23:16:44.970] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (208 | 22 | 699)
+[28Nov2024 23:16:44.972] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (208 | 22 | 699)
+[28Nov2024 23:16:44.972] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (208 | 22 | 699)
+[28Nov2024 23:16:44.972] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (208 | 22 | 699)
+[28Nov2024 23:16:44.972] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (209 | 22 | 703)
+[28Nov2024 23:16:44.973] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (209 | 22 | 703)
+[28Nov2024 23:16:44.973] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/multipart/crypt_graves at (209 | 22 | 703)
+[28Nov2024 23:16:44.973] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/multipart/crypt_graves at (209 | 22 | 703)
+[28Nov2024 23:16:44.973] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (214 | 22 | 693)
+[28Nov2024 23:16:44.973] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (214 | 22 | 693)
+[28Nov2024 23:16:44.973] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/node/connector/connector_4 at (214 | 22 | 693)
+[28Nov2024 23:16:44.974] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/node/connector/connector_4 at (214 | 22 | 693)
+[28Nov2024 23:16:44.974] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (208 | 22 | 698)
+[28Nov2024 23:16:44.975] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (208 | 22 | 698)
+[28Nov2024 23:16:44.975] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/crypt_turn at (208 | 22 | 698)
+[28Nov2024 23:16:44.976] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/crypt_turn at (208 | 22 | 698)
+[28Nov2024 23:16:44.976] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_180 at (214 | 20 | 686)
+[28Nov2024 23:16:44.976] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_180 at (214 | 20 | 686)
+[28Nov2024 23:16:44.976] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (208 | 13 | 680)
+[28Nov2024 23:16:44.979] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (208 | 13 | 680)
+[28Nov2024 23:16:44.980] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [13,43]
+[28Nov2024 23:16:48.816] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [14,42]
+[28Nov2024 23:16:48.816] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (235 | 30 | 662)
+[28Nov2024 23:16:48.817] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (235 | 30 | 662)
+[28Nov2024 23:16:48.817] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (224 | 22 | 677)
+[28Nov2024 23:16:48.817] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (224 | 22 | 677)
+[28Nov2024 23:16:48.817] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/multipart/short_node_connector at (224 | 22 | 677)
+[28Nov2024 23:16:48.818] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/multipart/short_node_connector at (224 | 22 | 677)
+[28Nov2024 23:16:48.818] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (225 | 22 | 677)
+[28Nov2024 23:16:48.818] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (225 | 22 | 677)
+[28Nov2024 23:16:48.818] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/node/connector/connector_4 at (225 | 22 | 677)
+[28Nov2024 23:16:48.818] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/node/connector/connector_4 at (225 | 22 | 677)
+[28Nov2024 23:16:48.818] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (236 | 22 | 683)
+[28Nov2024 23:16:48.820] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (236 | 22 | 683)
+[28Nov2024 23:16:48.820] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (236 | 22 | 683)
+[28Nov2024 23:16:48.820] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (236 | 22 | 683)
+[28Nov2024 23:16:48.820] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (230 | 22 | 677)
+[28Nov2024 23:16:48.820] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (230 | 22 | 677)
+[28Nov2024 23:16:48.820] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/node/connector/connector_4 at (230 | 22 | 677)
+[28Nov2024 23:16:48.821] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/node/connector/connector_4 at (230 | 22 | 677)
+[28Nov2024 23:16:48.821] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_90 at (235 | 22 | 671)
+[28Nov2024 23:16:48.821] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_90 at (235 | 22 | 671)
+[28Nov2024 23:16:48.822] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/crypt_turn at (235 | 22 | 671)
+[28Nov2024 23:16:48.823] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/crypt_turn at (235 | 22 | 671)
+[28Nov2024 23:16:48.823] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (225 | 13 | 685)
+[28Nov2024 23:16:48.823] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (225 | 13 | 685)
+[28Nov2024 23:16:48.823] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (208 | 13 | 680)
+[28Nov2024 23:16:48.823] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (208 | 13 | 680)
+[28Nov2024 23:16:48.823] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (230 | 13 | 685)
+[28Nov2024 23:16:48.823] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (230 | 13 | 685)
+[28Nov2024 23:16:48.824] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (235 | 12 | 680)
+[28Nov2024 23:16:48.824] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (235 | 12 | 680)
+[28Nov2024 23:16:48.825] [Worker-Main-55/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [14,42]
+[28Nov2024 23:16:48.858] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [14,43]
+[28Nov2024 23:16:48.859] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation CLOCKWISE_180 at (239 | 49 | 702)
+[28Nov2024 23:16:48.859] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation CLOCKWISE_180 at (239 | 49 | 702)
+[28Nov2024 23:16:48.859] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (221 | 40 | 702)
+[28Nov2024 23:16:48.859] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (221 | 40 | 702)
+[28Nov2024 23:16:48.859] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (235 | 40 | 703)
+[28Nov2024 23:16:48.859] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (235 | 40 | 703)
+[28Nov2024 23:16:48.859] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation NONE at (231 | 40 | 703)
+[28Nov2024 23:16:48.859] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation NONE at (231 | 40 | 703)
+[28Nov2024 23:16:48.859] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (239 | 40 | 703)
+[28Nov2024 23:16:48.859] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (239 | 40 | 703)
+[28Nov2024 23:16:48.859] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_fork with rotation COUNTERCLOCKWISE_90 at (235 | 30 | 689)
+[28Nov2024 23:16:48.860] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_fork with rotation COUNTERCLOCKWISE_90 at (235 | 30 | 689)
+[28Nov2024 23:16:48.860] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (225 | 22 | 703)
+[28Nov2024 23:16:48.860] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (225 | 22 | 703)
+[28Nov2024 23:16:48.860] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/node/connector/connector_3 at (225 | 22 | 703)
+[28Nov2024 23:16:48.861] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/node/connector/connector_3 at (225 | 22 | 703)
+[28Nov2024 23:16:48.861] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (208 | 22 | 698)
+[28Nov2024 23:16:48.861] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (208 | 22 | 698)
+[28Nov2024 23:16:48.861] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/crypt_turn at (208 | 22 | 698)
+[28Nov2024 23:16:48.861] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/crypt_turn at (208 | 22 | 698)
+[28Nov2024 23:16:48.861] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (236 | 22 | 698)
+[28Nov2024 23:16:48.862] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (236 | 22 | 698)
+[28Nov2024 23:16:48.862] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (236 | 22 | 698)
+[28Nov2024 23:16:48.862] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (236 | 22 | 698)
+[28Nov2024 23:16:48.862] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (230 | 22 | 703)
+[28Nov2024 23:16:48.862] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (230 | 22 | 703)
+[28Nov2024 23:16:48.862] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/node/connector/connector_6 at (230 | 22 | 703)
+[28Nov2024 23:16:48.862] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/node/connector/connector_6 at (230 | 22 | 703)
+[28Nov2024 23:16:48.862] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (235 | 22 | 698)
+[28Nov2024 23:16:48.862] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (235 | 22 | 698)
+[28Nov2024 23:16:48.862] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/crypt_turn at (235 | 22 | 698)
+[28Nov2024 23:16:48.863] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/crypt_turn at (235 | 22 | 698)
+[28Nov2024 23:16:48.863] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (225 | 13 | 685)
+[28Nov2024 23:16:48.863] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (225 | 13 | 685)
+[28Nov2024 23:16:48.863] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (208 | 13 | 680)
+[28Nov2024 23:16:48.863] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (208 | 13 | 680)
+[28Nov2024 23:16:48.863] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (230 | 13 | 685)
+[28Nov2024 23:16:48.864] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (230 | 13 | 685)
+[28Nov2024 23:16:48.864] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (235 | 12 | 680)
+[28Nov2024 23:16:48.864] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (235 | 12 | 680)
+[28Nov2024 23:16:48.865] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [14,43]
+[28Nov2024 23:16:56.036] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [15,41]
+[28Nov2024 23:16:56.036] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (253 | 49 | 644)
+[28Nov2024 23:16:56.037] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (253 | 49 | 644)
+[28Nov2024 23:16:56.037] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation COUNTERCLOCKWISE_90 at (244 | 40 | 671)
+[28Nov2024 23:16:56.037] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation COUNTERCLOCKWISE_90 at (244 | 40 | 671)
+[28Nov2024 23:16:56.037] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (241 | 31 | 652)
+[28Nov2024 23:16:56.037] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (241 | 31 | 652)
+[28Nov2024 23:16:56.037] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation CLOCKWISE_90 at (241 | 37 | 668)
+[28Nov2024 23:16:56.038] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation CLOCKWISE_90 at (241 | 37 | 668)
+[28Nov2024 23:16:56.038] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (240 | 31 | 657)
+[28Nov2024 23:16:56.038] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (240 | 31 | 657)
+[28Nov2024 23:16:56.038] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (235 | 30 | 662)
+[28Nov2024 23:16:56.039] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (235 | 30 | 662)
+[28Nov2024 23:16:56.039] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (240 | 22 | 661)
+[28Nov2024 23:16:56.040] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (240 | 22 | 661)
+[28Nov2024 23:16:56.040] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/node/connector/connector_2 at (240 | 22 | 661)
+[28Nov2024 23:16:56.040] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/node/connector/connector_2 at (240 | 22 | 661)
+[28Nov2024 23:16:56.040] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation COUNTERCLOCKWISE_90 at (235 | 21 | 644)
+[28Nov2024 23:16:56.041] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation COUNTERCLOCKWISE_90 at (235 | 21 | 644)
+[28Nov2024 23:16:56.041] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/sewers_dead_end at (235 | 21 | 644)
+[28Nov2024 23:16:56.042] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/sewers_dead_end at (235 | 21 | 644)
+[28Nov2024 23:16:56.042] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (241 | 22 | 666)
+[28Nov2024 23:16:56.042] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (241 | 22 | 666)
+[28Nov2024 23:16:56.042] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/node/connector/connector_4 at (241 | 22 | 666)
+[28Nov2024 23:16:56.042] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/node/connector/connector_4 at (241 | 22 | 666)
+[28Nov2024 23:16:56.042] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_90 at (235 | 22 | 671)
+[28Nov2024 23:16:56.043] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_90 at (235 | 22 | 671)
+[28Nov2024 23:16:56.043] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/crypt_turn at (235 | 22 | 671)
+[28Nov2024 23:16:56.043] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/crypt_turn at (235 | 22 | 671)
+[28Nov2024 23:16:56.043] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [15,41]
+[28Nov2024 23:16:56.082] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [15,40]
+[28Nov2024 23:16:56.082] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (253 | 49 | 644)
+[28Nov2024 23:16:56.082] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (253 | 49 | 644)
+[28Nov2024 23:16:56.082] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/crumbled with rotation COUNTERCLOCKWISE_90 at (241 | 37 | 641)
+[28Nov2024 23:16:56.082] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/crumbled with rotation COUNTERCLOCKWISE_90 at (241 | 37 | 641)
+[28Nov2024 23:16:56.083] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (241 | 31 | 652)
+[28Nov2024 23:16:56.083] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (241 | 31 | 652)
+[28Nov2024 23:16:56.083] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation COUNTERCLOCKWISE_90 at (235 | 30 | 635)
+[28Nov2024 23:16:56.084] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation COUNTERCLOCKWISE_90 at (235 | 30 | 635)
+[28Nov2024 23:16:56.085] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation COUNTERCLOCKWISE_90 at (241 | 28 | 650)
+[28Nov2024 23:16:56.085] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation COUNTERCLOCKWISE_90 at (241 | 28 | 650)
+[28Nov2024 23:16:56.085] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/multipart/node/ceiling/flat at (241 | 28 | 650)
+[28Nov2024 23:16:56.085] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/multipart/node/ceiling/flat at (241 | 28 | 650)
+[28Nov2024 23:16:56.085] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation COUNTERCLOCKWISE_90 at (235 | 21 | 644)
+[28Nov2024 23:16:56.086] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation COUNTERCLOCKWISE_90 at (235 | 21 | 644)
+[28Nov2024 23:16:56.087] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/sewers_dead_end at (235 | 21 | 644)
+[28Nov2024 23:16:56.093] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/sewers_dead_end at (235 | 21 | 644)
+[28Nov2024 23:16:56.093] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [15,40]
+[28Nov2024 23:16:56.123] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [15,39]
+[28Nov2024 23:16:56.123] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation COUNTERCLOCKWISE_90 at (235 | 30 | 635)
+[28Nov2024 23:16:56.124] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation COUNTERCLOCKWISE_90 at (235 | 30 | 635)
+[28Nov2024 23:16:56.124] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [15,39]
+[28Nov2024 23:16:56.237] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [15,42]
+[28Nov2024 23:16:56.237] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation COUNTERCLOCKWISE_90 at (244 | 49 | 680)
+[28Nov2024 23:16:56.238] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation COUNTERCLOCKWISE_90 at (244 | 49 | 680)
+[28Nov2024 23:16:56.238] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation COUNTERCLOCKWISE_90 at (244 | 40 | 671)
+[28Nov2024 23:16:56.240] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation COUNTERCLOCKWISE_90 at (244 | 40 | 671)
+[28Nov2024 23:16:56.241] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation CLOCKWISE_90 at (241 | 37 | 668)
+[28Nov2024 23:16:56.241] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation CLOCKWISE_90 at (241 | 37 | 668)
+[28Nov2024 23:16:56.241] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (241 | 31 | 679)
+[28Nov2024 23:16:56.242] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (241 | 31 | 679)
+[28Nov2024 23:16:56.242] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (235 | 30 | 662)
+[28Nov2024 23:16:56.244] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (235 | 30 | 662)
+[28Nov2024 23:16:56.244] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (240 | 31 | 684)
+[28Nov2024 23:16:56.248] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (240 | 31 | 684)
+[28Nov2024 23:16:56.248] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (241 | 27 | 677)
+[28Nov2024 23:16:56.249] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (241 | 27 | 677)
+[28Nov2024 23:16:56.249] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (241 | 27 | 677)
+[28Nov2024 23:16:56.249] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (241 | 27 | 677)
+[28Nov2024 23:16:56.249] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/wall with rotation NONE at (247 | 22 | 673)
+[28Nov2024 23:16:56.249] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/wall with rotation NONE at (247 | 22 | 673)
+[28Nov2024 23:16:56.249] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/multipart/wall at (247 | 22 | 673)
+[28Nov2024 23:16:56.249] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/multipart/wall at (247 | 22 | 673)
+[28Nov2024 23:16:56.249] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (236 | 22 | 683)
+[28Nov2024 23:16:56.250] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (236 | 22 | 683)
+[28Nov2024 23:16:56.250] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (236 | 22 | 683)
+[28Nov2024 23:16:56.250] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (236 | 22 | 683)
+[28Nov2024 23:16:56.250] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/large_wall with rotation NONE at (247 | 22 | 677)
+[28Nov2024 23:16:56.250] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/large_wall with rotation NONE at (247 | 22 | 677)
+[28Nov2024 23:16:56.251] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/multipart/large_wall at (247 | 22 | 677)
+[28Nov2024 23:16:56.251] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/multipart/large_wall at (247 | 22 | 677)
+[28Nov2024 23:16:56.251] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/large_wall with rotation CLOCKWISE_90 at (241 | 22 | 683)
+[28Nov2024 23:16:56.251] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/large_wall with rotation CLOCKWISE_90 at (241 | 22 | 683)
+[28Nov2024 23:16:56.251] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/multipart/large_wall at (241 | 22 | 683)
+[28Nov2024 23:16:56.251] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/multipart/large_wall at (241 | 22 | 683)
+[28Nov2024 23:16:56.251] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_90 at (235 | 22 | 671)
+[28Nov2024 23:16:56.253] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_90 at (235 | 22 | 671)
+[28Nov2024 23:16:56.253] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/crypt_turn at (235 | 22 | 671)
+[28Nov2024 23:16:56.254] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/crypt_turn at (235 | 22 | 671)
+[28Nov2024 23:16:56.255] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (235 | 12 | 680)
+[28Nov2024 23:16:56.256] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (235 | 12 | 680)
+[28Nov2024 23:16:56.258] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [15,42]
+[28Nov2024 23:17:11.082] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [13,44]
+[28Nov2024 23:17:11.082] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/light with rotation COUNTERCLOCKWISE_90 at (215 | 45 | 705)
+[28Nov2024 23:17:11.084] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/light with rotation COUNTERCLOCKWISE_90 at (215 | 45 | 705)
+[28Nov2024 23:17:11.084] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/light_switch with rotation COUNTERCLOCKWISE_90 at (212 | 40 | 705)
+[28Nov2024 23:17:11.084] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/light_switch with rotation COUNTERCLOCKWISE_90 at (212 | 40 | 705)
+[28Nov2024 23:17:11.084] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (218 | 40 | 705)
+[28Nov2024 23:17:11.084] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (218 | 40 | 705)
+[28Nov2024 23:17:11.084] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_light with rotation COUNTERCLOCKWISE_90 at (213 | 40 | 702)
+[28Nov2024 23:17:11.085] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_light with rotation COUNTERCLOCKWISE_90 at (213 | 40 | 702)
+[28Nov2024 23:17:11.085] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (213 | 40 | 716)
+[28Nov2024 23:17:11.085] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (213 | 40 | 716)
+[28Nov2024 23:17:11.085] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (213 | 40 | 712)
+[28Nov2024 23:17:11.085] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (213 | 40 | 712)
+[28Nov2024 23:17:11.085] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_90 at (218 | 40 | 716)
+[28Nov2024 23:17:11.085] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_90 at (218 | 40 | 716)
+[28Nov2024 23:17:11.085] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (218 | 40 | 712)
+[28Nov2024 23:17:11.085] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (218 | 40 | 712)
+[28Nov2024 23:17:11.085] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (214 | 40 | 711)
+[28Nov2024 23:17:11.085] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (214 | 40 | 711)
+[28Nov2024 23:17:11.085] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (221 | 40 | 702)
+[28Nov2024 23:17:11.086] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (221 | 40 | 702)
+[28Nov2024 23:17:11.086] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (213 | 31 | 705)
+[28Nov2024 23:17:11.086] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (213 | 31 | 705)
+[28Nov2024 23:17:11.086] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (218 | 31 | 705)
+[28Nov2024 23:17:11.086] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (218 | 31 | 705)
+[28Nov2024 23:17:11.086] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (213 | 31 | 702)
+[28Nov2024 23:17:11.086] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (213 | 31 | 702)
+[28Nov2024 23:17:11.086] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (212 | 31 | 711)
+[28Nov2024 23:17:11.088] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (212 | 31 | 711)
+[28Nov2024 23:17:11.089] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner_room with rotation NONE at (223 | 31 | 717)
+[28Nov2024 23:17:11.089] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner_room with rotation NONE at (223 | 31 | 717)
+[28Nov2024 23:17:11.089] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_180 at (214 | 27 | 704)
+[28Nov2024 23:17:11.089] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_180 at (214 | 27 | 704)
+[28Nov2024 23:17:11.089] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (214 | 27 | 704)
+[28Nov2024 23:17:11.089] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (214 | 27 | 704)
+[28Nov2024 23:17:11.089] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_90 at (220 | 22 | 710)
+[28Nov2024 23:17:11.089] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_90 at (220 | 22 | 710)
+[28Nov2024 23:17:11.089] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/multipart/wall at (220 | 22 | 710)
+[28Nov2024 23:17:11.089] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/multipart/wall at (220 | 22 | 710)
+[28Nov2024 23:17:11.090] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (213 | 22 | 710)
+[28Nov2024 23:17:11.090] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (213 | 22 | 710)
+[28Nov2024 23:17:11.091] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/multipart/crypt_graves at (213 | 22 | 710)
+[28Nov2024 23:17:11.091] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/multipart/crypt_graves at (213 | 22 | 710)
+[28Nov2024 23:17:11.091] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (209 | 22 | 703)
+[28Nov2024 23:17:11.091] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (209 | 22 | 703)
+[28Nov2024 23:17:11.091] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/multipart/crypt_graves at (209 | 22 | 703)
+[28Nov2024 23:17:11.091] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/multipart/crypt_graves at (209 | 22 | 703)
+[28Nov2024 23:17:11.091] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (208 | 22 | 698)
+[28Nov2024 23:17:11.092] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (208 | 22 | 698)
+[28Nov2024 23:17:11.092] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/crypt_turn at (208 | 22 | 698)
+[28Nov2024 23:17:11.093] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/crypt_turn at (208 | 22 | 698)
+[28Nov2024 23:17:11.094] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [13,44]
+[28Nov2024 23:17:11.109] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [14,44]
+[28Nov2024 23:17:11.109] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation CLOCKWISE_180 at (239 | 49 | 702)
+[28Nov2024 23:17:11.109] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation CLOCKWISE_180 at (239 | 49 | 702)
+[28Nov2024 23:17:11.109] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (221 | 40 | 702)
+[28Nov2024 23:17:11.111] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (221 | 40 | 702)
+[28Nov2024 23:17:11.111] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_180 at (235 | 40 | 708)
+[28Nov2024 23:17:11.111] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_180 at (235 | 40 | 708)
+[28Nov2024 23:17:11.111] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest_room with rotation CLOCKWISE_180 at (230 | 40 | 708)
+[28Nov2024 23:17:11.112] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest_room with rotation CLOCKWISE_180 at (230 | 40 | 708)
+[28Nov2024 23:17:11.112] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (235 | 40 | 703)
+[28Nov2024 23:17:11.112] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (235 | 40 | 703)
+[28Nov2024 23:17:11.112] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation NONE at (231 | 40 | 703)
+[28Nov2024 23:17:11.112] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation NONE at (231 | 40 | 703)
+[28Nov2024 23:17:11.112] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (230 | 40 | 704)
+[28Nov2024 23:17:11.113] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (230 | 40 | 704)
+[28Nov2024 23:17:11.113] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation NONE at (228 | 40 | 718)
+[28Nov2024 23:17:11.113] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation NONE at (228 | 40 | 718)
+[28Nov2024 23:17:11.114] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (239 | 40 | 703)
+[28Nov2024 23:17:11.114] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (239 | 40 | 703)
+[28Nov2024 23:17:11.114] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner_room with rotation NONE at (223 | 31 | 717)
+[28Nov2024 23:17:11.115] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner_room with rotation NONE at (223 | 31 | 717)
+[28Nov2024 23:17:11.115] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_fork with rotation COUNTERCLOCKWISE_90 at (235 | 30 | 689)
+[28Nov2024 23:17:11.115] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_fork with rotation COUNTERCLOCKWISE_90 at (235 | 30 | 689)
+[28Nov2024 23:17:11.115] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (225 | 22 | 703)
+[28Nov2024 23:17:11.116] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (225 | 22 | 703)
+[28Nov2024 23:17:11.116] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/node/connector/connector_3 at (225 | 22 | 703)
+[28Nov2024 23:17:11.116] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/node/connector/connector_3 at (225 | 22 | 703)
+[28Nov2024 23:17:11.116] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (208 | 22 | 698)
+[28Nov2024 23:17:11.117] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (208 | 22 | 698)
+[28Nov2024 23:17:11.117] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/crypt_turn at (208 | 22 | 698)
+[28Nov2024 23:17:11.117] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/crypt_turn at (208 | 22 | 698)
+[28Nov2024 23:17:11.117] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (230 | 22 | 703)
+[28Nov2024 23:17:11.118] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (230 | 22 | 703)
+[28Nov2024 23:17:11.118] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/node/connector/connector_6 at (230 | 22 | 703)
+[28Nov2024 23:17:11.118] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:default/node/connector/connector_6 at (230 | 22 | 703)
+[28Nov2024 23:17:11.118] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (235 | 22 | 698)
+[28Nov2024 23:17:11.119] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (235 | 22 | 698)
+[28Nov2024 23:17:11.119] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/crypt_turn at (235 | 22 | 698)
+[28Nov2024 23:17:11.120] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@1922a86a for dungeoncrawl:catacombs/node/crypt_turn at (235 | 22 | 698)
+[28Nov2024 23:17:11.120] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (239 | 13 | 711)
+[28Nov2024 23:17:11.120] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (239 | 13 | 711)
+[28Nov2024 23:17:11.120] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [14,44]
+[28Nov2024 23:17:36.521] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [16,39]
+[28Nov2024 23:17:36.521] [Worker-Main-81/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [16,39]
+[28Nov2024 23:17:36.531] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [16,40]
+[28Nov2024 23:17:36.531] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (270 | 49 | 650)
+[28Nov2024 23:17:36.532] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (270 | 49 | 650)
+[28Nov2024 23:17:36.532] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (253 | 49 | 644)
+[28Nov2024 23:17:36.534] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (253 | 49 | 644)
+[28Nov2024 23:17:36.534] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [16,40]
+[28Nov2024 23:17:36.570] [Worker-Main-82/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [16,41]
+[28Nov2024 23:17:36.570] [Worker-Main-82/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (253 | 49 | 644)
+[28Nov2024 23:17:36.571] [Worker-Main-82/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (253 | 49 | 644)
+[28Nov2024 23:17:36.572] [Worker-Main-82/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation COUNTERCLOCKWISE_90 at (244 | 40 | 671)
+[28Nov2024 23:17:36.572] [Worker-Main-82/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation COUNTERCLOCKWISE_90 at (244 | 40 | 671)
+[28Nov2024 23:17:36.572] [Worker-Main-82/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [16,41]
+[28Nov2024 23:17:36.585] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [16,42]
+[28Nov2024 23:17:36.585] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (261 | 49 | 685)
+[28Nov2024 23:17:36.585] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (261 | 49 | 685)
+[28Nov2024 23:17:36.585] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation COUNTERCLOCKWISE_90 at (244 | 49 | 680)
+[28Nov2024 23:17:36.586] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation COUNTERCLOCKWISE_90 at (244 | 49 | 680)
+[28Nov2024 23:17:36.586] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (269 | 49 | 685)
+[28Nov2024 23:17:36.586] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (269 | 49 | 685)
+[28Nov2024 23:17:36.586] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (266 | 49 | 685)
+[28Nov2024 23:17:36.586] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (266 | 49 | 685)
+[28Nov2024 23:17:36.587] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation COUNTERCLOCKWISE_90 at (244 | 40 | 671)
+[28Nov2024 23:17:36.587] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation COUNTERCLOCKWISE_90 at (244 | 40 | 671)
+[28Nov2024 23:17:36.587] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [16,42]
+[28Nov2024 23:17:49.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Zombie
+[28Nov2024 23:17:51.852] [Server thread/INFO] [tac/]: PENDING
+[28Nov2024 23:17:51.856] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@5ab5a40a (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 23:17:51.856] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@15acafa5 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 23:17:51.856] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@e5c5fc4 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[28Nov2024 23:17:51.857] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3c347dce (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 23:17:51.857] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@40e51999 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[28Nov2024 23:17:51.858] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@696bc784 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 23:17:51.858] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4489c5ee (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 23:17:51.859] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@76f20927 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 23:18:00.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Adem
+[28Nov2024 23:18:02.107] [Server thread/INFO] [tac/]: PENDING
+[28Nov2024 23:18:02.112] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@5ab5a40a (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 23:18:02.112] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@15acafa5 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 23:18:02.112] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@e5c5fc4 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[28Nov2024 23:18:02.113] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3c347dce (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 23:18:02.113] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@40e51999 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[28Nov2024 23:18:02.114] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@696bc784 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 23:18:02.114] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4489c5ee (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 23:18:02.114] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@76f20927 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 23:18:05.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to 68.5, 70.5, 225.5]
