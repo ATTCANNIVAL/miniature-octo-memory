@@ -1,485 +1,639 @@
 {
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
-      "has_ingredients": "2024-11-24 00:18:16 +0000"
+      "has_ingredients": "2024-11-28 20:20:11 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
+  "craftingdead:recipes/craftingdead.combat/small_barrel": {
     "criteria": {
-      "has_upgrade_base": "2024-11-24 00:18:16 +0000"
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+  "minecraft:recipes/combat/iron_sword": {
     "criteria": {
-      "has_iron_leggings": "2024-11-24 00:23:52 +0000"
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/potions": {
+  "ava:recipes/survival/spring": {
     "criteria": {
-      "has_item": "2024-11-24 00:18:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_spruce_planks": "2024-11-24 01:16:29 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
-    "criteria": {
-      "has_smoking_upgrade": "2024-11-24 00:18:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lever": {
-    "criteria": {
-      "has_cobblestone": "2024-11-24 01:09:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2024-11-24 01:09:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2024-11-24 00:30:47 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/building_blocks/rose_gold_block": {
-    "criteria": {
-      "has_item": "2024-11-24 00:18:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_door": {
-    "criteria": {
-      "has_planks": "2024-11-24 01:16:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_leggings": "2024-11-24 00:23:52 +0000"
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
-      "has_item": "2024-11-24 00:18:16 +0000"
+      "has_item": "2024-11-28 20:20:11 +0000"
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
+  "ava:recipes/survival/lens": {
     "criteria": {
-      "get_stone": "2024-11-24 01:09:34 +0000"
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone": {
+  "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
-      "has_cobblestone": "2024-11-24 01:09:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2024-11-24 01:09:34 +0000"
-    },
-    "done": true
-  },
-  "moguns:weapons/root": {
-    "criteria": {
-      "tick": "2024-11-24 00:18:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-11-24 01:16:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:taiga": "2024-11-24 00:23:47 +0000",
-      "minecraft:beach": "2024-11-24 00:19:16 +0000",
-      "minecraft:dark_forest": "2024-11-24 00:18:16 +0000",
-      "minecraft:river": "2024-11-24 00:22:51 +0000"
-    },
-    "done": false
-  },
-  "minecraft:unlock_deep_pockets_book": {
-    "criteria": {
-      "exists": "2024-11-24 00:18:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_planks": "2024-11-24 01:16:29 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-11-24 00:18:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2024-11-24 01:09:34 +0000"
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
   "simple_hearts:simplehearts_adv": {
     "criteria": {
-      "simplehearts_adv": "2024-11-24 00:18:16 +0000"
+      "simplehearts_adv": "2024-11-28 20:20:11 +0000"
     },
     "done": true
   },
-  "lightmanscurrency:currency/netherite_wallet": {
+  "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
-      "netherite_wallet": "2024-11-24 00:18:16 +0000"
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_lots_of_items": "2024-11-24 00:19:35 +0000"
+      "has_lots_of_items": "2024-11-28 20:21:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/stone_sword": {
+  "craftingdead:recipes/craftingdead.combat/medium_bolt": {
     "criteria": {
-      "has_cobblestone": "2024-11-24 01:09:34 +0000"
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
   "mca:recipes/misc/books": {
     "criteria": {
-      "has_item": "2024-11-24 00:18:16 +0000"
+      "has_item": "2024-11-28 20:20:11 +0000"
     },
     "done": true
   },
   "mca:recipes/misc/rose_gold_ingot_smelting": {
     "criteria": {
-      "has_item": "2024-11-24 00:18:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2024-11-24 01:09:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2024-11-24 01:16:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2024-11-24 01:16:29 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
-    "criteria": {
-      "has_iron_ingot": "2024-11-24 01:48:56 +0000"
-    },
-    "done": true
-  },
-  "lightmanscurrency:currency/specialty_trader": {
-    "criteria": {
-      "specialty_trader": "2024-11-24 00:33:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2024-11-24 01:09:34 +0000"
+      "has_item": "2024-11-28 20:20:11 +0000"
     },
     "done": true
   },
   "mca:recipes/misc/rose_gold_ingot": {
     "criteria": {
-      "has_item": "2024-11-24 00:18:16 +0000"
+      "has_item": "2024-11-28 20:20:11 +0000"
     },
     "done": true
   },
   "moguns:crayfish/root": {
     "criteria": {
-      "tick": "2024-11-24 00:18:16 +0000"
+      "tick": "2024-11-28 20:20:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
+  "minecraft:recipes/tools/shears": {
     "criteria": {
-      "has_planks": "2024-11-24 01:16:29 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
-    "criteria": {
-      "has_auto_smelting_upgrade": "2024-11-24 00:18:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2024-11-24 00:29:12 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/staff_of_life": {
-    "criteria": {
-      "has_item": "2024-11-24 00:18:16 +0000"
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
   "enchantinginfuser:recipes/decorations/enchanting_infuser": {
     "criteria": {
-      "has_amethyst_shard": "2024-11-24 00:18:16 +0000",
-      "has_crying_obsidian": "2024-11-24 00:18:16 +0000"
+      "has_amethyst_shard": "2024-11-28 20:20:11 +0000",
+      "has_crying_obsidian": "2024-11-28 20:20:11 +0000",
+      "has_the_recipe": "2024-11-28 20:20:11 +0000"
     },
     "done": true
   },
-  "simple_hearts:cant_contain_me": {
+  "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "cant_contain_me": "2024-11-24 00:29:53 +0000"
+      "in_water": "2024-11-28 20:23:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+  "ava:recipes/survival/acetone_solution": {
     "criteria": {
-      "has_cobblestone": "2024-11-24 01:09:34 +0000"
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_shovel": {
+  "cgm:recipes/cgm/workbench": {
     "criteria": {
-      "has_cobblestone": "2024-11-24 01:09:34 +0000"
+      "has_iron": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/grindstone": {
+  "cgm:recipes/cgm/assault_rifle": {
     "criteria": {
-      "has_stone_slab": "2024-11-24 01:18:51 +0000"
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_hoe": {
+  "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
-      "has_cobblestone": "2024-11-24 01:09:34 +0000"
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_fence": {
+  "minecraft:recipes/tools/iron_axe": {
     "criteria": {
-      "has_planks": "2024-11-24 01:16:29 +0000"
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_slab": {
+  "minecraft:recipes/combat/shield": {
     "criteria": {
-      "has_planks": "2024-11-24 01:16:29 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
-    "criteria": {
-      "has_auto_smelting_upgrade": "2024-11-24 00:18:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:zombie": "2024-11-24 00:30:47 +0000"
-    },
-    "done": false
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2024-11-24 00:18:16 +0000"
-    },
-    "done": true
-  },
-  "lightmanscurrency:currency/trader": {
-    "criteria": {
-      "trader": "2024-11-24 00:33:21 +0000"
-    },
-    "done": true
-  },
-  "lightmanscurrency:currency/myfirstpenny": {
-    "criteria": {
-      "coin": "2024-11-24 00:26:18 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
-    "criteria": {
-      "has_blasting_upgrade": "2024-11-24 00:18:16 +0000"
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
-      "has_smelting_upgrade": "2024-11-24 00:18:16 +0000"
+      "has_smelting_upgrade": "2024-11-28 20:20:11 +0000"
     },
     "done": true
   },
   "mca:recipes/misc/comb": {
     "criteria": {
-      "has_item": "2024-11-24 00:18:16 +0000"
+      "has_item": "2024-11-28 20:20:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
+  "minecraft:recipes/misc/bucket": {
     "criteria": {
-      "has_cobblestone": "2024-11-24 01:09:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
-    "criteria": {
-      "has_planks": "2024-11-24 01:16:29 +0000"
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
   "mca:recipes/misc/rose_gold_ingot_blasting": {
     "criteria": {
-      "has_item": "2024-11-24 00:18:16 +0000"
+      "has_item": "2024-11-28 20:20:11 +0000"
     },
     "done": true
   },
-  "lightmanscurrency:currency/coin_mint": {
+  "minecraft:recipes/combat/iron_boots": {
     "criteria": {
-      "coin_mint": "2024-11-24 00:18:16 +0000"
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+  "cgm:recipes/cgm/bazooka": {
     "criteria": {
-      "has_iron_leggings": "2024-11-24 00:23:52 +0000"
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
   "parcool:grant_parcool_guide": {
     "criteria": {
-      "tick": "2024-11-24 00:18:16 +0000"
+      "tick": "2024-11-28 20:20:11 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/family_tree": {
+  "ava:recipes/survival/mechanical_components": {
     "criteria": {
-      "has_item": "2024-11-24 00:18:16 +0000"
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
+  "minecraft:recipes/redstone/hopper": {
     "criteria": {
-      "has_planks": "2024-11-24 01:16:29 +0000"
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
-  "bloxys_structures:the_adventure_realm": {
+  "ava:recipes/survival/ceramic": {
     "criteria": {
-      "the_adventure_realm": "2024-11-24 00:18:15 +0000"
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
-  "mca:root": {
+  "cgm:recipes/cgm/shotgun": {
     "criteria": {
-      "village_taiga": "2024-11-24 00:18:16 +0000",
-      "village_savanna": "2024-11-24 00:18:16 +0000",
-      "village_snowy": "2024-11-24 00:18:16 +0000",
-      "village_desert": "2024-11-24 00:18:16 +0000",
-      "village_plains": "2024-11-24 00:18:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2024-11-24 01:09:34 +0000"
-    },
-    "done": true
-  },
-  "lightmanscurrency:currency/wallet_crafting": {
-    "criteria": {
-      "wallet": "2024-11-24 00:25:08 +0000"
-    },
-    "done": true
-  },
-  "lightmanscurrency:currency/cash_register": {
-    "criteria": {
-      "cash_register": "2024-11-24 00:18:16 +0000"
-    },
-    "done": true
-  },
-  "simple_hearts:firstdabble": {
-    "criteria": {
-      "firstdabble": "2024-11-24 00:29:53 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/blueprint": {
-    "criteria": {
-      "has_item": "2024-11-24 00:18:16 +0000"
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
   "lightmanscurrency:currency/trading_core": {
     "criteria": {
-      "trading_core": "2024-11-24 00:18:16 +0000"
+      "trading_core": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/work_hardened_iron": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
   "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
     "criteria": {
-      "has_netherite_ingot": "2024-11-24 00:18:16 +0000",
-      "has_crying_obsidian": "2024-11-24 00:18:16 +0000",
-      "has_the_recipe": "2024-11-24 00:18:16 +0000"
+      "has_netherite_ingot": "2024-11-28 20:20:11 +0000",
+      "has_crying_obsidian": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
   "mca:recipes/misc/whistle": {
     "criteria": {
-      "has_item": "2024-11-24 00:18:16 +0000"
+      "has_item": "2024-11-28 20:20:11 +0000"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
-      "has_upgrade_base": "2024-11-24 00:18:16 +0000"
+      "has_upgrade_base": "2024-11-28 20:20:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_axe": {
+  "cgm:recipes/cgm/machine_pistol": {
     "criteria": {
-      "has_cobblestone": "2024-11-24 01:09:34 +0000"
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
+  "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
-      "has_planks": "2024-11-24 01:16:29 +0000"
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
     "criteria": {
-      "tamed_animal": "2024-11-24 01:49:55 +0000"
+      "has_upgrade_base": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/combat/chainmailboots": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/iron_to_gold_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/compressed_wood": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/rose_gold_block": {
+    "criteria": {
+      "has_item": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/main/mastery_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "moguns:weapons/root": {
+    "criteria": {
+      "tick": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/smoke_powder": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-11-28 20:20:11 +0000",
+      "minecraft:taiga": "2024-11-28 20:20:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_iron_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/combat/chainmailchestplate": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:unlock_deep_pockets_book": {
+    "criteria": {
+      "exists": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:currency/netherite_wallet": {
+    "criteria": {
+      "netherite_wallet": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 20:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 20:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/combat/chainmailleggings": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/grenade_launcher": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/fuse": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-11-28 20:24:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 20:23:53 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/main/builders_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/pistol": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "craftingdead:recipes/craftingdead.combat/small_stock": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/wood_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 20:23:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/heavy_rifle": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/main/gun_colouring_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/main/gun_crafting_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:currency/coin_mint": {
+    "criteria": {
+      "coin_mint": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "bloxys_structures:the_adventure_realm": {
+    "criteria": {
+      "the_adventure_realm": "2024-11-28 20:20:10 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2024-11-28 20:20:11 +0000",
+      "village_savanna": "2024-11-28 20:20:11 +0000",
+      "village_snowy": "2024-11-28 20:20:11 +0000",
+      "village_desert": "2024-11-28 20:20:11 +0000",
+      "village_plains": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/fibre": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:currency/cash_register": {
+    "criteria": {
+      "cash_register": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/main/gun_modifying_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 20:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/silicon": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/combat/chainmailhelmet": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/rifle": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/mini_gun": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },

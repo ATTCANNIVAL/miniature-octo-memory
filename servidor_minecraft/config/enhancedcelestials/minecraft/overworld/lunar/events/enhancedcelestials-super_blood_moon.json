@@ -33,7 +33,8 @@
       "ambient": [],
       "water_creature": [],
       "water_ambient": [],
-      "misc": []
+      "misc": [],
+      "blockling": []
     },
     "spawn_costs": {},
     "player_spawn_friendly": false
