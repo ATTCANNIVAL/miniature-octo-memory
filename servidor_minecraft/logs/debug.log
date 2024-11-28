@@ -16746,3 +16746,68 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Nov2024 20:56:18.651] [Worker-Main-18/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to md8642f2$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
 [28Nov2024 20:56:18.651] [Worker-Main-18/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to md8642f2$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin
 [28Nov2024 20:56:50.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[28Nov2024 20:59:22.746] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Nov2024 20:59:22.772] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Nov2024 20:59:53.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[28Nov2024 21:00:01.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[28Nov2024 21:00:51.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 6000]
+[28Nov2024 21:02:02.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[28Nov2024 21:02:06.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Juggernaut Zombie
+[28Nov2024 21:02:07.715] [Server thread/INFO] [tac/]: PENDING
+[28Nov2024 21:02:07.717] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@40c62a08 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 21:02:07.718] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@541b0582 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 21:02:07.718] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@14922a4d (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[28Nov2024 21:02:07.719] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@2696a53d (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 21:02:07.720] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@7776d8d9 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[28Nov2024 21:02:07.721] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@73cb8afa (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 21:02:07.722] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@2f638996 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 21:02:07.722] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4b30a771 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 21:02:12.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to 424.5, 72.5, 395.5]
+[28Nov2024 21:02:23.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[28Nov2024 21:02:46.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[28Nov2024 21:02:52.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Zombie Brute
+[28Nov2024 21:02:54.485] [Server thread/INFO] [tac/]: PENDING
+[28Nov2024 21:02:54.490] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@40c62a08 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 21:02:54.490] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@541b0582 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 21:02:54.491] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@14922a4d (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[28Nov2024 21:02:54.491] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@2696a53d (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 21:02:54.493] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@7776d8d9 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[28Nov2024 21:02:54.494] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@73cb8afa (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 21:02:54.494] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@2f638996 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 21:02:54.494] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4b30a771 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 21:02:58.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[28Nov2024 21:03:01.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to 421.5, 72.5, 398.5]
+[28Nov2024 21:03:25.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set spawn point to 418, 72, 397 [0.0] in minecraft:overworld for ATT_CANNIVAL]
+[28Nov2024 21:04:22.101] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Nov2024 21:04:22.121] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Nov2024 21:06:56.106] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL lost connection: Disconnected
+[28Nov2024 21:06:56.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL left the game
+[28Nov2024 21:06:56.108] [Server thread/DEBUG] [Guns-RPG/Quests]: Handling player fc7b24d9-b9a0-37fe-a22c-1653103fa143 disconnect
+[28Nov2024 21:06:56.109] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc7b24d9-b9a0-37fe-a22c-1653103fa143 was unloaded
+[28Nov2024 21:07:10.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[28Nov2024 21:07:10.594] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[28Nov2024 21:07:10.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Nov2024 21:07:10.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Nov2024 21:07:10.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Nov2024 21:07:10.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Nov2024 21:07:10.667] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Nov2024 21:07:10.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Nov2024 21:07:10.668] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Nov2024 21:07:10.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Nov2024 21:07:10.669] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Nov2024 21:07:10.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloxys_structures:shadow_dimension
+[28Nov2024 21:07:10.671] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (shadow_dimension): All chunks are saved
+[28Nov2024 21:07:10.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloxys_structures:adventure_realm
+[28Nov2024 21:07:10.672] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (adventure_realm): All chunks are saved
+[28Nov2024 21:07:10.673] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Nov2024 21:07:10.690] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Nov2024 21:07:10.734] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Nov2024 21:07:10.750] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Nov2024 21:07:10.750] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Nov2024 21:07:10.750] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (shadow_dimension): All chunks are saved
+[28Nov2024 21:07:10.751] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (adventure_realm): All chunks are saved
+[28Nov2024 21:07:10.753] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[28Nov2024 21:07:10.753] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[28Nov2024 21:07:10.753] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[28Nov2024 21:07:10.754] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file upgradednetherite_items-server.toml changed, sending notifies
+[28Nov2024 21:07:10.758] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file /workspaces/miniature-octo-memory/servidor_minecraft/config/waystones-server.toml changed, sending notifies
