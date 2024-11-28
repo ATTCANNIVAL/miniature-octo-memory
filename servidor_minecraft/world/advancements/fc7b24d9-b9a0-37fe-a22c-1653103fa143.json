@@ -310,7 +310,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-11-28 21:24:20 +0000"
+      "minecraft:skeleton": "2024-11-28 21:24:20 +0000",
+      "minecraft:zombie": "2024-11-28 22:39:44 +0000"
     },
     "done": false
   },
@@ -346,6 +347,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2024-11-28 22:35:55 +0000",
       "enchanted_golden_apple": "2024-11-28 22:21:26 +0000"
     },
     "done": false
@@ -483,6 +485,12 @@
   "lightmanscurrency:currency/cash_register": {
     "criteria": {
       "cash_register": "2024-11-28 21:21:08 +0000"
+    },
+    "done": true
+  },
+  "craftingdead:recipes/craftingdead.medical/first_aid_kit": {
+    "criteria": {
+      "has_apple": "2024-11-28 22:35:53 +0000"
     },
     "done": true
   },
