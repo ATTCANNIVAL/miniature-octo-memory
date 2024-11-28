@@ -25,17 +25,17 @@
 #Chance of a rarity being chosen out of the others.
 ["Rarity Weights"]
 	#Range: > 0
-	0_common = 11
+	0_common = 50
 	#Range: > 0
-	1_uncommon = 10
+	1_uncommon = 20
 	#Range: > 0
-	2_rare = 9
+	2_rare = 15
 	#Range: > 0
 	3_epic = 8
 	#Range: > 0
-	4_legendary = 7
+	4_legendary = 4
 	#Range: > 0
-	5_mythic = 6
+	5_mythic = 3
 
 #Registry names of items that the modifier should also be applied to.
 ["Item Additions"]
@@ -117,5 +117,5 @@
 	#Range: > 0
 	guarding = 5
 	#Range: > 0
-	regeneration = 5
+	regeneration = 0
 

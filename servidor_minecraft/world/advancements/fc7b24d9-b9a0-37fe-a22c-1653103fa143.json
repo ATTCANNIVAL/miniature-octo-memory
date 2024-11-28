@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2024-11-28 21:25:15 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2024-11-28 21:21:08 +0000"
@@ -29,33 +35,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
-    "criteria": {
-      "has_auto_smelting_upgrade": "2024-11-28 21:21:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2024-11-28 21:24:20 +0000"
-    },
-    "done": false
-  },
   "mca:recipes/building_blocks/rose_gold_block": {
     "criteria": {
       "has_item": "2024-11-28 21:21:08 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2024-11-28 21:21:08 +0000"
-    },
-    "done": true
-  },
-  "lightmanscurrency:currency/myfirstpenny": {
-    "criteria": {
-      "coin": "2024-11-28 21:24:32 +0000"
     },
     "done": true
   },
@@ -65,51 +47,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
-    "criteria": {
-      "has_blasting_upgrade": "2024-11-28 21:21:08 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-11-28 21:21:08 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/comb": {
-    "criteria": {
-      "has_item": "2024-11-28 21:21:08 +0000"
-    },
-    "done": true
-  },
   "moguns:weapons/root": {
     "criteria": {
       "tick": "2024-11-28 21:21:08 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/rose_gold_ingot_blasting": {
-    "criteria": {
-      "has_item": "2024-11-28 21:21:08 +0000"
-    },
-    "done": true
-  },
-  "lightmanscurrency:currency/coin_mint": {
-    "criteria": {
-      "coin_mint": "2024-11-28 21:21:08 +0000"
-    },
-    "done": true
-  },
-  "parcool:grant_parcool_guide": {
-    "criteria": {
-      "tick": "2024-11-28 21:21:08 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/family_tree": {
-    "criteria": {
-      "has_item": "2024-11-28 21:21:08 +0000"
     },
     "done": true
   },
@@ -127,22 +67,6 @@
     },
     "done": false
   },
-  "mca:root": {
-    "criteria": {
-      "village_taiga": "2024-11-28 21:21:08 +0000",
-      "village_savanna": "2024-11-28 21:21:08 +0000",
-      "village_snowy": "2024-11-28 21:21:08 +0000",
-      "village_desert": "2024-11-28 21:21:08 +0000",
-      "village_plains": "2024-11-28 21:21:08 +0000"
-    },
-    "done": true
-  },
-  "bloxys_structures:the_adventure_realm": {
-    "criteria": {
-      "the_adventure_realm": "2024-11-28 21:21:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:unlock_deep_pockets_book": {
     "criteria": {
       "exists": "2024-11-28 21:21:08 +0000"
@@ -152,6 +76,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2024-11-28 21:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-28 22:21:26 +0000"
     },
     "done": true
   },
@@ -167,9 +97,9 @@
     },
     "done": true
   },
-  "lightmanscurrency:currency/cash_register": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "cash_register": "2024-11-28 21:21:08 +0000"
+      "has_lots_of_items": "2024-11-28 21:26:29 +0000"
     },
     "done": true
   },
@@ -185,41 +115,9 @@
     },
     "done": true
   },
-  "mca:recipes/misc/blueprint": {
-    "criteria": {
-      "has_item": "2024-11-28 21:21:08 +0000"
-    },
-    "done": true
-  },
-  "lightmanscurrency:currency/trading_core": {
-    "criteria": {
-      "trading_core": "2024-11-28 21:21:08 +0000"
-    },
-    "done": true
-  },
-  "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
-    "criteria": {
-      "has_netherite_ingot": "2024-11-28 21:21:08 +0000",
-      "has_crying_obsidian": "2024-11-28 21:21:08 +0000",
-      "has_the_recipe": "2024-11-28 21:21:08 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/whistle": {
-    "criteria": {
-      "has_item": "2024-11-28 21:21:08 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/misc/rose_gold_ingot": {
     "criteria": {
       "has_item": "2024-11-28 21:21:08 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-11-28 21:21:08 +0000"
     },
     "done": true
   },
@@ -257,6 +155,156 @@
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2024-11-28 21:23:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2024-11-28 21:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-11-28 21:24:20 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-11-28 21:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2024-11-28 22:21:26 +0000"
+    },
+    "done": false
+  },
+  "lightmanscurrency:currency/myfirstpenny": {
+    "criteria": {
+      "coin": "2024-11-28 21:24:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-11-28 22:21:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2024-11-28 21:21:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-11-28 21:21:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2024-11-28 21:21:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot_blasting": {
+    "criteria": {
+      "has_item": "2024-11-28 21:21:08 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:currency/coin_mint": {
+    "criteria": {
+      "coin_mint": "2024-11-28 21:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2024-11-28 21:25:15 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2024-11-28 21:21:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2024-11-28 21:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-11-28 21:26:29 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2024-11-28 21:21:08 +0000",
+      "village_savanna": "2024-11-28 21:21:08 +0000",
+      "village_snowy": "2024-11-28 21:21:08 +0000",
+      "village_desert": "2024-11-28 21:21:08 +0000",
+      "village_plains": "2024-11-28 21:21:08 +0000"
+    },
+    "done": true
+  },
+  "bloxys_structures:the_adventure_realm": {
+    "criteria": {
+      "the_adventure_realm": "2024-11-28 21:21:08 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:currency/cash_register": {
+    "criteria": {
+      "cash_register": "2024-11-28 21:21:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2024-11-28 21:21:08 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:currency/trading_core": {
+    "criteria": {
+      "trading_core": "2024-11-28 21:21:08 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-28 21:21:08 +0000",
+      "has_crying_obsidian": "2024-11-28 21:21:08 +0000",
+      "has_the_recipe": "2024-11-28 21:21:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2024-11-28 21:21:08 +0000"
+    },
+    "done": true
+  },
+  "mca:adventure/kill_grim_reaper": {
+    "criteria": {
+      "killed_reaper": "2024-11-28 21:27:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-11-28 21:21:08 +0000"
     },
     "done": true
   },

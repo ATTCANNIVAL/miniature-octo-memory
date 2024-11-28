@@ -18,5 +18,6 @@
   "minecraft:furnace_minecart",
   "minecraft:hopper_minecart",
   "minecraft:spawner_minecart",
-  "minecraft:tnt_minecart"
+  "minecraft:tnt_minecart",
+  "corpse:corpse"
 ]
