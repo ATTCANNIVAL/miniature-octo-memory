@@ -169,3 +169,13 @@
 2024-11-28 20:39:11,671 [Server thread] INFO Treasure2 | WorldEventHandler.java:66 | In world load event for dimension bloxys_structures:shadow_dimension
 2024-11-28 20:39:11,683 [Server thread] INFO Treasure2 | WorldEventHandler.java:58 | In world load event
 2024-11-28 20:39:11,683 [Server thread] INFO Treasure2 | WorldEventHandler.java:66 | In world load event for dimension bloxys_structures:adventure_realm
+2024-11-28 20:55:19,916 [Worker-Main-18] INFO Treasure2 | AbstractChestBlock.java:159 | AbstractChestBlock | createNewTileEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=EAST, xOffset=0.72, yOffset=0.18, zOffset=0.5, rotation=90.0], lockItem=null]]
+2024-11-28 20:55:19,916 [Worker-Main-18] INFO Treasure2 | AbstractChestBlock.java:164 | AbstractChestBlock | createNewTileEntity | tileEntity -> mod.gottsch.forge.treasure2.core.tileentity.SkullChestTileEntity@3cd822ca @ BlockPos{x=0, y=0, z=0}
+2024-11-28 20:55:19,926 [Worker-Main-18] INFO Treasure2 | SurfaceChestFeature.java:269 | CHEATER! SCARCE chest at coords: -9 64 583
+2024-11-28 20:55:38,870 [Worker-Main-17] INFO Treasure2 | WellGenerator.java:150 | CHEATER! Wishing Well at coords: 453 75 647
+2024-11-28 20:55:40,761 [Worker-Main-18] INFO Treasure2 | AbstractChestBlock.java:159 | AbstractChestBlock | createNewTileEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=EAST, xOffset=0.72, yOffset=0.18, zOffset=0.5, rotation=90.0], lockItem=null]]
+2024-11-28 20:55:40,762 [Worker-Main-18] INFO Treasure2 | AbstractChestBlock.java:164 | AbstractChestBlock | createNewTileEntity | tileEntity -> mod.gottsch.forge.treasure2.core.tileentity.SkullChestTileEntity@3059e18e @ BlockPos{x=0, y=0, z=0}
+2024-11-28 20:55:40,766 [Worker-Main-18] INFO Treasure2 | SurfaceChestFeature.java:269 | CHEATER! SCARCE chest at coords: 455 67 695
+2024-11-28 20:56:03,219 [Worker-Main-17] INFO Treasure2 | AbstractChestBlock.java:159 | AbstractChestBlock | createNewTileEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.3, zOffset=0.05, rotation=0.0], lockItem=null], LockState [slot=LockSlot [index=1, face=EAST, xOffset=0.95, yOffset=0.3, zOffset=0.5, rotation=90.0], lockItem=null], LockState [slot=LockSlot [index=2, face=WEST, xOffset=0.05, yOffset=0.3, zOffset=0.5, rotation=-90.0], lockItem=null]]
+2024-11-28 20:56:03,219 [Worker-Main-17] INFO Treasure2 | AbstractChestBlock.java:164 | AbstractChestBlock | createNewTileEntity | tileEntity -> mod.gottsch.forge.treasure2.core.tileentity.WoodChestTileEntity@7dc4e4d5 @ BlockPos{x=0, y=0, z=0}
+2024-11-28 20:56:03,222 [Worker-Main-17] INFO Treasure2 | SurfaceChestFeature.java:269 | CHEATER! COMMON chest at coords: 535 64 279

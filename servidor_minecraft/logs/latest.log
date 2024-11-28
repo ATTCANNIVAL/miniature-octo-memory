@@ -8669,3 +8669,234 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Nov2024 20:45:45.609] [Server thread/INFO] [com.willr27.blocklings.Blocklings/]: Creating trees list.
 [28Nov2024 20:47:28.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 1000]
 [28Nov2024 20:47:48.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[28Nov2024 20:48:31.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[28Nov2024 20:49:03.609] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATV (vehicle of ATT_CANNIVAL) moved wrongly! 0.37877917289733887
+[28Nov2024 20:49:03.706] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATV (vehicle of ATT_CANNIVAL) moved wrongly! 0.7213427722454071
+[28Nov2024 20:49:17.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 13000]
+[28Nov2024 20:50:07.820] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:50:07.820] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:50:07.821] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[28Nov2024 20:50:07.821] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:50:07.822] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:50:07.822] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:50:07.822] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:50:07.823] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:50:07.823] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:50:07.831] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:50:07.832] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:50:07.832] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[28Nov2024 20:50:07.833] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:50:07.833] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:50:07.835] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:50:07.836] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:50:07.836] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:50:07.837] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:50:07.838] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:50:07.839] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:50:07.839] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:50:07.839] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:50:07.881] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:50:07.882] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:50:07.882] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[28Nov2024 20:50:07.882] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:50:07.883] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:50:07.883] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:50:07.884] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:50:07.884] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:50:07.884] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:50:07.892] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:50:07.892] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:50:07.893] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[28Nov2024 20:50:07.893] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:50:07.893] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:50:07.896] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:50:07.896] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:50:07.896] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:50:07.897] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:50:07.897] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:50:07.898] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:50:07.898] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:50:07.898] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:50:08.259] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATV (vehicle of ATT_CANNIVAL) moved wrongly! 0.6067871253471822
+[28Nov2024 20:50:08.260] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATV (vehicle of ATT_CANNIVAL) moved wrongly! 0.41920764255337417
+[28Nov2024 20:50:08.309] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATV (vehicle of ATT_CANNIVAL) moved wrongly! 0.27650969731621444
+[28Nov2024 20:50:14.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 1000]
+[28Nov2024 20:50:41.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[28Nov2024 20:50:53.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Infection Military
+[28Nov2024 20:50:55.319] [Server thread/INFO] [tac/]: PENDING
+[28Nov2024 20:50:55.326] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@40c62a08 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 20:50:55.327] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@541b0582 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 20:50:55.328] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@14922a4d (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[28Nov2024 20:50:55.328] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@2696a53d (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 20:50:55.331] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@7776d8d9 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[28Nov2024 20:50:55.332] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@73cb8afa (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 20:50:55.333] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@2f638996 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 20:50:55.335] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4b30a771 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 20:51:04.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Infection Military
+[28Nov2024 20:51:05.786] [Server thread/INFO] [tac/]: PENDING
+[28Nov2024 20:51:05.793] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@40c62a08 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 20:51:05.794] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@541b0582 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 20:51:05.795] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@14922a4d (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[28Nov2024 20:51:05.795] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@2696a53d (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 20:51:05.797] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@7776d8d9 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[28Nov2024 20:51:05.798] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@73cb8afa (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 20:51:05.799] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@2f638996 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 20:51:05.799] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4b30a771 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 20:51:33.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Infection Military
+[28Nov2024 20:51:34.872] [Server thread/INFO] [tac/]: PENDING
+[28Nov2024 20:51:34.877] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@40c62a08 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 20:51:34.878] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@541b0582 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 20:51:34.878] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@14922a4d (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[28Nov2024 20:51:34.878] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@2696a53d (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 20:51:34.879] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@7776d8d9 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[28Nov2024 20:51:34.880] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@73cb8afa (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 20:51:34.880] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@2f638996 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 20:51:34.880] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4b30a771 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 20:51:43.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Infection Military
+[28Nov2024 20:51:44.722] [Server thread/INFO] [tac/]: PENDING
+[28Nov2024 20:51:44.728] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@40c62a08 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 20:51:44.728] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@541b0582 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 20:51:44.728] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@14922a4d (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[28Nov2024 20:51:44.728] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@2696a53d (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 20:51:44.730] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@7776d8d9 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[28Nov2024 20:51:44.731] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@73cb8afa (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 20:51:44.731] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@2f638996 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 20:51:44.731] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4b30a771 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 20:51:52.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Infection Military
+[28Nov2024 20:51:53.576] [Server thread/INFO] [tac/]: PENDING
+[28Nov2024 20:51:53.580] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@40c62a08 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 20:51:53.583] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@541b0582 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 20:51:53.584] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@14922a4d (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[28Nov2024 20:51:53.584] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@2696a53d (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 20:51:53.585] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@7776d8d9 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[28Nov2024 20:51:53.586] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@73cb8afa (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 20:51:53.587] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@2f638996 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 20:51:53.587] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4b30a771 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 20:52:15.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Infection Military
+[28Nov2024 20:52:16.708] [Server thread/INFO] [tac/]: PENDING
+[28Nov2024 20:52:16.713] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@40c62a08 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 20:52:16.714] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@541b0582 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 20:52:16.714] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@14922a4d (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[28Nov2024 20:52:16.714] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@2696a53d (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 20:52:16.715] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@7776d8d9 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[28Nov2024 20:52:16.715] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@73cb8afa (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 20:52:16.716] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@2f638996 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 20:52:16.716] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4b30a771 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 20:52:24.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Infection Military
+[28Nov2024 20:52:25.543] [Server thread/INFO] [tac/]: PENDING
+[28Nov2024 20:52:25.548] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@40c62a08 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 20:52:25.548] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@541b0582 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 20:52:25.549] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@14922a4d (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[28Nov2024 20:52:25.549] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@2696a53d (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[28Nov2024 20:52:25.550] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@7776d8d9 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[28Nov2024 20:52:25.551] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@73cb8afa (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 20:52:25.551] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@2f638996 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 20:52:25.551] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4b30a771 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[28Nov2024 20:52:29.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[28Nov2024 20:53:04.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[28Nov2024 20:53:22.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[28Nov2024 20:53:42.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[28Nov2024 20:54:26.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[28Nov2024 20:54:32.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[28Nov2024 20:55:41.990] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATV (vehicle of ATT_CANNIVAL) moved wrongly! 0.5036823749542236
+[28Nov2024 20:55:47.380] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:55:47.380] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:55:47.380] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:55:47.381] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:55:47.381] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:55:47.381] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:55:47.381] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:55:47.381] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:55:47.382] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:55:47.382] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:55:47.382] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:55:47.382] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:55:48.879] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:55:48.880] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:55:48.880] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:55:48.880] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:55:48.881] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:55:48.881] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:55:48.881] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:55:48.881] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:55:48.882] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:55:48.882] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:55:48.882] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:55:48.882] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:55:49.288] [Worker-Main-29/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:55:49.289] [Worker-Main-29/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:55:49.289] [Worker-Main-29/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:55:49.289] [Worker-Main-29/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:55:49.290] [Worker-Main-29/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:55:49.290] [Worker-Main-29/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:55:49.291] [Worker-Main-29/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:55:49.291] [Worker-Main-29/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:55:49.291] [Worker-Main-29/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:55:49.292] [Worker-Main-29/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:55:49.292] [Worker-Main-29/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:55:49.292] [Worker-Main-29/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:55:54.515] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:55:54.515] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:55:54.515] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:55:54.515] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:55:54.516] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:55:54.516] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:55:54.516] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:55:54.516] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:55:54.517] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:55:54.517] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:55:54.517] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:55:54.517] [Worker-Main-22/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:56:02.552] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:56:02.552] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:56:02.552] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[28Nov2024 20:56:02.552] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:56:02.552] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:56:02.553] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:56:02.553] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:56:02.553] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:56:02.553] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:56:02.559] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:56:02.560] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:56:02.560] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[28Nov2024 20:56:02.560] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:56:02.560] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:56:02.562] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:56:02.562] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:56:02.562] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:56:02.562] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:56:02.562] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:56:02.563] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:56:02.563] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:56:02.563] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:56:02.593] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:56:02.593] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:56:02.593] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[28Nov2024 20:56:02.593] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:56:02.593] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:56:02.594] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:56:02.594] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:56:02.594] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:56:02.595] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:56:02.601] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:56:02.601] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:56:02.602] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[28Nov2024 20:56:02.602] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:56:02.603] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:56:02.604] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:56:02.605] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:56:02.605] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:56:02.605] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:56:02.606] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[28Nov2024 20:56:02.607] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[28Nov2024 20:56:02.607] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[28Nov2024 20:56:02.608] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[28Nov2024 20:56:06.265] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATV (vehicle of ATT_CANNIVAL) moved wrongly! 0.27451540529727936
+[28Nov2024 20:56:06.355] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATV (vehicle of ATT_CANNIVAL) moved wrongly! 0.828075960278511
+[28Nov2024 20:56:06.373] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATV (vehicle of ATT_CANNIVAL) moved wrongly! 1.3699706941843033
+[28Nov2024 20:56:06.455] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATV (vehicle of ATT_CANNIVAL) moved wrongly! 1.8990040570497513
+[28Nov2024 20:56:06.608] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATV (vehicle of ATT_CANNIVAL) moved wrongly! 0.5144294500350952
+[28Nov2024 20:56:06.656] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATV (vehicle of ATT_CANNIVAL) moved wrongly! 1.0078612267971039
+[28Nov2024 20:56:06.706] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATV (vehicle of ATT_CANNIVAL) moved wrongly! 1.4761760234832764
+[28Nov2024 20:56:06.873] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATV (vehicle of ATT_CANNIVAL) moved wrongly! 0.451619029045105
+[28Nov2024 20:56:50.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]

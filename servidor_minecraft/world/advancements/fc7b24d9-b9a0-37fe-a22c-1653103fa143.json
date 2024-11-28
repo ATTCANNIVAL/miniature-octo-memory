@@ -17,15 +17,15 @@
     },
     "done": true
   },
-  "ava:recipes/survival/spring": {
-    "criteria": {
-      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/spring": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
@@ -38,6 +38,18 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_grill": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-11-28 20:50:48 +0000"
     },
     "done": true
   },
@@ -71,6 +83,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/fridge_dark": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:44:22 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2024-11-28 20:20:11 +0000"
@@ -101,6 +119,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/trampoline": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:44:22 +0000"
+    },
+    "done": true
+  },
   "enchantinginfuser:recipes/decorations/enchanting_infuser": {
     "criteria": {
       "has_amethyst_shard": "2024-11-28 20:20:11 +0000",
@@ -112,6 +136,24 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-11-28 20:23:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/brown_grill": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/green_grill": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spatula": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:44:22 +0000"
     },
     "done": true
   },
@@ -163,15 +205,21 @@
     },
     "done": true
   },
+  "mca:recipes/misc/rose_gold_ingot_blasting": {
+    "criteria": {
+      "has_item": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/rose_gold_ingot_blasting": {
+  "parcool:grant_parcool_guide": {
     "criteria": {
-      "has_item": "2024-11-28 20:20:11 +0000"
+      "tick": "2024-11-28 20:20:11 +0000"
     },
     "done": true
   },
@@ -184,12 +232,6 @@
   "cgm:recipes/cgm/bazooka": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 20:25:03 +0000"
-    },
-    "done": true
-  },
-  "parcool:grant_parcool_guide": {
-    "criteria": {
-      "tick": "2024-11-28 20:20:11 +0000"
     },
     "done": true
   },
@@ -214,6 +256,12 @@
   "cgm:recipes/cgm/shotgun": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/orange_grill": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:44:22 +0000"
     },
     "done": true
   },
@@ -266,9 +314,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/blue_grill": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:44:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/yellow_grill": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:44:22 +0000"
     },
     "done": true
   },
@@ -305,6 +365,12 @@
   "ava:recipes/survival/compressed_wood": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/purple_grill": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:44:22 +0000"
     },
     "done": true
   },
@@ -347,7 +413,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2024-11-28 20:20:11 +0000",
-      "minecraft:taiga": "2024-11-28 20:20:53 +0000"
+      "minecraft:taiga": "2024-11-28 20:20:53 +0000",
+      "minecraft:river": "2024-11-28 20:49:56 +0000",
+      "minecraft:plains": "2024-11-28 20:50:03 +0000"
     },
     "done": false
   },
@@ -387,6 +455,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/red_grill": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:44:22 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:currency/netherite_wallet": {
     "criteria": {
       "netherite_wallet": "2024-11-28 20:20:11 +0000"
@@ -399,15 +473,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_shovel": {
-    "criteria": {
-      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-11-28 20:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 20:25:03 +0000"
     },
     "done": true
   },
@@ -438,6 +512,18 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_grill": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/lime_grill": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:44:22 +0000"
     },
     "done": true
   },
@@ -495,9 +581,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/black_grill": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:44:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-11-28 20:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-11-28 20:50:48 +0000"
     },
     "done": true
   },
@@ -510,6 +608,12 @@
   "cgm:recipes/cgm/heavy_rifle": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/cyan_grill": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:44:22 +0000"
     },
     "done": true
   },
@@ -543,9 +647,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/light_blue_grill": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:44:22 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:currency/coin_mint": {
     "criteria": {
       "coin_mint": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/post_box": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:44:22 +0000"
     },
     "done": true
   },
@@ -571,9 +687,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/white_grill": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:44:22 +0000"
+    },
+    "done": true
+  },
   "ava:recipes/survival/fibre": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_grill": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:44:22 +0000"
     },
     "done": true
   },
@@ -598,6 +726,12 @@
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2024-11-28 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/magenta_grill": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:44:22 +0000"
     },
     "done": true
   },
@@ -634,6 +768,12 @@
   "cgm:recipes/cgm/mini_gun": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/fridge_light": {
+    "criteria": {
+      "has_iron": "2024-11-28 20:44:22 +0000"
     },
     "done": true
   },
