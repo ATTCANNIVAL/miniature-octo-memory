@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2024-11-29 01:37:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stone_coffee_table": {
     "criteria": {
       "has_planks": "2024-11-29 00:32:00 +0000"
@@ -216,6 +222,12 @@
       "enchanted_golden_apple": "2024-11-28 22:21:26 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-11-29 01:38:12 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/cfm/oak_blinds": {
     "criteria": {
@@ -593,8 +605,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-11-29 01:38:04 +0000",
+      "minecraft:pillager": "2024-11-29 23:41:38 +0000",
       "minecraft:skeleton": "2024-11-28 21:24:20 +0000",
       "minecraft:spider": "2024-11-28 23:17:13 +0000",
+      "minecraft:zombified_piglin": "2024-11-29 01:38:09 +0000",
+      "minecraft:wither_skeleton": "2024-11-29 01:37:52 +0000",
       "minecraft:zombie": "2024-11-28 22:39:44 +0000"
     },
     "done": false
@@ -663,6 +679,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-11-29 23:41:38 +0000"
+    },
+    "done": true
+  },
   "ava:recipes/survival/fibre": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 23:27:27 +0000"
@@ -684,6 +706,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 23:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-11-29 01:38:12 +0000"
     },
     "done": true
   },
@@ -891,6 +919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-11-29 01:37:53 +0000"
+    },
+    "done": true
+  },
   "enchantinginfuser:recipes/decorations/enchanting_infuser": {
     "criteria": {
       "has_amethyst_shard": "2024-11-28 21:21:08 +0000",
@@ -901,6 +935,12 @@
   "cfm:recipes/cfm/stripped_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-11-28 22:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2024-11-29 01:38:54 +0000"
     },
     "done": true
   },
@@ -1060,6 +1100,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/shell": {
+    "criteria": {
+      "has_gold_nugget": "2024-11-29 01:38:12 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-28 21:21:08 +0000"
@@ -1196,6 +1242,7 @@
       "minecraft:desert": "2024-11-29 00:09:01 +0000",
       "minecraft:birch_forest": "2024-11-28 23:46:29 +0000",
       "minecraft:beach": "2024-11-29 00:06:56 +0000",
+      "minecraft:dark_forest": "2024-11-29 23:42:19 +0000",
       "minecraft:river": "2024-11-28 21:22:27 +0000",
       "minecraft:lukewarm_ocean": "2024-11-28 21:23:13 +0000",
       "minecraft:wooded_mountains": "2024-11-28 21:22:44 +0000",
@@ -1559,6 +1606,12 @@
   "ava:recipes/main/gun_modifying_table": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 23:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2024-11-29 01:38:54 +0000"
     },
     "done": true
   },
