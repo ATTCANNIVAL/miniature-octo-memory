@@ -18864,3 +18864,39 @@ java.lang.NullPointerException: null
 [29Nov2024 00:38:03.130] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Aidan'/13606, l='ServerLevel[world]', x=251.99, y=71.00, z=-985.30] died, message: 'Aidan was slain by Infected Police'
 [29Nov2024 00:38:09.522] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Melinda'/13759, l='ServerLevel[world]', x=240.48, y=67.00, z=-979.15] died, message: 'Melinda was slain by Clicker Zombie'
 [29Nov2024 00:38:25.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 1000]
+[29Nov2024 00:39:16.727] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Oliver'/10732, l='ServerLevel[world]', x=262.51, y=71.00, z=-1000.12] died, message: 'Oliver was shot by Guard'
+[29Nov2024 00:39:58.353] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Nov2024 00:39:58.369] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Nov2024 00:41:19.051] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Gaven'/5817, l='ServerLevel[world]', x=248.64, y=69.00, z=-1041.61] died, message: 'Gaven has died from infection'
+[29Nov2024 00:42:48.300] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Dan'/5785, l='ServerLevel[world]', x=322.50, y=67.18, z=-1010.01] died, message: 'Dan has died from infection'
+[29Nov2024 00:42:53.667] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL lost connection: Disconnected
+[29Nov2024 00:42:53.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL left the game
+[29Nov2024 00:42:53.668] [Server thread/DEBUG] [Guns-RPG/Quests]: Handling player fc7b24d9-b9a0-37fe-a22c-1653103fa143 disconnect
+[29Nov2024 00:42:53.669] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc7b24d9-b9a0-37fe-a22c-1653103fa143 was unloaded
+[29Nov2024 00:43:22.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[29Nov2024 00:43:22.896] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[29Nov2024 00:43:22.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Nov2024 00:43:22.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Nov2024 00:43:22.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Nov2024 00:43:22.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Nov2024 00:43:23.044] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Nov2024 00:43:23.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Nov2024 00:43:23.045] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Nov2024 00:43:23.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Nov2024 00:43:23.046] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Nov2024 00:43:23.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloxys_structures:shadow_dimension
+[29Nov2024 00:43:23.047] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (shadow_dimension): All chunks are saved
+[29Nov2024 00:43:23.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloxys_structures:adventure_realm
+[29Nov2024 00:43:23.048] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (adventure_realm): All chunks are saved
+[29Nov2024 00:43:23.049] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Nov2024 00:43:23.065] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Nov2024 00:43:23.109] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Nov2024 00:43:23.128] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Nov2024 00:43:23.129] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Nov2024 00:43:23.129] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (shadow_dimension): All chunks are saved
+[29Nov2024 00:43:23.129] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (adventure_realm): All chunks are saved
+[29Nov2024 00:43:23.131] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[29Nov2024 00:43:23.131] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[29Nov2024 00:43:23.131] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[29Nov2024 00:43:23.132] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file upgradednetherite_items-server.toml changed, sending notifies
+[29Nov2024 00:43:23.137] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file /workspaces/miniature-octo-memory/servidor_minecraft/config/waystones-server.toml changed, sending notifies
