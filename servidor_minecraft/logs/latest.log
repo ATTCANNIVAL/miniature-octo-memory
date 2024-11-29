@@ -1491,3 +1491,171 @@ java.lang.NullPointerException: null
 [29Nov2024 00:12:26.107] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/7445, l='ServerLevel[world]', x=328.50, y=67.00, z=-1203.50] quests expired
 [29Nov2024 00:12:29.231] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/7536, l='ServerLevel[world]', x=295.50, y=65.00, z=-1219.50] quests expired
 [29Nov2024 00:17:20.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 13000]
+[29Nov2024 00:19:49.045] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Harriet'/7370, l='ServerLevel[world]', x=339.48, y=64.00, z=-1196.17] died, message: 'Harriet fell out of the world'
+[29Nov2024 00:19:49.046] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Florence'/7443, l='ServerLevel[world]', x=347.50, y=64.00, z=-1211.73] died, message: 'Florence fell out of the world'
+[29Nov2024 00:19:49.049] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Oonagh'/7446, l='ServerLevel[world]', x=367.50, y=65.88, z=-1151.50] died, message: 'Oonagh fell out of the world'
+[29Nov2024 00:19:49.057] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Noelle'/7529, l='ServerLevel[world]', x=361.74, y=67.00, z=-1223.37] died, message: 'Noelle fell out of the world'
+[29Nov2024 00:19:49.058] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Suzanne'/7555, l='ServerLevel[world]', x=362.84, y=66.00, z=-1220.16] died, message: 'Suzanne fell out of the world'
+[29Nov2024 00:19:49.058] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Danielle'/7557, l='ServerLevel[world]', x=329.18, y=64.00, z=-1228.35] died, message: 'Danielle fell out of the world'
+[29Nov2024 00:19:49.059] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Ursula'/7558, l='ServerLevel[world]', x=386.66, y=65.00, z=-1224.72] died, message: 'Ursula fell out of the world'
+[29Nov2024 00:19:49.060] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Fíona'/7559, l='ServerLevel[world]', x=387.07, y=66.00, z=-1220.48] died, message: 'Fíona fell out of the world'
+[29Nov2024 00:19:49.060] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Moya'/7560, l='ServerLevel[world]', x=347.07, y=63.00, z=-1209.87] died, message: 'Moya fell out of the world'
+[29Nov2024 00:19:49.061] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Maria'/7561, l='ServerLevel[world]', x=345.96, y=66.00, z=-1226.42] died, message: 'Maria fell out of the world'
+[29Nov2024 00:19:49.062] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Sara'/7675, l='ServerLevel[world]', x=346.72, y=67.00, z=-1237.37] died, message: 'Sara fell out of the world'
+[29Nov2024 00:19:49.064] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Cathy'/7705, l='ServerLevel[world]', x=341.37, y=64.00, z=-1253.28] died, message: 'Cathy fell out of the world'
+[29Nov2024 00:19:49.104] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Vicki'/8787, l='ServerLevel[world]', x=288.47, y=73.00, z=-1051.47] died, message: 'Vicki fell out of the world'
+[29Nov2024 00:19:49.105] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Sorcha'/8788, l='ServerLevel[world]', x=225.16, y=72.00, z=-964.88] died, message: 'Sorcha fell out of the world'
+[29Nov2024 00:19:49.106] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Olivia'/8813, l='ServerLevel[world]', x=229.29, y=69.50, z=-966.29] died, message: 'Olivia fell out of the world'
+[29Nov2024 00:19:49.106] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Órlaith'/8814, l='ServerLevel[world]', x=229.73, y=69.50, z=-966.73] died, message: 'Órlaith fell out of the world'
+[29Nov2024 00:19:49.107] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Clare'/8829, l='ServerLevel[world]', x=277.53, y=81.23, z=-954.28] died, message: 'Clare fell out of the world'
+[29Nov2024 00:19:49.108] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Helen'/8830, l='ServerLevel[world]', x=271.11, y=72.00, z=-1002.03] died, message: 'Helen fell out of the world'
+[29Nov2024 00:19:49.108] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Julia'/8846, l='ServerLevel[world]', x=253.66, y=70.00, z=-976.84] died, message: 'Julia fell out of the world'
+[29Nov2024 00:19:49.109] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Natalie'/8847, l='ServerLevel[world]', x=282.45, y=72.88, z=-976.53] died, message: 'Natalie fell out of the world'
+[29Nov2024 00:19:49.109] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Georgina'/8982, l='ServerLevel[world]', x=274.02, y=72.00, z=-1025.34] died, message: 'Georgina fell out of the world'
+[29Nov2024 00:19:49.110] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Andrea'/8983, l='ServerLevel[world]', x=281.50, y=76.00, z=-1074.50] died, message: 'Andrea fell out of the world'
+[29Nov2024 00:19:49.111] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Aoibhínn'/8984, l='ServerLevel[world]', x=267.40, y=73.00, z=-1050.91] died, message: 'Aoibhínn fell out of the world'
+[29Nov2024 00:19:49.111] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Kristen'/8985, l='ServerLevel[world]', x=269.59, y=77.00, z=-1048.60] died, message: 'Kristen fell out of the world'
+[29Nov2024 00:19:49.112] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Madeleine'/9006, l='ServerLevel[world]', x=281.81, y=75.56, z=-1077.31] died, message: 'Madeleine fell out of the world'
+[29Nov2024 00:19:49.113] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Irene'/9007, l='ServerLevel[world]', x=268.50, y=71.00, z=-1029.70] died, message: 'Irene fell out of the world'
+[29Nov2024 00:19:49.113] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Tina'/9008, l='ServerLevel[world]', x=267.07, y=71.00, z=-1022.56] died, message: 'Tina fell out of the world'
+[29Nov2024 00:19:49.114] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Lesley'/9013, l='ServerLevel[world]', x=274.29, y=71.00, z=-1017.15] died, message: 'Lesley fell out of the world'
+[29Nov2024 00:19:49.114] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Dorothy'/9014, l='ServerLevel[world]', x=270.53, y=72.88, z=-1020.57] died, message: 'Dorothy fell out of the world'
+[29Nov2024 00:19:49.115] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Rena'/9015, l='ServerLevel[world]', x=276.49, y=71.00, z=-1016.46] died, message: 'Rena fell out of the world'
+[29Nov2024 00:19:49.116] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Dianne'/9018, l='ServerLevel[world]', x=265.75, y=71.00, z=-1016.54] died, message: 'Dianne fell out of the world'
+[29Nov2024 00:19:49.116] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Orla'/9024, l='ServerLevel[world]', x=268.94, y=72.00, z=-1001.35] died, message: 'Orla fell out of the world'
+[29Nov2024 00:19:49.117] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Jill'/9040, l='ServerLevel[world]', x=266.87, y=71.00, z=-1009.76] died, message: 'Jill fell out of the world'
+[29Nov2024 00:19:57.607] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/8383, l='ServerLevel[world]', x=265.99, y=71.00, z=-1013.49] died, message: 'Villager was slain by Infected Spec Ops Soldier'
+[29Nov2024 00:20:03.797] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Yannick'/571, l='ServerLevel[world]', x=524.42, y=26.00, z=-114.55] died, message: 'Yannick has died from infection'
+[29Nov2024 00:20:17.168] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Rhys'/9038, l='ServerLevel[world]', x=262.04, y=70.00, z=-1051.35] died, message: 'Rhys was slain by Infected Spec Ops Soldier'
+[29Nov2024 00:20:59.659] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/8311, l='ServerLevel[world]', x=222.70, y=69.00, z=-959.50] died, message: 'Farmer was slain by Drawned zombie'
+[29Nov2024 00:21:30.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Friendship Found]
+[29Nov2024 00:21:48.066] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/7198, l='ServerLevel[world]', x=251.99, y=71.00, z=-985.30] died, message: 'Villager was slain by Husk'
+[29Nov2024 00:22:23.910] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Terence'/5775, l='ServerLevel[world]', x=251.99, y=71.00, z=-985.30] died, message: 'Terence was slain by Haris'
+[29Nov2024 00:22:36.360] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/9308, l='ServerLevel[world]', x=323.40, y=66.00, z=-1010.01] died, message: 'Librarian was slain by Husk'
+[29Nov2024 00:23:07.456] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Aindrias'/8782, l='ServerLevel[world]', x=244.42, y=74.00, z=-969.06] died, message: 'Aindrias was slain by Husk'
+[29Nov2024 00:24:02.461] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Alfred'/9385, l='ServerLevel[world]', x=258.50, y=70.00, z=-980.00] died, message: 'Alfred was slain by Fat Zombie'
+[29Nov2024 00:24:15.557] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Radojka'/10328, l='ServerLevel[world]', x=320.89, y=65.00, z=-1010.11] died, message: 'Radojka suffocated in a wall whilst fighting ATT_CANNIVAL'
+[29Nov2024 00:24:20.776] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Florence'/10332, l='ServerLevel[world]', x=317.50, y=65.00, z=-1013.19] died, message: 'Florence fell out of the world'
+[29Nov2024 00:24:32.008] [Server thread/INFO] [forge.net.mca.MCA/]: TextComponent{text='George', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} has been infected
+[29Nov2024 00:24:44.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added item to blacklist]
+[29Nov2024 00:24:47.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added item to blacklist]
+[29Nov2024 00:24:50.210] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Dermot'/10313, l='ServerLevel[world]', x=260.72, y=70.00, z=-976.28] died, message: 'Dermot was slain by Explosive Zombie'
+[29Nov2024 00:25:01.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[29Nov2024 00:25:04.206] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['George'/9046, l='ServerLevel[world]', x=247.99, y=74.00, z=-973.61] died, message: 'George was slain by Fast infected'
+[29Nov2024 00:25:17.507] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Alastair'/9004, l='ServerLevel[world]', x=266.69, y=71.00, z=-1017.66] died, message: 'Alastair was slain by Heavy Military'
+[29Nov2024 00:25:17.905] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/8325, l='ServerLevel[world]', x=253.90, y=75.00, z=-969.30] died, message: 'Farmer was slain by Juggernaut Zombie'
+[29Nov2024 00:25:30.208] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/7681, l='ServerLevel[world]', x=306.50, y=66.00, z=-1240.50] quests expired
+[29Nov2024 00:25:33.805] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Bartley'/7564, l='ServerLevel[world]', x=364.31, y=65.00, z=-1214.15] died, message: 'death.attack.radiation'
+[29Nov2024 00:25:33.904] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Eamon'/7556, l='ServerLevel[world]', x=364.69, y=68.00, z=-1225.51] died, message: 'death.attack.radiation'
+[29Nov2024 00:25:36.651] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Naoise'/7565, l='ServerLevel[world]', x=362.70, y=67.00, z=-1223.05] died, message: 'death.attack.radiation'
+[29Nov2024 00:25:42.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Dead Sea]
+[29Nov2024 00:25:42.227] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/11245, l='ServerLevel[world]', x=266.35, y=53.65, z=-1266.29]
+[29Nov2024 00:25:42.227] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/11246, l='ServerLevel[world]', x=267.54, y=53.54, z=-1269.46]
+[29Nov2024 00:25:42.227] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/11247, l='ServerLevel[world]', x=268.73, y=55.40, z=-1267.37]
+[29Nov2024 00:25:42.228] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/11248, l='ServerLevel[world]', x=267.56, y=50.57, z=-1264.74]
+[29Nov2024 00:25:42.275] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/11253, l='ServerLevel[world]', x=270.36, y=48.53, z=-1269.36]
+[29Nov2024 00:25:42.275] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/11254, l='ServerLevel[world]', x=271.30, y=52.27, z=-1270.40]
+[29Nov2024 00:25:42.275] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/11255, l='ServerLevel[world]', x=273.48, y=50.26, z=-1266.30]
+[29Nov2024 00:25:42.275] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/11256, l='ServerLevel[world]', x=266.56, y=50.39, z=-1267.67]
+[29Nov2024 00:25:42.275] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/11257, l='ServerLevel[world]', x=267.35, y=52.51, z=-1270.27]
+[29Nov2024 00:25:42.275] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/11259, l='ServerLevel[world]', x=268.71, y=49.58, z=-1270.28]
+[29Nov2024 00:25:42.276] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/11260, l='ServerLevel[world]', x=265.49, y=54.36, z=-1265.56]
+[29Nov2024 00:25:42.276] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/11263, l='ServerLevel[world]', x=268.58, y=48.62, z=-1265.59]
+[29Nov2024 00:25:54.451] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Harry'/7563, l='ServerLevel[world]', x=368.70, y=64.92, z=-1215.57] died, message: 'death.attack.radiation'
+[29Nov2024 00:26:07.410] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Bruce'/5792, l='ServerLevel[world]', x=285.95, y=75.80, z=-1070.01] died, message: 'Bruce was slain by Infected Hazmat'
+[29Nov2024 00:26:16.309] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Vincent'/8776, l='ServerLevel[world]', x=229.56, y=69.50, z=-966.46] died, message: 'Vincent was shot by Plague Zombie'
+[29Nov2024 00:26:28.909] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/8303, l='ServerLevel[world]', x=229.51, y=69.50, z=-968.49] died, message: 'Farmer was shot by Plague Zombie'
+[29Nov2024 00:27:05.704] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Laura'/10598, l='ServerLevel[world]', x=280.69, y=71.00, z=-1021.63] died, message: 'Laura was slain by Infected Hazmat'
+[29Nov2024 00:28:33.310] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.mcmoddev.golems.golem_stats.GolemContainer.getAllBlocks(GolemContainer.java:359) ~[golems:16.5.2]
+	at com.mcmoddev.golems.golem_stats.GolemContainer.getAllBlocks(GolemContainer.java:270) ~[golems:16.5.2]
+	at com.mcmoddev.golems.golem_stats.GolemContainer.matches(GolemContainer.java:274) ~[golems:16.5.2]
+	at com.mcmoddev.golems.ExtraGolems.getGolemId(ExtraGolems.java:117) ~[golems:16.5.2]
+	at com.mcmoddev.golems.ExtraGolems.getGolem(ExtraGolems.java:136) ~[golems:16.5.2]
+	at com.mcmoddev.golems.block.GolemHeadBlock.trySpawnGolem(GolemHeadBlock.java:165) ~[golems:16.5.2]
+	at com.mcmoddev.golems.block.GolemHeadBlock.func_180633_a(GolemHeadBlock.java:50) ~[golems:16.5.2]
+	at net.minecraft.item.BlockItem.func_195942_a(BlockItem.java:66) ~[?:?]
+	at net.minecraft.item.BlockItem.func_195939_a(BlockItem.java:39) ~[?:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:637) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_196084_a(ItemStack.java:186) ~[?:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:350) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[29Nov2024 00:28:36.444] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.mcmoddev.golems.golem_stats.GolemContainer.getAllBlocks(GolemContainer.java:359) ~[golems:16.5.2]
+	at com.mcmoddev.golems.golem_stats.GolemContainer.getAllBlocks(GolemContainer.java:270) ~[golems:16.5.2]
+	at com.mcmoddev.golems.golem_stats.GolemContainer.matches(GolemContainer.java:274) ~[golems:16.5.2]
+	at com.mcmoddev.golems.ExtraGolems.getGolemId(ExtraGolems.java:117) ~[golems:16.5.2]
+	at com.mcmoddev.golems.ExtraGolems.getGolem(ExtraGolems.java:136) ~[golems:16.5.2]
+	at com.mcmoddev.golems.block.GolemHeadBlock.trySpawnGolem(GolemHeadBlock.java:165) ~[golems:16.5.2]
+	at com.mcmoddev.golems.block.GolemHeadBlock.func_180633_a(GolemHeadBlock.java:50) ~[golems:16.5.2]
+	at net.minecraft.item.BlockItem.func_195942_a(BlockItem.java:66) ~[?:?]
+	at net.minecraft.item.BlockItem.func_195939_a(BlockItem.java:39) ~[?:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:637) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_196084_a(ItemStack.java:186) ~[?:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:350) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[29Nov2024 00:28:44.736] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.mcmoddev.golems.golem_stats.GolemContainer.getAllBlocks(GolemContainer.java:359) ~[golems:16.5.2]
+	at com.mcmoddev.golems.golem_stats.GolemContainer.getAllBlocks(GolemContainer.java:270) ~[golems:16.5.2]
+	at com.mcmoddev.golems.golem_stats.GolemContainer.matches(GolemContainer.java:274) ~[golems:16.5.2]
+	at com.mcmoddev.golems.ExtraGolems.getGolemId(ExtraGolems.java:117) ~[golems:16.5.2]
+	at com.mcmoddev.golems.ExtraGolems.getGolem(ExtraGolems.java:136) ~[golems:16.5.2]
+	at com.mcmoddev.golems.block.GolemHeadBlock.trySpawnGolem(GolemHeadBlock.java:165) ~[golems:16.5.2]
+	at com.mcmoddev.golems.block.GolemHeadBlock.func_180633_a(GolemHeadBlock.java:50) ~[golems:16.5.2]
+	at net.minecraft.item.BlockItem.func_195942_a(BlockItem.java:66) ~[?:?]
+	at net.minecraft.item.BlockItem.func_195939_a(BlockItem.java:39) ~[?:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:637) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_196084_a(ItemStack.java:186) ~[?:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:350) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]

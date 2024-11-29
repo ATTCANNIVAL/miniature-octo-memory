@@ -20,5 +20,8 @@
   "minecraft:spawner_minecart",
   "minecraft:tnt_minecart",
   "corpse:corpse",
-  "mca:male_villager"
+  "mca:male_villager",
+  "mca:baby_boy",
+  "mca:baby_girl",
+  "mca:female_villager"
 ]
