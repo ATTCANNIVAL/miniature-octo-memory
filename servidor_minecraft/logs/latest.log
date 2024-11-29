@@ -7604,3 +7604,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Nov2024 01:23:17.193] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
 [29Nov2024 01:23:17.194] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
 [29Nov2024 01:23:55.965] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Rod'/2413, l='ServerLevel[world]', x=234.29, y=74.00, z=-967.30] died, message: 'Rod was slain by Military Soldier'
+[29Nov2024 01:26:20.729] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3ea3ba33 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[29Nov2024 01:26:20.730] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@5896fbaa (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[29Nov2024 01:26:20.730] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@7489bd59 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[29Nov2024 01:26:20.731] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7cd9ab4e (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[29Nov2024 01:26:20.732] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@7b6801eb (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[29Nov2024 01:26:20.733] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@2bd99d48 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[29Nov2024 01:26:20.733] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@7f9b36eb (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[29Nov2024 01:26:20.733] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@74260b1c (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[29Nov2024 01:26:21.780] [Server thread/INFO] [tac/]: PENDING
+[29Nov2024 01:26:22.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [We Need to Go Deeper]
+[29Nov2024 01:26:52.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -335.5, 72.9258326303255, -415.5]
+[29Nov2024 01:26:53.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [A Terrible Fortress]
+[29Nov2024 01:29:43.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[29Nov2024 01:30:24.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[29Nov2024 01:30:29.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]

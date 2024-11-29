@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-11-29 01:26:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2024-11-29 00:29:35 +0000"
@@ -599,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-11-29 01:26:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_upgraded_gate": {
     "criteria": {
       "has_log": "2024-11-28 22:24:13 +0000"
@@ -804,6 +816,12 @@
   "cfm:recipes/cfm/light_gray_grill": {
     "criteria": {
       "has_iron": "2024-11-28 23:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-11-29 01:26:53 +0000"
     },
     "done": true
   },
@@ -1506,6 +1524,14 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-11-29 01:26:22 +0000",
+      "minecraft:nether_wastes": "2024-11-29 01:26:53 +0000",
+      "minecraft:soul_sand_valley": "2024-11-29 01:27:22 +0000"
+    },
+    "done": false
+  },
   "bloxys_structures:the_adventure_realm": {
     "criteria": {
       "the_adventure_realm": "2024-11-28 21:21:08 +0000"
@@ -1548,6 +1574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-11-29 01:27:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-11-28 23:27:27 +0000"
@@ -1563,6 +1595,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-11-29 00:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-11-29 01:27:53 +0000"
     },
     "done": true
   },
