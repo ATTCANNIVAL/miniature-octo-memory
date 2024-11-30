@@ -13206,3 +13206,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Nov2024 00:09:49.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 1000]
 [30Nov2024 00:10:06.753] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Tapani'/746, l='ServerLevel[world]', x=-814.84, y=65.00, z=-1486.70] died, message: 'Tapani was slain by Infected Spec Ops Soldier'
 [30Nov2024 00:11:26.757] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Riikka'/817, l='ServerLevel[world]', x=-801.35, y=71.00, z=-1364.80] died, message: 'Riikka has been shot'
+[30Nov2024 00:12:18.297] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Marita'/589, l='ServerLevel[world]', x=-834.52, y=63.00, z=-1414.49] died, message: 'Marita has been shot'
+[30Nov2024 00:12:47.557] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Nov2024 00:12:47.582] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Nov2024 00:17:47.297] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Nov2024 00:17:47.316] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Nov2024 00:18:53.597] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Husein'/819, l='ServerLevel[world]', x=-820.86, y=67.56, z=-1361.86] died, message: 'Husein was slain by Infected Police'
+[30Nov2024 00:20:14.152] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Teemu'/778, l='ServerLevel[world]', x=-872.51, y=69.00, z=-1389.89] died, message: 'Teemu was slain by Crawler Zombie'
+[30Nov2024 00:20:46.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 1000]
+[30Nov2024 00:21:00.798] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Ilmo'/885, l='ServerLevel[world]', x=-805.08, y=67.00, z=-1355.71] died, message: 'Ilmo was slain by Infection Military'
