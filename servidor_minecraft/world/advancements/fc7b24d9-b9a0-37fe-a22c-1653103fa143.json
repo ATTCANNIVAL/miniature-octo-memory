@@ -901,6 +901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2024-11-29 23:54:14 +0000"
+    },
+    "done": true
+  },
   "moguns:crayfish/root": {
     "criteria": {
       "tick": "2024-11-28 21:21:08 +0000"
@@ -1049,6 +1055,12 @@
   "cfm:recipes/cfm/oak_desk": {
     "criteria": {
       "has_log": "2024-11-28 22:24:13 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2024-11-29 23:54:14 +0000"
     },
     "done": true
   },
