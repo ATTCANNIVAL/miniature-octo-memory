@@ -633,6 +633,12 @@
     },
     "done": true
   },
+  "lightmanscurrency:currency/trader": {
+    "criteria": {
+      "trader": "2024-12-04 21:51:56 +0000"
+    },
+    "done": true
+  },
   "ava:recipes/main/gun_crafting_table": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 23:27:27 +0000"
