@@ -7708,3 +7708,114 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Dec2024 22:05:41.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> los mobs son mas tochos
 [04Dec2024 22:05:44.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MrCuak> estoy en la aldea
 [04Dec2024 22:06:35.551] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Aatu'/2534, l='ServerLevel[world]', x=-802.09, y=71.00, z=-1360.58] died, message: 'Aatu was slain by Military Soldier'
+[04Dec2024 22:07:00.507] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Kyösti'/2653, l='ServerLevel[world]', x=-804.70, y=66.00, z=-1436.30] died, message: 'Kyösti was slain by Infection Military'
+[04Dec2024 22:07:25.355] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Väinö'/2758, l='ServerLevel[world]', x=-692.95, y=65.50, z=-1417.30] died, message: 'Väinö was slain by Explosive Zombie'
+[04Dec2024 22:07:31.099] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Heikki'/2757, l='ServerLevel[world]', x=-692.30, y=65.00, z=-1417.30] died, message: 'Heikki was slain by Explosive Zombie'
+[04Dec2024 22:07:34.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> mejor lo pongo en el grupo
+[04Dec2024 22:07:44.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MrCuak> si
+[04Dec2024 22:07:48.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> como es la aldea los demás aldeanos te protegeran
+[04Dec2024 22:08:16.559] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3ec6b0ab
+[04Dec2024 22:08:16.565] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: MCM_Miguell[/127.179.21.234:48371] logged in with entity id 11134 at (209.5, 65.0, -865.5)
+[04Dec2024 22:08:16.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MCM_Miguell joined the game
+[04Dec2024 22:08:16.574] [Server thread/INFO] [tac/]: PENDING
+[04Dec2024 22:08:16.639] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[04Dec2024 22:08:16.639] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[04Dec2024 22:08:16.639] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[04Dec2024 22:08:16.640] [Server thread/INFO] [net.mcreator.tmtmcoresandmore.TmtmcoresandmoreMod/]: TmTmc-OresAndMore loaded
+[04Dec2024 22:08:16.640] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:72]: enable_welcome: true
+[04Dec2024 22:08:16.640] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:73]: welcome_message: Welcome to our server 
+[04Dec2024 22:08:16.640] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:74]: enable_all_ores: true
+[04Dec2024 22:08:16.640] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:75]: enable_all_ingots: true
+[04Dec2024 22:08:16.640] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:76]: enable_all_blocks: true
+[04Dec2024 22:08:16.641] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:77]: enable_all_armors: true
+[04Dec2024 22:08:16.641] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:78]: enable_all_swords_bows: true
+[04Dec2024 22:08:16.641] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:79]: enable_all_foods: true
+[04Dec2024 22:08:16.641] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:80]: enable_all_paintings: true
+[04Dec2024 22:08:16.641] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:81]: enable_all_poisons: true
+[04Dec2024 22:08:16.641] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:82]: enable_all_powders: true
+[04Dec2024 22:08:16.641] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:83]: enable_all_tools: true
+[04Dec2024 22:08:16.641] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:84]: enable_all_recipes: true
+[04Dec2024 22:08:16.642] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:85]: enable_all_advancements: true
+[04Dec2024 22:08:16.678] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3b631e49 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Dec2024 22:08:16.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MCM_Miguell has made the advancement [Minty Fresh!]
+[04Dec2024 22:08:16.679] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6a85b941 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Dec2024 22:08:16.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MCM_Miguell has made the advancement [All in one interaction!]
+[04Dec2024 22:08:16.679] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@745d4e3a (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Dec2024 22:08:16.680] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@39e19d22 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Dec2024 22:08:16.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MCM_Miguell has reached the goal [Fireproof Wallet]
+[04Dec2024 22:08:16.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MCM_Miguell has made the advancement [Trading Core]
+[04Dec2024 22:08:16.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MCM_Miguell has made the advancement [Minecraft Comes Alive]
+[04Dec2024 22:08:16.841] [Thread-55/INFO] [chancecubes/]: No custom rewards detected for the current user!
+[04Dec2024 22:08:26.766] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eeeebc32-ea4f-3cf8-a014-e1f96e7ceb85 was loaded
+[04Dec2024 22:08:35.897] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Joni'/2591, l='ServerLevel[world]', x=-812.67, y=64.00, z=-1473.60] died, message: 'Joni was slain by Infection Military'
+[04Dec2024 22:09:01.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported MCM_Miguell to ATT_CANNIVAL]
+[04Dec2024 22:09:01.809] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: MCM_Miguell lost connection: Timed out
+[04Dec2024 22:09:01.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MCM_Miguell left the game
+[04Dec2024 22:09:01.810] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eeeebc32-ea4f-3cf8-a014-e1f96e7ceb85 was unloaded
+[04Dec2024 22:09:01.864] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[04Dec2024 22:09:05.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[04Dec2024 22:09:17.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MrCuak> XD
+[04Dec2024 22:09:27.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MrCuak> cuanto dura la noche?
+[04Dec2024 22:09:38.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> igual q el dia
+[04Dec2024 22:10:26.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> a
+[04Dec2024 22:10:30.945] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@50187d56
+[04Dec2024 22:10:30.956] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: MCM_Miguell[/127.179.21.234:39773] logged in with entity id 13096 at (-800.3025897833877, 67.0, -1403.8990242282)
+[04Dec2024 22:10:30.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MCM_Miguell joined the game
+[04Dec2024 22:10:30.965] [Server thread/INFO] [tac/]: PENDING
+[04Dec2024 22:10:31.020] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[04Dec2024 22:10:31.020] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[04Dec2024 22:10:31.020] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[04Dec2024 22:10:31.020] [Server thread/INFO] [net.mcreator.tmtmcoresandmore.TmtmcoresandmoreMod/]: TmTmc-OresAndMore loaded
+[04Dec2024 22:10:31.021] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:72]: enable_welcome: true
+[04Dec2024 22:10:31.021] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:73]: welcome_message: Welcome to our server 
+[04Dec2024 22:10:31.021] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:74]: enable_all_ores: true
+[04Dec2024 22:10:31.021] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:75]: enable_all_ingots: true
+[04Dec2024 22:10:31.021] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:76]: enable_all_blocks: true
+[04Dec2024 22:10:31.021] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:77]: enable_all_armors: true
+[04Dec2024 22:10:31.021] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:78]: enable_all_swords_bows: true
+[04Dec2024 22:10:31.022] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:79]: enable_all_foods: true
+[04Dec2024 22:10:31.022] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:80]: enable_all_paintings: true
+[04Dec2024 22:10:31.022] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:81]: enable_all_poisons: true
+[04Dec2024 22:10:31.022] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:82]: enable_all_powders: true
+[04Dec2024 22:10:31.022] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:83]: enable_all_tools: true
+[04Dec2024 22:10:31.022] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:84]: enable_all_recipes: true
+[04Dec2024 22:10:31.022] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:85]: enable_all_advancements: true
+[04Dec2024 22:10:31.052] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3b631e49 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Dec2024 22:10:31.052] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6a85b941 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Dec2024 22:10:31.052] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@745d4e3a (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Dec2024 22:10:31.052] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@39e19d22 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Dec2024 22:10:31.173] [Thread-62/INFO] [chancecubes/]: No custom rewards detected for the current user!
+[04Dec2024 22:10:35.313] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eeeebc32-ea4f-3cf8-a014-e1f96e7ceb85 was loaded
+[04Dec2024 22:10:46.096] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: MCM_Miguell lost connection: Timed out
+[04Dec2024 22:10:46.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MCM_Miguell left the game
+[04Dec2024 22:10:46.097] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eeeebc32-ea4f-3cf8-a014-e1f96e7ceb85 was unloaded
+[04Dec2024 22:10:51.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[04Dec2024 22:11:05.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[04Dec2024 22:11:12.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MrCuak> que xuxa
+[04Dec2024 22:11:36.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> puedes colgarte con las manos
+[04Dec2024 22:11:46.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MrCuak> como?
+[04Dec2024 22:11:51.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> segundo click
+[04Dec2024 22:12:18.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ahi te intentaste colgar
+[04Dec2024 22:12:28.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> cpm espacio
+[04Dec2024 22:12:31.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> saltar
+[04Dec2024 22:12:34.899] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Pirita'/2508, l='ServerLevel[world]', x=-824.71, y=66.00, z=-1362.04] died, message: 'Pirita was slain by Fat Zombie'
+[04Dec2024 22:12:36.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> upa
+[04Dec2024 22:12:38.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[04Dec2024 22:12:40.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MrCuak> krico
+[04Dec2024 22:13:13.807] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@254102c5[id=<null>,name=MCM_Miguell,properties={},legacy=false] (/127.179.21.234:58625): Took too long to log in
+[04Dec2024 22:13:13.850] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@254102c5[id=<null>,name=MCM_Miguell,properties={},legacy=false] (/127.179.21.234:58625) lost connection: Took too long to log in
+[04Dec2024 22:14:04.956] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@4c16da2a[id=<null>,name=MCM_Miguell,properties={},legacy=false] (/127.179.21.234:33257): Took too long to log in
+[04Dec2024 22:14:05.004] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@4c16da2a[id=<null>,name=MCM_Miguell,properties={},legacy=false] (/127.179.21.234:33257) lost connection: Took too long to log in
+[04Dec2024 22:14:07.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MrCuak> como me curo la roptura de hueso?
+[04Dec2024 22:14:14.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> yeso
+[04Dec2024 22:14:25.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> esto
+[04Dec2024 22:14:29.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> q viene en el kit
+[04Dec2024 22:14:33.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MrCuak> a xuxa
+[04Dec2024 22:14:37.391] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Antero'/2535, l='ServerLevel[world]', x=-780.98, y=64.00, z=-1374.03] died, message: 'Antero was slain by Night Hunter'
+[04Dec2024 22:14:37.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[04Dec2024 22:14:38.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> si
+[04Dec2024 22:14:42.739] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Lyyli'/2589, l='ServerLevel[world]', x=-779.22, y=64.00, z=-1372.29] died, message: 'Lyyli was slain by Night Hunter'
+[04Dec2024 22:15:31.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> y hay toda clase de mochilas
+[04Dec2024 22:15:42.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MrCuak has made the advancement [Cinnabar Ore]
+[04Dec2024 22:15:44.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> viste q puedes configurar los controles? hay mas mecanicas
+[04Dec2024 22:15:49.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MrCuak> aun no veo eso
