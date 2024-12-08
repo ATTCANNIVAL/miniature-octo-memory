@@ -17124,3 +17124,180 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Dec2024 01:49:41.555] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@1975c3d (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
 [08Dec2024 01:49:41.601] [Thread-78/INFO] [chancecubes/]: No custom rewards detected for the current user!
 [08Dec2024 01:49:41.913] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3b271b9-e459-3933-aab2-de28059f91bf was loaded
+[08Dec2024 01:51:16.780] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Dec2024 01:51:16.796] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Dec2024 01:51:50.628] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Rakhee'/90, l='ServerLevel[world]', x=-860.23, y=77.25, z=38.77] died, message: 'Rakhee was slain by Fast infected'
+[08Dec2024 01:53:25.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> manito como me quito el infectec 4
+[08Dec2024 01:53:36.137] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/11447, l='ServerLevel[world]', x=-964.00, y=80.00, z=49.00]
+[08Dec2024 01:54:12.000] [Worker-Main-38/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-1404 | 49 | -348).
+[08Dec2024 01:54:12.000] [Worker-Main-38/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[08Dec2024 01:54:12.000] [Worker-Main-38/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 4(0) Rooms
+[08Dec2024 01:54:12.000] [Worker-Main-38/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[08Dec2024 01:54:12.000] [Worker-Main-38/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 4(0) Rooms
+[08Dec2024 01:54:12.000] [Worker-Main-38/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[08Dec2024 01:54:12.001] [Worker-Main-38/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 11(0) Nodes and 4(0) Rooms
+[08Dec2024 01:54:12.001] [Worker-Main-38/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[08Dec2024 01:54:12.001] [Worker-Main-38/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 8(4) Nodes and 4(0) Rooms
+[08Dec2024 01:54:12.001] [Worker-Main-38/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[08Dec2024 01:54:12.001] [Worker-Main-38/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 4(0) Rooms
+[08Dec2024 01:54:12.004] [Worker-Main-38/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [-83, -17] with a total of 310 pieces.
+[08Dec2024 01:54:12.018] [Worker-Main-24/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[08Dec2024 01:54:12.018] [Worker-Main-24/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[08Dec2024 01:54:12.018] [Worker-Main-24/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[08Dec2024 01:54:12.019] [Worker-Main-24/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[08Dec2024 01:54:12.019] [Worker-Main-24/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[08Dec2024 01:54:12.019] [Worker-Main-24/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[08Dec2024 01:54:12.019] [Worker-Main-24/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[08Dec2024 01:54:12.019] [Worker-Main-24/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[08Dec2024 01:54:12.020] [Worker-Main-24/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[08Dec2024 01:54:12.020] [Worker-Main-24/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[08Dec2024 01:54:12.020] [Worker-Main-24/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[08Dec2024 01:54:12.020] [Worker-Main-24/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[08Dec2024 01:54:23.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 fell from a high place
+[08Dec2024 01:54:23.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Killed TAQUIS123]
+[08Dec2024 01:54:25.089] [Server thread/INFO] [tac/]: PENDING
+[08Dec2024 01:54:25.095] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@29d5af05 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 01:54:25.096] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3e29f45f (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 01:54:25.096] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@28dd7327 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[08Dec2024 01:54:25.096] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3922997c (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 01:54:25.097] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@5306970 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[08Dec2024 01:54:25.098] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@5fdc5b31 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 01:54:25.098] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@b752c2b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 01:54:25.098] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@1975c3d (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 01:54:27.343] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Found 163 recipes with the 'lightmanscurrency' namespace!
+[08Dec2024 01:54:27.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [My first penny!]
+[08Dec2024 01:54:40.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Not Today, Thank You]
+[08Dec2024 01:55:09.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Spectator Mode]
+[08Dec2024 01:55:26.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[08Dec2024 01:55:29.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has bled out
+[08Dec2024 01:55:30.790] [Server thread/INFO] [tac/]: PENDING
+[08Dec2024 01:55:30.795] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@29d5af05 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 01:55:30.795] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3e29f45f (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 01:55:30.795] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@28dd7327 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[08Dec2024 01:55:30.796] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3922997c (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 01:55:30.796] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@5306970 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[08Dec2024 01:55:30.797] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@5fdc5b31 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 01:55:30.797] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@b752c2b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 01:55:30.797] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@1975c3d (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 01:55:46.968] [Worker-Main-38/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[08Dec2024 01:55:46.969] [Worker-Main-38/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[08Dec2024 01:55:46.969] [Worker-Main-38/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[08Dec2024 01:55:46.969] [Worker-Main-38/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[08Dec2024 01:55:46.969] [Worker-Main-38/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[08Dec2024 01:55:46.970] [Worker-Main-38/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[08Dec2024 01:55:46.970] [Worker-Main-38/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[08Dec2024 01:55:46.970] [Worker-Main-38/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[08Dec2024 01:55:46.970] [Worker-Main-38/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[08Dec2024 01:55:46.970] [Worker-Main-38/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[08Dec2024 01:55:46.970] [Worker-Main-38/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[08Dec2024 01:55:46.970] [Worker-Main-38/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[08Dec2024 01:56:16.834] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Dec2024 01:56:16.852] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Dec2024 01:56:20.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> dontas
+[08Dec2024 01:56:24.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[08Dec2024 01:56:32.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> en la aldea
+[08Dec2024 01:57:13.283] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.advancements.PlayerAdvancements.func_192743_a(PlayerAdvancements.java:332) ~[?:?]
+	at net.minecraft.advancements.PlayerAdvancements.func_192747_a(PlayerAdvancements.java:325) ~[?:?]
+	at forge.net.mca.entity.interaction.gifts.GiftPredicate.lambda$static$77(GiftPredicate.java:181) ~[mca:?]
+	at forge.net.mca.entity.interaction.InteractionPredicate.test(InteractionPredicate.java:57) ~[mca:?]
+	at forge.net.mca.resources.data.dialogue.Result.getChances(Result.java:78) ~[mca:?]
+	at forge.net.mca.resources.Dialogues.selectAnswer(Dialogues.java:84) ~[mca:?]
+	at forge.net.mca.network.c2s.InteractionDialogueMessage.receive(InteractionDialogueMessage.java:29) ~[mca:?]
+	at forge.net.mca.forge.cobalt.network.NetworkHandlerImpl.lambda$registerMessage$2(NetworkHandlerImpl.java:34) ~[mca:?]
+	at net.minecraftforge.fml.network.NetworkEvent$Context.enqueueWork(NetworkEvent.java:201) ~[forge:?]
+	at forge.net.mca.forge.cobalt.network.NetworkHandlerImpl.lambda$registerMessage$3(NetworkHandlerImpl.java:29) ~[mca:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:114) ~[forge:?]
+	at java.util.Optional.ifPresent(Optional.java:183) ~[?:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:114) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:148) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:66) ~[forge:?]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:72) ~[forge:?]
+	at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:77) ~[forge:?]
+	at java.util.Optional.map(Optional.java:265) ~[?:?]
+	at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:77) ~[forge:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:1413) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[08Dec2024 01:57:15.882] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.advancements.PlayerAdvancements.func_192743_a(PlayerAdvancements.java:332) ~[?:?]
+	at net.minecraft.advancements.PlayerAdvancements.func_192747_a(PlayerAdvancements.java:325) ~[?:?]
+	at forge.net.mca.entity.interaction.gifts.GiftPredicate.lambda$static$77(GiftPredicate.java:181) ~[mca:?]
+	at forge.net.mca.entity.interaction.InteractionPredicate.test(InteractionPredicate.java:57) ~[mca:?]
+	at forge.net.mca.resources.data.dialogue.Result.getChances(Result.java:78) ~[mca:?]
+	at forge.net.mca.resources.Dialogues.selectAnswer(Dialogues.java:84) ~[mca:?]
+	at forge.net.mca.network.c2s.InteractionDialogueMessage.receive(InteractionDialogueMessage.java:29) ~[mca:?]
+	at forge.net.mca.forge.cobalt.network.NetworkHandlerImpl.lambda$registerMessage$2(NetworkHandlerImpl.java:34) ~[mca:?]
+	at net.minecraftforge.fml.network.NetworkEvent$Context.enqueueWork(NetworkEvent.java:201) ~[forge:?]
+	at forge.net.mca.forge.cobalt.network.NetworkHandlerImpl.lambda$registerMessage$3(NetworkHandlerImpl.java:29) ~[mca:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:114) ~[forge:?]
+	at java.util.Optional.ifPresent(Optional.java:183) ~[?:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:114) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:148) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:66) ~[forge:?]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:72) ~[forge:?]
+	at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:77) ~[forge:?]
+	at java.util.Optional.map(Optional.java:265) ~[?:?]
+	at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:77) ~[forge:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:1413) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[08Dec2024 01:57:37.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> encontre un buen martillo xd
+[08Dec2024 01:58:03.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[08Dec2024 01:58:12.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> para el cuero son secadores de cuero
+[08Dec2024 01:58:16.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> q se hace con palos
+[08Dec2024 01:58:30.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> tipo secador de piel q se usa en sons of the forest
+[08Dec2024 01:59:08.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 died
+[08Dec2024 01:59:08.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Killed TAQUIS123]
+[08Dec2024 01:59:09.788] [Server thread/INFO] [tac/]: PENDING
+[08Dec2024 01:59:09.793] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@29d5af05 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 01:59:09.794] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3e29f45f (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 01:59:09.794] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@28dd7327 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[08Dec2024 01:59:09.794] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3922997c (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 01:59:09.795] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@5306970 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[08Dec2024 01:59:09.795] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@5fdc5b31 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 01:59:09.795] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@b752c2b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 01:59:09.796] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@1975c3d (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 01:59:15.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> qpaso
+[08Dec2024 01:59:15.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[08Dec2024 01:59:27.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> pa recuperarme mas rapido
+[08Dec2024 01:59:31.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> Xd
+[08Dec2024 01:59:41.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> esas garras
