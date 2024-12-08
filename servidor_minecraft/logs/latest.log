@@ -7970,3 +7970,35 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Dec2024 17:07:31.694] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Orange Tulip'/28969, l='ServerLevel[world]', x=-1120.34, y=65.72, z=-358.47]
 [08Dec2024 17:11:26.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Diamonds!]
 [08Dec2024 17:11:39.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Cover Me With Diamonds]
+[08Dec2024 17:17:41.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Take Aim]
+[08Dec2024 17:19:26.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Dark pearl]
+[08Dec2024 17:22:19.559] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[08Dec2024 17:22:19.560] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[08Dec2024 17:22:19.560] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[08Dec2024 17:22:19.560] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[08Dec2024 17:22:19.561] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[08Dec2024 17:22:19.561] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[08Dec2024 17:22:19.561] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[08Dec2024 17:22:19.561] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[08Dec2024 17:22:19.561] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[08Dec2024 17:22:19.561] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[08Dec2024 17:22:19.561] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[08Dec2024 17:22:19.562] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[08Dec2024 17:22:38.642] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/32965, l='ServerLevel[world]', x=-1301.48, y=14.40, z=-321.01]
+[08Dec2024 17:22:38.642] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/32965, l='ServerLevel[world]', x=-1301.48, y=14.40, z=-321.01]
+[08Dec2024 17:22:39.145] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/32968, l='ServerLevel[world]', x=-1301.48, y=15.24, z=-320.74]
+[08Dec2024 17:22:39.145] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/32968, l='ServerLevel[world]', x=-1301.48, y=15.24, z=-320.74]
+[08Dec2024 17:22:39.393] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity WitherSkullEntity['Wither Skull'/32970, l='ServerLevel[world]', x=-1301.48, y=15.01, z=-320.95]
+[08Dec2024 17:22:39.393] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity WitherSkullEntity['Wither Skull'/32970, l='ServerLevel[world]', x=-1301.48, y=15.01, z=-320.95]
+[08Dec2024 17:22:39.641] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/32972, l='ServerLevel[world]', x=-1301.48, y=15.24, z=-319.86]
+[08Dec2024 17:22:39.641] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/32972, l='ServerLevel[world]', x=-1301.48, y=15.24, z=-319.86]
+[08Dec2024 17:22:39.895] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity WitherSkullEntity['Wither Skull'/32974, l='ServerLevel[world]', x=-1301.48, y=15.01, z=-319.65]
+[08Dec2024 17:22:39.896] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity WitherSkullEntity['Wither Skull'/32974, l='ServerLevel[world]', x=-1301.48, y=15.01, z=-319.65]
+[08Dec2024 17:22:40.144] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/32976, l='ServerLevel[world]', x=-1301.48, y=14.40, z=-319.59]
+[08Dec2024 17:22:40.145] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/32976, l='ServerLevel[world]', x=-1301.48, y=14.40, z=-319.59]
+[08Dec2024 17:22:41.643] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/32985, l='ServerLevel[world]', x=-1299.28, y=14.63, z=-322.23]
+[08Dec2024 17:22:41.643] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/32985, l='ServerLevel[world]', x=-1299.28, y=14.63, z=-322.23]
+[08Dec2024 17:22:42.142] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/32988, l='ServerLevel[world]', x=-1299.29, y=15.38, z=-322.98]
+[08Dec2024 17:22:42.142] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/32988, l='ServerLevel[world]', x=-1299.29, y=15.38, z=-322.98]
+[08Dec2024 17:22:42.642] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/32991, l='ServerLevel[world]', x=-1301.85, y=14.63, z=-322.96]
+[08Dec2024 17:22:42.643] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/32991, l='ServerLevel[world]', x=-1301.85, y=14.63, z=-322.96]

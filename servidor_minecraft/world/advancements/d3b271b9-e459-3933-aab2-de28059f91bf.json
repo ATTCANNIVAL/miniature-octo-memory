@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_hedge": {
+    "criteria": {
+      "has_leaves": "2024-12-08 17:13:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:38:40 +0000"
@@ -1234,6 +1240,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-08 16:50:50 +0000"
+    },
+    "done": true
+  },
+  "zombie_extreme:darkpearl": {
+    "criteria": {
+      "darkpearl": "2024-12-08 17:19:26 +0000"
     },
     "done": true
   },
@@ -2433,7 +2445,8 @@
     "criteria": {
       "bread": "2024-12-08 01:44:12 +0000",
       "golden_apple": "2024-12-08 02:23:41 +0000",
-      "golden_carrot": "2024-12-08 16:54:07 +0000"
+      "golden_carrot": "2024-12-08 16:54:07 +0000",
+      "cooked_chicken": "2024-12-08 17:20:23 +0000"
     },
     "done": false
   },
