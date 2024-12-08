@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 02:09:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-08 01:22:57 +0000"
@@ -47,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 02:09:17 +0000"
+    },
+    "done": true
+  },
   "ava:recipes/survival/spring": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:31:40 +0000"
@@ -71,6 +83,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockconstructiontape": {
+    "criteria": {
+      "has_wool": "2024-12-08 02:09:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stone_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-08 01:22:57 +0000"
@@ -92,6 +110,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-08 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 02:09:17 +0000"
     },
     "done": true
   },
@@ -155,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 02:09:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/trampoline": {
     "criteria": {
       "has_iron": "2024-12-08 01:31:40 +0000"
@@ -206,6 +236,12 @@
   "cfm:recipes/cfm/stripped_spruce_crate": {
     "criteria": {
       "has_planks": "2024-12-08 01:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 02:09:17 +0000"
     },
     "done": true
   },
@@ -325,6 +361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 02:09:17 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/machine_pistol": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:31:40 +0000"
@@ -361,6 +403,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/white_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-08 02:09:17 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
     "criteria": {
       "has_smoking_upgrade": "2024-12-08 01:14:07 +0000"
@@ -382,6 +430,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 02:09:17 +0000"
     },
     "done": true
   },
@@ -442,6 +496,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-12-08 01:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 02:09:17 +0000"
     },
     "done": true
   },
@@ -574,6 +634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 02:09:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-08 01:21:44 +0000"
@@ -692,9 +758,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 02:09:17 +0000"
+    },
+    "done": true
+  },
   "craftingdead:recipes/craftingdead.combat/small_barrel": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 02:09:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 02:09:17 +0000"
     },
     "done": true
   },
@@ -707,6 +791,12 @@
   "cfm:recipes/cfm/light_gray_grill": {
     "criteria": {
       "has_iron": "2024-12-08 01:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 02:09:17 +0000"
     },
     "done": true
   },
@@ -743,6 +833,12 @@
   "mca:recipes/misc/rose_gold_ingot_smelting": {
     "criteria": {
       "has_item": "2024-12-08 01:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-08 02:09:17 +0000"
     },
     "done": true
   },
@@ -786,6 +882,12 @@
   "cfm:recipes/cfm/spruce_upgraded_gate": {
     "criteria": {
       "has_log": "2024-12-08 01:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 02:09:17 +0000"
     },
     "done": true
   },
@@ -897,6 +999,12 @@
     },
     "done": true
   },
+  "usefulbackpacks:recipes/filter_configurator": {
+    "criteria": {
+      "has_wool": "2024-12-08 02:09:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-08 01:20:37 +0000"
@@ -930,6 +1038,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-08 01:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 02:09:17 +0000"
     },
     "done": true
   },
@@ -1027,6 +1141,7 @@
     "criteria": {
       "minecraft:mountains": "2024-12-08 01:45:46 +0000",
       "minecraft:taiga": "2024-12-08 01:15:04 +0000",
+      "minecraft:taiga_hills": "2024-12-08 02:08:09 +0000",
       "minecraft:river": "2024-12-08 01:20:26 +0000",
       "minecraft:wooded_mountains": "2024-12-08 01:14:07 +0000",
       "minecraft:plains": "2024-12-08 01:47:18 +0000"
@@ -1183,6 +1298,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 02:09:17 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2024-12-08 01:14:07 +0000"
@@ -1192,6 +1313,12 @@
   "cgm:recipes/cgm/heavy_rifle": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:31:40 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_small": {
+    "criteria": {
+      "has_wool": "2024-12-08 02:09:17 +0000"
     },
     "done": true
   },
@@ -1300,6 +1427,18 @@
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2024-12-08 01:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 02:09:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 02:09:17 +0000"
     },
     "done": true
   },
