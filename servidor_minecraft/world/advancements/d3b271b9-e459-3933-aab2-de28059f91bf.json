@@ -2185,6 +2185,12 @@
     },
     "done": true
   },
+  "usefulbackpacks:recipes/backpack_large": {
+    "criteria": {
+      "has_the_recipe": "2024-12-08 21:54:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_coffee_table": {
     "criteria": {
       "has_planks": "2024-12-08 17:00:09 +0000"

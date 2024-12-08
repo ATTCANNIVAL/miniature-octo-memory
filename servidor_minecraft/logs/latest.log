@@ -7900,3 +7900,26 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Dec2024 21:53:52.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> si
 [08Dec2024 21:54:01.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> pasas??
 [08Dec2024 21:55:30.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd se viene follada
+[08Dec2024 21:59:23.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> la luna ps
+[08Dec2024 21:59:25.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> xd
+[08Dec2024 21:59:28.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> se ve piola
+[08Dec2024 21:59:36.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> con el texturepack
+[08Dec2024 22:00:29.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Spectator Mode]
+[08Dec2024 22:00:47.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[08Dec2024 22:01:10.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Spectator Mode]
+[08Dec2024 22:01:34.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[08Dec2024 22:01:40.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> zomie gigante
+[08Dec2024 22:02:30.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[08Dec2024 22:03:22.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has died from pain caused by fracture
+[08Dec2024 22:03:26.649] [Server thread/INFO] [tac/]: PENDING
+[08Dec2024 22:03:26.653] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12a2d458 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 22:03:26.654] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@4bd6c293 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 22:03:26.655] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@24962536 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[08Dec2024 22:03:26.655] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7e49eaad (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 22:03:26.656] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@6f7ddb32 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[08Dec2024 22:03:26.657] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@e4494e7 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 22:03:26.657] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@32dbbf89 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 22:03:26.658] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@330de290 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 22:07:54.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[08Dec2024 22:08:11.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[08Dec2024 22:08:36.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> hay mejores kits al parecer
