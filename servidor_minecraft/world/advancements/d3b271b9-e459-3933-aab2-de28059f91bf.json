@@ -431,6 +431,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2024-12-08 23:18:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/orange_grill": {
     "criteria": {
       "has_iron": "2024-12-08 01:38:40 +0000"
@@ -797,6 +803,12 @@
     },
     "done": true
   },
+  "relics:obtain/magma_walker": {
+    "criteria": {
+      "obtain_relic": "2024-12-08 23:09:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_chair": {
     "criteria": {
       "has_planks": "2024-12-08 17:00:17 +0000"
@@ -877,9 +889,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-08 23:14:23 +0000",
       "minecraft:skeleton": "2024-12-08 16:50:52 +0000",
       "minecraft:ghast": "2024-12-08 22:56:23 +0000",
       "minecraft:spider": "2024-12-08 02:30:21 +0000",
+      "minecraft:piglin_brute": "2024-12-08 23:13:48 +0000",
       "minecraft:creeper": "2024-12-08 17:05:03 +0000",
       "minecraft:evoker": "2024-12-08 22:35:19 +0000",
       "minecraft:husk": "2024-12-08 22:35:05 +0000",
@@ -1133,6 +1147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-08 23:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-12-08 01:52:57 +0000"
@@ -1148,6 +1168,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-08 01:38:40 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/ghost_skin_talisman": {
+    "criteria": {
+      "obtain_relic": "2024-12-08 23:18:23 +0000"
     },
     "done": true
   },
@@ -2078,6 +2104,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-08 23:09:45 +0000",
       "minecraft:soul_sand_valley": "2024-12-08 22:44:48 +0000"
     },
     "done": false
@@ -2133,6 +2160,12 @@
   "ava:recipes/main/gun_modifying_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-08 23:13:54 +0000"
     },
     "done": true
   },
@@ -3263,9 +3296,21 @@
     },
     "done": true
   },
+  "relics:obtain/bastion_ring": {
+    "criteria": {
+      "obtain_relic": "2024-12-08 23:17:38 +0000"
+    },
+    "done": true
+  },
   "plastic_from_ava:recipes/survival/plastic": {
     "criteria": {
       "has_leather": "2024-12-08 02:03:10 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/jellyfish_necklace": {
+    "criteria": {
+      "obtain_relic": "2024-12-08 23:17:38 +0000"
     },
     "done": true
   },
@@ -3515,6 +3560,18 @@
     },
     "done": true
   },
+  "relics:obtain/rage_glove": {
+    "criteria": {
+      "obtain_relic": "2024-12-08 23:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-08 23:09:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-08 17:05:57 +0000"
@@ -3632,6 +3689,12 @@
   "cfm:recipes/cfm/spruce_upgraded_gate": {
     "criteria": {
       "has_log": "2024-12-08 01:05:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-08 23:13:54 +0000"
     },
     "done": true
   },
@@ -3905,6 +3968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-08 23:14:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-08 17:00:17 +0000"
@@ -4022,6 +4091,12 @@
   "cfm:recipes/cfm/granite_chair": {
     "criteria": {
       "has_planks": "2024-12-08 02:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-08 23:14:25 +0000"
     },
     "done": true
   },
