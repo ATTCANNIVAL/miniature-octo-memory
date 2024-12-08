@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-08 01:46:06 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/brown_grill": {
     "criteria": {
       "has_iron": "2024-12-08 01:31:40 +0000"
@@ -208,6 +214,12 @@
       "has_iron_ingot": "2024-12-08 01:31:40 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-08 01:42:48 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -373,6 +385,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-12-08 01:39:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-12-08 01:20:37 +0000"
@@ -451,9 +469,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-08 01:42:48 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:currency/netherite_wallet": {
     "criteria": {
       "netherite_wallet": "2024-12-08 01:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-08 01:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-08 01:46:06 +0000"
     },
     "done": true
   },
@@ -513,6 +549,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2024-12-08 01:38:08 +0000",
       "minecraft:zombie": "2024-12-08 01:33:38 +0000"
     },
     "done": false
@@ -602,6 +639,12 @@
   "cfm:recipes/cfm/magenta_grill": {
     "criteria": {
       "has_iron": "2024-12-08 01:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-08 01:46:06 +0000"
     },
     "done": true
   },
@@ -974,6 +1017,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mountains": "2024-12-08 01:45:46 +0000",
       "minecraft:taiga": "2024-12-08 01:15:04 +0000",
       "minecraft:river": "2024-12-08 01:20:26 +0000",
       "minecraft:wooded_mountains": "2024-12-08 01:14:07 +0000"
@@ -1064,6 +1108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-08 01:46:06 +0000"
+    },
+    "done": true
+  },
   "ava:recipes/main/builders_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:31:40 +0000"
@@ -1115,6 +1165,12 @@
   "cfm:recipes/cfm/black_grill": {
     "criteria": {
       "has_iron": "2024-12-08 01:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-08 01:46:06 +0000"
     },
     "done": true
   },
