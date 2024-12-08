@@ -1783,6 +1783,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-08 22:10:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/green_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-08 01:28:52 +0000"
