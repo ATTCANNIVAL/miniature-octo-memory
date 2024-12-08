@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-08 22:47:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-08 16:47:17 +0000"
@@ -467,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-08 22:47:37 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/silencer": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 17:58:30 +0000"
@@ -554,6 +566,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-08 17:11:26 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_ingot": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-08 22:47:37 +0000"
     },
     "done": true
   },
@@ -656,6 +674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-08 22:47:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/magenta_grill": {
     "criteria": {
       "has_iron": "2024-12-08 01:31:40 +0000"
@@ -752,6 +776,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-08 22:47:37 +0000"
+    },
+    "done": true
+  },
   "tmtmcoresandmore:cinnabar_ore_ach": {
     "criteria": {
       "cinnabar_ore_ach": "2024-12-08 01:21:49 +0000"
@@ -815,6 +845,12 @@
   "moguns:crayfish/root": {
     "criteria": {
       "tick": "2024-12-08 01:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-08 22:47:37 +0000"
     },
     "done": true
   },
@@ -1160,6 +1196,12 @@
     },
     "done": true
   },
+  "upgradednetherite:recipes/netherite_horse_armor": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-08 22:47:37 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/grenade_launcher": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:31:40 +0000"
@@ -1256,9 +1298,21 @@
     },
     "done": true
   },
+  "upgradednetherite_items:recipes/netherite_apple": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-08 22:47:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2024-12-08 16:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-08 22:47:37 +0000"
     },
     "done": true
   },
@@ -1704,6 +1758,12 @@
   "cfm:recipes/cfm/stone_desk": {
     "criteria": {
       "has_planks": "2024-12-08 01:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-08 22:47:37 +0000"
     },
     "done": true
   },
@@ -2267,6 +2327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-08 22:47:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-08 16:47:17 +0000"
@@ -2294,6 +2360,12 @@
   "cfm:recipes/cfm/stripped_jungle_mail_box": {
     "criteria": {
       "has_chest": "2024-12-08 16:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-08 22:54:28 +0000"
     },
     "done": true
   },
@@ -2366,6 +2438,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-08 01:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-08 22:47:37 +0000"
     },
     "done": true
   },
@@ -2501,6 +2579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-08 22:47:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/orange_cooler": {
     "criteria": {
       "has_chest": "2024-12-08 16:47:17 +0000"
@@ -2606,6 +2690,12 @@
   "minecolonies:recipes/combat/chainmailchestplate": {
     "criteria": {
       "has_iron": "2024-12-08 01:31:40 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_upgrade_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-08 22:47:37 +0000"
     },
     "done": true
   },
@@ -2774,6 +2864,12 @@
   "craftingdead:recipes/craftingdead.combat/trenchgun": {
     "criteria": {
       "has_oak_planks": "2024-12-08 22:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-08 22:47:37 +0000"
     },
     "done": true
   },

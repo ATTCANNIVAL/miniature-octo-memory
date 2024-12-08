@@ -1583,6 +1583,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-08 22:52:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-08 01:08:42 +0000"
@@ -2204,6 +2210,12 @@
   "cfm:recipes/cfm/birch_cabinet": {
     "criteria": {
       "has_log": "2024-12-08 17:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-08 22:54:16 +0000"
     },
     "done": true
   },
