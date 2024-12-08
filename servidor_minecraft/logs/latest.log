@@ -8300,3 +8300,138 @@ java.lang.IllegalArgumentException: Modifier is already applied on this attribut
 [08Dec2024 22:56:47.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> afk
 [08Dec2024 22:56:50.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
 [08Dec2024 22:58:57.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
+[08Dec2024 23:00:07.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[08Dec2024 23:00:31.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> dontas
+[08Dec2024 23:00:38.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[08Dec2024 23:00:51.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> no me deja usar la pistola
+[08Dec2024 23:03:22.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> crees q el sv aguante 6 personas?
+[08Dec2024 23:03:56.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> porque no me deja usar el arma
+[08Dec2024 23:04:04.230] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Torch'/41648, l='ServerLevel[world]', x=15.30, y=35.25, z=21.68]
+[08Dec2024 23:04:04.230] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Torch'/41648, l='ServerLevel[world]', x=15.30, y=35.25, z=21.68]
+[08Dec2024 23:04:22.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> obtuve una fractura
+[08Dec2024 23:04:23.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[08Dec2024 23:04:32.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> que es eso??
+[08Dec2024 23:04:43.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> lo q necesita yeso
+[08Dec2024 23:04:54.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> de donde te los sacas xd
+[08Dec2024 23:05:39.355] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=39, z=19} BlockPos{x=0, y=37, z=19}
+[08Dec2024 23:05:41.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> lo repare
+[08Dec2024 23:05:55.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> a tu me estabas disparando
+[08Dec2024 23:05:56.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> xd
+[08Dec2024 23:07:06.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> no veo dungeons
+[08Dec2024 23:07:11.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> no hay
+[08Dec2024 23:07:15.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> solo las normales
+[08Dec2024 23:07:28.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> en el owerwolrd es donde hay danyons
+[08Dec2024 23:07:40.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> vamo por varas de blaze tons
+[08Dec2024 23:07:47.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> si
+[08Dec2024 23:08:11.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has died from pain caused by fracture
+[08Dec2024 23:08:12.829] [Server thread/INFO] [tac/]: PENDING
+[08Dec2024 23:08:12.833] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12a2d458 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 23:08:12.834] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@4bd6c293 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 23:08:12.834] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@24962536 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[08Dec2024 23:08:12.834] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7e49eaad (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 23:08:12.834] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@6f7ddb32 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[08Dec2024 23:08:12.835] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@e4494e7 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 23:08:12.835] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@32dbbf89 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 23:08:12.835] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@330de290 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 23:08:12.840] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/38718, l='ServerLevel[world]', x=-903.15, y=14.00, z=38.32]
+[08Dec2024 23:08:12.840] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rotten Flesh'/38734, l='ServerLevel[world]', x=-902.59, y=13.00, z=34.59]
+[08Dec2024 23:08:12.840] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AmmoKitEntity['entity.ava.ammo_kit'/38733, l='ServerLevel[world]', x=-902.49, y=13.00, z=34.77]
+[08Dec2024 23:08:12.840] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rotten Flesh'/38717, l='ServerLevel[world]', x=-903.14, y=14.00, z=36.75]
+[08Dec2024 23:08:12.842] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rotten Flesh'/39735, l='ServerLevel[world]', x=-880.50, y=68.00, z=-53.50]
+[08Dec2024 23:08:12.842] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Perk Point Book'/39796, l='ServerLevel[world]', x=-880.50, y=68.00, z=-53.50]
+[08Dec2024 23:08:12.842] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/39741, l='ServerLevel[world]', x=-886.95, y=50.00, z=-7.41]
+[08Dec2024 23:08:12.842] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AmmoKitEntity['entity.ava.ammo_kit'/39740, l='ServerLevel[world]', x=-886.95, y=50.00, z=-7.41]
+[08Dec2024 23:08:12.842] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/39742, l='ServerLevel[world]', x=-885.70, y=48.00, z=-15.76]
+[08Dec2024 23:08:12.843] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/39743, l='ServerLevel[world]', x=-885.70, y=48.00, z=-15.76]
+[08Dec2024 23:08:12.843] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gunpowder'/39737, l='ServerLevel[world]', x=-887.50, y=12.00, z=15.50]
+[08Dec2024 23:08:12.843] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gunpowder'/39739, l='ServerLevel[world]', x=-880.50, y=23.00, z=27.50]
+[08Dec2024 23:08:12.845] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gunpowder'/39795, l='ServerLevel[world]', x=-872.52, y=23.00, z=13.51]
+[08Dec2024 23:08:12.845] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Skill Point Book'/39776, l='ServerLevel[world]', x=-879.50, y=27.00, z=63.50]
+[08Dec2024 23:08:12.845] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/39777, l='ServerLevel[world]', x=-879.50, y=27.00, z=63.50]
+[08Dec2024 23:08:12.846] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rotten Flesh'/39734, l='ServerLevel[world]', x=-865.28, y=97.18, z=51.37]
+[08Dec2024 23:08:12.846] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/39778, l='ServerLevel[world]', x=-879.50, y=27.00, z=63.50]
+[08Dec2024 23:08:12.846] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/39773, l='ServerLevel[world]', x=-872.57, y=27.00, z=70.01]
+[08Dec2024 23:08:12.846] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/39775, l='ServerLevel[world]', x=-864.53, y=27.00, z=68.53]
+[08Dec2024 23:08:12.846] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/39772, l='ServerLevel[world]', x=-872.57, y=27.00, z=70.01]
+[08Dec2024 23:08:12.846] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/39771, l='ServerLevel[world]', x=-878.50, y=27.00, z=65.50]
+[08Dec2024 23:08:12.846] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/39770, l='ServerLevel[world]', x=-878.50, y=27.00, z=65.50]
+[08Dec2024 23:08:12.847] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/39774, l='ServerLevel[world]', x=-864.53, y=27.00, z=68.53]
+[08Dec2024 23:08:12.847] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/39718, l='ServerLevel[world]', x=-873.44, y=62.00, z=109.46]
+[08Dec2024 23:08:12.847] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/39726, l='ServerLevel[world]', x=-870.27, y=61.00, z=105.19]
+[08Dec2024 23:08:12.847] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity FirstAidKitEntity['entity.ava.first_aid_kit'/39717, l='ServerLevel[world]', x=-873.44, y=62.00, z=109.46]
+[08Dec2024 23:08:12.847] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/39727, l='ServerLevel[world]', x=-870.27, y=61.00, z=105.19]
+[08Dec2024 23:08:12.847] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rotten Flesh'/39729, l='ServerLevel[world]', x=-866.36, y=66.00, z=121.70]
+[08Dec2024 23:08:12.849] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Titanite Nugget'/39759, l='ServerLevel[world]', x=-850.91, y=22.17, z=-14.01]
+[08Dec2024 23:08:12.849] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/39763, l='ServerLevel[world]', x=-848.50, y=45.00, z=4.30]
+[08Dec2024 23:08:12.849] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/39760, l='ServerLevel[world]', x=-848.50, y=45.00, z=5.12]
+[08Dec2024 23:08:12.849] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/39761, l='ServerLevel[world]', x=-849.50, y=45.00, z=10.50]
+[08Dec2024 23:08:12.849] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/39762, l='ServerLevel[world]', x=-848.50, y=45.00, z=4.30]
+[08Dec2024 23:08:12.850] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gunpowder'/39746, l='ServerLevel[world]', x=-849.42, y=27.00, z=18.44]
+[08Dec2024 23:08:12.850] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity FirstAidKitEntity['entity.ava.first_aid_kit'/39731, l='ServerLevel[world]', x=-860.30, y=31.10, z=17.30]
+[08Dec2024 23:08:12.850] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/39721, l='ServerLevel[world]', x=-850.89, y=17.00, z=23.42]
+[08Dec2024 23:08:12.850] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/39733, l='ServerLevel[world]', x=-859.50, y=96.00, z=56.50]
+[08Dec2024 23:08:12.850] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Skill Point Book'/39732, l='ServerLevel[world]', x=-859.50, y=96.00, z=56.50]
+[08Dec2024 23:08:12.852] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/39769, l='ServerLevel[world]', x=-845.50, y=51.00, z=-9.50]
+[08Dec2024 23:08:12.852] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/39768, l='ServerLevel[world]', x=-837.50, y=55.00, z=-3.92]
+[08Dec2024 23:08:12.852] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/39767, l='ServerLevel[world]', x=-837.49, y=55.00, z=-4.56]
+[08Dec2024 23:08:12.852] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/39766, l='ServerLevel[world]', x=-837.49, y=55.00, z=-4.56]
+[08Dec2024 23:08:12.853] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['String'/39749, l='ServerLevel[world]', x=-847.50, y=44.00, z=9.50]
+[08Dec2024 23:08:12.853] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rotten Flesh'/39744, l='ServerLevel[world]', x=-847.48, y=26.00, z=14.49]
+[08Dec2024 23:08:12.853] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gunpowder'/39745, l='ServerLevel[world]', x=-837.50, y=26.00, z=11.50]
+[08Dec2024 23:08:12.853] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity FirstAidKitEntity['entity.ava.first_aid_kit'/39783, l='ServerLevel[world]', x=-837.10, y=28.00, z=19.74]
+[08Dec2024 23:08:12.853] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rotten Flesh'/39784, l='ServerLevel[world]', x=-837.10, y=28.00, z=19.74]
+[08Dec2024 23:08:12.853] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gunpowder'/39747, l='ServerLevel[world]', x=-846.52, y=28.00, z=17.52]
+[08Dec2024 23:08:12.854] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AmmoKitEntity['entity.ava.ammo_kit'/39722, l='ServerLevel[world]', x=-834.50, y=30.00, z=85.50]
+[08Dec2024 23:08:12.855] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity FirstAidKitEntity['entity.ava.first_aid_kit'/39750, l='ServerLevel[world]', x=-829.50, y=26.00, z=16.50]
+[08Dec2024 23:08:12.856] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gunpowder'/39751, l='ServerLevel[world]', x=-829.50, y=26.00, z=16.50]
+[08Dec2024 23:08:12.856] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gunpowder'/39787, l='ServerLevel[world]', x=-816.50, y=24.00, z=49.50]
+[08Dec2024 23:08:12.856] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Perk Point Book'/39786, l='ServerLevel[world]', x=-816.50, y=24.00, z=49.50]
+[08Dec2024 23:08:12.858] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gunpowder'/39720, l='ServerLevel[world]', x=-815.50, y=50.00, z=117.50]
+[08Dec2024 23:08:12.859] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/39780, l='ServerLevel[world]', x=-793.50, y=19.00, z=-13.50]
+[08Dec2024 23:08:12.859] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/39781, l='ServerLevel[world]', x=-793.50, y=19.00, z=-13.50]
+[08Dec2024 23:08:12.860] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gunpowder'/39719, l='ServerLevel[world]', x=-789.50, y=27.00, z=48.50]
+[08Dec2024 23:08:12.861] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Ink Sac'/39785, l='ServerLevel[world]', x=-769.84, y=61.00, z=-23.60]
+[08Dec2024 23:08:12.861] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Titanite Nugget'/39788, l='ServerLevel[world]', x=-781.60, y=61.00, z=-9.66]
+[08Dec2024 23:08:12.861] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Ink Sac'/39791, l='ServerLevel[world]', x=-781.35, y=62.00, z=-12.40]
+[08Dec2024 23:08:12.862] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Titanite Nugget'/39790, l='ServerLevel[world]', x=-781.35, y=62.00, z=-12.40]
+[08Dec2024 23:08:12.862] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Ink Sac'/39789, l='ServerLevel[world]', x=-781.60, y=61.00, z=-9.66]
+[08Dec2024 23:08:12.865] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Ink Sac'/39764, l='ServerLevel[world]', x=-747.64, y=61.00, z=-38.40]
+[08Dec2024 23:08:12.865] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Ink Sac'/39765, l='ServerLevel[world]', x=-742.37, y=62.08, z=-40.70]
+[08Dec2024 23:08:12.867] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/39756, l='ServerLevel[world]', x=-730.51, y=43.00, z=39.51]
+[08Dec2024 23:08:12.867] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Titanite Nugget'/39754, l='ServerLevel[world]', x=-730.51, y=43.00, z=39.51]
+[08Dec2024 23:08:12.867] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/39755, l='ServerLevel[world]', x=-730.51, y=43.00, z=39.51]
+[08Dec2024 23:08:14.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[08Dec2024 23:08:15.738] [Server thread/INFO] [tac/]: PENDING
+[08Dec2024 23:08:15.741] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12a2d458 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 23:08:15.741] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@4bd6c293 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 23:08:15.742] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@24962536 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[08Dec2024 23:08:15.742] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7e49eaad (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 23:08:15.742] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@6f7ddb32 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[08Dec2024 23:08:15.742] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@e4494e7 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 23:08:15.743] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@32dbbf89 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 23:08:15.743] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@330de290 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 23:08:38.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Zombie Knight
+[08Dec2024 23:08:40.295] [Server thread/INFO] [tac/]: PENDING
+[08Dec2024 23:08:40.300] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12a2d458 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 23:08:40.300] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@4bd6c293 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 23:08:40.300] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@24962536 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[08Dec2024 23:08:40.300] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7e49eaad (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 23:08:40.301] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@6f7ddb32 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[08Dec2024 23:08:40.301] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@e4494e7 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 23:08:40.301] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@32dbbf89 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 23:08:40.301] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@330de290 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 23:08:43.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
+[08Dec2024 23:08:47.541] [Server thread/INFO] [tac/]: PENDING
+[08Dec2024 23:08:47.545] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12a2d458 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 23:08:47.545] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@4bd6c293 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 23:08:47.545] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@24962536 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[08Dec2024 23:08:47.545] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7e49eaad (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 23:08:47.546] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@6f7ddb32 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[08Dec2024 23:08:47.546] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@e4494e7 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 23:08:47.546] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@32dbbf89 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 23:08:47.546] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@330de290 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 23:08:59.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Damage is 300 bucks]
+[08Dec2024 23:09:04.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [A Terrible Fortress]
+[08Dec2024 23:09:17.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Trust fall]
+[08Dec2024 23:09:29.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> god
+[08Dec2024 23:09:36.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]

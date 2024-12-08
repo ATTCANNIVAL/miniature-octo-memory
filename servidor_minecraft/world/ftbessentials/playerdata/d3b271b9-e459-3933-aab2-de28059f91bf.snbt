@@ -15,6 +15,7 @@
 		{ dim: "minecraft:overworld", x: -820, y: 71, z: 39, time: 1733682884338L }
 		{ dim: "minecraft:overworld", x: -776, y: 73, z: 43, time: 1733693892386L }
 		{ dim: "minecraft:overworld", x: -819, y: 71, z: 39, time: 1733694768029L }
+		{ dim: "minecraft:the_nether", x: -120, y: 42, z: -24, time: 1733698980332L }
 	]
 	homes: { }
 }
