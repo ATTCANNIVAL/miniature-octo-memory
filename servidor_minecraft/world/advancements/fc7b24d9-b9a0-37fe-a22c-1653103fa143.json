@@ -77,15 +77,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2024-12-08 18:01:29 +0000"
-    },
-    "done": true
-  },
   "tmtmcoresandmore:arkansas_antimony_block_crafted_ach": {
     "criteria": {
       "arkansas_antimony_block_crafted_ach": "2024-12-08 17:01:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-08 18:01:29 +0000"
     },
     "done": true
   },
@@ -215,15 +215,15 @@
     },
     "done": true
   },
-  "craftingdead:recipes/craftingdead.combat/frag_grenade": {
-    "criteria": {
-      "has_gunpowder": "2024-12-08 17:33:33 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-08 16:47:17 +0000"
+    },
+    "done": true
+  },
+  "craftingdead:recipes/craftingdead.combat/frag_grenade": {
+    "criteria": {
+      "has_gunpowder": "2024-12-08 17:33:33 +0000"
     },
     "done": true
   },
@@ -383,15 +383,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 18:05:22 +0000"
-    },
-    "done": true
-  },
   "cgm:recipes/cgm/medium_scope": {
     "criteria": {
       "has_redstone": "2024-12-08 17:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 18:05:22 +0000"
     },
     "done": true
   },
@@ -1161,15 +1161,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2024-12-08 17:11:26 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/red_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-08 16:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-08 17:11:26 +0000"
     },
     "done": true
   },
@@ -1287,15 +1287,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_helmet": "2024-12-08 18:14:15 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-08 16:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-08 18:14:15 +0000"
     },
     "done": true
   },
@@ -1473,15 +1473,15 @@
     },
     "done": true
   },
-  "cgm:recipes/cgm/advanced_bullet": {
-    "criteria": {
-      "has_gunpowder": "2024-12-08 17:33:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-08 17:21:02 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/advanced_bullet": {
+    "criteria": {
+      "has_gunpowder": "2024-12-08 17:33:33 +0000"
     },
     "done": true
   },
@@ -1563,15 +1563,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 18:05:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_reeds": "2024-12-08 17:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 18:05:22 +0000"
     },
     "done": true
   },
