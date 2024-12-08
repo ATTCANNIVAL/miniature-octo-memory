@@ -668,6 +668,12 @@
     },
     "done": true
   },
+  "tmtmcoresandmore:rusty_the_creeper_killed_ach": {
+    "criteria": {
+      "rusty_the_creeper_killed_ach": "2024-12-08 22:35:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-08 22:14:43 +0000"
@@ -1316,6 +1322,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2024-12-08 22:44:49 +0000"
+    },
+    "done": false
+  },
   "bloxys_structures:the_adventure_realm": {
     "criteria": {
       "the_adventure_realm": "2024-12-08 01:14:07 +0000"
@@ -1469,6 +1481,12 @@
   "cfm:recipes/cfm/stripped_warped_mail_box": {
     "criteria": {
       "has_chest": "2024-12-08 16:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-08 22:44:47 +0000"
     },
     "done": true
   },
@@ -2027,6 +2045,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-08 22:44:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_upgraded_fence": {
     "criteria": {
       "has_log": "2024-12-08 01:20:37 +0000"
@@ -2270,6 +2294,12 @@
   "cfm:recipes/cfm/stripped_jungle_mail_box": {
     "criteria": {
       "has_chest": "2024-12-08 16:47:17 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/reflection_necklace": {
+    "criteria": {
+      "obtain_relic": "2024-12-08 22:39:52 +0000"
     },
     "done": true
   },

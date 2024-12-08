@@ -8175,3 +8175,70 @@ java.lang.IllegalArgumentException: Modifier is already applied on this attribut
 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
+[08Dec2024 22:39:21.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> acepta
+[08Dec2024 22:39:22.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ps
+[08Dec2024 22:39:23.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> =v
+[08Dec2024 22:39:39.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> miras los escudos alrededor??
+[08Dec2024 22:39:39.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> eso?
+[08Dec2024 22:39:42.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> si
+[08Dec2024 22:39:44.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> es el collar
+[08Dec2024 22:39:52.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [no u]
+[08Dec2024 22:40:07.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> me lo devuelves??
+[08Dec2024 22:40:07.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> atacame aver
+[08Dec2024 22:40:16.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[08Dec2024 22:40:24.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> con q me atacaste
+[08Dec2024 22:40:31.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> me consumia escudo cada ataque?
+[08Dec2024 22:40:32.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> te empuja al romper un escudo
+[08Dec2024 22:40:45.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> tengo espada de diamante ps
+[08Dec2024 22:40:50.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> aa
+[08Dec2024 22:40:53.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> a lo menos
+[08Dec2024 22:41:00.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> me bajo poco corazon
+[08Dec2024 22:41:02.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> pero se ve god
+[08Dec2024 22:41:13.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> pero como mueres de 2 corazones a la cabeza peor
+[08Dec2024 22:41:53.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> a
+[08Dec2024 22:42:04.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> me hace daño ami
+[08Dec2024 22:42:15.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> dise que refleja el 50%
+[08Dec2024 22:42:15.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> si es a distancia no me hace daño
+[08Dec2024 22:42:42.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mas bug la vida xd
+[08Dec2024 22:42:52.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> me acaba de bajar 5 corazones
+[08Dec2024 22:42:57.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> cual bug
+[08Dec2024 22:42:57.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> tengo 57 balas nomas
+[08Dec2024 22:43:13.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> conste q podemos morir por torzo o cabeza xd
+[08Dec2024 22:43:16.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> tengo pal portal
+[08Dec2024 22:43:51.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ven
+[08Dec2024 22:43:56.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> pera
+[08Dec2024 22:44:46.391] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12a2d458 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 22:44:46.392] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@4bd6c293 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 22:44:46.392] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@24962536 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[08Dec2024 22:44:46.392] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7e49eaad (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 22:44:46.393] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@6f7ddb32 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[08Dec2024 22:44:46.393] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@e4494e7 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 22:44:46.394] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@32dbbf89 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 22:44:46.394] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@330de290 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 22:44:47.501] [Server thread/INFO] [tac/]: PENDING
+[08Dec2024 22:44:47.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [We Need to Go Deeper]
+[08Dec2024 22:44:47.908] [Server thread/INFO] [tac/]: PENDING
+[08Dec2024 22:44:47.912] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12a2d458 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 22:44:47.912] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@4bd6c293 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 22:44:47.913] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@24962536 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[08Dec2024 22:44:47.913] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7e49eaad (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 22:44:47.914] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@6f7ddb32 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[08Dec2024 22:44:47.915] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@e4494e7 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 22:44:47.915] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@32dbbf89 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 22:44:47.916] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@330de290 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 22:44:47.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [We Need to Go Deeper]
+[08Dec2024 22:44:49.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2129ms or 42 ticks behind
+[08Dec2024 22:44:57.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> pera afk
+[08Dec2024 22:45:01.986] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TAQUIS123 lost connection: Disconnected
+[08Dec2024 22:45:01.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 left the game
+[08Dec2024 22:45:01.987] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3b271b9-e459-3933-aab2-de28059f91bf was unloaded
+[08Dec2024 22:45:41.984] [Server thread/INFO] [tac/]: PENDING
+[08Dec2024 22:45:41.985] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12a2d458 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 22:45:41.985] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@4bd6c293 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 22:45:41.985] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@24962536 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[08Dec2024 22:45:41.985] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7e49eaad (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 22:45:41.986] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@6f7ddb32 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[08Dec2024 22:45:41.987] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@e4494e7 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 22:45:41.987] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@32dbbf89 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 22:45:41.987] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@330de290 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 22:47:16.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
