@@ -15443,3 +15443,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Dec2024 17:02:35.050] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon start notification
 [08Dec2024 17:02:55.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> escuchaste eso?
 [08Dec2024 17:03:00.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> si
+[08Dec2024 17:05:40.261] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Dec2024 17:05:40.276] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Dec2024 17:07:21.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Take Aim]
+[08Dec2024 17:07:31.694] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Orange Tulip'/28969, l='ServerLevel[world]', x=-1120.34, y=65.72, z=-358.47]
+[08Dec2024 17:07:31.694] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Orange Tulip'/28969, l='ServerLevel[world]', x=-1120.34, y=65.72, z=-358.47]
+[08Dec2024 17:10:40.084] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Dec2024 17:10:40.101] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Dec2024 17:11:26.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Diamonds!]
+[08Dec2024 17:11:39.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Cover Me With Diamonds]
+[08Dec2024 17:12:10.038] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon end notification
+[08Dec2024 17:12:10.038] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon end notification
+[08Dec2024 17:12:10.038] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon end notification
+[08Dec2024 17:12:10.038] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon end notification
+[08Dec2024 17:12:10.038] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon end notification

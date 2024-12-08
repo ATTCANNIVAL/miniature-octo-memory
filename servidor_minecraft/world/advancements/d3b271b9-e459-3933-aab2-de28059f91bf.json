@@ -813,6 +813,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-08 16:50:52 +0000",
       "minecraft:spider": "2024-12-08 02:30:21 +0000",
+      "minecraft:creeper": "2024-12-08 17:05:03 +0000",
       "minecraft:zombie": "2024-12-08 01:34:02 +0000"
     },
     "done": false
@@ -838,6 +839,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2024-12-08 01:58:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-08 17:05:57 +0000"
     },
     "done": true
   },
@@ -1960,6 +1967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-12-08 17:05:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-08 01:28:52 +0000"
@@ -2188,6 +2201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-08 17:05:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_upgraded_gate": {
     "criteria": {
       "has_log": "2024-12-08 17:00:09 +0000"
@@ -2323,6 +2342,12 @@
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2024-12-08 01:02:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-08 17:05:57 +0000"
     },
     "done": true
   },
@@ -2493,6 +2518,12 @@
   "cfm:recipes/cfm/acacia_coffee_table": {
     "criteria": {
       "has_log": "2024-12-08 17:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-08 17:05:57 +0000"
     },
     "done": true
   },
@@ -3182,6 +3213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-08 17:05:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_gray_grill": {
     "criteria": {
       "has_iron": "2024-12-08 01:38:40 +0000"
@@ -3191,6 +3228,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-12-08 01:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-08 17:05:57 +0000"
     },
     "done": true
   },
@@ -3578,6 +3621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-08 17:05:19 +0000"
+    },
+    "done": true
+  },
   "ava:recipes/survival/compressed_wood": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:38:40 +0000"
@@ -3680,6 +3729,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-08 17:02:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-08 17:00:09 +0000"
@@ -3755,6 +3810,12 @@
   "cgm:recipes/cgm/pistol": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-08 17:07:21 +0000"
     },
     "done": true
   },

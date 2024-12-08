@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "craftingdead:recipes/craftingdead.combat/small_body": {
+    "criteria": {
+      "has_redstone": "2024-12-08 17:05:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-08 01:22:57 +0000"
@@ -110,6 +116,12 @@
   "minecolonies:recipes/minecolonies/blockconstructiontape": {
     "criteria": {
       "has_wool": "2024-12-08 02:09:17 +0000"
+    },
+    "done": true
+  },
+  "tmtmcoresandmore:arkansas_antimony_block_crafted_ach": {
+    "criteria": {
+      "arkansas_antimony_block_crafted_ach": "2024-12-08 17:01:52 +0000"
     },
     "done": true
   },
@@ -432,6 +444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-08 17:05:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_desk": {
     "criteria": {
       "has_planks": "2024-12-08 01:20:37 +0000"
@@ -447,6 +465,12 @@
   "lightmanscurrency:currency/trading_core": {
     "criteria": {
       "trading_core": "2024-12-08 01:14:07 +0000"
+    },
+    "done": true
+  },
+  "craftingdead:recipes/craftingdead.combat/remote_detonator": {
+    "criteria": {
+      "has_redstone": "2024-12-08 17:05:46 +0000"
     },
     "done": true
   },
@@ -572,6 +596,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/medium_scope": {
+    "criteria": {
+      "has_redstone": "2024-12-08 17:05:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2024-12-08 01:39:31 +0000"
@@ -599,6 +629,12 @@
   "cfm:recipes/cfm/brown_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-08 16:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-08 17:05:46 +0000"
     },
     "done": true
   },
@@ -677,6 +713,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-08 01:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-08 17:05:46 +0000"
     },
     "done": true
   },
@@ -770,6 +812,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-08 17:05:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-08 01:21:44 +0000"
@@ -787,6 +835,7 @@
       "minecraft:skeleton": "2024-12-08 01:54:38 +0000",
       "minecraft:spider": "2024-12-08 01:38:08 +0000",
       "minecraft:creeper": "2024-12-08 01:54:18 +0000",
+      "minecraft:enderman": "2024-12-08 17:02:49 +0000",
       "minecraft:zombie": "2024-12-08 01:33:38 +0000"
     },
     "done": false
@@ -800,6 +849,12 @@
   "cfm:recipes/cfm/crimson_mail_box": {
     "criteria": {
       "has_chest": "2024-12-08 16:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-08 17:05:46 +0000"
     },
     "done": true
   },
@@ -842,6 +897,12 @@
   "mca:recipes/misc/family_tree": {
     "criteria": {
       "has_item": "2024-12-08 01:14:07 +0000"
+    },
+    "done": true
+  },
+  "craftingdead:recipes/craftingdead.combat/eotech_sight": {
+    "criteria": {
+      "has_redstone": "2024-12-08 17:05:46 +0000"
     },
     "done": true
   },
@@ -1032,6 +1093,12 @@
   "cfm:recipes/cfm/crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-08 16:47:17 +0000"
+    },
+    "done": true
+  },
+  "craftingdead:recipes/craftingdead.combat/hp_scope": {
+    "criteria": {
+      "has_redstone": "2024-12-08 17:05:46 +0000"
     },
     "done": true
   },
@@ -1354,6 +1421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-08 17:05:46 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2024-12-08 01:14:07 +0000"
@@ -1429,6 +1502,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2024-12-08 01:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-08 17:05:46 +0000"
     },
     "done": true
   },
@@ -1719,6 +1798,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/short_scope": {
+    "criteria": {
+      "has_redstone": "2024-12-08 17:05:46 +0000"
+    },
+    "done": true
+  },
   "usefulbackpacks:recipes/backpack_small": {
     "criteria": {
       "has_wool": "2024-12-08 02:09:17 +0000"
@@ -1770,6 +1855,12 @@
   "cfm:recipes/cfm/stone_chair": {
     "criteria": {
       "has_planks": "2024-12-08 01:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-08 17:05:46 +0000"
     },
     "done": true
   },
