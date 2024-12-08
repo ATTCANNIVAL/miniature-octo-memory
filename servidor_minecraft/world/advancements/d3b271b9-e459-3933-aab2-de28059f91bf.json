@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-08 16:42:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-08 01:28:56 +0000"
@@ -377,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-08 16:42:13 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-08 01:01:23 +0000"
@@ -702,6 +714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-08 16:42:13 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/family_tree": {
     "criteria": {
       "has_item": "2024-12-08 01:01:23 +0000"
@@ -790,6 +808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-08 16:42:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-08 01:28:33 +0000"
@@ -823,6 +847,12 @@
   "cfm:recipes/cfm/stripped_oak_park_bench": {
     "criteria": {
       "has_log": "2024-12-08 01:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-08 16:42:11 +0000"
     },
     "done": true
   },
@@ -1208,6 +1238,12 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2024-12-08 01:39:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-08 16:42:11 +0000"
     },
     "done": true
   },
@@ -1673,6 +1709,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-08 01:28:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-08 16:42:13 +0000"
     },
     "done": true
   },
@@ -3224,6 +3266,12 @@
   "cfm:recipes/cfm/diorite_cabinet": {
     "criteria": {
       "has_planks": "2024-12-08 01:32:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-08 16:42:11 +0000"
     },
     "done": true
   },

@@ -13999,3 +13999,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Dec2024 16:40:37.539] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [08Dec2024 16:42:37.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ya me perdí :v
 [08Dec2024 16:42:41.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[08Dec2024 16:45:37.524] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Dec2024 16:45:37.541] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Dec2024 16:50:15.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> voy a buscar cuero
+[08Dec2024 16:50:37.460] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Dec2024 16:50:37.479] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Dec2024 16:50:50.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Not Today, Thank You]
+[08Dec2024 16:52:43.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[08Dec2024 16:53:34.021] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-887, y=80, z=-123} BlockPos{x=-887, y=78, z=-123}
+[08Dec2024 16:53:34.093] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-887, y=80, z=-123} BlockPos{x=-887, y=78, z=-123}
