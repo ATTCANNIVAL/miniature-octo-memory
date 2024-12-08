@@ -16212,3 +16212,100 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Dec2024 22:27:37.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> volvi
 [08Dec2024 22:27:39.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> si
 [08Dec2024 22:28:13.067] [Worker-Main-65/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-1002, y=81, z=373} at Chest with:minecraft:chests/ruined_portal in ruined_portal
+[08Dec2024 22:29:06.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mira lo que encontre
+[08Dec2024 22:29:11.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> a
+[08Dec2024 22:29:11.629] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Maria'/31863, l='ServerLevel[world]', x=-451.72, y=78.00, z=-471.50] died, message: 'Maria was slain by Infected Hazmat'
+[08Dec2024 22:29:11.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Darkwing duck]
+[08Dec2024 22:29:19.177] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Jean'/31805, l='ServerLevel[world]', x=-453.70, y=78.00, z=-462.54] died, message: 'Jean was slain by Infected Hazmat'
+[08Dec2024 22:29:40.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> tienes ferula?
+[08Dec2024 22:29:42.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> o yeso
+[08Dec2024 22:29:50.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ten
+[08Dec2024 22:29:54.922] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Dec2024 22:29:54.940] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Dec2024 22:30:45.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> mesa de encantamiento
+[08Dec2024 22:33:19.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Ice Bucket Challenge]
+[08Dec2024 22:33:51.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Who is Cutting Onions?]
+[08Dec2024 22:34:41.247] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Loot table 'minecraft:chests/ruined_portal' has T3 level chest loot. Adding coins to the spawned loot.
+[08Dec2024 22:34:41.247] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 6x lightmanscurrency:coin_gold to the chest loot.
+[08Dec2024 22:34:41.247] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_iron to the chest loot.
+[08Dec2024 22:34:41.247] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 8x lightmanscurrency:coin_iron to the chest loot.
+[08Dec2024 22:34:41.247] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 10x lightmanscurrency:coin_iron to the chest loot.
+[08Dec2024 22:34:54.885] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Dec2024 22:34:54.902] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Dec2024 22:35:10.231] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Malou'/31836, l='ServerLevel[world]', x=-593.61, y=80.00, z=-292.50] died, message: 'Malou (Following) was slain by Night Hunter'
+[08Dec2024 22:35:19.295] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Loot table 'minecraft:chests/ruined_portal' has T3 level chest loot. Adding coins to the spawned loot.
+[08Dec2024 22:35:19.295] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 4x lightmanscurrency:coin_gold to the chest loot.
+[08Dec2024 22:35:19.295] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 10x lightmanscurrency:coin_iron to the chest loot.
+[08Dec2024 22:35:19.295] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_iron to the chest loot.
+[08Dec2024 22:35:19.295] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 2x lightmanscurrency:coin_gold to the chest loot.
+[08Dec2024 22:35:19.295] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 2x lightmanscurrency:coin_copper to the chest loot.
+[08Dec2024 22:35:29.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Night Hunter
+[08Dec2024 22:35:31.128] [Server thread/INFO] [tac/]: PENDING
+[08Dec2024 22:35:31.133] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12a2d458 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 22:35:31.133] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@4bd6c293 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 22:35:31.133] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@24962536 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[08Dec2024 22:35:31.133] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7e49eaad (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 22:35:31.134] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@6f7ddb32 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[08Dec2024 22:35:31.134] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@e4494e7 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 22:35:31.134] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@32dbbf89 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 22:35:31.134] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@330de290 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 22:35:35.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
+[08Dec2024 22:35:38.460] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/35054, l='ServerLevel[world]', x=-591.35, y=79.98, z=-290.27]
+[08Dec2024 22:35:40.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Rusty The Creeper]
+[08Dec2024 22:36:18.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[08Dec2024 22:36:25.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Teleported TAQUIS123 to -850.5, 75.5, 23.5]
+[08Dec2024 22:36:45.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> creo q los niveles de tan más vida
+[08Dec2024 22:37:14.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mano mate un bos y me dio fortuna x
+[08Dec2024 22:37:22.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> reparacion x y un collar
+[08Dec2024 22:37:35.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XDD
+[08Dec2024 22:37:45.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ami me dio un anillo de regeneracion con prisa minera
+[08Dec2024 22:37:48.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> perdi mi capa y anillos pepepe
+[08Dec2024 22:37:51.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> un boss creeper
+[08Dec2024 22:38:21.742] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.IllegalArgumentException: Modifier is already applied on this attribute!
+	at net.minecraft.entity.ai.attributes.ModifiableAttributeInstance.func_111121_a(SourceFile:73) ~[?:?]
+	at net.minecraft.entity.ai.attributes.ModifiableAttributeInstance.func_233767_b_(SourceFile:81) ~[?:?]
+	at jackiecrazy.wardance.utils.CombatUtils.lambda$null$6(CombatUtils.java:494) ~[wardance:0.8.9]
+	at java.util.Optional.ifPresent(Optional.java:183) ~[?:?]
+	at jackiecrazy.wardance.utils.CombatUtils.lambda$swapHeldItems$7(CombatUtils.java:494) ~[wardance:0.8.9]
+	at com.google.common.collect.AbstractMapBasedMultimap.lambda$null$2(AbstractMapBasedMultimap.java:1279) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at com.google.common.collect.AbstractMapBasedMultimap.lambda$forEach$3(AbstractMapBasedMultimap.java:1279) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at java.util.TreeMap.forEach(TreeMap.java:1002) ~[?:?]
+	at com.google.common.collect.AbstractMapBasedMultimap.forEach(AbstractMapBasedMultimap.java:1278) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.common.collect.TreeMultimap.forEach(TreeMultimap.java:76) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at jackiecrazy.wardance.utils.CombatUtils.swapHeldItems(CombatUtils.java:493) ~[wardance:0.8.9]
+	at jackiecrazy.wardance.networking.RequestAttackPacket$RequestAttackHandler.lambda$accept$0(RequestAttackPacket.java:59) ~[wardance:0.8.9]
+	at net.minecraftforge.fml.network.NetworkEvent$Context.enqueueWork(NetworkEvent.java:201) ~[forge:?]
+	at jackiecrazy.wardance.networking.RequestAttackPacket$RequestAttackHandler.accept(RequestAttackPacket.java:53) ~[wardance:0.8.9]
+	at jackiecrazy.wardance.networking.RequestAttackPacket$RequestAttackHandler.accept(RequestAttackPacket.java:49) ~[wardance:0.8.9]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:114) ~[forge:?]
+	at java.util.Optional.ifPresent(Optional.java:183) ~[?:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:114) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:148) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:66) ~[forge:?]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:72) ~[forge:?]
+	at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:77) ~[forge:?]
+	at java.util.Optional.map(Optional.java:265) ~[?:?]
+	at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:77) ~[forge:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:1413) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
