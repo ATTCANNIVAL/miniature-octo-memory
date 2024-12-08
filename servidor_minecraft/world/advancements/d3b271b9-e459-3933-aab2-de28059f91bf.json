@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-08 02:03:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_bedside_cabinet": {
     "criteria": {
       "has_log": "2024-12-08 01:05:57 +0000"
@@ -266,6 +272,12 @@
   "cfm:recipes/cfm/blue_grill": {
     "criteria": {
       "has_iron": "2024-12-08 01:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-08 02:03:10 +0000"
     },
     "done": true
   },
@@ -488,6 +500,12 @@
   "ava:recipes/main/gun_crafting_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-08 01:58:04 +0000"
     },
     "done": true
   },
@@ -856,6 +874,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-12-08 01:58:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-08 01:08:42 +0000"
@@ -913,6 +937,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2024-12-08 01:38:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2024-12-08 01:58:04 +0000"
     },
     "done": true
   },
@@ -1048,6 +1078,12 @@
   "cgm:recipes/cgm/light_grip": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-08 02:03:10 +0000"
     },
     "done": true
   },
@@ -1387,6 +1423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-08 01:58:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-08 01:33:52 +0000"
@@ -1569,6 +1611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-08 02:03:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:38:40 +0000"
@@ -1719,6 +1767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-08 02:03:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-08 01:28:56 +0000"
@@ -1800,6 +1854,12 @@
   "cfm:recipes/cfm/white_grill": {
     "criteria": {
       "has_iron": "2024-12-08 01:38:40 +0000"
+    },
+    "done": true
+  },
+  "plastic_from_ava:recipes/survival/plastic": {
+    "criteria": {
+      "has_leather": "2024-12-08 02:03:10 +0000"
     },
     "done": true
   },
@@ -2169,6 +2229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-08 02:03:10 +0000"
+    },
+    "done": true
+  },
   "ava:recipes/survival/compressed_wood": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:38:40 +0000"
@@ -2214,6 +2280,12 @@
   "cfm:recipes/cfm/jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-08 01:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-08 01:58:04 +0000"
     },
     "done": true
   },
@@ -2412,6 +2484,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-08 01:08:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-08 01:58:04 +0000"
     },
     "done": true
   },

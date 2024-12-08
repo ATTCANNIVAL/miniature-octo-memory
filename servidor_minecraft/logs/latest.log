@@ -8091,3 +8091,29 @@ java.lang.NullPointerException: null
 [08Dec2024 01:59:27.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> pa recuperarme mas rapido
 [08Dec2024 01:59:31.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> Xd
 [08Dec2024 01:59:41.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> esas garras
+[08Dec2024 02:00:03.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> las encontre en el castillo
+[08Dec2024 02:00:13.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> =v
+[08Dec2024 02:00:20.594] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=20] to hordespawn on day 0
+[08Dec2024 02:00:20.594] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=3,minDay=0,maxDay=20] to hordespawn on day 0
+[08Dec2024 02:00:27.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> escuchaste?
+[08Dec2024 02:00:34.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> que cosa??}
+[08Dec2024 02:00:38.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> toy con musica
+[08Dec2024 02:00:41.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[08Dec2024 02:01:01.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[08Dec2024 02:01:09.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> vamo por lana
+[08Dec2024 02:01:40.399] [Worker-Main-24/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[08Dec2024 02:01:40.399] [Worker-Main-24/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[08Dec2024 02:01:40.399] [Worker-Main-24/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[08Dec2024 02:01:40.399] [Worker-Main-24/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[08Dec2024 02:01:40.400] [Worker-Main-24/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[08Dec2024 02:01:40.400] [Worker-Main-24/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[08Dec2024 02:01:40.400] [Worker-Main-24/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[08Dec2024 02:01:40.400] [Worker-Main-24/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[08Dec2024 02:01:40.400] [Worker-Main-24/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[08Dec2024 02:01:40.400] [Worker-Main-24/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[08Dec2024 02:01:40.400] [Worker-Main-24/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[08Dec2024 02:01:58.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> encontre un arbol de manzanas doradas
+[08Dec2024 02:02:03.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd??
+[08Dec2024 02:03:32.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> otro arbol de manzanas doradas
+[08Dec2024 02:06:34.534] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Meenu'/135, l='ServerLevel[world]', x=-822.72, y=73.88, z=33.28] died, message: 'Meenu (Staying) was slain by Crawler Zombie'
+[08Dec2024 02:08:26.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> encontre oveja
