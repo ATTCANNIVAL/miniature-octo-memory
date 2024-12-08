@@ -7724,3 +7724,52 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Dec2024 01:18:42.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
 [08Dec2024 01:19:21.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> se hace con lana e hilo
 [08Dec2024 01:19:25.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> se llama bandaje
+[08Dec2024 01:19:31.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[08Dec2024 01:19:34.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> es eso para lo del cuerpo
+[08Dec2024 01:19:39.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> si
+[08Dec2024 01:19:49.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> First Aid MOD
+[08Dec2024 01:19:54.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ese es el mod
+[08Dec2024 01:19:55.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> eso ps
+[08Dec2024 01:20:39.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> vamos a buscar obejas
+[08Dec2024 01:20:50.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> toy sacando madera
+[08Dec2024 01:21:20.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> tienes hierro??
+[08Dec2024 01:21:26.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> de vez en cuando pueden venir hordas random a atacarnos
+[08Dec2024 01:21:28.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> notengo
+[08Dec2024 01:21:49.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Cinnabar Ore]
+[08Dec2024 01:22:38.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> en el arbol de habilidades puedes bajar la probabilidad de contraer esas enfermedades
+[08Dec2024 01:22:50.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ya sea fractura,sangrado o poison
+[08Dec2024 01:22:53.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> con que boton es eso
+[08Dec2024 01:22:57.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Stone Age]
+[08Dec2024 01:23:04.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> se configura en ontroles
+[08Dec2024 01:23:07.935] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-843, y=73, z=-9} BlockPos{x=-854, y=74, z=36}
+[08Dec2024 01:23:08.035] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-843, y=73, z=-9} BlockPos{x=-854, y=74, z=35}
+[08Dec2024 01:23:08.219] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-843, y=73, z=-9} BlockPos{x=-854, y=73, z=34}
+[08Dec2024 01:23:08.549] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-843, y=73, z=-9} BlockPos{x=-854, y=73, z=35}
+[08Dec2024 01:23:08.682] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-843, y=73, z=-9} BlockPos{x=-854, y=73, z=36}
+[08Dec2024 01:23:08.869] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-843, y=73, z=-9} BlockPos{x=-854, y=74, z=36}
+[08Dec2024 01:23:08.964] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-843, y=73, z=-9} BlockPos{x=-855, y=75, z=36}
+[08Dec2024 01:23:08.964] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-843, y=73, z=-9} BlockPos{x=-855, y=75, z=37}
+[08Dec2024 01:23:09.165] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-843, y=73, z=-9} BlockPos{x=-854, y=74, z=37}
+[08Dec2024 01:23:09.253] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-843, y=73, z=-9} BlockPos{x=-854, y=73, z=37}
+[08Dec2024 01:23:13.883] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-843, y=73, z=-9} BlockPos{x=-854, y=74, z=37}
+[08Dec2024 01:23:14.331] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-843, y=73, z=-9} BlockPos{x=-854, y=74, z=36}
+[08Dec2024 01:23:14.331] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-843, y=73, z=-9} BlockPos{x=-855, y=75, z=37}
+[08Dec2024 01:23:14.564] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-843, y=73, z=-9} BlockPos{x=-855, y=75, z=38}
+[08Dec2024 01:23:14.616] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-843, y=73, z=-9} BlockPos{x=-855, y=74, z=38}
+[08Dec2024 01:23:14.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> predeterminado es con la O
+[08Dec2024 01:23:14.863] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-843, y=73, z=-9} BlockPos{x=-855, y=75, z=38}
+[08Dec2024 01:23:55.735] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-877, y=76, z=-25} BlockPos{x=-878, y=76, z=-25}
+[08Dec2024 01:24:03.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> con el kit de primeros auxilios tmb te curas
+[08Dec2024 01:24:21.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> busca el golem pa hierro
+[08Dec2024 01:26:26.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> pusiste el texturepack?
+[08Dec2024 01:26:44.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mano que se hacia con las bacas muertas??
+[08Dec2024 01:26:57.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> colgarlas
+[08Dec2024 01:27:05.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> osea con que
+[08Dec2024 01:27:07.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> se hace con dos de hierro el gancho
+[08Dec2024 01:27:18.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Getting an Upgrade]
+[08Dec2024 01:27:57.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ya sabes eso de como funciona lo de intercambiar objetos de la mano secundaria?
+[08Dec2024 01:28:17.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Malachite Block]
+[08Dec2024 01:28:20.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Natural Blue Zircon Block]
+[08Dec2024 01:28:23.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ??
+[08Dec2024 01:28:53.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> en tu barra inicial de objetos aparece al costado izquierdo lo q puedes tener en la mano izquierda
+[08Dec2024 01:28:56.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Stone Age]
