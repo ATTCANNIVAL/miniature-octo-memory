@@ -8142,3 +8142,35 @@ java.lang.NullPointerException: null
 [08Dec2024 02:19:22.899] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@5fdc5b31 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
 [08Dec2024 02:19:22.899] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@b752c2b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
 [08Dec2024 02:19:22.900] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@1975c3d (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 02:21:23.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> y eso?
+[08Dec2024 02:21:29.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> que cosa??
+[08Dec2024 02:21:39.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> lo de tu casa
+[08Dec2024 02:21:48.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> que hay??
+[08Dec2024 02:21:59.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> muchas hojas
+[08Dec2024 02:22:03.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> a
+[08Dec2024 02:22:07.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> el techo ps
+[08Dec2024 02:22:10.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[08Dec2024 02:24:10.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> el vodka te da resistencia 1 pero nauseas
+[08Dec2024 02:24:41.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
+[08Dec2024 02:24:59.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[08Dec2024 02:25:02.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[08Dec2024 02:25:11.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> me salio el diablo xd
+[08Dec2024 02:25:23.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> v.
+[08Dec2024 02:25:24.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> donde
+[08Dec2024 02:25:27.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 died
+[08Dec2024 02:25:27.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Killed TAQUIS123]
+[08Dec2024 02:25:28.848] [Server thread/INFO] [tac/]: PENDING
+[08Dec2024 02:25:28.853] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@29d5af05 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 02:25:28.853] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3e29f45f (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 02:25:28.853] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@28dd7327 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[08Dec2024 02:25:28.853] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3922997c (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 02:25:28.854] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@5306970 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[08Dec2024 02:25:28.855] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@5fdc5b31 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 02:25:28.855] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@b752c2b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 02:25:28.856] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@1975c3d (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 02:25:29.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> yo lo desintegro
+[08Dec2024 02:25:32.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ns una tomba
+[08Dec2024 02:25:55.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ya lo mate
+[08Dec2024 02:26:43.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mira
+[08Dec2024 02:27:43.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ariva no hay nada
+[08Dec2024 02:27:55.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> vamo pa bajo

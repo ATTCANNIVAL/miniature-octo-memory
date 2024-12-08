@@ -1653,7 +1653,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2024-12-08 01:44:12 +0000"
+      "bread": "2024-12-08 01:44:12 +0000",
+      "golden_apple": "2024-12-08 02:23:41 +0000"
     },
     "done": false
   },
@@ -1854,6 +1855,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-08 01:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/decorations/doublefern": {
+    "criteria": {
+      "has_fern": "2024-12-08 02:16:33 +0000"
     },
     "done": true
   },
