@@ -173,6 +173,18 @@
     },
     "done": true
   },
+  "tmtmcoresandmore:copper_mineral_block_ach": {
+    "criteria": {
+      "copper_mineral_block_ach": "2024-12-08 16:58:35 +0000"
+    },
+    "done": true
+  },
+  "tmtmcoresandmore:chalcopyrite_block_ach": {
+    "criteria": {
+      "chalcopyrite_block_ach": "2024-12-08 16:58:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-08 01:21:44 +0000"
