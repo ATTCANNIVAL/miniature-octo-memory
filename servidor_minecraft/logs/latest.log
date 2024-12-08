@@ -8033,3 +8033,63 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Dec2024 22:18:30.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
 [08Dec2024 22:18:39.081] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Aloyse'/25126, l='ServerLevel[world]', x=-510.87, y=87.00, z=-440.71] died, message: 'Aloyse was slain by Infected'
 [08Dec2024 22:18:48.432] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Nadine'/25128, l='ServerLevel[world]', x=-509.72, y=108.00, z=-510.28] died, message: 'Nadine was slain by Infected'
+[08Dec2024 22:19:04.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[08Dec2024 22:19:05.934] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Roland'/25159, l='ServerLevel[world]', x=-442.38, y=79.00, z=-533.40] died, message: 'Roland was slain by Infected Dog'
+[08Dec2024 22:19:09.631] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Aloyse'/25176, l='ServerLevel[world]', x=-434.28, y=78.00, z=-451.01] died, message: 'Aloyse was slain by Infection Military'
+[08Dec2024 22:19:10.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Darkwing duck]
+[08Dec2024 22:19:10.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [no u]
+[08Dec2024 22:19:24.582] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Paul'/25163, l='ServerLevel[world]', x=-461.98, y=79.00, z=-471.51] died, message: 'Paul was slain by Juggernaut Zombie'
+[08Dec2024 22:19:28.383] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Aloyse'/25157, l='ServerLevel[world]', x=-459.94, y=78.00, z=-467.71] died, message: 'Aloyse was slain by Juggernaut Zombie'
+[08Dec2024 22:19:38.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> manda tp
+[08Dec2024 22:21:23.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Spooky Scary Skeleton]
+[08Dec2024 22:22:23.577] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Simone'/25178, l='ServerLevel[world]', x=-436.43, y=76.00, z=-457.21] died, message: 'Simone was slain by Zombie'
+[08Dec2024 22:24:21.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> me cayó un airdrop
+[08Dec2024 22:24:50.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> pero toy afk un ratito
+[08Dec2024 22:24:53.540] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TAQUIS123 lost connection: Disconnected
+[08Dec2024 22:24:53.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 left the game
+[08Dec2024 22:24:53.541] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3b271b9-e459-3933-aab2-de28059f91bf was unloaded
+[08Dec2024 22:25:29.415] [Worker-Main-21/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[08Dec2024 22:25:29.416] [Worker-Main-21/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[08Dec2024 22:25:29.416] [Worker-Main-21/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[08Dec2024 22:25:29.416] [Worker-Main-21/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[08Dec2024 22:25:29.416] [Worker-Main-21/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[08Dec2024 22:25:29.417] [Worker-Main-21/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[08Dec2024 22:25:29.417] [Worker-Main-21/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[08Dec2024 22:25:29.417] [Worker-Main-21/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[08Dec2024 22:25:29.417] [Worker-Main-21/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[08Dec2024 22:25:29.418] [Worker-Main-21/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[08Dec2024 22:25:29.418] [Worker-Main-21/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[08Dec2024 22:27:21.640] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7c065251
+[08Dec2024 22:27:21.660] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TAQUIS123[/127.76.179.31:42385] logged in with entity id 31804 at (-423.30000001192093, 82.0, -459.46662384022875)
+[08Dec2024 22:27:21.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 joined the game
+[08Dec2024 22:27:21.675] [Server thread/INFO] [tac/]: PENDING
+[08Dec2024 22:27:21.719] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[08Dec2024 22:27:21.719] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[08Dec2024 22:27:21.720] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[08Dec2024 22:27:21.720] [Server thread/INFO] [net.mcreator.tmtmcoresandmore.TmtmcoresandmoreMod/]: TmTmc-OresAndMore loaded
+[08Dec2024 22:27:21.720] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:72]: enable_welcome: true
+[08Dec2024 22:27:21.720] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:73]: welcome_message: Welcome to our server 
+[08Dec2024 22:27:21.721] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:74]: enable_all_ores: true
+[08Dec2024 22:27:21.721] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:75]: enable_all_ingots: true
+[08Dec2024 22:27:21.721] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:76]: enable_all_blocks: true
+[08Dec2024 22:27:21.721] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:77]: enable_all_armors: true
+[08Dec2024 22:27:21.722] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:78]: enable_all_swords_bows: true
+[08Dec2024 22:27:21.722] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:79]: enable_all_foods: true
+[08Dec2024 22:27:21.722] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:80]: enable_all_paintings: true
+[08Dec2024 22:27:21.722] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:81]: enable_all_poisons: true
+[08Dec2024 22:27:21.723] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:82]: enable_all_powders: true
+[08Dec2024 22:27:21.723] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:83]: enable_all_tools: true
+[08Dec2024 22:27:21.723] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:84]: enable_all_recipes: true
+[08Dec2024 22:27:21.723] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:85]: enable_all_advancements: true
+[08Dec2024 22:27:21.762] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12a2d458 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 22:27:21.762] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@4bd6c293 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 22:27:21.762] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@24962536 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[08Dec2024 22:27:21.762] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7e49eaad (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[08Dec2024 22:27:21.763] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@6f7ddb32 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[08Dec2024 22:27:21.764] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@e4494e7 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 22:27:21.764] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@32dbbf89 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 22:27:21.764] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@330de290 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[08Dec2024 22:27:21.915] [Thread-89/INFO] [chancecubes/]: No custom rewards detected for the current user!
+[08Dec2024 22:27:22.214] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3b271b9-e459-3933-aab2-de28059f91bf was loaded
+[08Dec2024 22:27:37.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> volvi
+[08Dec2024 22:27:39.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> si
