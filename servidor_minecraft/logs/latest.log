@@ -7676,3 +7676,43 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 17:06:38.965] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@524ef43c (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
 [09Dec2024 17:06:38.965] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@1dce5d39 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
 [09Dec2024 17:06:50.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
+[09Dec2024 17:07:43.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[09Dec2024 17:07:49.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[09Dec2024 17:08:08.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4320ms or 86 ticks behind
+[09Dec2024 17:08:29.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5676ms or 113 ticks behind
+[09Dec2024 17:08:53.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9138ms or 182 ticks behind
+[09Dec2024 17:09:14.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5914ms or 118 ticks behind
+[09Dec2024 17:09:33.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3469ms or 69 ticks behind
+[09Dec2024 17:09:42.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Dead Sea]
+[09Dec2024 17:09:49.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.radiation
+[09Dec2024 17:09:51.118] [Server thread/INFO] [tac/]: PENDING
+[09Dec2024 17:09:51.124] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3ad28578 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[09Dec2024 17:09:51.125] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@56c1562c (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[09Dec2024 17:09:51.125] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@7c378f61 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[09Dec2024 17:09:51.125] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@a3a10fb (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[09Dec2024 17:09:51.127] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@6f19a519 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[09Dec2024 17:09:51.128] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@2a8401a6 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[09Dec2024 17:09:51.128] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@524ef43c (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[09Dec2024 17:09:51.128] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@1dce5d39 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[09Dec2024 17:11:09.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.radiation
+[09Dec2024 17:11:10.957] [Server thread/INFO] [tac/]: PENDING
+[09Dec2024 17:11:10.962] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3ad28578 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[09Dec2024 17:11:10.962] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@56c1562c (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[09Dec2024 17:11:10.962] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@7c378f61 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[09Dec2024 17:11:10.963] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@a3a10fb (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[09Dec2024 17:11:10.963] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@6f19a519 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[09Dec2024 17:11:10.966] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@2a8401a6 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[09Dec2024 17:11:10.966] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@524ef43c (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[09Dec2024 17:11:10.967] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@1dce5d39 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[09Dec2024 17:12:49.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
+[09Dec2024 17:13:07.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[09Dec2024 17:13:47.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> q rico
+[09Dec2024 17:14:06.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ??
+[09Dec2024 17:14:33.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> era bait
+[09Dec2024 17:14:36.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Jasper Yellow Block]
+[09Dec2024 17:14:51.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
+[09Dec2024 17:15:04.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[09Dec2024 17:16:02.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
+[09Dec2024 17:16:50.294] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Jim'/458, l='ServerLevel[world]', x=-465.73, y=78.00, z=-471.73] died, message: 'Jim was slain by Infected'
+[09Dec2024 17:17:00.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[09Dec2024 17:17:26.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [You Are A Pirate]
