@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2024-12-09 17:32:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2024-12-08 16:28:02 +0000"
@@ -614,6 +620,12 @@
   "cfm:recipes/cfm/birch_bedside_cabinet": {
     "criteria": {
       "has_log": "2024-12-08 17:00:09 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2024-12-09 17:24:59 +0000"
     },
     "done": true
   },
@@ -1200,6 +1212,12 @@
     },
     "done": true
   },
+  "tmtmcoresandmore:chalcopyrite_block_ach": {
+    "criteria": {
+      "chalcopyrite_block_ach": "2024-12-09 17:29:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-08 02:10:51 +0000"
@@ -1691,6 +1709,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-08 22:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-09 17:33:50 +0000"
     },
     "done": true
   },
@@ -2906,7 +2930,8 @@
       "minecraft:husk": "2024-12-08 22:35:05 +0000",
       "minecraft:enderman": "2024-12-08 22:17:29 +0000",
       "minecraft:stray": "2024-12-08 22:35:23 +0000",
-      "minecraft:zombie": "2024-12-08 01:34:02 +0000"
+      "minecraft:zombie": "2024-12-08 01:34:02 +0000",
+      "minecraft:drowned": "2024-12-09 17:30:11 +0000"
     },
     "done": false
   },
@@ -4091,6 +4116,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-08 01:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-09 17:33:50 +0000"
     },
     "done": true
   },

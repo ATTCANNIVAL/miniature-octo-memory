@@ -7747,3 +7747,39 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 17:27:34.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> tengo un collar para el mar
 [09Dec2024 17:27:48.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> a
 [09Dec2024 17:28:03.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mira tengo un pulpo en el cuello
+[09Dec2024 17:29:06.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> tienes steel lingot?
+[09Dec2024 17:29:20.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> no
+[09Dec2024 17:29:51.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Chalcopyrite Block]
+[09Dec2024 17:29:51.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> vamos
+[09Dec2024 17:30:49.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> puedo respirar infinitamente en el agua
+[09Dec2024 17:30:59.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> mejor
+[09Dec2024 17:31:31.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> aca
+[09Dec2024 17:32:13.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Smoke On The Water]
+[09Dec2024 17:32:18.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Smoke On The Water]
+[09Dec2024 17:33:13.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was shot by Skeleton
+[09Dec2024 17:33:16.411] [Server thread/INFO] [tac/]: PENDING
+[09Dec2024 17:33:16.415] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3ad28578 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[09Dec2024 17:33:16.415] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@56c1562c (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[09Dec2024 17:33:16.415] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@7c378f61 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[09Dec2024 17:33:16.416] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@a3a10fb (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[09Dec2024 17:33:16.416] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@6f19a519 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[09Dec2024 17:33:16.416] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@2a8401a6 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[09Dec2024 17:33:16.417] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@524ef43c (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[09Dec2024 17:33:16.417] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@1dce5d39 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[09Dec2024 17:33:20.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
+[09Dec2024 17:33:25.783] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/28586, l='ServerLevel[world]', x=-774.68, y=71.38, z=-835.66]
+[09Dec2024 17:34:06.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[09Dec2024 17:35:53.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> no llevas escudo=?
+[09Dec2024 17:36:11.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> me quite ese collar para llevar el del agua
+[09Dec2024 17:36:54.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> encontre otro varco
+[09Dec2024 17:37:31.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> que abuso yo tambien quiero un tridente
+[09Dec2024 17:37:46.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> me lo dropeó un boss de agua
+[09Dec2024 17:38:14.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Spectator Mode]
+[09Dec2024 17:38:21.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
+[09Dec2024 17:38:27.586] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/58918, l='ServerLevel[world]', x=-964.14, y=13.44, z=-892.03]
+[09Dec2024 17:38:28.090] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/58937, l='ServerLevel[world]', x=-963.39, y=14.19, z=-892.03]
+[09Dec2024 17:38:28.590] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/58957, l='ServerLevel[world]', x=-962.64, y=13.44, z=-892.03]
+[09Dec2024 17:38:32.588] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/59077, l='ServerLevel[world]', x=-962.89, y=12.98, z=-892.12]
+[09Dec2024 17:38:32.589] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/59077, l='ServerLevel[world]', x=-962.89, y=12.98, z=-892.12]
+[09Dec2024 17:38:33.086] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/59097, l='ServerLevel[world]', x=-962.89, y=13.61, z=-892.26]
+[09Dec2024 17:38:33.086] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/59097, l='ServerLevel[world]', x=-962.89, y=13.61, z=-892.26]
