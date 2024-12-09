@@ -1927,15 +1927,15 @@
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2024-12-08 22:21:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-08 22:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-08 22:21:23 +0000"
     },
     "done": true
   },
@@ -2194,6 +2194,12 @@
   "plastic_from_ava:recipes/survival/plastic": {
     "criteria": {
       "has_leather": "2024-12-08 18:01:29 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/jellyfish_necklace": {
+    "criteria": {
+      "obtain_relic": "2024-12-08 23:25:26 +0000"
     },
     "done": true
   },
