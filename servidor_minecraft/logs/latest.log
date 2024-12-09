@@ -8625,3 +8625,190 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 17:58:20.955] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@2a8401a6 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
 [09Dec2024 17:58:20.955] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@524ef43c (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
 [09Dec2024 17:58:20.955] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@1dce5d39 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[09Dec2024 18:00:27.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL burned to death
+[09Dec2024 18:00:28.875] [Server thread/INFO] [tac/]: PENDING
+[09Dec2024 18:00:28.879] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3ad28578 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[09Dec2024 18:00:28.879] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@56c1562c (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[09Dec2024 18:00:28.879] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@7c378f61 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[09Dec2024 18:00:28.880] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@a3a10fb (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[09Dec2024 18:00:28.880] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@6f19a519 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[09Dec2024 18:00:28.880] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@2a8401a6 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[09Dec2024 18:00:28.881] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@524ef43c (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[09Dec2024 18:00:28.881] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@1dce5d39 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[09Dec2024 18:01:46.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[09Dec2024 18:02:18.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[09Dec2024 18:02:56.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[09Dec2024 18:03:25.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -1400.5, 143.5, -1222.5]
+[09Dec2024 18:03:45.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -1796.5, 63.5, -911.5]
+[09Dec2024 18:04:08.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4792ms or 95 ticks behind
+[09Dec2024 18:04:14.000] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL moved too quickly! 2.7730854374358387,0.9318239740739926,10.470989429271185
+[09Dec2024 18:04:16.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [People Are Strange]
+[09Dec2024 18:04:31.762] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[09Dec2024 18:04:31.763] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[09Dec2024 18:04:31.763] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[09Dec2024 18:04:31.763] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[09Dec2024 18:04:31.763] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[09Dec2024 18:04:31.764] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[09Dec2024 18:04:31.764] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[09Dec2024 18:04:31.764] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[09Dec2024 18:04:31.764] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[09Dec2024 18:04:31.764] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[09Dec2024 18:04:31.764] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[09Dec2024 18:04:31.764] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[09Dec2024 18:04:45.515] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL moved too quickly! -9.317873497488108,0.0,5.623673220565479
+[09Dec2024 18:04:45.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4740ms or 94 ticks behind
+[09Dec2024 18:04:49.990] [Worker-Main-12/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[09Dec2024 18:04:49.991] [Worker-Main-12/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[09Dec2024 18:04:49.991] [Worker-Main-12/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[09Dec2024 18:04:49.991] [Worker-Main-12/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[09Dec2024 18:04:49.991] [Worker-Main-12/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[09Dec2024 18:04:49.991] [Worker-Main-12/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[09Dec2024 18:04:49.991] [Worker-Main-12/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[09Dec2024 18:04:49.991] [Worker-Main-12/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[09Dec2024 18:04:49.991] [Worker-Main-12/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[09Dec2024 18:04:49.991] [Worker-Main-12/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[09Dec2024 18:04:49.991] [Worker-Main-12/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[09Dec2024 18:04:50.800] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL moved too quickly! -9.24733736872713,2.192484527185499,5.581274388692123
+[09Dec2024 18:05:04.402] [Worker-Main-6/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[09Dec2024 18:05:04.402] [Worker-Main-6/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[09Dec2024 18:05:04.403] [Worker-Main-6/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[09Dec2024 18:05:04.403] [Worker-Main-6/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[09Dec2024 18:05:04.403] [Worker-Main-6/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[09Dec2024 18:05:04.403] [Worker-Main-6/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[09Dec2024 18:05:04.404] [Worker-Main-6/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[09Dec2024 18:05:04.404] [Worker-Main-6/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[09Dec2024 18:05:04.404] [Worker-Main-6/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[09Dec2024 18:05:04.404] [Worker-Main-6/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[09Dec2024 18:05:04.404] [Worker-Main-6/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[09Dec2024 18:05:11.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[09Dec2024 18:05:32.390] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[09Dec2024 18:05:32.390] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[09Dec2024 18:05:32.390] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[09Dec2024 18:05:32.391] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[09Dec2024 18:05:32.391] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[09Dec2024 18:05:32.391] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[09Dec2024 18:05:32.391] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[09Dec2024 18:05:32.391] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[09Dec2024 18:05:32.392] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[09Dec2024 18:05:32.392] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[09Dec2024 18:05:32.392] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[09Dec2024 18:05:32.392] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[09Dec2024 18:05:49.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[09Dec2024 18:06:17.860] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2343, y=22, z=71} but found not block entity block Block{minecraft:mossy_cobblestone} at location
+[09Dec2024 18:06:17.860] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:mossy_cobblestone} but failed at location BlockPos{x=-2343, y=22, z=71}
+[09Dec2024 18:06:20.333] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL moved too quickly! -9.468210443161752,0.0,5.377797173696422
+[09Dec2024 18:06:20.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5449ms or 108 ticks behind
+[09Dec2024 18:06:25.946] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[09Dec2024 18:06:25.946] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[09Dec2024 18:06:25.946] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[09Dec2024 18:06:25.946] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[09Dec2024 18:06:25.946] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[09Dec2024 18:06:25.946] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[09Dec2024 18:06:25.947] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[09Dec2024 18:06:25.947] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[09Dec2024 18:06:25.947] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[09Dec2024 18:06:25.947] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[09Dec2024 18:06:25.947] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[09Dec2024 18:06:25.947] [Worker-Main-12/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[09Dec2024 18:06:36.548] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2375, y=32, z=173} but found not block entity block Block{minecraft:air} at location
+[09Dec2024 18:06:36.548] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2375, y=32, z=173}
+[09Dec2024 18:06:38.315] [Worker-Main-39/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[09Dec2024 18:06:38.316] [Worker-Main-39/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[09Dec2024 18:06:38.316] [Worker-Main-39/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[09Dec2024 18:06:38.316] [Worker-Main-39/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[09Dec2024 18:06:38.316] [Worker-Main-39/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[09Dec2024 18:06:38.316] [Worker-Main-39/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[09Dec2024 18:06:38.316] [Worker-Main-39/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[09Dec2024 18:06:38.317] [Worker-Main-39/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[09Dec2024 18:06:38.317] [Worker-Main-39/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[09Dec2024 18:06:38.317] [Worker-Main-39/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[09Dec2024 18:06:38.317] [Worker-Main-39/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[09Dec2024 18:06:38.317] [Worker-Main-39/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[09Dec2024 18:06:38.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3036ms or 60 ticks behind
+[09Dec2024 18:07:00.431] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL moved too quickly! -7.802520149389238,0.0,6.3983485176106
+[09Dec2024 18:07:00.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3132ms or 62 ticks behind
+[09Dec2024 18:07:08.034] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/74782, l='ServerLevel[world]', x=-2413.16, y=14.40, z=217.27]
+[09Dec2024 18:07:11.035] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/74807, l='ServerLevel[world]', x=-2411.04, y=14.63, z=215.26]
+[09Dec2024 18:07:11.530] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/74810, l='ServerLevel[world]', x=-2410.81, y=15.38, z=214.16]
+[09Dec2024 18:07:12.032] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/74814, l='ServerLevel[world]', x=-2410.08, y=14.63, z=213.71]
+[09Dec2024 18:07:27.181] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/74850, l='ServerLevel[world]', x=-2410.89, y=14.63, z=219.34]
+[09Dec2024 18:07:27.681] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/74860, l='ServerLevel[world]', x=-2410.85, y=15.38, z=218.96]
+[09Dec2024 18:07:28.180] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/74865, l='ServerLevel[world]', x=-2411.52, y=14.63, z=218.71]
+[09Dec2024 18:07:50.460] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL moved too quickly! -4.803011894930478,0.0,9.673236389846153
+[09Dec2024 18:07:50.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
+[09Dec2024 18:07:52.097] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/75031, l='ServerLevel[world]', x=-2337.69, y=60.63, z=370.65]
+[09Dec2024 18:08:05.771] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2724, y=32, z=502} but found not block entity block Block{minecraft:stone_brick_stairs}[facing=west,half=top,shape=straight,waterlogged=false] at location
+[09Dec2024 18:08:05.771] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone_brick_stairs}[facing=west,half=top,shape=straight,waterlogged=false] but failed at location BlockPos{x=-2724, y=32, z=502}
+[09Dec2024 18:08:06.474] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2727, y=32, z=503} but found not block entity block Block{minecraft:stone_brick_wall}[east=low,north=low,south=none,up=true,waterlogged=false,west=none] at location
+[09Dec2024 18:08:06.474] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone_brick_wall}[east=low,north=low,south=none,up=true,waterlogged=false,west=none] but failed at location BlockPos{x=-2727, y=32, z=503}
+[09Dec2024 18:08:06.475] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2727, y=32, z=505} but found not block entity block Block{minecraft:air} at location
+[09Dec2024 18:08:06.476] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2727, y=32, z=505}
+[09Dec2024 18:08:08.553] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL moved too quickly! -4.59904189164854,0.0,9.86270409578242
+[09Dec2024 18:08:09.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3648ms or 72 ticks behind
+[09Dec2024 18:08:13.582] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/75324, l='ServerLevel[world]', x=-2622.50, y=66.00, z=276.50] quests expired
+[09Dec2024 18:08:20.546] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2736, y=22, z=605} but found not block entity block Block{minecraft:polished_andesite} at location
+[09Dec2024 18:08:20.546] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:polished_andesite} but failed at location BlockPos{x=-2736, y=22, z=605}
+[09Dec2024 18:08:22.877] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2531, y=25, z=656} but found not block entity block Block{minecraft:air} at location
+[09Dec2024 18:08:22.877] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2531, y=25, z=656}
+[09Dec2024 18:08:22.879] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2527, y=25, z=651} but found not block entity block Block{minecraft:air} at location
+[09Dec2024 18:08:22.879] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2527, y=25, z=651}
+[09Dec2024 18:08:22.880] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2526, y=25, z=657} but found not block entity block Block{minecraft:air} at location
+[09Dec2024 18:08:22.881] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2526, y=25, z=657}
+[09Dec2024 18:08:22.882] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2523, y=25, z=655} but found not block entity block Block{minecraft:air} at location
+[09Dec2024 18:08:22.882] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2523, y=25, z=655}
+[09Dec2024 18:08:25.670] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL moved too quickly! -7.928930685917749,0.0,7.4567934697393525
+[09Dec2024 18:08:26.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2812ms or 56 ticks behind
+[09Dec2024 18:08:30.529] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/75423, l='ServerLevel[world]', x=-2715.50, y=70.00, z=505.50] quests expired
+[09Dec2024 18:08:32.704] [Worker-Main-12/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Dec2024 18:08:32.704] [Worker-Main-12/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Dec2024 18:08:32.733] [Worker-Main-12/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Dec2024 18:08:32.733] [Worker-Main-12/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Dec2024 18:08:33.638] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL moved too quickly! -7.920306337491638,0.0,7.448645302281193
+[09Dec2024 18:08:33.836] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/76690, l='ServerLevel[world]', x=-2724.50, y=79.00, z=529.50] quests expired
+[09Dec2024 18:08:35.769] [Worker-Main-23/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[09Dec2024 18:08:35.769] [Worker-Main-23/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[09Dec2024 18:08:35.769] [Worker-Main-23/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[09Dec2024 18:08:35.769] [Worker-Main-23/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[09Dec2024 18:08:35.770] [Worker-Main-23/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[09Dec2024 18:08:35.770] [Worker-Main-23/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[09Dec2024 18:08:35.770] [Worker-Main-23/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[09Dec2024 18:08:35.770] [Worker-Main-23/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[09Dec2024 18:08:35.770] [Worker-Main-23/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[09Dec2024 18:08:35.770] [Worker-Main-23/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[09Dec2024 18:08:35.770] [Worker-Main-23/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[09Dec2024 18:08:38.193] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3008, y=42, z=677} but found not block entity block Block{minecraft:air} at location
+[09Dec2024 18:08:38.193] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-3008, y=42, z=677}
+[09Dec2024 18:08:38.194] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3007, y=42, z=674} but found not block entity block Block{minecraft:air} at location
+[09Dec2024 18:08:38.194] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-3007, y=42, z=674}
+[09Dec2024 18:08:38.195] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3005, y=42, z=679} but found not block entity block Block{minecraft:air} at location
+[09Dec2024 18:08:38.196] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-3005, y=42, z=679}
+[09Dec2024 18:08:39.807] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL moved too quickly! -6.495220797860384,0.0,8.455445707956528
+[09Dec2024 18:08:44.132] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/77083, l='ServerLevel[world]', x=-2760.50, y=71.00, z=459.50] quests expired
+[09Dec2024 18:08:44.232] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/76333, l='ServerLevel[world]', x=-2760.50, y=70.00, z=549.50] quests expired
+[09Dec2024 18:08:44.232] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/76335, l='ServerLevel[world]', x=-2761.50, y=84.00, z=547.50] quests expired
+[09Dec2024 18:08:44.250] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/77037, l='ServerLevel[world]', x=-2761.50, y=66.00, z=589.50] quests expired
+[09Dec2024 18:08:45.236] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/77111, l='ServerLevel[world]', x=-2783.50, y=73.00, z=466.50] quests expired
+[09Dec2024 18:08:45.387] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/77110, l='ServerLevel[world]', x=-2783.50, y=71.00, z=451.50] quests expired
+[09Dec2024 18:08:46.240] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/77412, l='ServerLevel[world]', x=-2787.50, y=72.00, z=585.50] quests expired
+[09Dec2024 18:08:46.240] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/77484, l='ServerLevel[world]', x=-2784.50, y=73.00, z=539.50] quests expired
+[09Dec2024 18:08:47.987] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/77512, l='ServerLevel[world]', x=-2807.50, y=73.00, z=467.50] quests expired
+[09Dec2024 18:08:47.987] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/77517, l='ServerLevel[world]', x=-2807.50, y=75.00, z=485.50] quests expired
+[09Dec2024 18:08:48.084] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/77504, l='ServerLevel[world]', x=-2805.50, y=76.00, z=561.50] quests expired
+[09Dec2024 18:08:48.086] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/77519, l='ServerLevel[world]', x=-2804.50, y=74.00, z=537.50] quests expired
+[09Dec2024 18:08:48.938] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/77565, l='ServerLevel[world]', x=-2821.50, y=73.00, z=519.50] quests expired
+[09Dec2024 18:08:49.049] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/77555, l='ServerLevel[world]', x=-2824.50, y=79.00, z=561.50] quests expired
+[09Dec2024 18:08:49.747] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/77585, l='ServerLevel[world]', x=-2836.50, y=73.00, z=519.50] quests expired
+[09Dec2024 18:08:49.747] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/77588, l='ServerLevel[world]', x=-2840.50, y=76.00, z=561.50] quests expired
+[09Dec2024 18:08:49.748] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/77590, l='ServerLevel[world]', x=-2845.50, y=72.00, z=585.50] quests expired
+[09Dec2024 18:08:49.886] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/77583, l='ServerLevel[world]', x=-2839.50, y=73.00, z=495.50] quests expired
+[09Dec2024 18:08:53.344] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2862, y=32, z=755} but found not block entity block Block{minecraft:polished_andesite} at location
+[09Dec2024 18:08:53.344] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:polished_andesite} but failed at location BlockPos{x=-2862, y=32, z=755}
+[09Dec2024 18:08:53.345] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2862, y=32, z=773} but found not block entity block Block{minecraft:cobblestone} at location
+[09Dec2024 18:08:53.345] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cobblestone} but failed at location BlockPos{x=-2862, y=32, z=773}
+[09Dec2024 18:08:53.348] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2857, y=32, z=778} but found not block entity block Block{minecraft:mossy_cobblestone} at location
+[09Dec2024 18:08:53.348] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:mossy_cobblestone} but failed at location BlockPos{x=-2857, y=32, z=778}
+[09Dec2024 18:08:53.351] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2860, y=32, z=776} but found not block entity block Block{minecraft:air} at location
+[09Dec2024 18:08:53.351] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2860, y=32, z=776}
+[09Dec2024 18:08:53.646] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL moved too quickly! -5.7289534723554425,0.0,-8.425669095693934
+[09Dec2024 18:08:53.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2848ms or 56 ticks behind
+[09Dec2024 18:08:59.697] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL moved too quickly! -8.631742091848537,0.0,-5.227921844537036
