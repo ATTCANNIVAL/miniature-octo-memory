@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-09 17:18:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-08 23:19:33 +0000"
@@ -625,7 +631,8 @@
       "minecraft:creeper": "2024-12-08 01:54:18 +0000",
       "minecraft:wither_skeleton": "2024-12-08 22:21:20 +0000",
       "minecraft:enderman": "2024-12-08 17:02:49 +0000",
-      "minecraft:zombie": "2024-12-08 01:33:38 +0000"
+      "minecraft:zombie": "2024-12-08 01:33:38 +0000",
+      "minecraft:drowned": "2024-12-09 17:20:24 +0000"
     },
     "done": false
   },
@@ -924,6 +931,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-12-08 01:20:37 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2024-12-09 17:17:26 +0000"
     },
     "done": true
   },
@@ -3088,6 +3101,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-08 17:11:26 +0000"
+    },
+    "done": true
+  },
+  "tmtmcoresandmore:jasper_yellow_block_ach": {
+    "criteria": {
+      "jasper_yellow_block_ach": "2024-12-09 17:14:36 +0000"
     },
     "done": true
   },
