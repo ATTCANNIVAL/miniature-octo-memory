@@ -13742,3 +13742,673 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 17:38:34.091] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Loot table 'minecraft:chests/simple_dungeon' has T3 level chest loot. Adding coins to the spawned loot.
 [09Dec2024 17:38:34.092] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 8x lightmanscurrency:coin_gold to the chest loot.
 [09Dec2024 17:38:34.092] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 2x lightmanscurrency:coin_gold to the chest loot.
+[09Dec2024 17:38:36.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[09Dec2024 17:38:37.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[09Dec2024 17:38:43.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd casi muero
+[09Dec2024 17:38:45.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> pa eso me pongo 10 buffos
+[09Dec2024 17:38:51.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mmanda tp
+[09Dec2024 17:38:58.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> tu ami o yo atí?
+[09Dec2024 17:39:09.045] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Dec2024 17:39:09.062] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Dec2024 17:39:15.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> toy todo rojo xd
+[09Dec2024 17:39:22.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[09Dec2024 17:39:36.854] [Worker-Main-12/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-1192, y=48, z=-1133} at Chest with:minecraft:chests/underwater_ruin_small in ocean_ruin
+[09Dec2024 17:39:41.205] [Worker-Main-12/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-1205, y=34, z=-1108} at Chest with:minecraft:chests/underwater_ruin_big in ocean_ruin
+[09Dec2024 17:39:41.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> polvora para municion
+[09Dec2024 17:39:45.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> si
+[09Dec2024 17:39:47.199] [Worker-Main-6/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-1228, y=44, z=-1117} at Chest with:minecraft:chests/underwater_ruin_small in ocean_ruin
+[09Dec2024 17:39:59.702] [Worker-Main-12/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-1263, y=21, z=-763} at Chest with:minecraft:chests/simple_dungeon in dungeons_arise:foundry
+[09Dec2024 17:40:03.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> no tienes autoregeneracion=?
+[09Dec2024 17:40:03.915] [Worker-Main-23/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-1296, y=32, z=-1080} at Chest with:minecraft:chests/simple_dungeon in dungeons_arise:foundry
+[09Dec2024 17:40:12.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ??
+[09Dec2024 17:40:14.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> tengo un anillo q me da regeneracion
+[09Dec2024 17:40:18.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> a
+[09Dec2024 17:40:25.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> no tienes otro de sobra??
+[09Dec2024 17:40:40.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> no
+[09Dec2024 17:40:45.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> el otro ya se me va a gastar
+[09Dec2024 17:41:08.550] [Worker-Main-12/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-824, y=31, z=-1176} at Chest with:minecraft:chests/underwater_ruin_small in ocean_ruin
+[09Dec2024 17:41:12.350] [Worker-Main-6/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-857, y=32, z=-1195} at Chest with:minecraft:chests/underwater_ruin_small in ocean_ruin
+[09Dec2024 17:41:12.357] [Worker-Main-39/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:guardianboss at BlockPos{x=-841, y=31, z=-1195} at Chest with:minecraft:chests/underwater_ruin_big in ocean_ruin
+[09Dec2024 17:41:17.492] [Worker-Main-39/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-839, y=32, z=-1212} at Chest with:minecraft:chests/underwater_ruin_small in ocean_ruin
+[09Dec2024 17:43:03.514] [Worker-Main-23/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[09Dec2024 17:43:03.514] [Worker-Main-23/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[09Dec2024 17:43:03.514] [Worker-Main-23/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[09Dec2024 17:43:03.514] [Worker-Main-23/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[09Dec2024 17:43:03.515] [Worker-Main-23/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[09Dec2024 17:43:03.515] [Worker-Main-23/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[09Dec2024 17:43:03.515] [Worker-Main-23/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[09Dec2024 17:43:03.515] [Worker-Main-23/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[09Dec2024 17:43:03.515] [Worker-Main-23/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[09Dec2024 17:43:03.515] [Worker-Main-23/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[09Dec2024 17:43:03.515] [Worker-Main-23/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[09Dec2024 17:43:03.515] [Worker-Main-23/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[09Dec2024 17:43:11.196] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=20] to hordespawn on day 20
+[09Dec2024 17:43:11.197] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=3,minDay=0,maxDay=20] to hordespawn on day 20
+[09Dec2024 17:43:11.199] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=20] to hordespawn on day 20
+[09Dec2024 17:43:11.199] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=3,minDay=0,maxDay=20] to hordespawn on day 20
+[09Dec2024 17:43:11.200] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie
+[09Dec2024 17:43:11.202] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:43:11.202] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:43:11.203] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:43:11.203] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:43:11.203] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:43:11.203] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:43:11.203] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:43:11.203] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:43:11.204] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:43:11.204] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:43:11.204] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:43:11.204] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:43:11.204] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:43:11.204] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:43:11.204] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:43:11.204] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:43:11.205] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:43:11.205] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:43:11.205] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:43:11.205] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:43:11.205] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:43:11.207] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie_villager
+[09Dec2024 17:43:11.207] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:43:11.208] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:43:11.208] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:43:11.208] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:43:11.208] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:43:11.208] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:43:11.208] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:43:11.208] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:43:11.208] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:43:11.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:43:11.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:43:11.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:43:11.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:43:11.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:43:11.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:43:11.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:43:11.210] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:43:11.210] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:43:11.210] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:43:11.210] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:43:11.210] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:43:11.211] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie_villager
+[09Dec2024 17:43:11.211] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:43:11.211] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:43:11.211] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:43:11.211] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:43:11.211] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:43:11.211] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:43:11.212] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:43:11.212] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:43:11.212] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:43:11.212] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:43:11.212] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:43:11.212] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:43:11.212] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:43:11.213] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:43:11.213] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:43:11.213] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:43:11.213] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:43:11.213] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:43:11.213] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:43:11.213] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:43:11.213] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:43:11.214] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie_villager
+[09Dec2024 17:43:11.214] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:43:11.215] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:43:11.215] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:43:11.215] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:43:11.215] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:43:11.215] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:43:11.215] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:43:11.215] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:43:11.215] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:43:11.216] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:43:11.216] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:43:11.216] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:43:11.216] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:43:11.216] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:43:11.216] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:43:11.216] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:43:11.216] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:43:11.217] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:43:11.217] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:43:11.217] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:43:11.217] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:43:11.220] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=20] to hordespawn on day 20
+[09Dec2024 17:43:11.220] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=3,minDay=0,maxDay=20] to hordespawn on day 20
+[09Dec2024 17:43:11.220] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=20] to hordespawn on day 20
+[09Dec2024 17:43:11.220] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=3,minDay=0,maxDay=20] to hordespawn on day 20
+[09Dec2024 17:43:11.222] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie_villager
+[09Dec2024 17:43:11.222] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:43:11.222] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:43:11.222] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:43:11.222] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:43:11.222] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:43:11.223] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:43:11.223] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:43:11.223] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:43:11.223] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:43:11.223] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:43:11.224] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:43:11.224] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:43:11.224] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:43:11.224] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:43:11.224] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:43:11.224] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:43:11.224] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:43:11.225] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:43:11.225] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:43:11.225] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:43:11.225] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:43:11.226] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie_villager
+[09Dec2024 17:43:11.226] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:43:11.226] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:43:11.227] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:43:11.227] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:43:11.227] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:43:11.227] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:43:11.227] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:43:11.227] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:43:11.227] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:43:11.228] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:43:11.228] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:43:11.228] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:43:11.228] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:43:11.228] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:43:11.228] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:43:11.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:43:11.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:43:11.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:43:11.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:43:11.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:43:11.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:43:11.231] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie
+[09Dec2024 17:43:11.231] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:43:11.231] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:43:11.232] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:43:11.232] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:43:11.232] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:43:11.232] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:43:11.232] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:43:11.232] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:43:11.233] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:43:11.233] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:43:11.233] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:43:11.233] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:43:11.233] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:43:11.233] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:43:11.233] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:43:11.234] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:43:11.234] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:43:11.234] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:43:11.234] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:43:11.234] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:43:11.234] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:43:14.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Infected Police
+[09Dec2024 17:43:14.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[09Dec2024 17:43:15.660] [Server thread/INFO] [tac/]: PENDING
+[09Dec2024 17:43:15.668] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3ad28578 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[09Dec2024 17:43:15.669] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@56c1562c (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[09Dec2024 17:43:15.669] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@7c378f61 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[09Dec2024 17:43:15.670] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@a3a10fb (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[09Dec2024 17:43:15.670] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@6f19a519 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[09Dec2024 17:43:15.672] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@2a8401a6 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[09Dec2024 17:43:15.672] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@524ef43c (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[09Dec2024 17:43:15.672] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@1dce5d39 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[09Dec2024 17:43:20.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
+[09Dec2024 17:43:24.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> creo q ya cagamos
+[09Dec2024 17:43:53.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> que paso
+[09Dec2024 17:44:00.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[09Dec2024 17:44:01.196] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=20] to hordespawn on day 20
+[09Dec2024 17:44:01.197] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=3,minDay=0,maxDay=20] to hordespawn on day 20
+[09Dec2024 17:44:01.197] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie
+[09Dec2024 17:44:01.197] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:44:01.197] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:44:01.198] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:44:01.198] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:44:01.198] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:44:01.198] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:44:01.198] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:44:01.198] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:44:01.198] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:44:01.198] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:44:01.199] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:44:01.199] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:44:01.199] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:44:01.199] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:44:01.199] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:44:01.199] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:44:01.199] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:44:01.199] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:44:01.200] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:44:01.200] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:44:01.200] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:44:01.200] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie
+[09Dec2024 17:44:01.200] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:44:01.201] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:44:01.201] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:44:01.201] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:44:01.201] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:44:01.201] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:44:01.201] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:44:01.201] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:44:01.201] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:44:01.202] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:44:01.202] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:44:01.202] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:44:01.202] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:44:01.202] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:44:01.202] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:44:01.202] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:44:01.203] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:44:01.203] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:44:01.203] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:44:01.203] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:44:01.203] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:44:01.207] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie_villager
+[09Dec2024 17:44:01.207] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:44:01.207] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:44:01.208] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:44:01.208] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:44:01.208] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:44:01.208] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:44:01.208] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:44:01.208] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:44:01.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:44:01.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:44:01.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:44:01.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:44:01.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:44:01.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:44:01.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:44:01.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:44:01.210] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:44:01.210] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:44:01.210] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:44:01.210] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:44:01.210] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:44:09.420] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Dec2024 17:44:09.435] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Dec2024 17:44:30.513] [Worker-Main-23/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:guardianboss at BlockPos{x=-1468, y=48, z=-1123} at Chest with:minecraft:chests/underwater_ruin_small in ocean_ruin
+[09Dec2024 17:44:34.457] [Worker-Main-23/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-1479, y=54, z=-1143} at Chest with:minecraft:chests/buried_treasure in buried_treasure
+[09Dec2024 17:44:39.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[09Dec2024 17:44:51.203] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=20] to hordespawn on day 20
+[09Dec2024 17:44:51.203] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=3,minDay=0,maxDay=20] to hordespawn on day 20
+[09Dec2024 17:44:51.204] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie_villager
+[09Dec2024 17:44:51.204] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:44:51.204] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:44:51.204] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:44:51.205] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:44:51.205] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:44:51.205] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:44:51.205] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:44:51.205] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:44:51.205] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:44:51.205] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:44:51.206] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:44:51.206] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:44:51.206] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:44:51.206] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:44:51.206] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:44:51.206] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:44:51.206] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:44:51.206] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:44:51.207] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:44:51.207] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:44:51.207] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:44:51.207] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie_villager
+[09Dec2024 17:44:51.208] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:44:51.208] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:44:51.208] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:44:51.208] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:44:51.208] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:44:51.208] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:44:51.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:44:51.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:44:51.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:44:51.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:44:51.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:44:51.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:44:51.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:44:51.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:44:51.209] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:44:51.210] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:44:51.210] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:44:51.210] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:44:51.210] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:44:51.210] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:44:51.210] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:44:51.211] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie_villager
+[09Dec2024 17:44:51.211] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:44:51.212] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:44:51.212] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:44:51.212] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:44:51.212] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:44:51.212] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:44:51.212] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:44:51.212] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:44:51.213] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:44:51.213] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:44:51.213] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:44:51.213] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:44:51.213] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:44:51.213] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:44:51.214] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:44:51.214] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:44:51.214] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:44:51.214] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:44:51.214] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:44:51.214] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:44:51.215] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:44:51.216] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie_villager
+[09Dec2024 17:44:51.216] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:44:51.216] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:44:51.217] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:44:51.217] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:44:51.217] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:44:51.217] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:44:51.217] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:44:51.217] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:44:51.217] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:44:51.218] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:44:51.218] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:44:51.218] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:44:51.218] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:44:51.218] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:44:51.218] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:44:51.218] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:44:51.219] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:44:51.219] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:44:51.219] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:44:51.219] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:44:51.219] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:44:51.220] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie_villager
+[09Dec2024 17:44:51.220] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:44:51.220] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:44:51.220] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:44:51.220] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:44:51.220] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:44:51.220] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:44:51.221] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:44:51.221] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:44:51.221] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:44:51.221] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:44:51.221] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:44:51.221] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:44:51.221] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:44:51.221] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:44:51.221] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:44:51.222] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:44:51.222] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:44:51.222] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:44:51.222] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:44:51.222] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:44:51.222] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:44:51.223] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie_villager
+[09Dec2024 17:44:51.223] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:44:51.223] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:44:51.223] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:44:51.223] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:44:51.223] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:44:51.224] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:44:51.224] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:44:51.224] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:44:51.224] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:44:51.224] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:44:51.224] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:44:51.224] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:44:51.224] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:44:51.224] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:44:51.225] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:44:51.225] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:44:51.225] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:44:51.225] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:44:51.225] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:44:51.225] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:44:51.225] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:44:51.226] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie_villager
+[09Dec2024 17:44:51.226] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:44:51.226] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:44:51.226] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:44:51.226] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:44:51.226] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:44:51.226] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:44:51.227] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:44:51.227] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:44:51.227] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:44:51.227] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:44:51.227] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:44:51.227] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:44:51.227] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:44:51.227] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:44:51.228] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:44:51.228] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:44:51.228] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:44:51.228] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:44:51.228] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:44:51.228] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:44:51.228] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:44:51.228] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie_villager
+[09Dec2024 17:44:51.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:44:51.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:44:51.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:44:51.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:44:51.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:44:51.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:44:51.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:44:51.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:44:51.230] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:44:51.230] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:44:51.230] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:44:51.230] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:44:51.230] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:44:51.230] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:44:51.230] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:44:51.230] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:44:51.230] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:44:51.231] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:44:51.231] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:44:51.231] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:44:51.231] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:45:24.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
+[09Dec2024 17:45:33.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[09Dec2024 17:45:41.216] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=20] to hordespawn on day 20
+[09Dec2024 17:45:41.216] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=3,minDay=0,maxDay=20] to hordespawn on day 20
+[09Dec2024 17:45:41.217] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie_villager
+[09Dec2024 17:45:41.218] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:45:41.218] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:45:41.218] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:45:41.218] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:45:41.218] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:45:41.219] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:45:41.219] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:45:41.219] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:45:41.219] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:45:41.219] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:45:41.219] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:45:41.219] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:45:41.220] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:45:41.220] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:45:41.220] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:45:41.220] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:45:41.220] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:45:41.220] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:45:41.220] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:45:41.221] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:45:41.221] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:45:41.223] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie
+[09Dec2024 17:45:41.224] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:45:41.224] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:45:41.224] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:45:41.224] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:45:41.224] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:45:41.225] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:45:41.225] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:45:41.225] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:45:41.225] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:45:41.225] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:45:41.225] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:45:41.225] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:45:41.225] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:45:41.226] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:45:41.226] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:45:41.226] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:45:41.226] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:45:41.226] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:45:41.226] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:45:41.226] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:45:41.226] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:45:41.227] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie
+[09Dec2024 17:45:41.227] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:45:41.227] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:45:41.227] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:45:41.227] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:45:41.227] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:45:41.228] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:45:41.228] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:45:41.228] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:45:41.228] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:45:41.228] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:45:41.228] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:45:41.228] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:45:41.228] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:45:41.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:45:41.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:45:41.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:45:41.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:45:41.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:45:41.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:45:41.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:45:41.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:46:12.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[09Dec2024 17:46:17.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> toy rodeado
+[09Dec2024 17:46:31.216] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=20] to hordespawn on day 20
+[09Dec2024 17:46:31.216] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=3,minDay=0,maxDay=20] to hordespawn on day 20
+[09Dec2024 17:46:31.217] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie_villager
+[09Dec2024 17:46:31.217] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:46:31.218] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:46:31.218] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:46:31.218] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:46:31.218] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:46:31.218] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:46:31.219] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:46:31.219] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:46:31.219] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:46:31.219] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:46:31.219] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:46:31.219] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:46:31.219] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:46:31.219] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:46:31.220] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:46:31.220] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:46:31.220] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:46:31.220] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:46:31.220] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:46:31.220] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:46:31.220] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:46:31.221] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie
+[09Dec2024 17:46:31.221] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:46:31.222] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:46:31.222] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:46:31.222] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:46:31.222] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:46:31.222] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:46:31.222] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:46:31.222] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:46:31.222] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:46:31.222] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:46:31.223] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:46:31.223] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:46:31.223] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:46:31.223] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:46:31.223] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:46:31.223] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:46:31.223] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:46:31.223] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:46:31.223] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:46:31.224] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:46:31.224] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:46:31.225] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie
+[09Dec2024 17:46:31.225] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:46:31.226] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:46:31.226] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:46:31.226] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:46:31.226] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:46:31.226] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:46:31.227] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:46:31.227] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:46:31.228] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:46:31.228] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:46:31.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:46:31.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:46:31.229] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:46:31.231] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:46:31.231] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:46:31.231] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:46:31.232] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:46:31.232] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:46:31.232] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:46:31.232] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:46:31.233] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:46:31.234] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie
+[09Dec2024 17:46:31.234] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:46:31.234] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:46:31.235] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:46:31.235] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:46:31.235] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:46:31.235] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:46:31.236] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:46:31.236] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:46:31.236] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:46:31.236] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:46:31.237] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:46:31.237] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:46:31.237] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:46:31.237] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:46:31.237] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:46:31.237] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:46:31.237] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:46:31.237] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:46:31.238] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:46:31.238] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:46:31.238] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:47:21.209] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=20] to hordespawn on day 20
+[09Dec2024 17:47:21.209] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=3,minDay=0,maxDay=20] to hordespawn on day 20
+[09Dec2024 17:47:21.213] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie_villager
+[09Dec2024 17:47:21.213] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[09Dec2024 17:47:21.214] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[09Dec2024 17:47:21.214] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[09Dec2024 17:47:21.214] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[09Dec2024 17:47:21.214] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[09Dec2024 17:47:21.214] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_348_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[09Dec2024 17:47:21.214] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[09Dec2024 17:47:21.214] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[09Dec2024 17:47:21.215] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[09Dec2024 17:47:21.215] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[09Dec2024 17:47:21.215] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[09Dec2024 17:47:21.215] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[09Dec2024 17:47:21.215] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[09Dec2024 17:47:21.215] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[09Dec2024 17:47:21.215] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[09Dec2024 17:47:21.216] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[09Dec2024 17:47:21.216] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[09Dec2024 17:47:21.216] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[09Dec2024 17:47:21.216] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[09Dec2024 17:47:21.216] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[09Dec2024 17:47:21.216] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[09Dec2024 17:47:24.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Giant
+[09Dec2024 17:47:25.965] [Server thread/INFO] [tac/]: PENDING
+[09Dec2024 17:47:25.970] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3ad28578 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[09Dec2024 17:47:25.970] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@56c1562c (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[09Dec2024 17:47:25.970] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@7c378f61 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[09Dec2024 17:47:25.970] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@a3a10fb (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[09Dec2024 17:47:25.971] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@6f19a519 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[09Dec2024 17:47:25.971] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@2a8401a6 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[09Dec2024 17:47:25.971] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@524ef43c (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[09Dec2024 17:47:25.971] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@1dce5d39 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[09Dec2024 17:47:29.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
+[09Dec2024 17:47:55.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[09Dec2024 17:48:11.197] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Preparing airdrop spawn event
+[09Dec2024 17:48:11.197] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Created new airdrop at BlockPos{x=-1167, y=170, z=-987} for player ATT_CANNIVAL
+[09Dec2024 17:48:33.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> me esta caendo suministros
+[09Dec2024 17:48:39.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> a

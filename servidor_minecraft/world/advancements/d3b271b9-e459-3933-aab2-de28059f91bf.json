@@ -2672,6 +2672,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_dungeon_variant": "2024-12-09 17:38:18 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/acacia_crate": {
     "criteria": {
       "has_log": "2024-12-08 17:00:09 +0000"
@@ -2927,6 +2933,7 @@
       "minecraft:piglin_brute": "2024-12-08 23:13:48 +0000",
       "minecraft:creeper": "2024-12-08 17:05:03 +0000",
       "minecraft:evoker": "2024-12-08 22:35:19 +0000",
+      "minecraft:witch": "2024-12-09 17:38:34 +0000",
       "minecraft:husk": "2024-12-08 22:35:05 +0000",
       "minecraft:enderman": "2024-12-08 22:17:29 +0000",
       "minecraft:stray": "2024-12-08 22:35:23 +0000",
@@ -3086,6 +3093,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-08 01:38:40 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_dungeon_variant": "2024-12-09 17:38:18 +0000"
     },
     "done": true
   },
