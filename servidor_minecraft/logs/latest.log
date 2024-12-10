@@ -7636,3 +7636,37 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Dec2024 22:54:26.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> queda
 [10Dec2024 22:54:50.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> como se le cura xd
 [10Dec2024 22:55:05.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> se cura solo
+[10Dec2024 22:56:37.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd se va morir
+[10Dec2024 22:56:46.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[10Dec2024 22:57:05.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> tienes cuero??
+[10Dec2024 22:57:10.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> para los libros
+[10Dec2024 22:57:34.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[10Dec2024 22:59:53.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> atacame aver
+[10Dec2024 23:00:00.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by TAQUIS123 using [Iron Sword of Guarding]
+[10Dec2024 23:00:01.659] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 23:00:01.664] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@5dd730b3 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[10Dec2024 23:00:01.664] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@734d8f24 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[10Dec2024 23:00:01.664] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@24b89696 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[10Dec2024 23:00:01.665] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@e4494e7 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[10Dec2024 23:00:01.665] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@66181502 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[10Dec2024 23:00:01.666] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@1e4e0b1c (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[10Dec2024 23:00:01.666] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@ea70a28 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[10Dec2024 23:00:01.666] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@60133bef (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[10Dec2024 23:00:03.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[10Dec2024 23:00:06.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd==¡??
+[10Dec2024 23:00:47.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> vamo farmear bacas para el cuero
+[10Dec2024 23:00:56.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> toy viendo comandos
+[10Dec2024 23:00:57.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> xd
+[10Dec2024 23:01:50.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[10Dec2024 23:02:05.573] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/4531, l='ServerLevel[world]', x=-823.57, y=71.00, z=26.69] died, message: 'Villager was slain by ATT_CANNIVAL using [Reaching Diamond Lochaber Axe of Learning]'
+[10Dec2024 23:03:58.605] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1054, y=64, z=-334} BlockPos{x=-1054, y=62, z=-335}
+[10Dec2024 23:04:13.729] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1078, y=64, z=-316} BlockPos{x=-1078, y=62, z=-316}
+[10Dec2024 23:04:13.756] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1078, y=64, z=-316} BlockPos{x=-1078, y=62, z=-316}
+[10Dec2024 23:04:20.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Teleported TAQUIS123 to -850.5, 75.5, 23.5]
+[10Dec2024 23:04:21.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Summoned golem with type "golems:netherite" at (-812, 71, 26)]
+[10Dec2024 23:04:42.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> el collar con regeneracion es god
+[10Dec2024 23:04:48.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> si
+[10Dec2024 23:05:11.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> pera afk
+[10Dec2024 23:05:21.398] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TAQUIS123 lost connection: Disconnected
+[10Dec2024 23:05:21.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 left the game
+[10Dec2024 23:05:21.400] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3b271b9-e459-3933-aab2-de28059f91bf was unloaded
