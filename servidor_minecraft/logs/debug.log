@@ -13916,3 +13916,62 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Dec2024 21:44:49.596] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@3eb34ec0 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
 [10Dec2024 21:44:49.597] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4600d1fc (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
 [10Dec2024 21:44:52.159] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/4225, l='ServerLevel[world]', x=-1013.00, y=77.00, z=-2.60] died, message: 'Farmer was slain by TAQUIS123 using [Flaming Diamond Sword of Guarding]'
+[10Dec2024 21:44:52.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[10Dec2024 21:45:03.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[10Dec2024 21:45:10.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[10Dec2024 21:45:51.578] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 21:45:51.596] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 21:46:04.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[10Dec2024 21:46:21.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd casi esplota la granja
+[10Dec2024 21:46:30.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[10Dec2024 21:46:57.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> encontre otro cofre
+[10Dec2024 21:47:18.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> tepeate necesito la ganzua xd
+[10Dec2024 21:47:32.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> la puedo abrir yo??
+[10Dec2024 21:47:36.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> si
+[10Dec2024 21:47:42.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> manda tp
+[10Dec2024 21:47:48.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> manda tu :v
+[10Dec2024 21:47:52.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> a
+[10Dec2024 21:48:03.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> o
+[10Dec2024 21:48:24.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> con shift
+[10Dec2024 21:48:25.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> no da
+[10Dec2024 21:48:26.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> en el candado
+[10Dec2024 21:48:37.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> segujndo click
+[10Dec2024 21:48:48.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> presionando shit
+[10Dec2024 21:48:50.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> shift
+[10Dec2024 21:48:55.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> con la ganzua
+[10Dec2024 21:48:58.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> a
+[10Dec2024 21:48:58.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd}
+[10Dec2024 21:49:02.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> no duró
+[10Dec2024 21:49:03.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[10Dec2024 21:49:08.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> a craftear ora
+[10Dec2024 21:49:10.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> otra
+[10Dec2024 21:49:45.730] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Preparing airdrop spawn event
+[10Dec2024 21:49:45.731] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Created new airdrop at BlockPos{x=-1278, y=174, z=286} for player ATT_CANNIVAL
+[10Dec2024 21:50:27.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> si lo raompo se pierde el lut'?
+[10Dec2024 21:50:30.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Chalcanthite Ingot]
+[10Dec2024 21:50:36.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> no
+[10Dec2024 21:50:39.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> se queda en la caja
+[10Dec2024 21:50:45.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> lo llevamos a casa?
+[10Dec2024 21:50:50.935] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 21:50:50.953] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 21:50:55.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> pasa madera
+[10Dec2024 21:50:58.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> pa la llave
+[10Dec2024 21:51:48.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd gaste 4
+[10Dec2024 21:51:51.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> nada
+[10Dec2024 21:52:04.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ponlo ahi
+[10Dec2024 21:52:10.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> a
+[10Dec2024 21:52:11.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[10Dec2024 21:52:21.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Teleported TAQUIS123 to -850.5, 75.5, 23.5]
+[10Dec2024 21:52:29.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Scheelite Block]
+[10Dec2024 21:52:58.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[10Dec2024 21:53:02.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
+[10Dec2024 21:53:34.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[10Dec2024 21:53:40.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ven
+[10Dec2024 21:53:44.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[10Dec2024 21:53:56.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[10Dec2024 21:54:38.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[10Dec2024 21:54:42.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> agara eso
+[10Dec2024 21:54:49.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> usa esa llave
+[10Dec2024 21:54:50.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[10Dec2024 21:54:51.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> que te di
+[10Dec2024 21:54:57.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
