@@ -26,5 +26,8 @@
   "mca:female_villager",
   "guardvillagers:guard",
   "minecraft:zombie",
-  "gunsrpg:airdrop"
+  "gunsrpg:airdrop",
+  "medieval_craft_weapons:archer",
+  "medieval_craft_weapons:soldier",
+  "medieval_craft_weapons:knight"
 ]
