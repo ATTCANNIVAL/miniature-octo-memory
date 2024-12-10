@@ -7763,3 +7763,31 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Dec2024 21:54:50.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
 [10Dec2024 21:54:51.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> que te di
 [10Dec2024 21:54:57.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[10Dec2024 21:56:18.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> levate esa llave de hoja
+[10Dec2024 21:56:46.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> se pueden encantar los accesorios tmb
+[10Dec2024 21:59:36.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Iron Golem
+[10Dec2024 21:59:37.886] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 21:59:37.894] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@142daba7 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[10Dec2024 21:59:37.895] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6264958a (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[10Dec2024 21:59:37.895] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@1e9b18d2 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[10Dec2024 21:59:37.895] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@b526a0b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[10Dec2024 21:59:37.896] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@44611e6d (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[10Dec2024 21:59:37.897] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@73daa347 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[10Dec2024 21:59:37.897] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@3eb34ec0 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[10Dec2024 21:59:37.898] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4600d1fc (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[10Dec2024 21:59:40.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[10Dec2024 21:59:45.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[10Dec2024 22:01:02.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[10Dec2024 22:01:15.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
+[10Dec2024 22:01:25.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[10Dec2024 22:01:31.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[10Dec2024 22:03:12.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[10Dec2024 22:03:12.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Better than concrete!]
+[10Dec2024 22:03:17.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [A Little Extra Won't Hurt]
+[10Dec2024 22:03:17.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has completed the challenge [Eternal Health]
+[10Dec2024 22:03:34.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> aaaaaaaaaaaaaaaaa
+[10Dec2024 22:03:41.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> qpaso
+[10Dec2024 22:03:49.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> cai de una isala del cielo xd
+[10Dec2024 22:04:55.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[10Dec2024 22:05:00.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[10Dec2024 22:05:23.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
