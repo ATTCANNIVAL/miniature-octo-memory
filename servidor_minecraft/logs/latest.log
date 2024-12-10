@@ -7636,3 +7636,43 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Dec2024 21:23:34.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> la de plata da mas probabilidad de items comunes
 [10Dec2024 21:23:38.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> la de oro mejores items
 [10Dec2024 21:23:48.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> la pude abrir con una ganzua
+[10Dec2024 21:24:18.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ojito
+[10Dec2024 21:24:24.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> chekea la ganzua
+[10Dec2024 21:24:41.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> con eso abri esos dos candados q tenía
+[10Dec2024 21:24:49.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> un cofre puede venir con varios candados
+[10Dec2024 21:24:52.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> donde se encuentran estos cofres
+[10Dec2024 21:24:59.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> aparecen debajo de tumbas
+[10Dec2024 21:25:04.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> o de cruces
+[10Dec2024 21:25:19.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> q aparecen a lo random por el owerworld
+[10Dec2024 21:25:30.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[10Dec2024 21:25:34.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ta facil de craftear
+[10Dec2024 21:26:02.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> tiene un maximo de usos
+[10Dec2024 21:26:24.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> sabias q mientras mejor tu escudo mas resistencia a ser aturdido tienes
+[10Dec2024 21:26:27.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> alm esa armadura
+[10Dec2024 21:26:34.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> es el escudo
+[10Dec2024 21:26:35.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[10Dec2024 21:26:39.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ves
+[10Dec2024 21:26:58.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> tienes mesa de encantamiento??
+[10Dec2024 21:27:18.066] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/2530, l='ServerLevel[world]', x=-829.39, y=71.00, z=15.16] died, message: 'Villager was slain by Infected Hazmat'
+[10Dec2024 21:28:10.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
+[10Dec2024 21:29:56.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[10Dec2024 21:30:09.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> taba viendo algo
+[10Dec2024 21:30:23.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> busaca "big"
+[10Dec2024 21:30:28.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> es una pistola enorme
+[10Dec2024 21:31:24.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> voy farmear hirro
+[10Dec2024 21:31:35.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[10Dec2024 21:32:01.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> qfue
+[10Dec2024 21:32:02.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[10Dec2024 21:32:11.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> aregla p
+[10Dec2024 21:32:23.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[10Dec2024 21:32:39.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has died from pain caused by fracture
+[10Dec2024 21:32:41.141] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 21:32:41.148] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@142daba7 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[10Dec2024 21:32:41.148] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6264958a (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[10Dec2024 21:32:41.148] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@1e9b18d2 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[10Dec2024 21:32:41.148] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@b526a0b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[10Dec2024 21:32:41.149] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@44611e6d (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[10Dec2024 21:32:41.150] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@73daa347 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[10Dec2024 21:32:41.150] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@3eb34ec0 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[10Dec2024 21:32:41.150] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4600d1fc (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[10Dec2024 21:32:57.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ya me deja craftear yesos
