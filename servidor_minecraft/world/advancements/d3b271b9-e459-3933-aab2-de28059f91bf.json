@@ -2192,6 +2192,12 @@
     },
     "done": true
   },
+  "simple_hearts:eternalhealth": {
+    "criteria": {
+      "eternalhealth": "2024-12-10 22:03:17 +0000"
+    },
+    "done": true
+  },
   "ava:recipes/survival/compressed_wood": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:38:40 +0000"
@@ -3084,6 +3090,12 @@
     },
     "done": true
   },
+  "simple_hearts:firstdabble": {
+    "criteria": {
+      "firstdabble": "2024-12-10 22:03:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-08 01:28:33 +0000"
@@ -3845,6 +3857,12 @@
   "toughasnails:recipes/decorations/water_purifier": {
     "criteria": {
       "has_charcoal": "2024-12-08 02:32:15 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/amphibian_boot": {
+    "criteria": {
+      "obtain_relic": "2024-12-10 22:03:12 +0000"
     },
     "done": true
   },
