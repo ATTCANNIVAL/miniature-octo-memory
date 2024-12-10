@@ -7846,3 +7846,31 @@ java.lang.IllegalArgumentException: Modifier is already applied on this attribut
 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
+[10Dec2024 22:26:18.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has died from pain caused by fracture
+[10Dec2024 22:26:18.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Killed TAQUIS123]
+[10Dec2024 22:26:20.580] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 22:26:20.586] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@142daba7 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[10Dec2024 22:26:20.586] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6264958a (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[10Dec2024 22:26:20.587] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@1e9b18d2 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[10Dec2024 22:26:20.587] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@b526a0b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[10Dec2024 22:26:20.588] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@44611e6d (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[10Dec2024 22:26:20.588] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@73daa347 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[10Dec2024 22:26:20.588] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@3eb34ec0 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[10Dec2024 22:26:20.588] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4600d1fc (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[10Dec2024 22:27:56.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Himalayan Pink Salt]
+[10Dec2024 22:34:55.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [MineColonies]
+[10Dec2024 22:34:55.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> listo
+[10Dec2024 22:35:00.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[10Dec2024 22:35:04.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> manda tp
+[10Dec2024 22:35:05.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> tas en la base?
+[10Dec2024 22:35:15.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> y eso?
+[10Dec2024 22:35:19.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> tube que aplanar
+[10Dec2024 22:35:32.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> y cabar pa bajo y rellenar todo con agua
+[10Dec2024 22:35:45.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> no agares eso xd
+[10Dec2024 22:35:50.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> tu pusiste eso en el cofre?
+[10Dec2024 22:35:52.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> o te apareci
+[10Dec2024 22:35:53.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> no
+[10Dec2024 22:35:56.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> a
+[10Dec2024 22:35:59.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> es lo que me diste
+[10Dec2024 22:36:04.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> esto es
+[10Dec2024 22:36:06.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ya tienes para q hagas tu ayundamiento ps

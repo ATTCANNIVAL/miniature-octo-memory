@@ -1664,6 +1664,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/root": {
+    "criteria": {
+      "supply_ship_placed": "2024-12-10 22:34:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-08 02:31:57 +0000"
@@ -2165,6 +2171,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-08 17:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecraft/craft_supply": {
+    "criteria": {
+      "supply_ship": "2024-12-10 22:34:55 +0000"
     },
     "done": true
   },

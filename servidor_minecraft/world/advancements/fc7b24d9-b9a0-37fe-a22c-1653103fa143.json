@@ -2785,6 +2785,12 @@
     },
     "done": true
   },
+  "tmtmcoresandmore:himalayan_pink_salt_block_ach": {
+    "criteria": {
+      "himalayan_pink_salt_block_ach": "2024-12-10 22:27:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-08 02:31:44 +0000"
