@@ -7676,3 +7676,37 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Dec2024 21:32:41.150] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@3eb34ec0 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
 [10Dec2024 21:32:41.150] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4600d1fc (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
 [10Dec2024 21:32:57.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ya me deja craftear yesos
+[10Dec2024 21:35:20.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> a cierto
+[10Dec2024 21:35:23.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> encontre esto
+[10Dec2024 21:35:46.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> q rico
+[10Dec2024 21:35:50.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ??
+[10Dec2024 21:35:56.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> la cabeza de las vacas da polvode hueso
+[10Dec2024 21:36:03.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> y sirve pa craftear yesos
+[10Dec2024 21:36:04.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> xd
+[10Dec2024 21:36:19.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> manito esto se puede poner en un lugar oplano
+[10Dec2024 21:36:22.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> intentamos??
+[10Dec2024 21:36:26.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> se
+[10Dec2024 21:36:34.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> boy busacar
+[10Dec2024 21:40:21.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[10Dec2024 21:40:25.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> noche roja?
+[10Dec2024 21:40:28.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> si
+[10Dec2024 21:40:33.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ptm
+[10Dec2024 21:40:39.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> toy farmeando en la granja
+[10Dec2024 21:40:53.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -1141.5, 78.5, 158.5]
+[10Dec2024 21:42:19.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> god casi un stack de hirros
+[10Dec2024 21:42:48.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> si
+[10Dec2024 21:43:24.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Rusty The Creeper]
+[10Dec2024 21:43:30.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
+[10Dec2024 21:44:11.990] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL moved wrongly!
+[10Dec2024 21:44:36.336] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/4228, l='ServerLevel[world]', x=-1012.05, y=77.00, z=-3.58] died, message: 'Villager was slain by TAQUIS123 using [Flaming Diamond Sword of Guarding]'
+[10Dec2024 21:44:46.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Mystic Creeper
+[10Dec2024 21:44:49.590] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 21:44:49.594] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@142daba7 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[10Dec2024 21:44:49.594] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6264958a (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[10Dec2024 21:44:49.594] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@1e9b18d2 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[10Dec2024 21:44:49.595] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@b526a0b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[10Dec2024 21:44:49.596] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@44611e6d (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[10Dec2024 21:44:49.596] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@73daa347 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[10Dec2024 21:44:49.596] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@3eb34ec0 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[10Dec2024 21:44:49.597] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4600d1fc (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[10Dec2024 21:44:52.159] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/4225, l='ServerLevel[world]', x=-1013.00, y=77.00, z=-2.60] died, message: 'Farmer was slain by TAQUIS123 using [Flaming Diamond Sword of Guarding]'
