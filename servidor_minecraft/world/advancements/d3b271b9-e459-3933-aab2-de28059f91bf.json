@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "mca:baby": {
+    "criteria": {
+      "baby": "2024-12-10 22:41:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-08 02:27:03 +0000"
@@ -1748,6 +1754,12 @@
     },
     "done": true
   },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2024-12-10 22:40:47 +0000"
+    },
+    "done": true
+  },
   "zombie_extreme:alternateworldadvancement": {
     "criteria": {
       "alternateworldadvancement": "2024-12-08 01:01:24 +0000"
@@ -2369,6 +2381,12 @@
   "cfm:recipes/cfm/cyan_grill": {
     "criteria": {
       "has_iron": "2024-12-08 01:38:40 +0000"
+    },
+    "done": true
+  },
+  "mca:marriage": {
+    "criteria": {
+      "iron": "2024-12-10 22:40:33 +0000"
     },
     "done": true
   },
@@ -4004,6 +4022,12 @@
   "mca:recipes/misc/rose_gold_ingot_blasting": {
     "criteria": {
       "has_item": "2024-12-08 01:01:23 +0000"
+    },
+    "done": true
+  },
+  "mca:best_friend": {
+    "criteria": {
+      "baby": "2024-12-10 22:40:47 +0000"
     },
     "done": true
   },
