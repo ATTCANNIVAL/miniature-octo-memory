@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/green_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-10 23:25:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-08 01:08:42 +0000"
@@ -212,6 +218,18 @@
   "cfm:recipes/cfm/warped_upgraded_gate": {
     "criteria": {
       "has_gate": "2024-12-10 22:54:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/cyan_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-10 23:25:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-10 23:25:03 +0000"
     },
     "done": true
   },
@@ -953,6 +971,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/brown_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-10 23:25:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-08 01:28:56 +0000"
@@ -980,6 +1004,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-08 01:28:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/orange_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-10 23:25:03 +0000"
     },
     "done": true
   },
@@ -1040,6 +1070,12 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-12-08 01:01:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-10 23:25:03 +0000"
     },
     "done": true
   },
@@ -1506,6 +1542,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/yellow_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-10 23:25:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-09 17:12:34 +0000"
@@ -1769,6 +1811,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:38:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-10 23:25:03 +0000"
     },
     "done": true
   },
@@ -2372,6 +2420,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/magenta_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-10 23:25:03 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/staff_of_life": {
     "criteria": {
       "has_item": "2024-12-08 01:01:23 +0000"
@@ -2636,6 +2690,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/light_gray_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-10 23:25:03 +0000"
+    },
+    "done": true
+  },
   "simple_hearts:simplehearts_adv": {
     "criteria": {
       "simplehearts_adv": "2024-12-08 01:01:23 +0000"
@@ -2717,6 +2777,12 @@
   "cfm:recipes/cfm/green_grill": {
     "criteria": {
       "has_iron": "2024-12-08 01:38:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/purple_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-10 23:25:03 +0000"
     },
     "done": true
   },
@@ -3041,6 +3107,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:38:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/blue_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-10 23:25:03 +0000"
     },
     "done": true
   },
@@ -3430,6 +3502,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-08 02:10:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/red_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-10 23:25:03 +0000"
     },
     "done": true
   },
@@ -3938,6 +4016,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/lime_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-10 23:25:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-08 01:28:56 +0000"
@@ -3995,6 +4079,12 @@
   "relics:obtain/amphibian_boot": {
     "criteria": {
       "obtain_relic": "2024-12-10 22:03:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-10 23:25:03 +0000"
     },
     "done": true
   },
@@ -4577,6 +4667,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/white_picket_fence": {
+    "criteria": {
+      "has_concrete": "2024-12-10 23:25:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-08 17:05:57 +0000"
@@ -4838,6 +4934,12 @@
   "cfm:recipes/cfm/diorite_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-12-08 01:32:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2024-12-10 23:25:03 +0000"
     },
     "done": true
   },

@@ -13279,3 +13279,62 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Dec2024 23:17:30.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added item to blacklist]
 [10Dec2024 23:17:34.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added item to blacklist]
 [10Dec2024 23:19:13.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> como se recoge esto??
+[10Dec2024 23:22:00.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> si ves suministros agara
+[10Dec2024 23:22:01.488] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 23:22:01.508] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 23:22:06.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> para munisiones
+[10Dec2024 23:22:13.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> se
+[10Dec2024 23:22:26.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ta caro hacer balas
+[10Dec2024 23:22:27.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> pepepe
+[10Dec2024 23:22:30.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> xd
+[10Dec2024 23:22:40.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[10Dec2024 23:22:42.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> usemos las otras mesas
+[10Dec2024 23:22:54.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> me dio sangrado
+[10Dec2024 23:22:56.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[10Dec2024 23:22:58.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> deja veo las armas
+[10Dec2024 23:23:04.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> usa venda
+[10Dec2024 23:23:10.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
+[10Dec2024 23:23:48.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> este mod ta mejor
+[10Dec2024 23:23:53.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mira
+[10Dec2024 23:24:00.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ese ps
+[10Dec2024 23:24:08.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> de donde sacaste el hormigon
+[10Dec2024 23:24:21.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> arena y poolvo de hueso
+[10Dec2024 23:25:08.215] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon start notification
+[10Dec2024 23:25:08.216] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon start notification
+[10Dec2024 23:25:08.216] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon start notification
+[10Dec2024 23:25:08.216] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon start notification
+[10Dec2024 23:25:08.216] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon start notification
+[10Dec2024 23:25:20.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd y ese sonido
+[10Dec2024 23:26:01.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> y este??
+[10Dec2024 23:26:07.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[10Dec2024 23:26:45.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> a
+[10Dec2024 23:26:48.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ayuda
+[10Dec2024 23:27:01.506] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 23:27:01.522] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 23:27:27.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has died from pain caused by fracture
+[10Dec2024 23:27:28.594] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 23:27:28.599] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@2ee9855f (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[10Dec2024 23:27:28.600] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@2236c87 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[10Dec2024 23:27:28.600] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@974951b (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[10Dec2024 23:27:28.600] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6fc54775 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[10Dec2024 23:27:28.601] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@33b6b32f (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[10Dec2024 23:27:28.601] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@8da7531 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[10Dec2024 23:27:28.601] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@6131a98 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[10Dec2024 23:27:28.601] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@47c3a3b1 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[10Dec2024 23:27:37.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
+[10Dec2024 23:27:42.024] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Leatherworker'/1075, l='ServerLevel[world]', x=-817.30, y=71.00, z=32.49] died, message: 'Leatherworker was blown up by Rocket Angel'
+[10Dec2024 23:27:50.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[10Dec2024 23:27:53.049] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Ink Sac'/5067, l='ServerLevel[world]', x=-727.74, y=62.00, z=-32.40]
+[10Dec2024 23:27:53.049] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Canned meat'/5088, l='ServerLevel[world]', x=-746.41, y=70.00, z=-64.35]
+[10Dec2024 23:27:55.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[10Dec2024 23:27:55.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[10Dec2024 23:27:59.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> la luna de sangre
+[10Dec2024 23:28:11.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> hay varios tipos de lunas de sangre
+[10Dec2024 23:28:35.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> una invoca golems de fuego con esqueletos y zombis q disparan o con bazucas
+[10Dec2024 23:28:53.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> la otra invoca cantidad de mobs
+[10Dec2024 23:28:55.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[10Dec2024 23:28:58.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> y la otra aun mas mobs
+[10Dec2024 23:29:56.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mejor hacemos una base subterranea
+[10Dec2024 23:30:01.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[10Dec2024 23:30:20.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> checkea un golem de fuegop
+[10Dec2024 23:30:28.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> si ya vi
