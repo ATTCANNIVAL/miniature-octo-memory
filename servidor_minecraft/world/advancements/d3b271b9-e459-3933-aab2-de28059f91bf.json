@@ -3295,6 +3295,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2024-12-10 22:18:32 +0000"
+    },
+    "done": true
+  },
   "zombie_extreme:darkpearl": {
     "criteria": {
       "darkpearl": "2024-12-08 17:19:26 +0000"
