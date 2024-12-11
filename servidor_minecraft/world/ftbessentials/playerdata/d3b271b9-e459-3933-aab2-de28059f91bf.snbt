@@ -15,6 +15,7 @@
 		{ dim: "minecraft:overworld", x: -1313, y: 94, z: -899, time: 1733766559642L }
 		{ dim: "minecraft:overworld", x: -819, y: 71, z: 35, time: 1733866359723L }
 		{ dim: "minecraft:overworld", x: -1012, y: 78, z: 16, time: 1733867284998L }
+		{ dim: "minecraft:overworld", x: -803, y: 73, z: 14, time: 1733873247230L }
 	]
 	homes: { }
 }
