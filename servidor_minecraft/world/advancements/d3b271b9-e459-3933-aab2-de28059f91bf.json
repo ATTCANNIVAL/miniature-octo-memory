@@ -695,6 +695,12 @@
     },
     "done": true
   },
+  "tmtmcoresandmore:iron_red_block_ach": {
+    "criteria": {
+      "iron_red_block_ach": "2024-12-15 18:36:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/pink_cooler": {
     "criteria": {
       "has_chest": "2024-12-08 01:28:52 +0000"
@@ -1082,6 +1088,12 @@
   "cfm:recipes/cfm/light_gray_cooler": {
     "criteria": {
       "has_chest": "2024-12-08 01:28:52 +0000"
+    },
+    "done": true
+  },
+  "zombie_extreme:rubies": {
+    "criteria": {
+      "rubies": "2024-12-15 18:36:12 +0000"
     },
     "done": true
   },
@@ -4211,6 +4223,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-09 17:12:34 +0000"
+    },
+    "done": true
+  },
+  "tmtmcoresandmore:asbestos_block_ach": {
+    "criteria": {
+      "asbestos_block_ach": "2024-12-15 18:37:37 +0000"
     },
     "done": true
   },

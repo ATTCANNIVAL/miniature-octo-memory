@@ -1155,6 +1155,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2024-12-15 18:32:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-09 17:13:23 +0000"
@@ -1254,6 +1260,12 @@
   "usefulbackpacks:recipes/filter_configurator": {
     "criteria": {
       "has_wool": "2024-12-08 02:09:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-15 18:39:17 +0000"
     },
     "done": true
   },
@@ -1407,6 +1419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-15 18:36:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-12-08 01:22:57 +0000"
@@ -1460,6 +1478,12 @@
   "ironchest:recipes/ironchest/chests/vanilla_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-15 18:39:17 +0000"
     },
     "done": true
   },
@@ -1868,6 +1892,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-08 01:22:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2024-12-15 18:32:23 +0000"
     },
     "done": true
   },
@@ -2732,6 +2762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-15 18:36:14 +0000"
+    },
+    "done": true
+  },
   "plastic_from_ava:recipes/survival/plastic": {
     "criteria": {
       "has_leather": "2024-12-08 18:01:29 +0000"
@@ -3173,6 +3209,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-08 18:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-15 18:36:14 +0000"
     },
     "done": true
   },
