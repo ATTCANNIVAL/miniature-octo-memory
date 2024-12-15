@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2024-12-15 18:24:15 +0000"
+    },
+    "done": true
+  },
   "tmtmcoresandmore:orichalcum_block_ach": {
     "criteria": {
       "orichalcum_block_ach": "2024-12-08 17:40:30 +0000"
@@ -932,6 +938,12 @@
   "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-08 02:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-12-15 18:24:15 +0000"
     },
     "done": true
   },
@@ -4553,6 +4565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-12-15 18:24:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_coffee_table": {
     "criteria": {
       "has_log": "2024-12-08 17:00:17 +0000"
@@ -5000,6 +5018,12 @@
   "cfm:recipes/cfm/stripped_birch_park_bench": {
     "criteria": {
       "has_log": "2024-12-08 17:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2024-12-15 18:24:15 +0000"
     },
     "done": true
   },
