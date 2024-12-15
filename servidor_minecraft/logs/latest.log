@@ -7640,3 +7640,53 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 17:43:29.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
 [15Dec2024 17:44:25.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> listo
 [15Dec2024 17:44:28.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[15Dec2024 17:45:12.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> sale disc?
+[15Dec2024 17:45:44.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> iré por el airdrop
+[15Dec2024 17:45:51.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> sale dc?
+[15Dec2024 17:46:00.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> dc ps
+[15Dec2024 17:47:22.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> me dió granada
+[15Dec2024 17:47:46.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> y una comida q da resistencia 1 por 10 segundos
+[15Dec2024 17:48:39.618] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL was kicked for floating too long!
+[15Dec2024 17:48:39.619] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL lost connection: Flying is not enabled on this server
+[15Dec2024 17:48:39.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL left the game
+[15Dec2024 17:48:39.622] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc7b24d9-b9a0-37fe-a22c-1653103fa143 was unloaded
+[15Dec2024 17:48:39.669] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[15Dec2024 17:49:09.435] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@17b09cee
+[15Dec2024 17:49:09.453] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ATT_CANNIVAL[/127.125.151.53:34257] logged in with entity id 2558 at (-855.4898546454826, 83.2611096639491, 36.61264197955202)
+[15Dec2024 17:49:09.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL joined the game
+[15Dec2024 17:49:09.470] [Server thread/INFO] [tac/]: PENDING
+[15Dec2024 17:49:09.553] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[15Dec2024 17:49:09.554] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[15Dec2024 17:49:09.554] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[15Dec2024 17:49:09.554] [Server thread/INFO] [net.mcreator.tmtmcoresandmore.TmtmcoresandmoreMod/]: TmTmc-OresAndMore loaded
+[15Dec2024 17:49:09.555] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:72]: enable_welcome: true
+[15Dec2024 17:49:09.555] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:73]: welcome_message: Welcome to our server 
+[15Dec2024 17:49:09.555] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:74]: enable_all_ores: true
+[15Dec2024 17:49:09.556] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:75]: enable_all_ingots: true
+[15Dec2024 17:49:09.556] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:76]: enable_all_blocks: true
+[15Dec2024 17:49:09.556] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:77]: enable_all_armors: true
+[15Dec2024 17:49:09.556] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:78]: enable_all_swords_bows: true
+[15Dec2024 17:49:09.557] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:79]: enable_all_foods: true
+[15Dec2024 17:49:09.557] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:80]: enable_all_paintings: true
+[15Dec2024 17:49:09.557] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:81]: enable_all_poisons: true
+[15Dec2024 17:49:09.557] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:82]: enable_all_powders: true
+[15Dec2024 17:49:09.558] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:83]: enable_all_tools: true
+[15Dec2024 17:49:09.558] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:84]: enable_all_recipes: true
+[15Dec2024 17:49:09.558] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:85]: enable_all_advancements: true
+[15Dec2024 17:49:09.559] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@19a55d47 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 17:49:09.559] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@34cb2bed (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 17:49:09.559] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@12f9cd41 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[15Dec2024 17:49:09.559] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@51422b68 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 17:49:09.560] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@51c0897b (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[15Dec2024 17:49:09.561] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4b8c41de (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 17:49:09.561] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@d463a53 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 17:49:09.561] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@1c739f05 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 17:49:09.725] [Thread-33/INFO] [chancecubes/]: No custom rewards detected for the current user!
+[15Dec2024 17:49:11.690] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc7b24d9-b9a0-37fe-a22c-1653103fa143 was loaded
+[15Dec2024 17:49:45.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> dice q intenté volar
+[15Dec2024 17:49:51.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[15Dec2024 17:49:59.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> estaba practicando el parkour ps
+[15Dec2024 17:50:36.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> pera voy por mi almuerso
+[15Dec2024 17:50:49.166] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TAQUIS123 lost connection: Disconnected
+[15Dec2024 17:50:49.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 left the game
+[15Dec2024 17:50:49.167] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3b271b9-e459-3933-aab2-de28059f91bf was unloaded
