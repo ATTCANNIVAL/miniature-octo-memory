@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2024-12-15 18:48:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 01:31:40 +0000"
@@ -796,6 +802,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-15 18:48:41 +0000"
+    },
+    "done": true
+  },
   "mca:root": {
     "criteria": {
       "village_taiga": "2024-12-08 01:14:07 +0000",
@@ -845,6 +857,12 @@
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-08 22:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-15 18:48:41 +0000"
     },
     "done": true
   },
@@ -1043,6 +1061,12 @@
   "cfm:recipes/cfm/cyan_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-08 16:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-15 18:48:41 +0000"
     },
     "done": true
   },
@@ -1359,6 +1383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-15 18:48:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-08 18:02:58 +0000"
@@ -1368,6 +1398,12 @@
   "cfm:recipes/cfm/stripped_oak_desk": {
     "criteria": {
       "has_planks": "2024-12-09 17:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-15 18:48:41 +0000"
     },
     "done": true
   },
@@ -2030,6 +2066,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-10 21:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-15 18:48:41 +0000"
     },
     "done": true
   },
@@ -2942,6 +2984,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-15 18:48:41 +0000"
+    },
+    "done": true
+  },
   "tmtmcoresandmore:himalayan_pink_salt_block_ach": {
     "criteria": {
       "himalayan_pink_salt_block_ach": "2024-12-10 22:27:56 +0000"
@@ -2957,6 +3005,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2024-12-08 02:09:17 +0000"
+    },
+    "done": true
+  },
+  "zombie_extreme:anddoesnotbreakwithoutwork": {
+    "criteria": {
+      "anddoesnotbreakwithoutwork": "2024-12-15 18:47:41 +0000"
     },
     "done": true
   },
@@ -3476,6 +3530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2024-12-15 18:48:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_mail_box": {
     "criteria": {
       "has_chest": "2024-12-08 16:47:17 +0000"
@@ -3623,6 +3683,12 @@
   "usefulbackpacks:recipes/backpack_small": {
     "criteria": {
       "has_wool": "2024-12-08 02:09:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2024-12-15 18:48:41 +0000"
     },
     "done": true
   },

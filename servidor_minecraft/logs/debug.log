@@ -14790,3 +14790,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 18:42:12.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
 [15Dec2024 18:45:30.071] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Preparing airdrop spawn event
 [15Dec2024 18:45:30.071] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Created new airdrop at BlockPos{x=-961, y=181, z=50} for player ATT_CANNIVAL
+[15Dec2024 18:46:02.652] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Dec2024 18:46:02.669] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Dec2024 18:47:41.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Titanium pickaxe]
+[15Dec2024 18:49:58.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Teleported TAQUIS123 to -850.5, 75.5, 23.5]
+[15Dec2024 18:50:13.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 died
+[15Dec2024 18:50:13.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Killed TAQUIS123]
+[15Dec2024 18:50:14.833] [Server thread/INFO] [tac/]: PENDING
+[15Dec2024 18:50:14.838] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@19a55d47 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 18:50:14.839] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@34cb2bed (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 18:50:14.839] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@12f9cd41 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[15Dec2024 18:50:14.839] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@51422b68 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 18:50:14.840] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@51c0897b (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[15Dec2024 18:50:14.841] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4b8c41de (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 18:50:14.841] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@d463a53 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 18:50:14.841] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@1c739f05 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 18:51:02.650] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Dec2024 18:51:02.667] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Dec2024 18:54:27.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> tengo un libro de reparacion 10
+[15Dec2024 18:54:56.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> tengo yo de fortuna 10
+[15Dec2024 18:55:09.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> y reparacion tambien
+[15Dec2024 18:55:21.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> te los da un mini boss
