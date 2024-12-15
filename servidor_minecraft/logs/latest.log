@@ -7690,3 +7690,108 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 17:50:49.166] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TAQUIS123 lost connection: Disconnected
 [15Dec2024 17:50:49.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 left the game
 [15Dec2024 17:50:49.167] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3b271b9-e459-3933-aab2-de28059f91bf was unloaded
+[15Dec2024 18:00:30.067] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=30,minDay=30,maxDay=0] to hordespawn on day 30
+[15Dec2024 18:00:30.067] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=1,minDay=30,maxDay=0]{{HandItems:[{id:"trident",Count:1}]}} to hordespawn on day 30
+[15Dec2024 18:00:30.069] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=30,minDay=30,maxDay=0] to hordespawn on day 30
+[15Dec2024 18:00:30.069] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=1,minDay=30,maxDay=0]{{HandItems:[{id:"trident",Count:1}]}} to hordespawn on day 30
+[15Dec2024 18:01:03.131] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@311b82c0
+[15Dec2024 18:01:03.150] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TAQUIS123[/127.76.179.31:43217] logged in with entity id 4166 at (-822.3000000119209, 52.0, 40.698036887925895)
+[15Dec2024 18:01:03.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 joined the game
+[15Dec2024 18:01:03.166] [Server thread/INFO] [tac/]: PENDING
+[15Dec2024 18:01:03.253] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[15Dec2024 18:01:03.253] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[15Dec2024 18:01:03.253] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[15Dec2024 18:01:03.254] [Server thread/INFO] [net.mcreator.tmtmcoresandmore.TmtmcoresandmoreMod/]: TmTmc-OresAndMore loaded
+[15Dec2024 18:01:03.254] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:72]: enable_welcome: true
+[15Dec2024 18:01:03.254] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:73]: welcome_message: Welcome to our server 
+[15Dec2024 18:01:03.254] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:74]: enable_all_ores: true
+[15Dec2024 18:01:03.254] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:75]: enable_all_ingots: true
+[15Dec2024 18:01:03.254] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:76]: enable_all_blocks: true
+[15Dec2024 18:01:03.255] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:77]: enable_all_armors: true
+[15Dec2024 18:01:03.255] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:78]: enable_all_swords_bows: true
+[15Dec2024 18:01:03.255] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:79]: enable_all_foods: true
+[15Dec2024 18:01:03.255] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:80]: enable_all_paintings: true
+[15Dec2024 18:01:03.255] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:81]: enable_all_poisons: true
+[15Dec2024 18:01:03.255] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:82]: enable_all_powders: true
+[15Dec2024 18:01:03.255] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:83]: enable_all_tools: true
+[15Dec2024 18:01:03.255] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:84]: enable_all_recipes: true
+[15Dec2024 18:01:03.256] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:85]: enable_all_advancements: true
+[15Dec2024 18:01:03.257] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@19a55d47 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 18:01:03.257] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@34cb2bed (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 18:01:03.258] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@12f9cd41 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[15Dec2024 18:01:03.258] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@51422b68 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 18:01:03.259] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@51c0897b (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[15Dec2024 18:01:03.260] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4b8c41de (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 18:01:03.260] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@d463a53 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 18:01:03.260] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@1c739f05 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 18:01:03.278] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=30,minDay=30,maxDay=0] to hordespawn on day 30
+[15Dec2024 18:01:03.279] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=1,minDay=30,maxDay=0]{{HandItems:[{id:"trident",Count:1}]}} to hordespawn on day 30
+[15Dec2024 18:01:03.279] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=30,minDay=30,maxDay=0] to hordespawn on day 30
+[15Dec2024 18:01:03.279] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=1,minDay=30,maxDay=0]{{HandItems:[{id:"trident",Count:1}]}} to hordespawn on day 30
+[15Dec2024 18:01:03.389] [Thread-47/INFO] [chancecubes/]: No custom rewards detected for the current user!
+[15Dec2024 18:01:12.197] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3b271b9-e459-3933-aab2-de28059f91bf was loaded
+[15Dec2024 18:01:53.126] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=30,minDay=30,maxDay=0] to hordespawn on day 30
+[15Dec2024 18:01:53.126] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=1,minDay=30,maxDay=0]{{HandItems:[{id:"trident",Count:1}]}} to hordespawn on day 30
+[15Dec2024 18:02:01.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> volve hijito
+[15Dec2024 18:02:18.471] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TAQUIS123 lost connection: Timed out
+[15Dec2024 18:02:18.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 left the game
+[15Dec2024 18:02:18.471] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3b271b9-e459-3933-aab2-de28059f91bf was unloaded
+[15Dec2024 18:03:14.588] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@fed1138
+[15Dec2024 18:03:14.615] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TAQUIS123[/127.76.179.31:38839] logged in with entity id 4494 at (-825.9717394497044, 52.0, 39.65602571197383)
+[15Dec2024 18:03:14.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 joined the game
+[15Dec2024 18:03:14.633] [Server thread/INFO] [tac/]: PENDING
+[15Dec2024 18:03:14.718] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[15Dec2024 18:03:14.719] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[15Dec2024 18:03:14.719] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[15Dec2024 18:03:14.719] [Server thread/INFO] [net.mcreator.tmtmcoresandmore.TmtmcoresandmoreMod/]: TmTmc-OresAndMore loaded
+[15Dec2024 18:03:14.720] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@19a55d47 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 18:03:14.720] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:72]: enable_welcome: true
+[15Dec2024 18:03:14.720] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@34cb2bed (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 18:03:14.720] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@12f9cd41 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[15Dec2024 18:03:14.720] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:73]: welcome_message: Welcome to our server 
+[15Dec2024 18:03:14.720] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@51422b68 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 18:03:14.721] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:74]: enable_all_ores: true
+[15Dec2024 18:03:14.721] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:75]: enable_all_ingots: true
+[15Dec2024 18:03:14.721] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:76]: enable_all_blocks: true
+[15Dec2024 18:03:14.721] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@51c0897b (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[15Dec2024 18:03:14.721] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:77]: enable_all_armors: true
+[15Dec2024 18:03:14.722] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:78]: enable_all_swords_bows: true
+[15Dec2024 18:03:14.722] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4b8c41de (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 18:03:14.722] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@d463a53 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 18:03:14.722] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:79]: enable_all_foods: true
+[15Dec2024 18:03:14.722] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@1c739f05 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 18:03:14.722] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:80]: enable_all_paintings: true
+[15Dec2024 18:03:14.723] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:81]: enable_all_poisons: true
+[15Dec2024 18:03:14.723] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:82]: enable_all_powders: true
+[15Dec2024 18:03:14.723] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:83]: enable_all_tools: true
+[15Dec2024 18:03:14.724] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:84]: enable_all_recipes: true
+[15Dec2024 18:03:14.724] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:85]: enable_all_advancements: true
+[15Dec2024 18:03:14.836] [Thread-49/INFO] [chancecubes/]: No custom rewards detected for the current user!
+[15Dec2024 18:03:15.442] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3b271b9-e459-3933-aab2-de28059f91bf was loaded
+[15Dec2024 18:03:30.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Husk
+[15Dec2024 18:03:32.043] [Server thread/INFO] [tac/]: PENDING
+[15Dec2024 18:03:32.048] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@19a55d47 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 18:03:32.048] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@34cb2bed (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 18:03:32.048] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@12f9cd41 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[15Dec2024 18:03:32.048] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@51422b68 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 18:03:32.049] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@51c0897b (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[15Dec2024 18:03:32.050] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4b8c41de (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 18:03:32.050] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@d463a53 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 18:03:32.050] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@1c739f05 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 18:03:35.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by ATT_CANNIVAL's Zombie using [Reaching Diamond Lochaber Axe of Learning]
+[15Dec2024 18:03:36.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd me boto
+[15Dec2024 18:03:37.732] [Server thread/INFO] [tac/]: PENDING
+[15Dec2024 18:03:37.737] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@19a55d47 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 18:03:37.738] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@34cb2bed (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 18:03:37.738] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@12f9cd41 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[15Dec2024 18:03:37.738] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@51422b68 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 18:03:37.738] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@51c0897b (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[15Dec2024 18:03:37.739] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4b8c41de (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 18:03:37.739] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@d463a53 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 18:03:37.740] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@1c739f05 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 18:03:39.229] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=30,minDay=30,maxDay=0] to hordespawn on day 30
+[15Dec2024 18:03:39.229] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=1,minDay=30,maxDay=0]{{HandItems:[{id:"trident",Count:1}]}} to hordespawn on day 30
+[15Dec2024 18:03:41.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[15Dec2024 18:03:47.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[15Dec2024 18:04:29.232] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=30,minDay=30,maxDay=0] to hordespawn on day 30
+[15Dec2024 18:04:29.233] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=1,minDay=30,maxDay=0]{{HandItems:[{id:"trident",Count:1}]}} to hordespawn on day 30
