@@ -717,6 +717,7 @@
       "minecraft:creeper": "2024-12-08 01:54:18 +0000",
       "minecraft:witch": "2024-12-09 17:47:04 +0000",
       "minecraft:wither_skeleton": "2024-12-08 22:21:20 +0000",
+      "minecraft:husk": "2024-12-15 18:01:07 +0000",
       "minecraft:enderman": "2024-12-08 17:02:49 +0000",
       "minecraft:zombie": "2024-12-08 01:33:38 +0000",
       "minecraft:drowned": "2024-12-09 17:20:24 +0000"
@@ -859,9 +860,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-15 18:03:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-08 18:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-15 18:03:17 +0000"
     },
     "done": true
   },
@@ -2563,6 +2576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-15 18:03:17 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/supplycampdeployer": {
     "criteria": {
       "has_chest": "2024-12-08 16:47:17 +0000"
@@ -2620,6 +2639,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-12-10 21:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-15 18:03:17 +0000"
     },
     "done": true
   },
@@ -3430,6 +3455,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-08 01:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-15 18:09:38 +0000"
     },
     "done": true
   },
