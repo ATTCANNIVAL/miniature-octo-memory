@@ -647,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-15 18:59:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2024-12-08 02:13:14 +0000"
@@ -1136,6 +1142,12 @@
   "relics:obtain/midnight_robe": {
     "criteria": {
       "obtain_relic": "2024-12-08 22:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-15 18:59:12 +0000"
     },
     "done": true
   },
@@ -3360,6 +3372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-15 18:59:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_table": {
     "criteria": {
       "has_log": "2024-12-08 01:05:57 +0000"
@@ -4094,6 +4112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-15 18:59:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/jungle_crate": {
     "criteria": {
       "has_log": "2024-12-08 17:00:09 +0000"
@@ -4322,6 +4346,12 @@
   "cfm:recipes/cfm/purple_picket_gate": {
     "criteria": {
       "has_gate": "2024-12-10 22:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-15 18:59:12 +0000"
     },
     "done": true
   },
@@ -5284,6 +5314,13 @@
       "has_stone": "2024-12-10 21:50:32 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/siamese.png": "2024-12-15 18:59:33 +0000",
+      "textures/entity/cat/calico.png": "2024-12-15 18:59:21 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
     "criteria": {

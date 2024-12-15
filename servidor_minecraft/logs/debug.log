@@ -14811,3 +14811,44 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 18:54:56.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> tengo yo de fortuna 10
 [15Dec2024 18:55:09.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> y reparacion tambien
 [15Dec2024 18:55:21.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> te los da un mini boss
+[15Dec2024 18:56:02.709] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Dec2024 18:56:02.728] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Dec2024 18:58:01.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL withered away
+[15Dec2024 18:58:02.682] [Server thread/INFO] [tac/]: PENDING
+[15Dec2024 18:58:02.688] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@19a55d47 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 18:58:02.688] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@34cb2bed (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 18:58:02.688] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@12f9cd41 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[15Dec2024 18:58:02.688] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@51422b68 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 18:58:02.689] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@51c0897b (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[15Dec2024 18:58:02.689] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4b8c41de (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 18:58:02.690] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@d463a53 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 18:58:02.690] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@1c739f05 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 18:58:07.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd?}
+[15Dec2024 18:58:18.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> si
+[15Dec2024 18:59:05.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
+[15Dec2024 18:59:11.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL withered away
+[15Dec2024 18:59:13.632] [Server thread/INFO] [tac/]: PENDING
+[15Dec2024 18:59:13.637] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@19a55d47 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 18:59:13.638] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@34cb2bed (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 18:59:13.638] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@12f9cd41 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[15Dec2024 18:59:13.638] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@51422b68 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[15Dec2024 18:59:13.639] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@51c0897b (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[15Dec2024 18:59:13.640] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4b8c41de (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 18:59:13.640] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@d463a53 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 18:59:13.641] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@1c739f05 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15Dec2024 18:59:21.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Best Friends Forever]
+[15Dec2024 18:59:32.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has completed the challenge [Serious Dedication]
+[15Dec2024 18:59:58.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[15Dec2024 19:01:02.618] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Dec2024 19:01:02.634] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15Dec2024 19:01:08.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Teleported TAQUIS123 to -850.5, 75.5, 23.5]
+[15Dec2024 19:01:52.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> manito puedes poner que los gatos no despawneen???
+[15Dec2024 19:02:05.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> y los creeperss
+[15Dec2024 19:02:13.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> a
+[15Dec2024 19:02:14.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ya
+[15Dec2024 19:02:29.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[15Dec2024 19:02:34.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[15Dec2024 19:03:42.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
+[15Dec2024 19:05:44.271] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/1675, l='ServerLevel[world]', x=-1013.68, y=79.00, z=-0.89] died, message: 'Farmer was slain by Rat King'
+[15Dec2024 19:06:02.837] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15Dec2024 19:06:02.852] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
