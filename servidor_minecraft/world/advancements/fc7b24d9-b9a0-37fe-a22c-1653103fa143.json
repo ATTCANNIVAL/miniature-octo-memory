@@ -23,15 +23,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+  "minecolonies:recipes/minecolonies/blockwaypoint": {
     "criteria": {
-      "has_auto_smelting_upgrade": "2024-12-16 23:05:24 +0000"
-    },
-    "done": true
-  },
-  "zombie_extreme:alternateworldadvancement": {
-    "criteria": {
-      "alternateworldadvancement": "2024-12-16 23:05:25 +0000"
+      "has_build_tool": "2024-12-16 23:08:21 +0000"
     },
     "done": true
   },
@@ -41,15 +35,191 @@
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
+  "minecolonies:recipes/minecolonies/blockminecoloniesrack": {
     "criteria": {
-      "WDA": "2024-12-16 23:05:25 +0000"
+      "has_build_tool": "2024-12-16 23:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhuttownhall": {
+    "criteria": {
+      "has_items": "2024-12-16 23:08:21 +0000"
     },
     "done": true
   },
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2024-12-16 23:05:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-16 23:12:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-16 23:12:24 +0000"
+    },
+    "done": true
+  },
+  "moguns:weapons/root": {
+    "criteria": {
+      "tick": "2024-12-16 23:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-16 23:12:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert_hills": "2024-12-16 23:07:25 +0000",
+      "minecraft:desert": "2024-12-16 23:06:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:unlock_deep_pockets_book": {
+    "criteria": {
+      "exists": "2024-12-16 23:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-16 23:12:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-12-16 23:05:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-16 23:12:24 +0000"
+    },
+    "done": true
+  },
+  "simple_hearts:simplehearts_adv": {
+    "criteria": {
+      "simplehearts_adv": "2024-12-16 23:05:24 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:currency/netherite_wallet": {
+    "criteria": {
+      "netherite_wallet": "2024-12-16 23:05:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-16 23:12:56 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot_smelting": {
+    "criteria": {
+      "has_item": "2024-12-16 23:05:24 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2024-12-16 23:05:24 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot": {
+    "criteria": {
+      "has_item": "2024-12-16 23:05:24 +0000"
+    },
+    "done": true
+  },
+  "moguns:crayfish/root": {
+    "criteria": {
+      "tick": "2024-12-16 23:05:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2024-12-16 23:05:24 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-16 23:05:24 +0000",
+      "has_crying_obsidian": "2024-12-16 23:05:24 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2024-12-16 23:05:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-16 23:12:24 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/clipboard": {
+    "criteria": {
+      "has_build_tool": "2024-12-16 23:08:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2024-12-16 23:05:24 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutstonesmeltery": {
+    "criteria": {
+      "has_items": "2024-12-16 23:12:24 +0000"
+    },
+    "done": true
+  },
+  "zombie_extreme:alternateworldadvancement": {
+    "criteria": {
+      "alternateworldadvancement": "2024-12-16 23:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhuttavern": {
+    "criteria": {
+      "has_items": "2024-12-16 23:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutstonemason": {
+    "criteria": {
+      "has_items": "2024-12-16 23:12:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-16 23:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-16 23:12:24 +0000"
     },
     "done": true
   },
@@ -65,15 +235,15 @@
     },
     "done": true
   },
-  "mca:recipes/misc/comb": {
+  "minecolonies:recipes/minecolonies/resourcescroll": {
     "criteria": {
-      "has_item": "2024-12-16 23:05:24 +0000"
+      "has_build_tool": "2024-12-16 23:08:21 +0000"
     },
     "done": true
   },
-  "moguns:weapons/root": {
+  "mca:recipes/misc/comb": {
     "criteria": {
-      "tick": "2024-12-16 23:05:25 +0000"
+      "has_item": "2024-12-16 23:05:24 +0000"
     },
     "done": true
   },
@@ -117,45 +287,15 @@
     },
     "done": true
   },
-  "minecraft:unlock_deep_pockets_book": {
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
-      "exists": "2024-12-16 23:05:25 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-12-16 23:05:24 +0000"
-    },
-    "done": true
-  },
-  "simple_hearts:simplehearts_adv": {
-    "criteria": {
-      "simplehearts_adv": "2024-12-16 23:05:24 +0000"
-    },
-    "done": true
-  },
-  "lightmanscurrency:currency/netherite_wallet": {
-    "criteria": {
-      "netherite_wallet": "2024-12-16 23:05:24 +0000"
+      "has_stone_bricks": "2024-12-16 23:12:24 +0000"
     },
     "done": true
   },
   "lightmanscurrency:currency/cash_register": {
     "criteria": {
       "cash_register": "2024-12-16 23:05:24 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/rose_gold_ingot_smelting": {
-    "criteria": {
-      "has_item": "2024-12-16 23:05:24 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/books": {
-    "criteria": {
-      "has_item": "2024-12-16 23:05:24 +0000"
     },
     "done": true
   },
@@ -185,40 +325,15 @@
     },
     "done": true
   },
-  "mca:recipes/misc/rose_gold_ingot": {
-    "criteria": {
-      "has_item": "2024-12-16 23:05:24 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-16 23:05:24 +0000"
     },
     "done": true
   },
-  "moguns:crayfish/root": {
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
-      "tick": "2024-12-16 23:05:25 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
-    "criteria": {
-      "has_auto_smelting_upgrade": "2024-12-16 23:05:24 +0000"
-    },
-    "done": true
-  },
-  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-16 23:05:24 +0000",
-      "has_crying_obsidian": "2024-12-16 23:05:24 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/staff_of_life": {
-    "criteria": {
-      "has_item": "2024-12-16 23:05:24 +0000"
+      "has_stone_bricks": "2024-12-16 23:12:24 +0000"
     },
     "done": true
   },

@@ -15184,3 +15184,240 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 23:07:47.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Minecraft Comes Alive]
 [16Dec2024 23:07:47.734] [Thread-28/INFO] [chancecubes/]: No custom rewards detected for the current user!
 [16Dec2024 23:07:54.820] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3b271b9-e459-3933-aab2-de28059f91bf was loaded
+[16Dec2024 23:09:32.016] [Worker-Main-18/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (36 | 49 | 532).
+[16Dec2024 23:09:32.020] [Worker-Main-18/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[16Dec2024 23:09:32.026] [Worker-Main-18/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 5(0) Rooms
+[16Dec2024 23:09:32.026] [Worker-Main-18/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[16Dec2024 23:09:32.026] [Worker-Main-18/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 4(0) Rooms
+[16Dec2024 23:09:32.026] [Worker-Main-18/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[16Dec2024 23:09:32.027] [Worker-Main-18/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 8(4) Nodes and 4(0) Rooms
+[16Dec2024 23:09:32.027] [Worker-Main-18/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[16Dec2024 23:09:32.028] [Worker-Main-18/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 8(0) Nodes and 4(0) Rooms
+[16Dec2024 23:09:32.028] [Worker-Main-18/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[16Dec2024 23:09:32.028] [Worker-Main-18/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 4(0) Rooms
+[16Dec2024 23:09:32.039] [Worker-Main-18/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [7, 38] with a total of 285 pieces.
+[16Dec2024 23:09:47.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Stone Age]
+[16Dec2024 23:10:32.166] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Dec2024 23:10:32.183] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Dec2024 23:10:34.755] [Server thread/ERROR] [minecolonies/]: BuildTool: building is null!
+java.lang.Exception: null
+	at com.minecolonies.coremod.network.messages.server.BuildToolPlaceMessage.setupBuilding(BuildToolPlaceMessage.java:365) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.messages.server.BuildToolPlaceMessage.handleHut(BuildToolPlaceMessage.java:272) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.messages.server.BuildToolPlaceMessage.onExecute(BuildToolPlaceMessage.java:171) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.messages.splitting.SplitPacketMessage.lambda$onExecute$1(SplitPacketMessage.java:128) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at net.minecraftforge.fml.network.NetworkEvent$Context.enqueueWork(NetworkEvent.java:201) ~[forge:?]
+	at com.minecolonies.coremod.network.messages.splitting.SplitPacketMessage.onExecute(SplitPacketMessage.java:128) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.NetworkChannel.lambda$setupInternalMessages$4(NetworkChannel.java:256) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:114) ~[forge:?]
+	at java.util.Optional.ifPresent(Optional.java:183) ~[?:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:114) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:148) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:66) ~[forge:?]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:72) ~[forge:?]
+	at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:77) ~[forge:?]
+	at java.util.Optional.map(Optional.java:265) ~[?:?]
+	at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:77) ~[forge:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:1413) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[16Dec2024 23:10:58.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Monster Hunter]
+[16Dec2024 23:10:59.327] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Found 163 recipes with the 'lightmanscurrency' namespace!
+[16Dec2024 23:10:59.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [My first penny!]
+[16Dec2024 23:11:01.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Acquire Hardware]
+[16Dec2024 23:11:01.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Time to roll the balls]
+[16Dec2024 23:11:23.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
+[16Dec2024 23:11:41.196] [Server thread/ERROR] [minecolonies/]: BuildTool: building is null!
+java.lang.Exception: null
+	at com.minecolonies.coremod.network.messages.server.BuildToolPasteMessage.setupBuilding(BuildToolPasteMessage.java:314) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.messages.server.BuildToolPasteMessage.handleHut(BuildToolPasteMessage.java:287) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.messages.server.BuildToolPasteMessage.onExecute(BuildToolPasteMessage.java:175) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.messages.splitting.SplitPacketMessage.lambda$onExecute$1(SplitPacketMessage.java:128) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at net.minecraftforge.fml.network.NetworkEvent$Context.enqueueWork(NetworkEvent.java:201) ~[forge:?]
+	at com.minecolonies.coremod.network.messages.splitting.SplitPacketMessage.onExecute(SplitPacketMessage.java:128) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.NetworkChannel.lambda$setupInternalMessages$4(NetworkChannel.java:256) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:114) ~[forge:?]
+	at java.util.Optional.ifPresent(Optional.java:183) ~[?:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:114) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:148) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:66) ~[forge:?]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:72) ~[forge:?]
+	at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:77) ~[forge:?]
+	at java.util.Optional.map(Optional.java:265) ~[?:?]
+	at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:77) ~[forge:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:1413) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[16Dec2024 23:11:41.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Dead Sea]
+[16Dec2024 23:11:43.597] [Worker-Main-5/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-4, y=39, z=555} at Chest with:minecraft:chests/simple_dungeon in dungeons_arise:foundry
+[16Dec2024 23:11:59.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> estoy poniendo estructuras para las tiendas
+[16Dec2024 23:12:14.728] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-265, y=23, z=664} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.729] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-265, y=23, z=664}
+[16Dec2024 23:12:14.730] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-259, y=24, z=666} but found not block entity block Block{minecraft:cave_air} at location
+[16Dec2024 23:12:14.730] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-259, y=24, z=666}
+[16Dec2024 23:12:14.730] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-259, y=24, z=665} but found not block entity block Block{minecraft:cave_air} at location
+[16Dec2024 23:12:14.730] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-259, y=24, z=665}
+[16Dec2024 23:12:14.730] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-259, y=22, z=666} but found not block entity block Block{minecraft:cave_air} at location
+[16Dec2024 23:12:14.730] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-259, y=22, z=666}
+[16Dec2024 23:12:14.730] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-259, y=24, z=668} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.730] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-259, y=24, z=668}
+[16Dec2024 23:12:14.730] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-259, y=22, z=665} but found not block entity block Block{minecraft:cave_air} at location
+[16Dec2024 23:12:14.731] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-259, y=22, z=665}
+[16Dec2024 23:12:14.731] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-259, y=22, z=668} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.731] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-259, y=22, z=668}
+[16Dec2024 23:12:14.731] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-259, y=24, z=669} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.731] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-259, y=24, z=669}
+[16Dec2024 23:12:14.731] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-259, y=22, z=669} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.731] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-259, y=22, z=669}
+[16Dec2024 23:12:14.801] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-224, y=24, z=662} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.802] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-224, y=24, z=662}
+[16Dec2024 23:12:14.802] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-224, y=24, z=665} but found not block entity block Block{minecraft:diorite} at location
+[16Dec2024 23:12:14.802] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:diorite} but failed at location BlockPos{x=-224, y=24, z=665}
+[16Dec2024 23:12:14.802] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-224, y=22, z=662} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.802] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-224, y=22, z=662}
+[16Dec2024 23:12:14.803] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-224, y=22, z=665} but found not block entity block Block{minecraft:cave_air} at location
+[16Dec2024 23:12:14.803] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-224, y=22, z=665}
+[16Dec2024 23:12:14.803] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-224, y=24, z=666} but found not block entity block Block{minecraft:diorite} at location
+[16Dec2024 23:12:14.803] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:diorite} but failed at location BlockPos{x=-224, y=24, z=666}
+[16Dec2024 23:12:14.803] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-224, y=22, z=666} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.803] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-224, y=22, z=666}
+[16Dec2024 23:12:14.804] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-227, y=22, z=665} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.804] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-227, y=22, z=665}
+[16Dec2024 23:12:14.805] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-225, y=22, z=656} but found not block entity block Block{minecraft:cave_air} at location
+[16Dec2024 23:12:14.806] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-225, y=22, z=656}
+[16Dec2024 23:12:14.806] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-236, y=22, z=667} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.806] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-236, y=22, z=667}
+[16Dec2024 23:12:14.806] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-229, y=24, z=662} but found not block entity block Block{minecraft:cave_air} at location
+[16Dec2024 23:12:14.807] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-229, y=24, z=662}
+[16Dec2024 23:12:14.807] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-226, y=22, z=656} but found not block entity block Block{minecraft:cave_air} at location
+[16Dec2024 23:12:14.807] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-226, y=22, z=656}
+[16Dec2024 23:12:14.807] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-230, y=24, z=662} but found not block entity block Block{minecraft:cave_air} at location
+[16Dec2024 23:12:14.807] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-230, y=24, z=662}
+[16Dec2024 23:12:14.807] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-229, y=22, z=662} but found not block entity block Block{minecraft:cave_air} at location
+[16Dec2024 23:12:14.807] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-229, y=22, z=662}
+[16Dec2024 23:12:14.808] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-230, y=24, z=665} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.808] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-230, y=24, z=665}
+[16Dec2024 23:12:14.808] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-230, y=22, z=662} but found not block entity block Block{minecraft:cave_air} at location
+[16Dec2024 23:12:14.808] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-230, y=22, z=662}
+[16Dec2024 23:12:14.809] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-225, y=22, z=660} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.809] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-225, y=22, z=660}
+[16Dec2024 23:12:14.810] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-230, y=22, z=665} but found not block entity block Block{gunsrpg:black_crystal_ore} at location
+[16Dec2024 23:12:14.810] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{gunsrpg:black_crystal_ore} but failed at location BlockPos{x=-230, y=22, z=665}
+[16Dec2024 23:12:14.811] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-225, y=24, z=662} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.811] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-225, y=24, z=662}
+[16Dec2024 23:12:14.811] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-226, y=22, z=660} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.812] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-226, y=22, z=660}
+[16Dec2024 23:12:14.812] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-227, y=23, z=662} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.812] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-227, y=23, z=662}
+[16Dec2024 23:12:14.812] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-230, y=24, z=666} but found not block entity block Block{tmtmcoresandmore:saphire_blue_granite_block} at location
+[16Dec2024 23:12:14.812] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{tmtmcoresandmore:saphire_blue_granite_block} but failed at location BlockPos{x=-230, y=24, z=666}
+[16Dec2024 23:12:14.813] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-225, y=22, z=662} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.813] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-225, y=22, z=662}
+[16Dec2024 23:12:14.814] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-230, y=22, z=666} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.814] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-230, y=22, z=666}
+[16Dec2024 23:12:14.815] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-253, y=22, z=668} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.817] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-253, y=22, z=668}
+[16Dec2024 23:12:14.817] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-253, y=24, z=669} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.817] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-253, y=24, z=669}
+[16Dec2024 23:12:14.818] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-253, y=22, z=669} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.818] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-253, y=22, z=669}
+[16Dec2024 23:12:14.818] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-256, y=23, z=665} but found not block entity block Block{minecraft:cave_air} at location
+[16Dec2024 23:12:14.818] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-256, y=23, z=665}
+[16Dec2024 23:12:14.818] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-252, y=23, z=664} but found not block entity block Block{minecraft:cave_air} at location
+[16Dec2024 23:12:14.818] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-252, y=23, z=664}
+[16Dec2024 23:12:14.818] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-253, y=24, z=666} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.818] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-253, y=24, z=666}
+[16Dec2024 23:12:14.818] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-245, y=23, z=656} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.819] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-245, y=23, z=656}
+[16Dec2024 23:12:14.819] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-253, y=24, z=665} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.819] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-253, y=24, z=665}
+[16Dec2024 23:12:14.819] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-253, y=22, z=666} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.820] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-253, y=22, z=666}
+[16Dec2024 23:12:14.820] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-253, y=24, z=668} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.820] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-253, y=24, z=668}
+[16Dec2024 23:12:14.820] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-253, y=22, z=665} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:14.820] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-253, y=22, z=665}
+[16Dec2024 23:12:18.147] [Worker-Main-18/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-529, y=24, z=332} at Chest with:minecraft:chests/simple_dungeon in dungeons_arise:foundry
+[16Dec2024 23:12:22.227] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-260, y=23, z=674} but found not block entity block Block{minecraft:stone} at location
+[16Dec2024 23:12:22.227] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-260, y=23, z=674}
+[16Dec2024 23:12:41.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[16Dec2024 23:12:49.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[16Dec2024 23:13:32.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[16Dec2024 23:14:27.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Diamonds!]
+[16Dec2024 23:14:53.900] [Server thread/ERROR] [minecolonies/]: BuildTool: building is null!
+java.lang.Exception: null
+	at com.minecolonies.coremod.network.messages.server.BuildToolPasteMessage.setupBuilding(BuildToolPasteMessage.java:314) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.messages.server.BuildToolPasteMessage.handleHut(BuildToolPasteMessage.java:287) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.messages.server.BuildToolPasteMessage.onExecute(BuildToolPasteMessage.java:175) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.messages.splitting.SplitPacketMessage.lambda$onExecute$1(SplitPacketMessage.java:128) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at net.minecraftforge.fml.network.NetworkEvent$Context.enqueueWork(NetworkEvent.java:201) ~[forge:?]
+	at com.minecolonies.coremod.network.messages.splitting.SplitPacketMessage.onExecute(SplitPacketMessage.java:128) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.NetworkChannel.lambda$setupInternalMessages$4(NetworkChannel.java:256) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:114) ~[forge:?]
+	at java.util.Optional.ifPresent(Optional.java:183) ~[?:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:114) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:148) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:66) ~[forge:?]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:72) ~[forge:?]
+	at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:77) ~[forge:?]
+	at java.util.Optional.map(Optional.java:265) ~[?:?]
+	at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:77) ~[forge:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:1413) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[16Dec2024 23:15:25.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ojito
+[16Dec2024 23:15:32.189] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Dec2024 23:15:32.210] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
