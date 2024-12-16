@@ -15421,3 +15421,85 @@ java.lang.Exception: null
 [16Dec2024 23:15:25.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ojito
 [16Dec2024 23:15:32.189] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [16Dec2024 23:15:32.210] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Dec2024 23:19:00.680] [Worker-Main-22/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [2,33]
+[16Dec2024 23:19:00.680] [Worker-Main-22/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [2,33]
+[16Dec2024 23:19:00.693] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [2,34]
+[16Dec2024 23:19:00.695] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (32 | 13 | 555)
+[16Dec2024 23:19:00.708] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (32 | 13 | 555)
+[16Dec2024 23:19:00.713] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [2,34]
+[16Dec2024 23:19:19.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Monster Hunter]
+[16Dec2024 23:19:28.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: The difficulty has been set to Hard]
+[16Dec2024 23:20:00.794] [Server thread/WARN] [cgm/]: ATT_CANNIVAL(fc7b24d9-b9a0-37fe-a22c-1653103fa143) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 77
+[16Dec2024 23:20:07.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Shady Creeper]
+[16Dec2024 23:20:31.818] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Dec2024 23:20:31.836] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Dec2024 23:21:00.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Creative Mode]
+[16Dec2024 23:21:24.113] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Dzintars'/307, l='ServerLevel[world]', x=-291.02, y=71.10, z=277.50] died, message: 'Dzintars suffocated in a wall'
+[16Dec2024 23:21:57.660] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Viktorija'/308, l='ServerLevel[world]', x=-251.08, y=70.00, z=247.01] died, message: 'death.attack.radiation'
+[16Dec2024 23:22:22.714] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Dagnija'/341, l='ServerLevel[world]', x=-246.71, y=72.50, z=265.71] died, message: 'Dagnija was slain by Infection Military'
+[16Dec2024 23:22:45.532] [Server thread/ERROR] [minecolonies/]: BuildTool: building is null!
+java.lang.Exception: null
+	at com.minecolonies.coremod.network.messages.server.BuildToolPasteMessage.setupBuilding(BuildToolPasteMessage.java:314) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.messages.server.BuildToolPasteMessage.handleHut(BuildToolPasteMessage.java:287) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.messages.server.BuildToolPasteMessage.onExecute(BuildToolPasteMessage.java:175) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.messages.splitting.SplitPacketMessage.lambda$onExecute$1(SplitPacketMessage.java:128) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at net.minecraftforge.fml.network.NetworkEvent$Context.enqueueWork(NetworkEvent.java:201) ~[forge:?]
+	at com.minecolonies.coremod.network.messages.splitting.SplitPacketMessage.onExecute(SplitPacketMessage.java:128) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.NetworkChannel.lambda$setupInternalMessages$4(NetworkChannel.java:256) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:114) ~[forge:?]
+	at java.util.Optional.ifPresent(Optional.java:183) ~[?:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:114) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:148) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:66) ~[forge:?]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:72) ~[forge:?]
+	at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:77) ~[forge:?]
+	at java.util.Optional.map(Optional.java:265) ~[?:?]
+	at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:77) ~[forge:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:1413) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[16Dec2024 23:23:22.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Set own game mode to Survival Mode]
+[16Dec2024 23:23:32.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Hot Stuff]
+[16Dec2024 23:25:00.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 starved to death
+[16Dec2024 23:25:00.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Killed TAQUIS123]
+[16Dec2024 23:25:01.935] [Server thread/INFO] [tac/]: PENDING
+[16Dec2024 23:25:01.942] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6e05d25c (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[16Dec2024 23:25:01.942] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@38fac06f (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[16Dec2024 23:25:01.942] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@104203cd (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[16Dec2024 23:25:01.943] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@96ecb5c (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[16Dec2024 23:25:01.943] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@32adefdf (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[16Dec2024 23:25:01.944] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@7cc2d026 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[16Dec2024 23:25:01.944] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@2e2bfad7 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[16Dec2024 23:25:01.944] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@7a01ac4e (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[16Dec2024 23:25:32.042] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Dec2024 23:25:32.058] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Dec2024 23:26:14.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Iron Golem
+[16Dec2024 23:26:16.206] [Server thread/INFO] [tac/]: PENDING
+[16Dec2024 23:26:16.213] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6e05d25c (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[16Dec2024 23:26:16.213] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@38fac06f (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[16Dec2024 23:26:16.214] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@104203cd (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[16Dec2024 23:26:16.214] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@96ecb5c (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[16Dec2024 23:26:16.215] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@32adefdf (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[16Dec2024 23:26:16.216] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@7cc2d026 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[16Dec2024 23:26:16.216] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@2e2bfad7 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[16Dec2024 23:26:16.216] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@7a01ac4e (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[16Dec2024 23:27:18.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[16Dec2024 23:28:18.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
