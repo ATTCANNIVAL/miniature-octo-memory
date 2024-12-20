@@ -7715,3 +7715,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Dec2024 01:48:10.228] [Worker-Main-5/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-446, y=70, z=47}
 [20Dec2024 01:49:06.445] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Dzintars'/451, l='ServerLevel[world]', x=-291.46, y=71.00, z=278.01] died, message: 'Dzintars was slain by Infected Police'
 [20Dec2024 01:49:10.590] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Raisa'/404, l='ServerLevel[world]', x=-291.97, y=70.00, z=258.03] died, message: 'Raisa was slain by Infection Military'
+[20Dec2024 01:50:23.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TAQUIS123: Teleported TAQUIS123 to 64.5, 69.0, 540.5]
+[20Dec2024 01:50:58.442] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Gunārs'/448, l='ServerLevel[world]', x=-246.19, y=72.00, z=257.99] died, message: 'Gunārs was slain by Drawned zombie'
+[20Dec2024 01:51:44.393] [Server thread/INFO] [com.willr27.blocklings.Blocklings/]: Creating trees list.
+[20Dec2024 01:51:48.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Cinnabar Ore]
+[20Dec2024 01:51:59.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Getting an Upgrade]
+[20Dec2024 01:52:16.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[20Dec2024 01:52:25.540] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3796c50b
+[20Dec2024 01:54:01.740] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/7955, l='ServerLevel[world]', x=93.09, y=51.44, z=608.75]
+[20Dec2024 01:54:01.741] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/7955, l='ServerLevel[world]', x=93.09, y=51.44, z=608.75]
+[20Dec2024 01:54:02.244] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/7980, l='ServerLevel[world]', x=95.04, y=52.19, z=609.50]
+[20Dec2024 01:54:02.244] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/7980, l='ServerLevel[world]', x=95.04, y=52.19, z=609.50]
+[20Dec2024 01:56:37.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> tengo la iluminacion en -45 y se ve god xd
+[20Dec2024 01:56:53.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> creo q demasiado realista
+[20Dec2024 01:57:07.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> por??
+[20Dec2024 01:57:15.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> realista ps
+[20Dec2024 01:58:04.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Amateur Archaeologist]
+[20Dec2024 01:59:03.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [My first penny!]

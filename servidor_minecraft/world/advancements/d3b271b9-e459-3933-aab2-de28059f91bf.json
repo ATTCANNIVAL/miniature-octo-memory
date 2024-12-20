@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/structurize/shapetool": {
+    "criteria": {
+      "has_stick": "2024-12-20 01:51:43 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2024-12-16 23:07:47 +0000"
@@ -101,6 +107,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 01:51:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-20 01:51:43 +0000"
+    },
+    "done": true
+  },
   "relics:obtain/root": {
     "criteria": {
       "obtain_relic": "2024-12-16 23:11:01 +0000"
@@ -110,6 +128,12 @@
   "cfm:recipes/cfm/stone_coffee_table": {
     "criteria": {
       "has_planks": "2024-12-16 23:09:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-20 01:51:43 +0000"
     },
     "done": true
   },
@@ -134,6 +158,24 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-16 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-20 01:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-20 01:51:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:51:27 +0000"
     },
     "done": true
   },
@@ -167,6 +209,18 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_crate": {
+    "criteria": {
+      "has_log": "2024-12-20 01:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 01:51:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2024-12-16 23:14:27 +0000"
@@ -182,6 +236,12 @@
   "cfm:recipes/cfm/green_grill": {
     "criteria": {
       "has_iron": "2024-12-16 23:11:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_table": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:51:27 +0000"
     },
     "done": true
   },
@@ -209,6 +269,18 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-20 01:51:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2024-12-20 01:51:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 23:11:01 +0000"
@@ -221,9 +293,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-20 01:51:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 23:11:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_blinds": {
+    "criteria": {
+      "has_log": "2024-12-20 01:51:27 +0000"
     },
     "done": true
   },
@@ -260,6 +344,12 @@
   "parcool:grant_parcool_guide": {
     "criteria": {
       "tick": "2024-12-16 23:07:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-20 01:51:27 +0000"
     },
     "done": true
   },
@@ -403,6 +493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:51:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-16 23:29:01 +0000"
@@ -511,6 +607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-20 01:51:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 23:11:01 +0000"
@@ -520,6 +622,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2024-12-16 23:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-20 01:51:43 +0000"
     },
     "done": true
   },
@@ -553,15 +661,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:51:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-16 23:10:02 +0000"
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2024-12-20 01:51:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-16 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:51:27 +0000"
     },
     "done": true
   },
@@ -574,6 +700,12 @@
   "minecolonies:recipes/combat/chainmailleggings": {
     "criteria": {
       "has_iron": "2024-12-16 23:11:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-20 01:51:27 +0000"
     },
     "done": true
   },
@@ -631,6 +763,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:51:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-16 23:23:39 +0000"
@@ -641,6 +779,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-16 23:10:58 +0000",
       "minecraft:creeper": "2024-12-16 23:14:50 +0000",
+      "minecraft:witch": "2024-12-20 01:54:44 +0000",
       "minecraft:husk": "2024-12-16 23:19:54 +0000",
       "minecraft:zombie": "2024-12-16 23:14:57 +0000"
     },
@@ -664,6 +803,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-20 01:51:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-12-16 23:10:02 +0000"
@@ -673,6 +818,12 @@
   "ava:recipes/main/gun_crafting_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 23:11:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_shovel": "2024-12-20 01:55:07 +0000"
     },
     "done": true
   },
@@ -740,6 +891,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-20 01:51:59 +0000"
+    },
+    "done": true
+  },
   "relics:obtain/squire_bag": {
     "criteria": {
       "obtain_relic": "2024-12-16 23:29:18 +0000"
@@ -764,9 +921,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:51:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-16 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:51:43 +0000"
     },
     "done": true
   },
@@ -794,6 +963,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-20 01:51:27 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_ingredients": "2024-12-16 23:07:47 +0000"
@@ -803,6 +978,18 @@
   "cfm:recipes/cfm/stripped_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-16 23:23:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-20 01:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-20 01:51:43 +0000"
     },
     "done": true
   },
@@ -860,9 +1047,21 @@
     },
     "done": true
   },
+  "tmtmcoresandmore:cinnabar_ore_ach": {
+    "criteria": {
+      "cinnabar_ore_ach": "2024-12-20 01:51:48 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/magenta_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-16 23:23:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_crate": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:51:27 +0000"
     },
     "done": true
   },
@@ -902,6 +1101,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_chair": {
+    "criteria": {
+      "has_log": "2024-12-20 01:51:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2024-12-16 23:27:43 +0000"
@@ -927,6 +1132,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:51:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-16 23:09:47 +0000"
@@ -936,6 +1147,18 @@
   "cfm:recipes/cfm/spatula": {
     "criteria": {
       "has_iron": "2024-12-16 23:11:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-20 01:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-20 01:51:27 +0000"
     },
     "done": true
   },
@@ -975,6 +1198,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-20 01:51:27 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/assault_rifle": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 23:11:01 +0000"
@@ -999,6 +1228,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_table": {
+    "criteria": {
+      "has_log": "2024-12-20 01:51:27 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/basic_bullet": {
     "criteria": {
       "has_gunpowder": "2024-12-16 23:11:01 +0000"
@@ -1020,6 +1255,12 @@
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2024-12-16 23:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:51:43 +0000"
     },
     "done": true
   },
@@ -1053,6 +1294,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_desk": {
+    "criteria": {
+      "has_log": "2024-12-20 01:51:27 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/shotgun": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 23:11:01 +0000"
@@ -1074,6 +1321,18 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-16 23:12:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 01:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-20 01:51:43 +0000"
     },
     "done": true
   },
@@ -1125,6 +1384,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2024-12-20 01:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:51:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-16 23:10:02 +0000"
@@ -1140,6 +1411,18 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-16 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_desk": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_shovel": "2024-12-20 01:55:07 +0000"
     },
     "done": true
   },
@@ -1167,6 +1450,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:51:43 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/building_blocks/rose_gold_block": {
     "criteria": {
       "has_item": "2024-12-16 23:07:47 +0000"
@@ -1182,6 +1471,12 @@
   "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-16 23:23:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-20 01:51:27 +0000"
     },
     "done": true
   },
@@ -1231,7 +1526,9 @@
     "criteria": {
       "minecraft:desert_hills": "2024-12-16 23:14:39 +0000",
       "minecraft:desert": "2024-12-16 23:08:52 +0000",
-      "minecraft:savanna": "2024-12-16 23:07:47 +0000"
+      "minecraft:wooded_hills": "2024-12-20 01:50:41 +0000",
+      "minecraft:savanna": "2024-12-16 23:07:47 +0000",
+      "minecraft:plains": "2024-12-20 01:50:23 +0000"
     },
     "done": false
   },
@@ -1289,6 +1586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:51:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stone_cabinet": {
     "criteria": {
       "has_planks": "2024-12-16 23:09:47 +0000"
@@ -1298,6 +1601,12 @@
   "cgm:recipes/cgm/grenade_launcher": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 23:11:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-20 01:54:51 +0000"
     },
     "done": true
   },
@@ -1322,6 +1631,18 @@
   "cfm:recipes/cfm/gray_grill": {
     "criteria": {
       "has_iron": "2024-12-16 23:11:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-20 01:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:51:43 +0000"
     },
     "done": true
   },
@@ -1457,6 +1778,12 @@
     },
     "done": true
   },
+  "craftingdead:recipes/craftingdead.combat/trenchgun": {
+    "criteria": {
+      "has_oak_planks": "2024-12-20 01:51:43 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
     "criteria": {
       "has_blasting_upgrade": "2024-12-16 23:07:47 +0000"
@@ -1487,6 +1814,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-20 01:51:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/post_box": {
     "criteria": {
       "has_iron": "2024-12-16 23:11:01 +0000"
@@ -1502,6 +1835,12 @@
   "cfm:recipes/cfm/jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-16 23:23:39 +0000"
+    },
+    "done": true
+  },
+  "craftingdead:recipes/craftingdead.combat/combat_knife": {
+    "criteria": {
+      "has_stick": "2024-12-20 01:51:43 +0000"
     },
     "done": true
   },
@@ -1550,6 +1889,12 @@
   "ava:recipes/survival/packed_gunpowder": {
     "criteria": {
       "has_gunpowder": "2024-12-16 23:11:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2024-12-20 01:51:43 +0000"
     },
     "done": true
   },
@@ -1616,6 +1961,12 @@
   "cfm:recipes/cfm/birch_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-16 23:23:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_coffee_table": {
+    "criteria": {
+      "has_log": "2024-12-20 01:51:27 +0000"
     },
     "done": true
   },
