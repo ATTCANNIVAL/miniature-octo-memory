@@ -7732,3 +7732,44 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Dec2024 01:57:15.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> realista ps
 [20Dec2024 01:58:04.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Amateur Archaeologist]
 [20Dec2024 01:59:03.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [My first penny!]
+[20Dec2024 02:01:05.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Suit Up]
+[20Dec2024 02:02:55.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Ice Bucket Challenge]
+[20Dec2024 02:04:37.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> su universo
+[20Dec2024 02:05:05.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by ATT_CANNIVAL using [Stone Sword of Guarding]
+[20Dec2024 02:05:07.380] [Server thread/INFO] [tac/]: PENDING
+[20Dec2024 02:05:07.385] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@2e0f4d92 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[20Dec2024 02:05:07.386] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@604a1277 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[20Dec2024 02:05:07.386] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@2894087 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[20Dec2024 02:05:07.386] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@5d30f2fd (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[20Dec2024 02:05:07.387] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@1996502a (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[20Dec2024 02:05:07.388] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@478a2d62 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[20Dec2024 02:05:07.388] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@9ebfc9e (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[20Dec2024 02:05:07.388] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@5df9c1a1 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[20Dec2024 02:05:07.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[20Dec2024 02:05:13.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> el pvp es raro
+[20Dec2024 02:06:10.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Time to roll the balls]
+[20Dec2024 02:07:26.647] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TAQUIS123 lost connection: Disconnected
+[20Dec2024 02:07:26.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 left the game
+[20Dec2024 02:07:26.648] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3b271b9-e459-3933-aab2-de28059f91bf was unloaded
+[20Dec2024 02:07:29.640] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL lost connection: Disconnected
+[20Dec2024 02:07:29.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL left the game
+[20Dec2024 02:07:29.640] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc7b24d9-b9a0-37fe-a22c-1653103fa143 was unloaded
+[20Dec2024 02:08:09.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[20Dec2024 02:08:09.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Dec2024 02:08:09.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Dec2024 02:08:09.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Dec2024 02:08:09.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Dec2024 02:08:09.717] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Dec2024 02:08:09.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Dec2024 02:08:09.718] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Dec2024 02:08:09.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Dec2024 02:08:09.720] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Dec2024 02:08:09.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloxys_structures:shadow_dimension
+[20Dec2024 02:08:09.721] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (shadow_dimension): All chunks are saved
+[20Dec2024 02:08:09.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloxys_structures:adventure_realm
+[20Dec2024 02:08:09.721] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (adventure_realm): All chunks are saved
+[20Dec2024 02:08:09.778] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Dec2024 02:08:09.790] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Dec2024 02:08:09.790] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Dec2024 02:08:09.790] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (shadow_dimension): All chunks are saved
+[20Dec2024 02:08:09.791] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (adventure_realm): All chunks are saved

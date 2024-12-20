@@ -15595,3 +15595,62 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Dec2024 01:59:03.488] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Found 163 recipes with the 'lightmanscurrency' namespace!
 [20Dec2024 01:59:03.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [My first penny!]
 [20Dec2024 01:59:13.280] [Worker-Main-6/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=351, y=18, z=827} at Chest with:minecraft:chests/simple_dungeon in dungeons_enhanced:dungeon_variant
+[20Dec2024 02:00:05.016] [Worker-Main-6/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=59, y=44, z=333} at Chest with:minecraft:chests/simple_dungeon in dungeons_enhanced:dungeon_variant
+[20Dec2024 02:00:34.980] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.inventory.DoubleSidedInventory
+[20Dec2024 02:01:03.045] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Dec2024 02:01:03.063] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Dec2024 02:01:05.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Suit Up]
+[20Dec2024 02:02:55.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Ice Bucket Challenge]
+[20Dec2024 02:04:37.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> su universo
+[20Dec2024 02:05:05.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by ATT_CANNIVAL using [Stone Sword of Guarding]
+[20Dec2024 02:05:07.380] [Server thread/INFO] [tac/]: PENDING
+[20Dec2024 02:05:07.385] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@2e0f4d92 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[20Dec2024 02:05:07.386] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@604a1277 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[20Dec2024 02:05:07.386] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@2894087 (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[20Dec2024 02:05:07.386] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@5d30f2fd (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[20Dec2024 02:05:07.387] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@1996502a (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[20Dec2024 02:05:07.388] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@478a2d62 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[20Dec2024 02:05:07.388] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@9ebfc9e (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[20Dec2024 02:05:07.388] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@5df9c1a1 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[20Dec2024 02:05:07.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[20Dec2024 02:05:13.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> el pvp es raro
+[20Dec2024 02:05:14.392] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Preparing airdrop spawn event
+[20Dec2024 02:05:14.392] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Created new airdrop at BlockPos{x=172, y=164, z=453} for player ATT_CANNIVAL
+[20Dec2024 02:06:02.937] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Dec2024 02:06:02.958] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Dec2024 02:06:10.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Time to roll the balls]
+[20Dec2024 02:07:26.647] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TAQUIS123 lost connection: Disconnected
+[20Dec2024 02:07:26.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 left the game
+[20Dec2024 02:07:26.648] [Server thread/DEBUG] [Guns-RPG/Quests]: Handling player d3b271b9-e459-3933-aab2-de28059f91bf disconnect
+[20Dec2024 02:07:26.648] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3b271b9-e459-3933-aab2-de28059f91bf was unloaded
+[20Dec2024 02:07:29.640] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL lost connection: Disconnected
+[20Dec2024 02:07:29.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL left the game
+[20Dec2024 02:07:29.640] [Server thread/DEBUG] [Guns-RPG/Quests]: Handling player fc7b24d9-b9a0-37fe-a22c-1653103fa143 disconnect
+[20Dec2024 02:07:29.640] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc7b24d9-b9a0-37fe-a22c-1653103fa143 was unloaded
+[20Dec2024 02:08:09.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[20Dec2024 02:08:09.278] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[20Dec2024 02:08:09.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Dec2024 02:08:09.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Dec2024 02:08:09.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Dec2024 02:08:09.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Dec2024 02:08:09.717] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Dec2024 02:08:09.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Dec2024 02:08:09.718] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Dec2024 02:08:09.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Dec2024 02:08:09.720] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Dec2024 02:08:09.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloxys_structures:shadow_dimension
+[20Dec2024 02:08:09.721] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (shadow_dimension): All chunks are saved
+[20Dec2024 02:08:09.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloxys_structures:adventure_realm
+[20Dec2024 02:08:09.721] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (adventure_realm): All chunks are saved
+[20Dec2024 02:08:09.723] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Dec2024 02:08:09.736] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Dec2024 02:08:09.778] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Dec2024 02:08:09.790] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Dec2024 02:08:09.790] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Dec2024 02:08:09.790] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (shadow_dimension): All chunks are saved
+[20Dec2024 02:08:09.791] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (adventure_realm): All chunks are saved
+[20Dec2024 02:08:09.792] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[20Dec2024 02:08:09.792] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[20Dec2024 02:08:09.792] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[20Dec2024 02:08:09.793] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file upgradednetherite_items-server.toml changed, sending notifies
+[20Dec2024 02:08:09.797] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file /workspaces/miniature-octo-memory/servidor_minecraft/config/waystones-server.toml changed, sending notifies
