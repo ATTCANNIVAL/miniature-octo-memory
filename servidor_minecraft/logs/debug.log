@@ -13238,3 +13238,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Dec2024 17:46:12.885] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Dana'/1777, l='ServerLevel[world]', x=-274.79, y=75.18, z=200.30] died, message: 'Dana was slain by ATT_CANNIVAL using [Stone Sword of Guarding]'
 [22Dec2024 17:46:57.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Summoned new Farmer]
 [22Dec2024 17:47:51.052] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Alfons'/2393, l='ServerLevel[world]', x=-339.42, y=73.00, z=261.44] died, message: 'Alfons was slain by ATT_CANNIVAL using [Stone Sword of Guarding]'
+[22Dec2024 17:48:21.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Barrier] to ATT_CANNIVAL]
+[22Dec2024 17:49:19.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Summoned new Farmer]
+[22Dec2024 17:49:37.058] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Dec2024 17:49:37.075] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Dec2024 17:49:54.220] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Zinta'/3088, l='ServerLevel[world]', x=-341.60, y=69.00, z=265.24] died, message: 'Zinta hit the ground too hard whilst trying to escape ATT_CANNIVAL'
+[22Dec2024 17:50:26.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Summoned new Farmer]
+[22Dec2024 17:50:43.496] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Pavels'/3926, l='ServerLevel[world]', x=-340.30, y=78.00, z=263.08] died, message: 'Pavels was slain by ATT_CANNIVAL using [Stone Sword of Guarding]'
+[22Dec2024 17:51:16.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Summoned new Farmer]
+[22Dec2024 17:51:47.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Summoned new Farmer]
+[22Dec2024 17:51:54.247] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Aldis'/4169, l='ServerLevel[world]', x=-340.30, y=78.00, z=262.37] died, message: 'Aldis was slain by ATT_CANNIVAL using [Stone Sword of Guarding]'
+[22Dec2024 17:51:54.805] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Ēriks'/4347, l='ServerLevel[world]', x=-340.63, y=78.00, z=262.50] died, message: 'Ēriks was slain by ATT_CANNIVAL using [Stone Sword of Guarding]'
+[22Dec2024 17:52:11.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Summoned new Farmer]
+[22Dec2024 17:52:19.745] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Aivis'/4448, l='ServerLevel[world]', x=-340.56, y=78.00, z=262.47] died, message: 'Aivis was slain by ATT_CANNIVAL using [Stone Sword of Guarding]'
+[22Dec2024 17:52:27.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Summoned new Farmer]
+[22Dec2024 17:52:48.247] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Jadviga'/4522, l='ServerLevel[world]', x=-341.09, y=78.00, z=259.91] died, message: 'Jadviga was slain by ATT_CANNIVAL using [Stone Sword of Guarding]'
+[22Dec2024 17:53:10.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Summoned new Farmer]
+[22Dec2024 17:53:18.240] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Ināra'/4679, l='ServerLevel[world]', x=-340.66, y=78.00, z=262.66] died, message: 'Ināra was slain by ATT_CANNIVAL using [Stone Sword of Guarding]'
+[22Dec2024 17:53:55.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Summoned new Farmer]
+[22Dec2024 17:54:36.714] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Dec2024 17:54:36.735] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Dec2024 17:54:54.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Summoned new Farmer]
+[22Dec2024 17:55:01.452] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Kazimirs'/4889, l='ServerLevel[world]', x=-340.30, y=78.00, z=262.91] died, message: 'Kazimirs was slain by ATT_CANNIVAL using [Stone Sword of Guarding]'
+[22Dec2024 17:55:13.741] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Artis'/5079, l='ServerLevel[world]', x=-338.24, y=78.19, z=260.48] died, message: 'Artis was slain by ATT_CANNIVAL using [Stone Sword of Guarding]'
+[22Dec2024 17:57:44.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Summoned new Farmer]
