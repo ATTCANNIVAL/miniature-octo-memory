@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 16:51:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2024-12-16 23:12:24 +0000"
@@ -511,6 +517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 16:51:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-20 01:54:51 +0000"
@@ -538,6 +550,12 @@
   "cfm:recipes/cfm/stripped_oak_cabinet": {
     "criteria": {
       "has_log": "2024-12-20 01:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 16:51:24 +0000"
     },
     "done": true
   },
@@ -728,6 +746,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-20 01:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 16:51:24 +0000"
     },
     "done": true
   },
@@ -1318,8 +1342,10 @@
     "criteria": {
       "minecraft:desert_hills": "2024-12-16 23:07:25 +0000",
       "minecraft:desert": "2024-12-16 23:06:57 +0000",
+      "minecraft:badlands": "2024-12-22 16:52:05 +0000",
       "minecraft:river": "2024-12-20 01:58:02 +0000",
       "minecraft:wooded_hills": "2024-12-20 01:53:55 +0000",
+      "minecraft:wooded_badlands_plateau": "2024-12-22 16:52:10 +0000",
       "minecraft:plains": "2024-12-20 01:52:10 +0000"
     },
     "done": false
@@ -1378,6 +1404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 16:51:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-16 23:23:21 +0000"
@@ -1405,6 +1437,12 @@
   "cfm:recipes/cfm/light_blue_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-22 16:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-22 16:51:24 +0000"
     },
     "done": true
   },

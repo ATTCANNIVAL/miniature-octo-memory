@@ -7507,3 +7507,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Dec2024 16:43:17.384] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc7b24d9-b9a0-37fe-a22c-1653103fa143 was loaded
 [22Dec2024 16:43:17.407] [Thread-14/INFO] [chancecubes/]: No custom rewards detected for the current user!
 [22Dec2024 16:49:30.926] [Server thread/INFO] [com.willr27.blocklings.Blocklings/]: Creating trees list.
+[22Dec2024 16:51:24.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -279.5, 65.0, 723.5]
+[22Dec2024 16:52:43.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 1000]
