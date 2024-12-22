@@ -7509,3 +7509,108 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Dec2024 16:49:30.926] [Server thread/INFO] [com.willr27.blocklings.Blocklings/]: Creating trees list.
 [22Dec2024 16:51:24.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -279.5, 65.0, 723.5]
 [22Dec2024 16:52:43.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 1000]
+[22Dec2024 17:03:36.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[22Dec2024 17:03:59.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[22Dec2024 17:05:59.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: The difficulty has been set to Hard]
+[22Dec2024 17:07:14.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -280.5, 68.5, 288.5]
+[22Dec2024 17:07:21.279] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Antons'/7064, l='ServerLevel[world]', x=-314.71, y=67.64, z=302.30] died, message: 'Antons was slain by Zombie'
+[22Dec2024 17:07:21.632] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Aiva'/7092, l='ServerLevel[world]', x=-260.34, y=72.00, z=270.50] died, message: 'Aiva was slain by Heavy Military'
+[22Dec2024 17:07:31.330] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Intars'/7118, l='ServerLevel[world]', x=-328.50, y=67.00, z=232.26] died, message: 'Intars was slain by Juggernaut Zombie'
+[22Dec2024 17:07:40.941] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Alda'/7063, l='ServerLevel[world]', x=-296.70, y=69.00, z=268.89] died, message: 'Alda was slain by Infected'
+[22Dec2024 17:07:42.607] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-522, y=71, z=239}
+[22Dec2024 17:07:42.608] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-522, y=71, z=239}
+[22Dec2024 17:07:42.609] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-520, y=71, z=231}
+[22Dec2024 17:07:42.609] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-520, y=71, z=231}
+[22Dec2024 17:07:42.609] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-515, y=71, z=242}
+[22Dec2024 17:07:42.610] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-515, y=71, z=242}
+[22Dec2024 17:07:42.610] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-515, y=71, z=230}
+[22Dec2024 17:07:42.611] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-515, y=71, z=230}
+[22Dec2024 17:07:42.612] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-525, y=72, z=242}
+[22Dec2024 17:07:42.612] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-525, y=72, z=242}
+[22Dec2024 17:07:42.612] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-521, y=75, z=235}
+[22Dec2024 17:07:42.613] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-521, y=75, z=235}
+[22Dec2024 17:07:42.613] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-520, y=75, z=231}
+[22Dec2024 17:07:42.614] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-520, y=75, z=231}
+[22Dec2024 17:07:42.614] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-520, y=75, z=230}
+[22Dec2024 17:07:42.614] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-520, y=75, z=230}
+[22Dec2024 17:07:42.615] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-518, y=75, z=231}
+[22Dec2024 17:07:42.616] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-518, y=75, z=231}
+[22Dec2024 17:07:42.616] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-518, y=75, z=230}
+[22Dec2024 17:07:42.616] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-518, y=75, z=230}
+[22Dec2024 17:07:42.616] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-516, y=75, z=231}
+[22Dec2024 17:07:42.617] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-516, y=75, z=231}
+[22Dec2024 17:07:42.617] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-516, y=75, z=230}
+[22Dec2024 17:07:42.617] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-516, y=75, z=230}
+[22Dec2024 17:07:42.617] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-515, y=75, z=238}
+[22Dec2024 17:07:42.618] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-515, y=75, z=238}
+[22Dec2024 17:07:42.618] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-514, y=75, z=231}
+[22Dec2024 17:07:42.618] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-514, y=75, z=231}
+[22Dec2024 17:07:42.619] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-514, y=75, z=230}
+[22Dec2024 17:07:42.619] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-514, y=75, z=230}
+[22Dec2024 17:07:42.619] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-513, y=76, z=237}
+[22Dec2024 17:07:42.619] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-513, y=76, z=237}
+[22Dec2024 17:07:42.628] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-522, y=71, z=239}
+[22Dec2024 17:07:42.629] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-520, y=71, z=231}
+[22Dec2024 17:07:42.629] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-515, y=71, z=242}
+[22Dec2024 17:07:42.629] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-515, y=71, z=230}
+[22Dec2024 17:07:42.629] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-525, y=72, z=242}
+[22Dec2024 17:07:42.630] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-521, y=75, z=235}
+[22Dec2024 17:07:42.630] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-520, y=75, z=231}
+[22Dec2024 17:07:42.630] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-520, y=75, z=230}
+[22Dec2024 17:07:42.631] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-518, y=75, z=231}
+[22Dec2024 17:07:42.631] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-518, y=75, z=230}
+[22Dec2024 17:07:42.631] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-516, y=75, z=231}
+[22Dec2024 17:07:42.631] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-516, y=75, z=230}
+[22Dec2024 17:07:42.632] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-515, y=75, z=238}
+[22Dec2024 17:07:42.632] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-514, y=75, z=231}
+[22Dec2024 17:07:42.632] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-514, y=75, z=230}
+[22Dec2024 17:07:42.632] [Worker-Main-34/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-513, y=76, z=237}
+[22Dec2024 17:07:44.634] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Jānis'/7053, l='ServerLevel[world]', x=-315.19, y=67.00, z=306.06] died, message: 'Jānis was slain by Giant'
+[22Dec2024 17:07:50.479] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Guntis'/7059, l='ServerLevel[world]', x=-292.40, y=71.03, z=257.99] died, message: 'Guntis was slain by Infected'
+[22Dec2024 17:08:15.634] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Imants'/7055, l='ServerLevel[world]', x=-344.70, y=67.00, z=298.09] died, message: 'Imants was slain by Giant'
+[22Dec2024 17:08:29.578] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Aiva'/7103, l='ServerLevel[world]', x=-342.96, y=69.00, z=290.27] died, message: 'Aiva was slain by Giant'
+[22Dec2024 17:08:55.641] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-447, y=66, z=40}
+[22Dec2024 17:08:55.641] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-447, y=66, z=40}
+[22Dec2024 17:08:55.642] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-439, y=66, z=42}
+[22Dec2024 17:08:55.642] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-439, y=66, z=42}
+[22Dec2024 17:08:55.642] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-450, y=66, z=47}
+[22Dec2024 17:08:55.643] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-450, y=66, z=47}
+[22Dec2024 17:08:55.643] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-438, y=66, z=47}
+[22Dec2024 17:08:55.643] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-438, y=66, z=47}
+[22Dec2024 17:08:55.643] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-450, y=67, z=33}
+[22Dec2024 17:08:55.644] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-450, y=67, z=33}
+[22Dec2024 17:08:55.644] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-450, y=67, z=37}
+[22Dec2024 17:08:55.644] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-450, y=67, z=37}
+[22Dec2024 17:08:55.645] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-443, y=70, z=41}
+[22Dec2024 17:08:55.645] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-443, y=70, z=41}
+[22Dec2024 17:08:55.645] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-439, y=70, z=42}
+[22Dec2024 17:08:55.646] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-439, y=70, z=42}
+[22Dec2024 17:08:55.646] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-438, y=70, z=42}
+[22Dec2024 17:08:55.646] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-438, y=70, z=42}
+[22Dec2024 17:08:55.647] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-439, y=70, z=44}
+[22Dec2024 17:08:55.647] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-439, y=70, z=44}
+[22Dec2024 17:08:55.648] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-438, y=70, z=44}
+[22Dec2024 17:08:55.648] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-438, y=70, z=44}
+[22Dec2024 17:08:55.648] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-439, y=70, z=46}
+[22Dec2024 17:08:55.649] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-439, y=70, z=46}
+[22Dec2024 17:08:55.649] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-438, y=70, z=46}
+[22Dec2024 17:08:55.649] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-438, y=70, z=46}
+[22Dec2024 17:08:55.649] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-446, y=70, z=47}
+[22Dec2024 17:08:55.649] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-446, y=70, z=47}
+[22Dec2024 17:08:55.654] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-447, y=66, z=40}
+[22Dec2024 17:08:55.655] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-439, y=66, z=42}
+[22Dec2024 17:08:55.655] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-450, y=66, z=47}
+[22Dec2024 17:08:55.655] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-438, y=66, z=47}
+[22Dec2024 17:08:55.656] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-450, y=67, z=33}
+[22Dec2024 17:08:55.657] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-450, y=67, z=37}
+[22Dec2024 17:08:55.657] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-443, y=70, z=41}
+[22Dec2024 17:08:55.657] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-439, y=70, z=42}
+[22Dec2024 17:08:55.658] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-438, y=70, z=42}
+[22Dec2024 17:08:55.658] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-439, y=70, z=44}
+[22Dec2024 17:08:55.658] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-438, y=70, z=44}
+[22Dec2024 17:08:55.659] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-439, y=70, z=46}
+[22Dec2024 17:08:55.659] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-438, y=70, z=46}
+[22Dec2024 17:08:55.659] [Worker-Main-24/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-446, y=70, z=47}
+[22Dec2024 17:09:41.828] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Zenta'/7107, l='ServerLevel[world]', x=-327.93, y=70.00, z=240.50] died, message: 'Zenta was slain by Infection Military'
+[22Dec2024 17:09:43.577] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Jānis'/7127, l='ServerLevel[world]', x=-310.74, y=69.00, z=221.73] died, message: 'Jānis was slain by Husk'
+[22Dec2024 17:10:36.374] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Vincents'/7117, l='ServerLevel[world]', x=-340.76, y=71.38, z=238.64] died, message: 'Vincents was slain by Heavy Military'
