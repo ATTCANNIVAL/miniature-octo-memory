@@ -1,0 +1,25 @@
+{
+  "profession": "minecraft:nitwit",
+  "removeOtherTrades": false,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "gunsrpg:kodiak",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "a_few_new_apples:enchanted_diamond_apple",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 1,
+      "maxUses": 999,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:nitwit_kodiak_for_enchanted_diamond_apple"
+    }
+  ]
+}
