@@ -8622,3 +8622,5 @@ java.lang.Exception: null
 [23Dec2024 14:33:18.612] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Namik'/22603, l='ServerLevel[world]', x=247.51, y=72.00, z=-739.74] died, message: 'Namik was slain by ATT_CANNIVAL using [Reaching Electric katana of Guarding]'
 [23Dec2024 14:35:31.592] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Sotiraq'/16443, l='ServerLevel[world]', x=237.83, y=71.00, z=-745.58] died, message: 'Sotiraq has died from infection'
 [23Dec2024 14:41:56.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[23Dec2024 14:56:42.042] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Traffiker(comerciante)'/9618, l='ServerLevel[world]', x=255.20, y=69.00, z=-748.52] died, message: 'Traffiker(comerciante) was slain by Juggernaut Zombie'
+[23Dec2024 14:58:44.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Summoned new Traffiker]
