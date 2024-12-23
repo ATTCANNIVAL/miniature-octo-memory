@@ -1,4 +1,16 @@
 {
+  "minecolonies:recipes/minecolonies/colony_banner": {
+    "criteria": {
+      "has_items": "2024-12-23 14:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 14:14:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 13:27:35 +0000"
@@ -20,6 +32,12 @@
   "minecolonies:recipes/minecolonies/blockminecoloniesrack": {
     "criteria": {
       "has_build_tool": "2024-12-23 13:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 14:14:19 +0000"
     },
     "done": true
   },
@@ -59,9 +77,21 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockconstructiontape": {
+    "criteria": {
+      "has_wool": "2024-12-23 14:14:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-23 13:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 14:14:19 +0000"
     },
     "done": true
   },
@@ -131,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 14:14:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/trampoline": {
     "criteria": {
       "has_iron": "2024-12-23 13:27:35 +0000"
@@ -140,6 +176,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 13:27:35 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/specialised_grip": {
+    "criteria": {
+      "has_gray_wool": "2024-12-23 14:14:19 +0000"
     },
     "done": true
   },
@@ -158,6 +200,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-23 13:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 14:14:19 +0000"
     },
     "done": true
   },
@@ -239,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-23 14:14:19 +0000"
+    },
+    "done": true
+  },
   "ava:recipes/survival/mechanical_components": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 13:27:35 +0000"
@@ -285,6 +339,12 @@
     "criteria": {
       "has_netherite_ingot": "2024-12-23 13:04:06 +0000",
       "has_crying_obsidian": "2024-12-23 13:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 14:14:19 +0000"
     },
     "done": true
   },
@@ -348,6 +408,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/white_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-23 14:14:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-23 13:06:59 +0000"
@@ -357,6 +423,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
     "criteria": {
       "has_smoking_upgrade": "2024-12-23 13:04:06 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/light_stock": {
+    "criteria": {
+      "has_gray_wool": "2024-12-23 14:14:19 +0000"
     },
     "done": true
   },
@@ -402,6 +474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 14:14:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-12-23 13:07:00 +0000"
@@ -438,6 +516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 14:14:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-23 13:11:47 +0000"
@@ -465,6 +549,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-23 13:28:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-23 14:14:19 +0000"
     },
     "done": true
   },
@@ -554,6 +644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 14:14:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_chainmail_leggings": "2024-12-23 13:06:59 +0000"
@@ -563,6 +659,12 @@
   "cfm:recipes/cfm/dye_yellow_picket_gate": {
     "criteria": {
       "has_gate": "2024-12-23 13:14:00 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/tactical_stock": {
+    "criteria": {
+      "has_gray_wool": "2024-12-23 14:14:19 +0000"
     },
     "done": true
   },
@@ -660,6 +762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 14:14:19 +0000"
+    },
+    "done": true
+  },
   "craftingdead:recipes/craftingdead.combat/small_barrel": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 13:27:35 +0000"
@@ -690,9 +798,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 14:14:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-23 13:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 14:14:19 +0000"
     },
     "done": true
   },
@@ -705,6 +825,12 @@
   "cfm:recipes/cfm/light_gray_grill": {
     "criteria": {
       "has_iron": "2024-12-23 13:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 14:14:19 +0000"
     },
     "done": true
   },
@@ -741,6 +867,12 @@
   "mca:recipes/misc/rose_gold_ingot_smelting": {
     "criteria": {
       "has_item": "2024-12-23 13:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-23 14:14:19 +0000"
     },
     "done": true
   },
@@ -806,6 +938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 14:14:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-23 13:11:47 +0000"
@@ -821,6 +959,12 @@
   "cfm:recipes/cfm/dye_gray_picket_gate": {
     "criteria": {
       "has_gate": "2024-12-23 13:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-23 14:14:19 +0000"
     },
     "done": true
   },
@@ -896,6 +1040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-23 14:14:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 13:27:35 +0000"
@@ -935,6 +1085,12 @@
   "mca:excellent_gift": {
     "criteria": {
       "baby": "2024-12-23 14:03:36 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/filter_configurator": {
+    "criteria": {
+      "has_wool": "2024-12-23 14:14:19 +0000"
     },
     "done": true
   },
@@ -989,6 +1145,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-23 13:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 14:14:19 +0000"
     },
     "done": true
   },
@@ -1070,6 +1232,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/weighted_stock": {
+    "criteria": {
+      "has_gray_wool": "2024-12-23 14:14:19 +0000"
+    },
+    "done": true
+  },
   "moguns:weapons/root": {
     "criteria": {
       "tick": "2024-12-23 13:04:07 +0000"
@@ -1090,6 +1258,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:desert_hills": "2024-12-23 14:10:53 +0000",
       "minecraft:desert": "2024-12-23 13:06:20 +0000",
       "minecraft:beach": "2024-12-23 13:04:07 +0000",
       "minecraft:river": "2024-12-23 13:06:41 +0000"
@@ -1156,6 +1325,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/light_grip": {
+    "criteria": {
+      "has_gray_wool": "2024-12-23 14:14:19 +0000"
+    },
+    "done": true
+  },
   "ava:recipes/main/builders_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 13:27:35 +0000"
@@ -1204,6 +1379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 14:14:19 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/clipboard": {
     "criteria": {
       "has_build_tool": "2024-12-23 13:08:14 +0000"
@@ -1225,6 +1406,12 @@
   "cgm:recipes/cgm/short_scope": {
     "criteria": {
       "has_glass_pane": "2024-12-23 13:36:32 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_small": {
+    "criteria": {
+      "has_wool": "2024-12-23 14:14:19 +0000"
     },
     "done": true
   },
@@ -1333,6 +1520,18 @@
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2024-12-23 13:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 14:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 14:14:19 +0000"
     },
     "done": true
   },

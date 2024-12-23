@@ -15027,3 +15027,7 @@ java.lang.Exception: null
 [23Dec2024 14:08:14.718] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Jarmila'/16455, l='ServerLevel[world]', x=252.66, y=71.00, z=-753.83] died, message: 'Jarmila was slain by ATT_CANNIVAL'
 [23Dec2024 14:08:17.432] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [23Dec2024 14:08:17.447] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 14:13:17.587] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 14:13:17.599] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 14:18:17.551] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 14:18:17.565] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
