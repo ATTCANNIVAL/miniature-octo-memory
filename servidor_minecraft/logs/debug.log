@@ -14962,3 +14962,26 @@ java.lang.Exception: null
 [23Dec2024 13:17:50.597] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Artor'/5057, l='ServerLevel[world]', x=253.71, y=71.22, z=-747.29] died, message: 'Artor was annihilated by ATT_CANNIVAL'
 [23Dec2024 13:18:17.488] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [23Dec2024 13:18:17.506] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 13:22:28.916] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Irakli'/5442, l='ServerLevel[world]', x=251.25, y=71.00, z=-753.60] died, message: 'Irakli was annihilated by ATT_CANNIVAL'
+[23Dec2024 13:23:17.450] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 13:23:17.468] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 13:23:49.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Summoned new Farmer]
+[23Dec2024 13:23:55.823] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Stilian'/6046, l='ServerLevel[world]', x=252.74, y=71.00, z=-752.72] died, message: 'Stilian was executed by ATT_CANNIVAL'
+[23Dec2024 13:24:24.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Summoned new Farmer]
+[23Dec2024 13:24:31.769] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Hanife'/6214, l='ServerLevel[world]', x=253.46, y=71.03, z=-747.26] died, message: 'Hanife was executed by ATT_CANNIVAL'
+[23Dec2024 13:26:37.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Command Block] to ATT_CANNIVAL]
+[23Dec2024 13:27:04.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Summoned new Bruh moment]
+[23Dec2024 13:27:35.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Acquire Hardware]
+[23Dec2024 13:27:48.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [What a Deal!]
+[23Dec2024 13:28:17.485] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 13:28:17.500] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 13:28:35.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Cinnabar Ore]
+[23Dec2024 13:29:00.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [It's Tradin' Time!]
+[23Dec2024 13:29:34.313] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Collectable items returned a null list!
+[23Dec2024 13:29:34.313] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: You can no longer afford this trade.
+[23Dec2024 13:29:34.852] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Collectable items returned a null list!
+[23Dec2024 13:29:34.853] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: You can no longer afford this trade.
+[23Dec2024 13:29:36.522] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Collectable items returned a null list!
+[23Dec2024 13:29:36.522] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: You can no longer afford this trade.
+[23Dec2024 13:30:02.480] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
+[23Dec2024 13:30:02.480] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
