@@ -8618,3 +8618,4 @@ java.lang.Exception: null
 [23Dec2024 14:03:36.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Just What I Always Wanted]
 [23Dec2024 14:04:10.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Friendship Found]
 [23Dec2024 14:08:14.718] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Jarmila'/16455, l='ServerLevel[world]', x=252.66, y=71.00, z=-753.83] died, message: 'Jarmila was slain by ATT_CANNIVAL'
+[23Dec2024 14:31:47.541] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Mikel'/14524, l='ServerLevel[world]', x=246.72, y=71.00, z=-743.18] died, message: 'Mikel has died from infection'

@@ -15031,3 +15031,8 @@ java.lang.Exception: null
 [23Dec2024 14:13:17.599] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [23Dec2024 14:18:17.551] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [23Dec2024 14:18:17.565] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 14:23:17.656] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 14:23:17.668] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 14:28:17.432] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 14:28:17.446] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 14:31:47.541] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Mikel'/14524, l='ServerLevel[world]', x=246.72, y=71.00, z=-743.18] died, message: 'Mikel has died from infection'
