@@ -15010,3 +15010,11 @@ java.lang.Exception: null
 [23Dec2024 13:50:49.751] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
 [23Dec2024 13:51:15.446] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
 [23Dec2024 13:51:38.184] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
+[23Dec2024 13:53:13.333] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
+[23Dec2024 13:53:17.462] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 13:53:17.475] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 13:53:20.987] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
+[23Dec2024 13:53:20.987] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
+[23Dec2024 13:58:17.607] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 13:58:17.623] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 14:00:18.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Monster Hunter]
