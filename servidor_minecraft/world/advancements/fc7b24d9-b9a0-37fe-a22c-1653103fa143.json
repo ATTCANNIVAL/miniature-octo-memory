@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-23 13:11:47 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2024-12-23 13:04:06 +0000"
@@ -44,6 +50,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
     "criteria": {
       "has_smoking_upgrade": "2024-12-23 13:04:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_magenta_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-23 13:14:00 +0000"
     },
     "done": true
   },
@@ -77,6 +89,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/structurize/shapetool": {
+    "criteria": {
+      "has_stick": "2024-12-23 13:11:47 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/blockminecoloniesrack": {
     "criteria": {
       "has_build_tool": "2024-12-23 13:08:14 +0000"
@@ -107,6 +125,18 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_lime_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-23 13:14:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_light_blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-23 13:14:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:desert": "2024-12-23 13:06:20 +0000",
@@ -114,6 +144,12 @@
       "minecraft:river": "2024-12-23 13:06:41 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-23 13:11:47 +0000"
+    },
+    "done": true
   },
   "minecraft:unlock_deep_pockets_book": {
     "criteria": {
@@ -127,9 +163,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-23 13:11:47 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2024-12-23 13:04:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_orange_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-23 13:14:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-23 13:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-23 13:11:47 +0000"
     },
     "done": true
   },
@@ -151,6 +211,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_green_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-23 13:14:00 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/rose_gold_ingot_smelting": {
     "criteria": {
       "has_item": "2024-12-23 13:04:06 +0000"
@@ -160,6 +226,24 @@
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2024-12-23 13:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-23 13:11:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_purple_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-23 13:14:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_pink_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-23 13:14:00 +0000"
     },
     "done": true
   },
@@ -175,9 +259,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_light_gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-23 13:14:00 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2024-12-23 13:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-23 13:15:12 +0000"
     },
     "done": true
   },
@@ -198,6 +294,18 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_leggings": "2024-12-23 13:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-23 13:11:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-23 13:14:00 +0000"
     },
     "done": true
   },
@@ -249,6 +357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-23 13:11:47 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
     "criteria": {
       "has_blasting_upgrade": "2024-12-23 13:04:06 +0000"
@@ -285,6 +399,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_brown_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-23 13:14:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_chainmail_leggings": "2024-12-23 13:06:59 +0000"
@@ -294,6 +414,12 @@
   "lightmanscurrency:currency/coin_mint": {
     "criteria": {
       "coin_mint": "2024-12-23 13:04:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_yellow_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-23 13:14:00 +0000"
     },
     "done": true
   },
@@ -322,6 +448,24 @@
   "bloxys_structures:the_adventure_realm": {
     "criteria": {
       "the_adventure_realm": "2024-12-23 13:04:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_black_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-23 13:14:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_red_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-23 13:14:00 +0000"
+    },
+    "done": true
+  },
+  "craftingdead:recipes/craftingdead.combat/combat_knife": {
+    "criteria": {
+      "has_stick": "2024-12-23 13:11:47 +0000"
     },
     "done": true
   },
@@ -392,6 +536,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2024-12-23 13:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2024-12-23 13:11:47 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2024-12-23 13:04:06 +0000"
@@ -407,6 +563,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-23 13:06:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_cyan_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-23 13:14:00 +0000"
     },
     "done": true
   },

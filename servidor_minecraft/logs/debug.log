@@ -14948,3 +14948,17 @@ java.lang.Exception: null
 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
 [23Dec2024 13:11:07.341] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Kimete'/243, l='ServerLevel[world]', x=166.77, y=63.00, z=-866.50] died, message: 'death.attack.radiation'
+[23Dec2024 13:11:46.894] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Antoneta'/178, l='ServerLevel[world]', x=157.06, y=64.00, z=-870.97] died, message: 'death.attack.radiation'
+[23Dec2024 13:13:17.885] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 13:13:17.908] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 13:14:09.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Summoned new Farmer]
+[23Dec2024 13:15:10.297] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[23Dec2024 13:15:12.028] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Vjola'/4511, l='ServerLevel[world]', x=252.97, y=71.37, z=-747.28] died, message: 'Vjola was eliminated by ATT_CANNIVAL'
+[23Dec2024 13:15:15.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Summoned new Farmer]
+[23Dec2024 13:15:20.967] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Nizam'/4680, l='ServerLevel[world]', x=253.28, y=71.00, z=-749.52] died, message: 'Nizam was eliminated by ATT_CANNIVAL'
+[23Dec2024 13:15:50.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Summoned new Farmer]
+[23Dec2024 13:17:38.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> y/summon minecraft:villager ~ ~ ~ {VillagerData:{profession:farmer,level:2,type:plains},Offers:{Recetas:[{buy:{id:dirt,Count:1},sell:{ id:diamond,Count:64},maxUses:9999},{comprar:{id:cobblestone,Count:1},sell:{id:iron_ingot,Count:64},maxUses:9999}]}}
+[23Dec2024 13:17:41.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Summoned new Farmer]
+[23Dec2024 13:17:50.597] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Artor'/5057, l='ServerLevel[world]', x=253.71, y=71.22, z=-747.29] died, message: 'Artor was annihilated by ATT_CANNIVAL'
+[23Dec2024 13:18:17.488] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 13:18:17.506] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
