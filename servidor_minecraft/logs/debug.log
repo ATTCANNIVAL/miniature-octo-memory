@@ -15036,3 +15036,10 @@ java.lang.Exception: null
 [23Dec2024 14:28:17.432] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [23Dec2024 14:28:17.446] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [23Dec2024 14:31:47.541] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Mikel'/14524, l='ServerLevel[world]', x=246.72, y=71.00, z=-743.18] died, message: 'Mikel has died from infection'
+[23Dec2024 14:33:17.444] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 14:33:17.457] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 14:33:18.612] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Namik'/22603, l='ServerLevel[world]', x=247.51, y=72.00, z=-739.74] died, message: 'Namik was slain by ATT_CANNIVAL using [Reaching Electric katana of Guarding]'
+[23Dec2024 14:35:31.592] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Sotiraq'/16443, l='ServerLevel[world]', x=237.83, y=71.00, z=-745.58] died, message: 'Sotiraq has died from infection'
+[23Dec2024 14:38:17.494] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 14:38:17.508] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 14:41:56.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
