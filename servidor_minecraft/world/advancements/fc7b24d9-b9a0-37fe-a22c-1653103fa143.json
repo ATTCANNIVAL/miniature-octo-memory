@@ -504,6 +504,20 @@
     },
     "done": true
   },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2024-12-23 14:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2024-12-23 14:03:30 +0000",
+      "minecraft:husk": "2024-12-23 14:00:23 +0000",
+      "minecraft:zombie": "2024-12-23 14:00:18 +0000"
+    },
+    "done": false
+  },
   "zombie_extreme:alternateworldadvancement": {
     "criteria": {
       "alternateworldadvancement": "2024-12-23 13:06:43 +0000"
@@ -655,6 +669,12 @@
   "cfm:recipes/cfm/acacia_mail_box": {
     "criteria": {
       "has_postbox": "2024-12-23 13:47:24 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_shield_smithing": {
+    "criteria": {
+      "has_netherite_shield": "2024-12-23 14:06:54 +0000"
     },
     "done": true
   },
@@ -912,6 +932,12 @@
     },
     "done": true
   },
+  "mca:excellent_gift": {
+    "criteria": {
+      "baby": "2024-12-23 14:03:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-23 13:07:07 +0000"
@@ -999,6 +1025,12 @@
   "cfm:recipes/cfm/dye_magenta_picket_gate": {
     "criteria": {
       "has_gate": "2024-12-23 13:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-23 14:00:18 +0000"
     },
     "done": true
   },
