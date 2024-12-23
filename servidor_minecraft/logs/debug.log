@@ -14985,3 +14985,16 @@ java.lang.Exception: null
 [23Dec2024 13:29:36.522] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: You can no longer afford this trade.
 [23Dec2024 13:30:02.480] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
 [23Dec2024 13:30:02.480] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
+[23Dec2024 13:33:17.473] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 13:33:17.491] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 13:36:30.681] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Bruh moment'/6970, l='ServerLevel[world]', x=253.08, y=71.00, z=-747.67] died, message: 'Bruh moment was taken down by ATT_CANNIVAL'
+[23Dec2024 13:37:21.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Summoned new Traffiker]
+[23Dec2024 13:38:17.495] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 13:38:17.510] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 13:38:45.648] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Traffiker'/9157, l='ServerLevel[world]', x=252.73, y=71.00, z=-753.21] died, message: 'Traffiker was eliminated by ATT_CANNIVAL'
+[23Dec2024 13:40:12.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Summoned new Farmer]
+[23Dec2024 13:40:18.049] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Luigj'/9543, l='ServerLevel[world]', x=251.76, y=71.00, z=-751.40] died, message: 'Luigj was taken down by ATT_CANNIVAL'
+[23Dec2024 13:40:27.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Summoned new Farmer]
+[23Dec2024 13:40:36.198] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Myzafer'/9573, l='ServerLevel[world]', x=252.02, y=71.00, z=-749.76] died, message: 'Myzafer was annihilated by ATT_CANNIVAL'
+[23Dec2024 13:40:55.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Summoned new Traffiker]
+[23Dec2024 13:41:22.048] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Endri'/4785, l='ServerLevel[world]', x=252.50, y=71.00, z=-749.05] died, message: 'Endri was eliminated by ATT_CANNIVAL'
