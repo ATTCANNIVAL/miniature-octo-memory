@@ -14998,3 +14998,15 @@ java.lang.Exception: null
 [23Dec2024 13:40:36.198] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Myzafer'/9573, l='ServerLevel[world]', x=252.02, y=71.00, z=-749.76] died, message: 'Myzafer was annihilated by ATT_CANNIVAL'
 [23Dec2024 13:40:55.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Summoned new Traffiker]
 [23Dec2024 13:41:22.048] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Endri'/4785, l='ServerLevel[world]', x=252.50, y=71.00, z=-749.05] died, message: 'Endri was eliminated by ATT_CANNIVAL'
+[23Dec2024 13:42:54.486] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
+[23Dec2024 13:42:54.486] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
+[23Dec2024 13:43:17.479] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 13:43:17.491] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 13:47:37.880] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
+[23Dec2024 13:48:17.436] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 13:48:17.450] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 13:49:29.548] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
+[23Dec2024 13:50:11.499] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
+[23Dec2024 13:50:49.751] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
+[23Dec2024 13:51:15.446] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
+[23Dec2024 13:51:38.184] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!

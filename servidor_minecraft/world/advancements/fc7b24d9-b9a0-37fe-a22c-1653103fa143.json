@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_warped_mail_box": {
+    "criteria": {
+      "has_postbox": "2024-12-23 13:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 13:27:35 +0000"
@@ -176,6 +182,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2024-12-23 13:06:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_mail_box": {
+    "criteria": {
+      "has_postbox": "2024-12-23 13:47:24 +0000"
     },
     "done": true
   },
@@ -372,6 +384,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_mail_box": {
+    "criteria": {
+      "has_postbox": "2024-12-23 13:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-23 13:28:36 +0000"
@@ -495,6 +513,18 @@
   "lightmanscurrency:currency/trader": {
     "criteria": {
       "trader": "2024-12-23 13:29:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_mail_box": {
+    "criteria": {
+      "has_postbox": "2024-12-23 13:47:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_mail_box": {
+    "criteria": {
+      "has_postbox": "2024-12-23 13:47:24 +0000"
     },
     "done": true
   },
@@ -622,6 +652,24 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_mail_box": {
+    "criteria": {
+      "has_postbox": "2024-12-23 13:47:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_mail_box": {
+    "criteria": {
+      "has_postbox": "2024-12-23 13:47:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_mail_box": {
+    "criteria": {
+      "has_postbox": "2024-12-23 13:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-23 13:28:36 +0000"
@@ -679,6 +727,12 @@
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2024-12-23 13:04:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_mail_box": {
+    "criteria": {
+      "has_postbox": "2024-12-23 13:47:24 +0000"
     },
     "done": true
   },
@@ -756,6 +810,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_mail_box": {
+    "criteria": {
+      "has_postbox": "2024-12-23 13:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 13:07:00 +0000"
@@ -783,6 +843,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 13:27:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_mail_box": {
+    "criteria": {
+      "has_postbox": "2024-12-23 13:47:24 +0000"
     },
     "done": true
   },
@@ -900,6 +966,18 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_mail_box": {
+    "criteria": {
+      "has_postbox": "2024-12-23 13:47:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_mail_box": {
+    "criteria": {
+      "has_postbox": "2024-12-23 13:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_chainmail_leggings": "2024-12-23 13:06:59 +0000"
@@ -1010,6 +1088,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_mail_box": {
+    "criteria": {
+      "has_postbox": "2024-12-23 13:47:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dye_purple_picket_gate": {
     "criteria": {
       "has_gate": "2024-12-23 13:14:00 +0000"
@@ -1067,6 +1151,12 @@
   "ironchest:recipes/ironchest/upgrades/wood_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 13:27:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_mail_box": {
+    "criteria": {
+      "has_postbox": "2024-12-23 13:47:24 +0000"
     },
     "done": true
   },
@@ -1157,6 +1247,12 @@
   "lightmanscurrency:currency/coin_mint": {
     "criteria": {
       "coin_mint": "2024-12-23 13:04:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_mail_box": {
+    "criteria": {
+      "has_postbox": "2024-12-23 13:47:24 +0000"
     },
     "done": true
   },
