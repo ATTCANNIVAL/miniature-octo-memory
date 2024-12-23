@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutcook": {
+    "criteria": {
+      "has_items": "2024-12-23 03:26:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-16 23:15:42 +0000"
@@ -439,6 +445,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutsifter": {
+    "criteria": {
+      "has_items": "2024-12-23 03:26:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-12-20 01:53:05 +0000"
@@ -460,6 +472,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2024-12-22 19:08:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/yellow_grill": {
+    "criteria": {
+      "has_terracotta": "2024-12-23 03:28:12 +0000"
     },
     "done": true
   },
@@ -664,6 +682,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2024-12-20 01:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutschool": {
+    "criteria": {
+      "has_items": "2024-12-23 03:26:55 +0000"
     },
     "done": true
   },
@@ -1089,6 +1113,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutgraveyard": {
+    "criteria": {
+      "has_items": "2024-12-23 03:26:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/blue_cooler": {
     "criteria": {
       "has_chest": "2024-12-22 16:25:01 +0000"
@@ -1153,6 +1183,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-20 01:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2024-12-23 03:28:12 +0000"
     },
     "done": true
   },
@@ -1474,6 +1510,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutfletcher": {
+    "criteria": {
+      "has_items": "2024-12-23 03:26:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_cabinet": {
     "criteria": {
       "has_log": "2024-12-20 01:53:05 +0000"
@@ -1517,6 +1559,12 @@
       "minecraft:plains": "2024-12-20 01:52:10 +0000"
     },
     "done": false
+  },
+  "minecolonies:recipes/minecolonies/blockhutdeliveryman": {
+    "criteria": {
+      "has_items": "2024-12-23 03:26:55 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/cfm/green_kitchen_drawer": {
     "criteria": {
@@ -1791,6 +1839,12 @@
   "cfm:recipes/cfm/oak_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2024-12-20 01:54:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/yellow_kitchen_sink": {
+    "criteria": {
+      "has_top": "2024-12-23 03:28:12 +0000"
     },
     "done": true
   },

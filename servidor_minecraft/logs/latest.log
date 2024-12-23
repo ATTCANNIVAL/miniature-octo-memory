@@ -7601,3 +7601,155 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Dec2024 03:23:50.169] [Thread-20/INFO] [chancecubes/]: No custom rewards detected for the current user!
 [23Dec2024 03:24:01.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Fat Zombie
 [23Dec2024 03:24:03.572] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc7b24d9-b9a0-37fe-a22c-1653103fa143 was loaded
+[23Dec2024 03:24:19.082] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@28033b4d
+[23Dec2024 03:24:19.099] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: eltragaCACA[/127.217.90.228:44155] logged in with entity id 623 at (-336.5, 68.0, 279.5)
+[23Dec2024 03:24:19.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eltragaCACA joined the game
+[23Dec2024 03:24:19.128] [Server thread/INFO] [tac/]: PENDING
+[23Dec2024 03:24:19.166] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[23Dec2024 03:24:19.166] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[23Dec2024 03:24:19.167] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[23Dec2024 03:24:19.167] [Server thread/INFO] [net.mcreator.tmtmcoresandmore.TmtmcoresandmoreMod/]: TmTmc-OresAndMore loaded
+[23Dec2024 03:24:19.168] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:72]: enable_welcome: true
+[23Dec2024 03:24:19.169] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:73]: welcome_message: Welcome to our server 
+[23Dec2024 03:24:19.169] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:74]: enable_all_ores: true
+[23Dec2024 03:24:19.169] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:75]: enable_all_ingots: true
+[23Dec2024 03:24:19.170] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:76]: enable_all_blocks: true
+[23Dec2024 03:24:19.170] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:77]: enable_all_armors: true
+[23Dec2024 03:24:19.171] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:78]: enable_all_swords_bows: true
+[23Dec2024 03:24:19.172] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:79]: enable_all_foods: true
+[23Dec2024 03:24:19.173] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:80]: enable_all_paintings: true
+[23Dec2024 03:24:19.173] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:81]: enable_all_poisons: true
+[23Dec2024 03:24:19.174] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:82]: enable_all_powders: true
+[23Dec2024 03:24:19.174] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:83]: enable_all_tools: true
+[23Dec2024 03:24:19.174] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:84]: enable_all_recipes: true
+[23Dec2024 03:24:19.175] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:85]: enable_all_advancements: true
+[23Dec2024 03:24:19.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eltragaCACA has reached the goal [Fireproof Wallet]
+[23Dec2024 03:24:19.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eltragaCACA has made the advancement [All in one interaction!]
+[23Dec2024 03:24:19.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eltragaCACA has made the advancement [Trading Core]
+[23Dec2024 03:24:19.250] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@1cc51751 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[23Dec2024 03:24:19.251] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@4b364067 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[23Dec2024 03:24:19.252] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@802c9cb (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[23Dec2024 03:24:19.252] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3940c71b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[23Dec2024 03:24:19.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eltragaCACA has made the advancement [Minty Fresh!]
+[23Dec2024 03:24:19.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eltragaCACA has made the advancement [Minecraft Comes Alive]
+[23Dec2024 03:24:19.456] [Thread-25/INFO] [chancecubes/]: No custom rewards detected for the current user!
+[23Dec2024 03:24:22.442] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e418f2c2-0120-353c-9698-54868fefde93 was loaded
+[23Dec2024 03:24:32.756] [Server thread/INFO] [tac/]: PENDING
+[23Dec2024 03:24:32.763] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@1cc51751 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[23Dec2024 03:24:32.763] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@4b364067 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[23Dec2024 03:24:32.763] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@802c9cb (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[23Dec2024 03:24:32.764] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3940c71b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[23Dec2024 03:24:32.765] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@55dee479 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[23Dec2024 03:24:32.765] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@24316c04 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[23Dec2024 03:24:32.766] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@5ac38684 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[23Dec2024 03:24:32.766] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@f6bfb7c (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[23Dec2024 03:24:39.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[23Dec2024 03:24:41.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[23Dec2024 03:24:59.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to eltragaCACA]
+[23Dec2024 03:25:39.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> el pepe
+[23Dec2024 03:25:48.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eltragaCACA has made the advancement [Time to roll the balls]
+[23Dec2024 03:25:54.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> activa las particulas
+[23Dec2024 03:25:59.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> todas las animaciones
+[23Dec2024 03:26:02.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> se ve piola+
+[23Dec2024 03:26:17.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eltragaCACA> ai nomas
+[23Dec2024 03:26:21.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[23Dec2024 03:26:39.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> estaba poniendo tiendas
+[23Dec2024 03:26:49.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eltragaCACA> como haci
+[23Dec2024 03:26:58.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> con su estructura
+[23Dec2024 03:27:04.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> te tepeo a una?
+[23Dec2024 03:27:19.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eltragaCACA was slain by Heavy Military
+[23Dec2024 03:27:21.002] [Server thread/INFO] [tac/]: PENDING
+[23Dec2024 03:27:21.003] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@1cc51751 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[23Dec2024 03:27:21.004] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@4b364067 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[23Dec2024 03:27:21.004] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@802c9cb (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[23Dec2024 03:27:21.004] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3940c71b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[23Dec2024 03:27:36.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> los mobs son mas hevy
+[23Dec2024 03:28:09.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> este
+[23Dec2024 03:28:09.393] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: You can no longer afford this trade.
+[23Dec2024 03:28:10.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[23Dec2024 03:28:23.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eltragaCACA> ta piola
+[23Dec2024 03:28:24.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> segundo click y ves los precios
+[23Dec2024 03:28:35.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> es lo q avancé
+[23Dec2024 03:28:36.785] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: You can no longer afford this trade.
+[23Dec2024 03:28:37.434] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: You can no longer afford this trade.
+[23Dec2024 03:28:43.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> lo demás se borro para dejar entrar a miguel
+[23Dec2024 03:28:45.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eltragaCACA> ta good
+[23Dec2024 03:28:49.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eltragaCACA> XD
+[23Dec2024 03:29:02.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> puedo generar estructuras desde el creativo
+[23Dec2024 03:29:11.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> con esta wea
+[23Dec2024 03:29:11.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eltragaCACA> firme
+[23Dec2024 03:29:14.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> si
+[23Dec2024 03:29:18.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Made eltragaCACA a server operator]
+[23Dec2024 03:29:18.740] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@1cc51751 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[23Dec2024 03:29:18.740] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@4b364067 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[23Dec2024 03:29:18.740] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@802c9cb (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[23Dec2024 03:29:18.740] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@3940c71b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[23Dec2024 03:29:18.741] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@55dee479 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[23Dec2024 03:29:18.742] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@24316c04 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[23Dec2024 03:29:18.742] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@5ac38684 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[23Dec2024 03:29:18.743] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@f6bfb7c (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[23Dec2024 03:29:19.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eltragaCACA> pero no tengo nd ps
+[23Dec2024 03:29:34.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> SEGUNDO clicl
+[23Dec2024 03:29:35.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eltragaCACA> q hace eso
+[23Dec2024 03:29:38.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ponlo
+[23Dec2024 03:29:41.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> a eso
+[23Dec2024 03:29:44.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> es un accesorio
+[23Dec2024 03:29:53.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> te lo equipas configurandolo desde controles
+[23Dec2024 03:29:57.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> te paso cap
+[23Dec2024 03:30:06.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eltragaCACA> nom e deja poner
+[23Dec2024 03:30:40.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ya te pasé cap
+[23Dec2024 03:30:54.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> debes usar esos dos
+[23Dec2024 03:30:55.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ahora si
+[23Dec2024 03:31:10.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> usando el bloque
+[23Dec2024 03:31:44.590] [Server thread/ERROR] [minecolonies/]: BuildTool: building is null!
+java.lang.Exception: null
+	at com.minecolonies.coremod.network.messages.server.BuildToolPlaceMessage.setupBuilding(BuildToolPlaceMessage.java:365) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.messages.server.BuildToolPlaceMessage.handleHut(BuildToolPlaceMessage.java:272) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.messages.server.BuildToolPlaceMessage.onExecute(BuildToolPlaceMessage.java:171) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.messages.splitting.SplitPacketMessage.lambda$onExecute$1(SplitPacketMessage.java:128) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at net.minecraftforge.fml.network.NetworkEvent$Context.enqueueWork(NetworkEvent.java:201) ~[forge:?]
+	at com.minecolonies.coremod.network.messages.splitting.SplitPacketMessage.onExecute(SplitPacketMessage.java:128) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.NetworkChannel.lambda$setupInternalMessages$4(NetworkChannel.java:256) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:114) ~[forge:?]
+	at java.util.Optional.ifPresent(Optional.java:183) ~[?:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:114) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:148) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:66) ~[forge:?]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:72) ~[forge:?]
+	at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:77) ~[forge:?]
+	at java.util.Optional.map(Optional.java:265) ~[?:?]
+	at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:77) ~[forge:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:1413) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[23Dec2024 03:32:03.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> la herramienta
+[23Dec2024 03:32:07.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> segundo cleck
+[23Dec2024 03:32:38.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> abajito aparecen tres opciones
+[23Dec2024 03:32:49.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> dos celestes y uno amarillo
+[23Dec2024 03:33:02.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eltragaCACA> ns como
+[23Dec2024 03:33:04.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> presionando la segunda opcion celeste te deja ponerlo
+[23Dec2024 03:33:06.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[23Dec2024 03:33:21.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[23Dec2024 03:33:46.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> solo te deja colocarlo si es creativo xd
+[23Dec2024 03:33:59.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eltragaCACA> no estoy en creativo
+[23Dec2024 03:34:00.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> sino tendras q construirlo manualmente
+[23Dec2024 03:34:06.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set eltragaCACA's game mode to Creative Mode]
+[23Dec2024 03:34:18.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
