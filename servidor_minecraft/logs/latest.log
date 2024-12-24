@@ -7732,3 +7732,8 @@ java.lang.Exception: null
 [24Dec2024 15:31:45.910] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
 [24Dec2024 15:31:50.003] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
 [24Dec2024 15:31:50.004] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
+[24Dec2024 15:39:04.755] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Traficante de armas'/8090, l='ServerLevel[world]', x=-233.74, y=70.00, z=-6.46] died, message: 'Traficante de armas was slain by Giant'
+[24Dec2024 15:45:02.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[24Dec2024 15:45:36.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[24Dec2024 15:45:40.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[24Dec2024 15:45:47.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]

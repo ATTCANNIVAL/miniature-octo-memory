@@ -480,6 +480,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-24 15:33:12 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:currency/netherite_wallet": {
     "criteria": {
       "netherite_wallet": "2024-12-24 14:48:42 +0000"
