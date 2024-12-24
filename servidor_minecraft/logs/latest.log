@@ -7752,3 +7752,11 @@ java.lang.Exception: null
 [24Dec2024 16:01:31.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
 [24Dec2024 16:02:14.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -230.5, 71.5, -110.5]
 [24Dec2024 16:04:31.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[24Dec2024 16:07:02.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [My first penny!]
+[24Dec2024 16:15:01.942] [Server thread/ERROR] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Cannot define the item trades item at index -1. Must be between 0-3!
+[24Dec2024 16:15:02.123] [Server thread/ERROR] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Cannot define the item trades item at index -1. Must be between 0-3!
+[24Dec2024 16:15:19.421] [Server thread/ERROR] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Cannot define the item trades item at index -1. Must be between 0-3!
+[24Dec2024 16:15:34.741] [Server thread/ERROR] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Cannot define the item trades item at index -1. Must be between 0-3!
+[24Dec2024 16:15:34.874] [Server thread/ERROR] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Cannot define the item trades item at index -1. Must be between 0-3!
+[24Dec2024 16:16:09.290] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
+[24Dec2024 16:16:15.141] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!

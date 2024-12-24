@@ -15099,3 +15099,16 @@ java.lang.Exception: null
 [24Dec2024 16:02:58.837] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [24Dec2024 16:02:58.853] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [24Dec2024 16:04:31.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[24Dec2024 16:07:02.247] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Found 163 recipes with the 'lightmanscurrency' namespace!
+[24Dec2024 16:07:02.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [My first penny!]
+[24Dec2024 16:07:58.911] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 16:07:58.928] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 16:12:58.817] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 16:12:58.831] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 16:15:01.942] [Server thread/ERROR] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Cannot define the item trades item at index -1. Must be between 0-3!
+[24Dec2024 16:15:02.123] [Server thread/ERROR] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Cannot define the item trades item at index -1. Must be between 0-3!
+[24Dec2024 16:15:19.421] [Server thread/ERROR] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Cannot define the item trades item at index -1. Must be between 0-3!
+[24Dec2024 16:15:34.741] [Server thread/ERROR] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Cannot define the item trades item at index -1. Must be between 0-3!
+[24Dec2024 16:15:34.874] [Server thread/ERROR] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Cannot define the item trades item at index -1. Must be between 0-3!
+[24Dec2024 16:16:09.290] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
+[24Dec2024 16:16:15.141] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
