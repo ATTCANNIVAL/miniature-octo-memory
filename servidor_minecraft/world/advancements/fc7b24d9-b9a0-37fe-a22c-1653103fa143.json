@@ -542,6 +542,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-24 15:08:12 +0000"
+    },
+    "done": true
+  },
   "ava:recipes/survival/compressed_wood": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 14:55:40 +0000"
@@ -736,6 +742,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-24 15:08:12 +0000"
+    },
+    "done": true
+  },
   "ava:recipes/main/builders_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 14:55:40 +0000"
@@ -801,6 +813,13 @@
       "has_iron_ingot": "2024-12-24 14:55:40 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:husk": "2024-12-24 15:08:36 +0000",
+      "minecraft:zombie": "2024-12-24 15:08:12 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/cyan_grill": {
     "criteria": {

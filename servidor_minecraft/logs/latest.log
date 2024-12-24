@@ -7670,3 +7670,6 @@ java.lang.Exception: null
 [24Dec2024 14:59:28.415] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Chalcopyrite'/7951, l='ServerLevel[world]', x=-149.59, y=64.00, z=38.67]
 [24Dec2024 14:59:29.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Command Block] to ATT_CANNIVAL]
 [24Dec2024 14:59:49.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Summoned new Bruh moment]
+[24Dec2024 15:07:23.889] [Server thread/ERROR] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Cannot define the item trades item at index -1. Must be between 0-3!
+[24Dec2024 15:08:12.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Monster Hunter]
+[24Dec2024 15:16:30.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Just What I Always Wanted]
