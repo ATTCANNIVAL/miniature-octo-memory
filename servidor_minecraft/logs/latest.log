@@ -7655,3 +7655,18 @@ java.lang.Exception: null
 [24Dec2024 14:55:52.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [What a Deal!]
 [24Dec2024 14:56:13.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [It's Tradin' Time!]
 [24Dec2024 14:56:19.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Specialty Trading]
+[24Dec2024 14:56:36.014] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
+[24Dec2024 14:57:57.591] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Bruh moment'/6404, l='ServerLevel[world]', x=-232.47, y=70.00, z=-8.03] died, message: 'Bruh moment fell out of the world'
+[24Dec2024 14:58:09.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[24Dec2024 14:58:15.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[24Dec2024 14:58:23.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added item to blacklist]
+[24Dec2024 14:58:25.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added item to blacklist]
+[24Dec2024 14:58:36.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[24Dec2024 14:58:42.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[24Dec2024 14:58:48.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[24Dec2024 14:58:55.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[24Dec2024 14:59:14.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[24Dec2024 14:59:28.415] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Skill Point Book'/7950, l='ServerLevel[world]', x=-149.59, y=64.00, z=38.67]
+[24Dec2024 14:59:28.415] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Chalcopyrite'/7951, l='ServerLevel[world]', x=-149.59, y=64.00, z=38.67]
+[24Dec2024 14:59:29.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Command Block] to ATT_CANNIVAL]
+[24Dec2024 14:59:49.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Summoned new Bruh moment]
