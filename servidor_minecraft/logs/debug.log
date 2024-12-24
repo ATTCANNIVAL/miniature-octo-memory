@@ -15112,3 +15112,7 @@ java.lang.Exception: null
 [24Dec2024 16:15:34.874] [Server thread/ERROR] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Cannot define the item trades item at index -1. Must be between 0-3!
 [24Dec2024 16:16:09.290] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
 [24Dec2024 16:16:15.141] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
+[24Dec2024 16:17:58.859] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 16:17:58.877] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 16:22:58.818] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 16:22:58.836] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
