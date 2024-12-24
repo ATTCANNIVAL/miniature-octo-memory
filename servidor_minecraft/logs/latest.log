@@ -7760,3 +7760,9 @@ java.lang.Exception: null
 [24Dec2024 16:15:34.874] [Server thread/ERROR] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Cannot define the item trades item at index -1. Must be between 0-3!
 [24Dec2024 16:16:09.290] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
 [24Dec2024 16:16:15.141] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
+[24Dec2024 16:27:42.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[24Dec2024 16:28:03.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[24Dec2024 16:28:09.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[24Dec2024 16:31:03.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Command Block] to ATT_CANNIVAL]
+[24Dec2024 16:31:12.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Summoned new Bruh moment]
+[24Dec2024 16:36:42.319] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/41, l='ServerLevel[world]', x=-139.40, y=70.00, z=-3.30] died, message: 'Villager was slain by Giant'
