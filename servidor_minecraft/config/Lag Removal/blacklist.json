@@ -18,18 +18,5 @@
   "minecraft:furnace_minecart",
   "minecraft:hopper_minecart",
   "minecraft:spawner_minecart",
-  "minecraft:tnt_minecart",
-  "corpse:corpse",
-  "mca:male_villager",
-  "mca:baby_boy",
-  "mca:baby_girl",
-  "mca:female_villager",
-  "guardvillagers:guard",
-  "minecraft:zombie",
-  "gunsrpg:airdrop",
-  "medieval_craft_weapons:archer",
-  "medieval_craft_weapons:soldier",
-  "medieval_craft_weapons:knight",
-  "minecraft:creeper",
-  "gunsrpg:ar_turret"
+  "minecraft:tnt_minecart"
 ]

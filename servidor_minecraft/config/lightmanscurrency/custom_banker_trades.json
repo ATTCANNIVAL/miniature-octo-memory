@@ -242,35 +242,11 @@
       },
       "Sell": [
         {
-          "ID": "lightmanscurrency:vending_machine_pink",
-          "Count": 1
-        },
-        {
-          "ID": "lightmanscurrency:vending_machine_black",
-          "Count": 1
-        },
-        {
-          "ID": "lightmanscurrency:vending_machine_gray",
-          "Count": 1
-        },
-        {
-          "ID": "lightmanscurrency:vending_machine_green",
-          "Count": 1
-        },
-        {
           "ID": "lightmanscurrency:vending_machine_blue",
           "Count": 1
         },
         {
-          "ID": "lightmanscurrency:vending_machine_purple",
-          "Count": 1
-        },
-        {
-          "ID": "lightmanscurrency:vending_machine_lime",
-          "Count": 1
-        },
-        {
-          "ID": "lightmanscurrency:vending_machine_brown",
+          "ID": "lightmanscurrency:vending_machine_pink",
           "Count": 1
         },
         {
@@ -278,11 +254,7 @@
           "Count": 1
         },
         {
-          "ID": "lightmanscurrency:vending_machine_yellow",
-          "Count": 1
-        },
-        {
-          "ID": "lightmanscurrency:vending_machine_cyan",
+          "ID": "lightmanscurrency:vending_machine_magenta",
           "Count": 1
         },
         {
@@ -290,7 +262,11 @@
           "Count": 1
         },
         {
-          "ID": "lightmanscurrency:vending_machine_magenta",
+          "ID": "lightmanscurrency:vending_machine_cyan",
+          "Count": 1
+        },
+        {
+          "ID": "lightmanscurrency:vending_machine_black",
           "Count": 1
         },
         {
@@ -302,7 +278,31 @@
           "Count": 1
         },
         {
+          "ID": "lightmanscurrency:vending_machine_lime",
+          "Count": 1
+        },
+        {
+          "ID": "lightmanscurrency:vending_machine_gray",
+          "Count": 1
+        },
+        {
+          "ID": "lightmanscurrency:vending_machine_purple",
+          "Count": 1
+        },
+        {
+          "ID": "lightmanscurrency:vending_machine_green",
+          "Count": 1
+        },
+        {
           "ID": "lightmanscurrency:vending_machine_lightgray",
+          "Count": 1
+        },
+        {
+          "ID": "lightmanscurrency:vending_machine_brown",
+          "Count": 1
+        },
+        {
+          "ID": "lightmanscurrency:vending_machine_yellow",
           "Count": 1
         }
       ],
@@ -332,35 +332,11 @@
       },
       "Sell": [
         {
-          "ID": "lightmanscurrency:freezer_pink",
-          "Count": 1
-        },
-        {
-          "ID": "lightmanscurrency:freezer",
-          "Count": 1
-        },
-        {
-          "ID": "lightmanscurrency:freezer_gray",
-          "Count": 1
-        },
-        {
-          "ID": "lightmanscurrency:freezer_green",
-          "Count": 1
-        },
-        {
           "ID": "lightmanscurrency:freezer_blue",
           "Count": 1
         },
         {
-          "ID": "lightmanscurrency:freezer_purple",
-          "Count": 1
-        },
-        {
-          "ID": "lightmanscurrency:freezer_lime",
-          "Count": 1
-        },
-        {
-          "ID": "lightmanscurrency:freezer_brown",
+          "ID": "lightmanscurrency:freezer_pink",
           "Count": 1
         },
         {
@@ -368,11 +344,7 @@
           "Count": 1
         },
         {
-          "ID": "lightmanscurrency:freezer_yellow",
-          "Count": 1
-        },
-        {
-          "ID": "lightmanscurrency:freezer_cyan",
+          "ID": "lightmanscurrency:freezer_magenta",
           "Count": 1
         },
         {
@@ -380,7 +352,11 @@
           "Count": 1
         },
         {
-          "ID": "lightmanscurrency:freezer_magenta",
+          "ID": "lightmanscurrency:freezer_cyan",
+          "Count": 1
+        },
+        {
+          "ID": "lightmanscurrency:freezer",
           "Count": 1
         },
         {
@@ -392,7 +368,31 @@
           "Count": 1
         },
         {
+          "ID": "lightmanscurrency:freezer_lime",
+          "Count": 1
+        },
+        {
+          "ID": "lightmanscurrency:freezer_gray",
+          "Count": 1
+        },
+        {
+          "ID": "lightmanscurrency:freezer_purple",
+          "Count": 1
+        },
+        {
+          "ID": "lightmanscurrency:freezer_green",
+          "Count": 1
+        },
+        {
           "ID": "lightmanscurrency:freezer_light_gray",
+          "Count": 1
+        },
+        {
+          "ID": "lightmanscurrency:freezer_brown",
+          "Count": 1
+        },
+        {
+          "ID": "lightmanscurrency:freezer_yellow",
           "Count": 1
         }
       ],
@@ -425,35 +425,11 @@
       },
       "Sell": [
         {
-          "ID": "lightmanscurrency:vending_machine_large_pink",
-          "Count": 1
-        },
-        {
-          "ID": "lightmanscurrency:vending_machine_large_black",
-          "Count": 1
-        },
-        {
-          "ID": "lightmanscurrency:vending_machine_large_gray",
-          "Count": 1
-        },
-        {
-          "ID": "lightmanscurrency:vending_machine_large_green",
-          "Count": 1
-        },
-        {
           "ID": "lightmanscurrency:vending_machine_large_blue",
           "Count": 1
         },
         {
-          "ID": "lightmanscurrency:vending_machine_large_purple",
-          "Count": 1
-        },
-        {
-          "ID": "lightmanscurrency:vending_machine_large_lime",
-          "Count": 1
-        },
-        {
-          "ID": "lightmanscurrency:vending_machine_large_brown",
+          "ID": "lightmanscurrency:vending_machine_large_pink",
           "Count": 1
         },
         {
@@ -461,11 +437,7 @@
           "Count": 1
         },
         {
-          "ID": "lightmanscurrency:vending_machine_large_yellow",
-          "Count": 1
-        },
-        {
-          "ID": "lightmanscurrency:vending_machine_large_cyan",
+          "ID": "lightmanscurrency:vending_machine_large_magenta",
           "Count": 1
         },
         {
@@ -473,7 +445,11 @@
           "Count": 1
         },
         {
-          "ID": "lightmanscurrency:vending_machine_large_magenta",
+          "ID": "lightmanscurrency:vending_machine_large_cyan",
+          "Count": 1
+        },
+        {
+          "ID": "lightmanscurrency:vending_machine_large_black",
           "Count": 1
         },
         {
@@ -485,7 +461,31 @@
           "Count": 1
         },
         {
+          "ID": "lightmanscurrency:vending_machine_large_lime",
+          "Count": 1
+        },
+        {
+          "ID": "lightmanscurrency:vending_machine_large_gray",
+          "Count": 1
+        },
+        {
+          "ID": "lightmanscurrency:vending_machine_large_purple",
+          "Count": 1
+        },
+        {
+          "ID": "lightmanscurrency:vending_machine_large_green",
+          "Count": 1
+        },
+        {
           "ID": "lightmanscurrency:vending_machine_large_lightgray",
+          "Count": 1
+        },
+        {
+          "ID": "lightmanscurrency:vending_machine_large_brown",
+          "Count": 1
+        },
+        {
+          "ID": "lightmanscurrency:vending_machine_large_yellow",
           "Count": 1
         }
       ],

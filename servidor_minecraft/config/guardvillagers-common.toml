@@ -21,9 +21,9 @@
 #This makes guards form a phalanx
 "Have guards form a phalanx?" = true
 #This will make guards attempt to avoid friendly fire.
-"Have guards attempt to avoid firing into other friendlies? (Experimental)" = true
+"Have guards attempt to avoid firing into other friendlies? (Experimental)" = false
 #This will make it so villagers will only be converted into guards if the player has hero of the village
-"Make it so players have to have hero of the village to convert villagers into guards?" = true
+"Make it so players have to have hero of the village to convert villagers into guards?" = false
 "Have it so blacksmiths heal golems under 60 health?" = true
 "Have it so clerics heal guards and players with hero of the village?" = true
 #This is the range in which the guards will be aggroed to mobs that are attacking villagers. Higher values are more resource intensive, and setting this to zero will disable the goal.
