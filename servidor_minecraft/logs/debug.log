@@ -13403,3 +13403,37 @@ java.lang.Exception: null
 [24Dec2024 15:45:36.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
 [24Dec2024 15:45:40.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
 [24Dec2024 15:45:47.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[24Dec2024 15:47:58.944] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 15:47:58.960] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 15:52:58.847] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 15:52:58.866] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 15:52:58.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Uncraftable Potion] to ATT_CANNIVAL]
+[24Dec2024 15:53:38.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[24Dec2024 15:55:16.924] [Worker-Main-92/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=257, y=17, z=43} at Chest with:minecraft:chests/simple_dungeon in dungeons_enhanced:dungeon_variant
+[24Dec2024 15:55:27.352] [Worker-Main-77/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=388, y=34, z=175} at Chest with:minecraft:chests/underwater_ruin_small in ocean_ruin
+[24Dec2024 15:55:33.374] [Worker-Main-96/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=405, y=16, z=-117} at Chest with:minecraft:chests/simple_dungeon in dungeons_enhanced:dungeon_variant
+[24Dec2024 15:55:44.677] [Worker-Main-94/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokersummoner at BlockPos{x=659, y=19, z=27} at Chest with:minecraft:chests/simple_dungeon in dungeons_enhanced:dungeon_variant
+[24Dec2024 15:55:50.198] [Worker-Main-96/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=737, y=30, z=133} at Chest with:minecraft:chests/underwater_ruin_small in ocean_ruin
+[24Dec2024 15:55:50.199] [Worker-Main-96/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=737, y=34, z=133} at Chest with:minecraft:chests/underwater_ruin_small in ocean_ruin
+[24Dec2024 15:56:07.056] [Worker-Main-91/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=885, y=20, z=115} at Chest with:minecraft:chests/simple_dungeon in dungeons_enhanced:dungeon_variant
+[24Dec2024 15:56:07.871] [Worker-Main-90/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=907, y=33, z=-97} at Chest with:minecraft:chests/shipwreck_supply in shipwreck
+[24Dec2024 15:56:13.001] [Worker-Main-94/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=1021, y=17, z=149} at Chest with:minecraft:chests/simple_dungeon in dungeons_enhanced:dungeon_variant
+[24Dec2024 15:56:13.693] [Worker-Main-95/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=1027, y=46, z=33} at Chest with:minecraft:chests/shipwreck_map in shipwreck
+[24Dec2024 15:56:13.769] [Worker-Main-96/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evilchickenboss at BlockPos{x=1027, y=17, z=139} at Chest with:minecraft:chests/simple_dungeon in dungeons_enhanced:dungeon_variant
+[24Dec2024 15:56:18.138] [Worker-Main-90/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (1188 | 49 | 148).
+[24Dec2024 15:56:18.142] [Worker-Main-90/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[24Dec2024 15:56:18.147] [Worker-Main-90/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 3(0) Rooms
+[24Dec2024 15:56:18.147] [Worker-Main-90/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[24Dec2024 15:56:18.148] [Worker-Main-90/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 4(0) Rooms
+[24Dec2024 15:56:18.148] [Worker-Main-90/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[24Dec2024 15:56:18.148] [Worker-Main-90/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 11(0) Nodes and 4(0) Rooms
+[24Dec2024 15:56:18.148] [Worker-Main-90/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[24Dec2024 15:56:18.149] [Worker-Main-90/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 9(3) Nodes and 4(0) Rooms
+[24Dec2024 15:56:18.149] [Worker-Main-90/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[24Dec2024 15:56:18.149] [Worker-Main-90/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(0) Nodes and 6(0) Rooms
+[24Dec2024 15:56:18.162] [Worker-Main-90/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [79, 14] with a total of 329 pieces.
+[24Dec2024 15:56:24.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -143.5, 81.26964998110292, 16.5]
+[24Dec2024 15:56:40.820] [Worker-Main-97/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-357, y=15, z=273} at Chest with:minecraft:chests/simple_dungeon in dungeons_enhanced:dungeon_variant
+[24Dec2024 15:56:41.328] [Worker-Main-89/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:endervindicatorboss at BlockPos{x=-492, y=13, z=107} at Chest with:minecraft:chests/simple_dungeon in dungeons_enhanced:dungeon_variant
+[24Dec2024 15:56:42.312] [Worker-Main-89/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-501, y=12, z=109} at Chest with:minecraft:chests/simple_dungeon in dungeons_enhanced:dungeon_variant
+[24Dec2024 15:56:43.056] [Worker-Main-77/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-526, y=34, z=59} at Chest with:minecraft:chests/shipwreck_map in shipwreck
