@@ -16635,3 +16635,26 @@ java.lang.Exception: null
 [25Dec2024 19:11:43.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
 [25Dec2024 19:13:00.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Removed entity from blacklist]
 [25Dec2024 19:13:08.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[25Dec2024 19:15:42.372] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Dec2024 19:15:42.391] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Dec2024 19:19:05.958] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/428, l='ServerLevel[world]', x=-161.65, y=69.00, z=-5.50] died, message: 'Farmer was slain by Clicker Zombie'
+[25Dec2024 19:19:27.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Gold Amulet] to ATT_CANNIVAL]
+[25Dec2024 19:19:33.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Gold Amulet] to ATT_CANNIVAL]
+[25Dec2024 19:19:35.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Gold Amulet] to ATT_CANNIVAL]
+[25Dec2024 19:19:36.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Gold Amulet] to ATT_CANNIVAL]
+[25Dec2024 19:19:58.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Gold Ring] to ATT_CANNIVAL]
+[25Dec2024 19:20:00.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Gold Ring] to ATT_CANNIVAL]
+[25Dec2024 19:20:01.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Gold Ring] to ATT_CANNIVAL]
+[25Dec2024 19:20:03.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Gold Ring] to ATT_CANNIVAL]
+[25Dec2024 19:20:42.337] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Dec2024 19:20:42.354] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Dec2024 19:21:04.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Gold Bracelet] to ATT_CANNIVAL]
+[25Dec2024 19:21:05.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Gold Bracelet] to ATT_CANNIVAL]
+[25Dec2024 19:21:06.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Gold Bracelet] to ATT_CANNIVAL]
+[25Dec2024 19:21:08.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Gold Bracelet] to ATT_CANNIVAL]
+[25Dec2024 19:21:16.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Gold Bracelet] to ATT_CANNIVAL]
+[25Dec2024 19:21:40.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Silver Amulet] to ATT_CANNIVAL]
+[25Dec2024 19:21:40.910] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Cartographer'/400, l='ServerLevel[world]', x=-126.52, y=64.00, z=27.28] died, message: 'Cartographer was slain by Fat Zombie'
+[25Dec2024 19:21:43.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Silver Amulet] to ATT_CANNIVAL]
+[25Dec2024 19:21:44.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Silver Amulet] to ATT_CANNIVAL]
+[25Dec2024 19:21:46.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Silver Amulet] to ATT_CANNIVAL]

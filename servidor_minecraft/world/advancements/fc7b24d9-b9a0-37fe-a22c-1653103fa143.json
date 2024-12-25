@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/yellow_picket_fence": {
+    "criteria": {
+      "has_concrete": "2024-12-25 19:14:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-24 16:08:05 +0000"
@@ -179,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-12-25 19:14:07 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-24 15:48:56 +0000"
@@ -248,6 +260,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 14:55:40 +0000"
+    },
+    "done": true
+  },
+  "structurize:recipes/structurize.construction/blockcactusslab": {
+    "criteria": {
+      "has_blockcactusplank": "2024-12-25 19:15:18 +0000"
     },
     "done": true
   },
@@ -486,6 +504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2024-12-25 19:14:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/red_picket_gate": {
     "criteria": {
       "has_gate": "2024-12-25 19:00:16 +0000"
@@ -531,6 +555,12 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2024-12-24 15:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2024-12-25 19:14:07 +0000"
     },
     "done": true
   },
@@ -676,6 +706,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-25 19:14:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-24 16:08:05 +0000"
@@ -715,6 +751,12 @@
   "craftingdead:recipes/craftingdead.combat/lp_scope": {
     "criteria": {
       "has_glass": "2024-12-24 16:08:05 +0000"
+    },
+    "done": true
+  },
+  "structurize:recipes/structurize.construction/blockcactusstair": {
+    "criteria": {
+      "has_blockcactusplank": "2024-12-25 19:15:18 +0000"
     },
     "done": true
   },
@@ -954,6 +996,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2024-12-25 19:14:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-25 19:00:05 +0000"
@@ -981,6 +1029,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-24 14:53:26 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/filter_configurator": {
+    "criteria": {
+      "has_wool": "2024-12-25 19:14:34 +0000"
     },
     "done": true
   },
@@ -1197,6 +1251,12 @@
     },
     "done": true
   },
+  "structurize:recipes/structurize.construction/blockcactustrapdoor": {
+    "criteria": {
+      "has_blockcactusplank": "2024-12-25 19:15:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_upgraded_gate": {
     "criteria": {
       "has_gate": "2024-12-25 19:00:16 +0000"
@@ -1407,6 +1467,12 @@
     },
     "done": true
   },
+  "structurize:recipes/structurize.construction/blockcactusfence": {
+    "criteria": {
+      "has_blockcactusplank": "2024-12-25 19:15:18 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:currency/cash_register": {
     "criteria": {
       "cash_register": "2024-12-24 14:48:42 +0000"
@@ -1584,6 +1650,12 @@
   "cfm:recipes/cfm/birch_upgraded_gate": {
     "criteria": {
       "has_log": "2024-12-24 15:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockconstructiontape": {
+    "criteria": {
+      "has_wool": "2024-12-25 19:14:34 +0000"
     },
     "done": true
   },
@@ -2200,6 +2272,12 @@
     },
     "done": true
   },
+  "structurize:recipes/structurize.construction/blockcactusplank": {
+    "criteria": {
+      "has_cactus_planks": "2024-12-25 19:15:18 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/supplycampdeployer": {
     "criteria": {
       "has_chest": "2024-12-24 15:48:56 +0000"
@@ -2476,6 +2554,12 @@
     },
     "done": true
   },
+  "structurize:recipes/structurize.construction/blockcactusdoor": {
+    "criteria": {
+      "has_blockcactusplank": "2024-12-25 19:15:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_gray_grill": {
     "criteria": {
       "has_iron": "2024-12-24 14:55:40 +0000"
@@ -2503,6 +2587,12 @@
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2024-12-24 14:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-25 19:14:34 +0000"
     },
     "done": true
   },
@@ -2734,6 +2824,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2024-12-25 19:14:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-24 14:56:01 +0000"
@@ -2749,6 +2845,12 @@
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2024-12-24 14:48:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/red_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-25 19:14:34 +0000"
     },
     "done": true
   },
@@ -2884,6 +2986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-12-25 19:14:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 14:55:40 +0000"
@@ -2923,6 +3031,12 @@
   "cfm:recipes/cfm/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-24 15:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2024-12-25 19:14:34 +0000"
     },
     "done": true
   },
@@ -3028,6 +3142,12 @@
     },
     "done": true
   },
+  "usefulbackpacks:recipes/backpack_small": {
+    "criteria": {
+      "has_wool": "2024-12-25 19:14:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/cyan_grill": {
     "criteria": {
       "has_iron": "2024-12-24 14:55:40 +0000"
@@ -3085,6 +3205,12 @@
   "cfm:recipes/cfm/stone_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-12-25 18:53:54 +0000"
+    },
+    "done": true
+  },
+  "structurize:recipes/structurize.construction/blockcactusfencegate": {
+    "criteria": {
+      "has_blockcactusplank": "2024-12-25 19:15:18 +0000"
     },
     "done": true
   },
