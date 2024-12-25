@@ -1864,6 +1864,12 @@
     },
     "done": true
   },
+  "craftingdead:recipes/misc/iron_ingot_from_magazine": {
+    "criteria": {
+      "has_magazine": "2024-12-25 01:32:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-24 15:26:58 +0000"

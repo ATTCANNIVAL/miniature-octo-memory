@@ -13310,3 +13310,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Dec2024 01:24:35.132] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Created new airdrop at BlockPos{x=-236, y=176, z=0} for player ATT_CANNIVAL
 [25Dec2024 01:24:49.808] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [25Dec2024 01:24:49.835] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Dec2024 01:29:49.345] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Dec2024 01:29:49.366] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Dec2024 01:34:49.410] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Dec2024 01:34:49.430] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Dec2024 01:36:02.120] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Zoltán'/598, l='ServerLevel[world]', x=-238.71, y=70.00, z=-7.71] died, message: 'Zoltán was slain by Infected Spec Ops Soldier'
+[25Dec2024 01:36:52.121] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Ödön'/599, l='ServerLevel[world]', x=-237.70, y=70.00, z=8.80] died, message: 'Ödön was slain by Parasite'

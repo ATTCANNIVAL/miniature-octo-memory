@@ -7654,3 +7654,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Dec2024 01:20:35.580] [Server thread/INFO] [com.willr27.blocklings.Blocklings/]: Creating valid attack targets map.
 [25Dec2024 01:20:35.595] [Server thread/WARN] [com.willr27.blocklings.Blocklings/]: Failed to create entity: minecraft:fishing_bobber
 [25Dec2024 01:20:35.598] [Server thread/WARN] [com.willr27.blocklings.Blocklings/]: Failed to create entity: minecraft:player
+[25Dec2024 01:36:02.120] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Zoltán'/598, l='ServerLevel[world]', x=-238.71, y=70.00, z=-7.71] died, message: 'Zoltán was slain by Infected Spec Ops Soldier'
+[25Dec2024 01:36:52.121] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Ödön'/599, l='ServerLevel[world]', x=-237.70, y=70.00, z=8.80] died, message: 'Ödön was slain by Parasite'
