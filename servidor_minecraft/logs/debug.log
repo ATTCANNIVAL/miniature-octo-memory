@@ -16577,3 +16577,13 @@ java.lang.Exception: null
 [25Dec2024 18:52:09.804] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/410, l='ServerLevel[world]', x=-136.70, y=69.00, z=13.30] died, message: 'Farmer was slain by Husk'
 [25Dec2024 18:52:16.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
 [25Dec2024 18:53:54.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Stone Age]
+[25Dec2024 18:54:53.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[25Dec2024 18:55:06.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[25Dec2024 18:55:42.382] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Dec2024 18:55:42.401] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Dec2024 18:56:12.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[25Dec2024 18:57:00.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[25Dec2024 19:00:42.362] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Dec2024 19:00:42.378] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Dec2024 19:02:33.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[25Dec2024 19:02:38.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
