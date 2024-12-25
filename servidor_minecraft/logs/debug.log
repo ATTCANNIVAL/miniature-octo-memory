@@ -13255,3 +13255,35 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Dec2024 18:19:50.444] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Emil'/1620, l='ServerLevel[world]', x=-212.05, y=69.00, z=-26.05] died, message: 'Emil was shot'
 [25Dec2024 18:20:34.678] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [25Dec2024 18:20:34.701] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Dec2024 18:24:25.110] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon start notification
+[25Dec2024 18:24:25.110] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon start notification
+[25Dec2024 18:24:25.111] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon start notification
+[25Dec2024 18:24:25.111] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon start notification
+[25Dec2024 18:24:25.111] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon start notification
+[25Dec2024 18:24:52.725] [Server thread/DEBUG] [flash.npcmod.Main/]: ATT_CANNIVAL used function openTrades from npc Traficante de armas
+[25Dec2024 18:25:16.059] [Server thread/DEBUG] [flash.npcmod.Main/]: ATT_CANNIVAL used function openTrades from npc Traficante de armas
+[25Dec2024 18:25:34.232] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Dec2024 18:25:34.259] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Dec2024 18:26:11.302] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/2287, l='ServerLevel[world]', x=-174.85, y=71.00, z=-0.73] died, message: 'Villager was slain by Fast infected'
+[25Dec2024 18:27:44.759] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/411, l='ServerLevel[world]', x=-151.47, y=63.00, z=58.65] died, message: 'Villager was slain by Infected Spec Ops Soldier'
+[25Dec2024 18:28:35.508] [Server thread/DEBUG] [flash.npcmod.Main/]: ATT_CANNIVAL used function openTrades from npc Traficante de armas
+[25Dec2024 18:28:36.203] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/423, l='ServerLevel[world]', x=-145.40, y=64.42, z=31.30] died, message: 'Farmer was slain by Fast infected'
+[25Dec2024 18:29:24.433] [Server thread/DEBUG] [flash.npcmod.Main/]: ATT_CANNIVAL used function openTrades from npc Traficante de armas
+[25Dec2024 18:29:50.809] [Server thread/DEBUG] [flash.npcmod.Main/]: ATT_CANNIVAL used function openTrades from npc Traficante de armas
+[25Dec2024 18:30:24.807] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/416, l='ServerLevel[world]', x=-136.30, y=71.00, z=-6.30] died, message: 'Villager was slain by Fast infected'
+[25Dec2024 18:30:34.207] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Dec2024 18:30:34.225] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Dec2024 18:31:23.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 1000]
+[25Dec2024 18:31:23.096] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon end notification
+[25Dec2024 18:31:23.112] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon end notification
+[25Dec2024 18:31:23.112] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon end notification
+[25Dec2024 18:31:23.112] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon end notification
+[25Dec2024 18:31:23.112] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon end notification
+[25Dec2024 18:31:41.055] [Server thread/DEBUG] [flash.npcmod.Main/]: ATT_CANNIVAL used function openTrades from npc Traficante de armas
+[25Dec2024 18:32:52.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to 84.5, 80.00148528501529, 522.5]
+[25Dec2024 18:32:56.171] [Worker-Main-34/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:guardianboss at BlockPos{x=165, y=31, z=500} at Chest with:minecraft:chests/underwater_ruin_big in ocean_ruin
+[25Dec2024 18:32:56.544] [Worker-Main-43/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=5, y=30, z=515} at Chest with:minecraft:chests/simple_dungeon in dungeons_enhanced:dungeon_variant
+[25Dec2024 18:33:00.389] [Worker-Main-35/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=37, y=52, z=397} at Chest with:minecraft:chests/shipwreck_map in shipwreck
+[25Dec2024 18:33:22.865] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1e73c20e
+[25Dec2024 18:33:37.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -17.5, 80.00148528501529, 298.5]
+[25Dec2024 18:33:38.052] [Worker-Main-41/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=12, y=20, z=236} at Chest with:minecraft:chests/simple_dungeon in dungeons_arise:foundry

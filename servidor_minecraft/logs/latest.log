@@ -7602,3 +7602,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Dec2024 18:16:39.909] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc7b24d9-b9a0-37fe-a22c-1653103fa143 was loaded
 [25Dec2024 18:19:44.015] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Imre'/1596, l='ServerLevel[world]', x=-221.52, y=69.00, z=-19.48] died, message: 'Imre was shot in the head'
 [25Dec2024 18:19:50.444] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Emil'/1620, l='ServerLevel[world]', x=-212.05, y=69.00, z=-26.05] died, message: 'Emil was shot'
+[25Dec2024 18:26:11.302] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/2287, l='ServerLevel[world]', x=-174.85, y=71.00, z=-0.73] died, message: 'Villager was slain by Fast infected'
+[25Dec2024 18:27:44.759] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/411, l='ServerLevel[world]', x=-151.47, y=63.00, z=58.65] died, message: 'Villager was slain by Infected Spec Ops Soldier'
+[25Dec2024 18:28:36.203] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/423, l='ServerLevel[world]', x=-145.40, y=64.42, z=31.30] died, message: 'Farmer was slain by Fast infected'
+[25Dec2024 18:30:24.807] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/416, l='ServerLevel[world]', x=-136.30, y=71.00, z=-6.30] died, message: 'Villager was slain by Fast infected'
+[25Dec2024 18:31:23.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 1000]
+[25Dec2024 18:32:52.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to 84.5, 80.00148528501529, 522.5]
+[25Dec2024 18:33:22.865] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1e73c20e
+[25Dec2024 18:33:37.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -17.5, 80.00148528501529, 298.5]
