@@ -4,5 +4,11 @@
     "name": "ATT_CANNIVAL",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "eeeebc32-ea4f-3cf8-a014-e1f96e7ceb85",
+    "name": "MCM_Miguell",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

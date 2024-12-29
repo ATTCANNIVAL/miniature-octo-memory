@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 03:29:36 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
     "criteria": {
       "has_smoking_upgrade": "2024-12-29 03:18:33 +0000"
@@ -97,7 +103,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:desert": "2024-12-29 03:18:34 +0000"
+      "minecraft:cold_ocean": "2024-12-29 03:29:12 +0000",
+      "minecraft:desert": "2024-12-29 03:18:34 +0000",
+      "minecraft:beach": "2024-12-29 03:29:11 +0000",
+      "minecraft:river": "2024-12-29 03:21:59 +0000"
     },
     "done": false
   },
@@ -114,6 +123,12 @@
   "minecraft:unlock_deep_pockets_book": {
     "criteria": {
       "exists": "2024-12-29 03:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-29 03:22:03 +0000"
     },
     "done": true
   },
@@ -135,15 +150,21 @@
     },
     "done": true
   },
+  "lightmanscurrency:currency/cash_register": {
+    "criteria": {
+      "cash_register": "2024-12-29 03:18:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-29 03:19:46 +0000"
     },
     "done": true
   },
-  "lightmanscurrency:currency/cash_register": {
+  "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "cash_register": "2024-12-29 03:18:33 +0000"
+      "in_water": "2024-12-29 03:29:36 +0000"
     },
     "done": true
   },
@@ -175,6 +196,24 @@
     "criteria": {
       "has_netherite_ingot": "2024-12-29 03:18:33 +0000",
       "has_crying_obsidian": "2024-12-29 03:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diving_board": {
+    "criteria": {
+      "has_wheat": "2024-12-29 03:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 03:29:36 +0000"
     },
     "done": true
   },
@@ -219,6 +258,30 @@
   "mca:recipes/misc/staff_of_life": {
     "criteria": {
       "has_item": "2024-12-29 03:18:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/door_mat": {
+    "criteria": {
+      "has_wheat": "2024-12-29 03:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-29 03:22:03 +0000"
     },
     "done": true
   },
