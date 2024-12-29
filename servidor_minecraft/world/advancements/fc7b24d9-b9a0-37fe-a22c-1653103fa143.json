@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-29 03:30:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/red_cooler": {
     "criteria": {
       "has_chest": "2024-12-24 15:48:56 +0000"
