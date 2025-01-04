@@ -461,3 +461,10 @@
 2024-12-29 03:29:10,107 [Worker-Main-30] INFO Treasure2 | AbstractChestBlock.java:159 | AbstractChestBlock | createNewTileEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.95, zOffset=0.3, rotation=0.0], lockItem=null], LockState [slot=LockSlot [index=1, face=NORTH, xOffset=0.5, yOffset=0.95, zOffset=0.7, rotation=0.0], lockItem=null]]
 2024-12-29 03:29:10,107 [Worker-Main-30] INFO Treasure2 | AbstractChestBlock.java:164 | AbstractChestBlock | createNewTileEntity | tileEntity -> mod.gottsch.forge.treasure2.core.tileentity.CauldronChestTileEntity@499ac8f8 @ BlockPos{x=0, y=0, z=0}
 2024-12-29 03:29:10,110 [Worker-Main-30] INFO Treasure2 | SurfaceChestFeature.java:269 | CHEATER! LEGENDARY chest at coords: -1081 69 439
+2025-01-04 02:54:58,861 [modloading-worker-0] WARN Treasure2 | TreasureIntegrations.java:43 | Unable to load Curios compatiblity class.
+2025-01-04 02:57:03,348 [modloading-worker-1] WARN Treasure2 | TreasureIntegrations.java:43 | Unable to load Curios compatiblity class.
+2025-01-04 03:00:33,423 [modloading-worker-0] WARN Treasure2 | TreasureIntegrations.java:43 | Unable to load Curios compatiblity class.
+2025-01-04 03:03:04,485 [modloading-worker-1] WARN Treasure2 | TreasureIntegrations.java:43 | Unable to load Curios compatiblity class.
+2025-01-04 03:04:57,405 [modloading-worker-0] WARN Treasure2 | TreasureIntegrations.java:43 | Unable to load Curios compatiblity class.
+2025-01-04 03:07:28,044 [modloading-worker-0] WARN Treasure2 | TreasureIntegrations.java:43 | Unable to load Curios compatiblity class.
+2025-01-04 03:09:49,193 [modloading-worker-0] WARN Treasure2 | TreasureIntegrations.java:43 | Unable to load Curios compatiblity class.
