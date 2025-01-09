@@ -8063,3 +8063,4 @@ java.lang.Exception: null
 [09Jan2025 18:16:33.305] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/14949, l='ServerLevel[world]', x=-549.71, y=34.59, z=-663.32]
 [09Jan2025 18:16:43.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
 [09Jan2025 18:17:06.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[09Jan2025 18:45:56.488] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL moved too quickly! 1.716850490401498,0.0,9.901965861918029
