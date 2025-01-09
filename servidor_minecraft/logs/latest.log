@@ -8008,3 +8008,4 @@ java.lang.Exception: null
 	at java.lang.Thread.run(Thread.java:829) [?:?]
 [09Jan2025 17:15:24.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
 [09Jan2025 17:15:43.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[09Jan2025 17:26:13.468] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/5682, l='ServerLevel[world]', x=-700.73, y=121.06, z=-767.11] died, message: 'Villager was slain by ATT_CANNIVAL'
