@@ -15565,3 +15565,15 @@ java.lang.Exception: null
 [09Jan2025 18:45:56.421] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [09Jan2025 18:45:56.440] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [09Jan2025 18:45:56.488] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL moved too quickly! 1.716850490401498,0.0,9.901965861918029
+[09Jan2025 18:50:55.990] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Preparing airdrop spawn event
+[09Jan2025 18:50:55.991] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Preparing airdrop spawn event
+[09Jan2025 18:50:55.991] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Created new airdrop at BlockPos{x=-515, y=164, z=-692} for player ATT_CANNIVAL
+[09Jan2025 18:50:55.991] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Created new airdrop at BlockPos{x=-535, y=164, z=-705} for player ATT_CANNIVAL
+[09Jan2025 18:50:56.366] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Jan2025 18:50:56.381] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Jan2025 18:55:56.353] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Jan2025 18:55:56.370] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Jan2025 19:00:14.489] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL lost connection: Disconnected
+[09Jan2025 19:00:14.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL left the game
+[09Jan2025 19:00:14.491] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc7b24d9-b9a0-37fe-a22c-1653103fa143 was unloaded
+[09Jan2025 19:00:14.491] [Server thread/DEBUG] [Guns-RPG/Quests]: Handling player fc7b24d9-b9a0-37fe-a22c-1653103fa143 disconnect

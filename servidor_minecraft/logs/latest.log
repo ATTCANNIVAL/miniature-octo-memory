@@ -8064,3 +8064,6 @@ java.lang.Exception: null
 [09Jan2025 18:16:43.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
 [09Jan2025 18:17:06.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
 [09Jan2025 18:45:56.488] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL moved too quickly! 1.716850490401498,0.0,9.901965861918029
+[09Jan2025 19:00:14.489] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL lost connection: Disconnected
+[09Jan2025 19:00:14.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL left the game
+[09Jan2025 19:00:14.491] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc7b24d9-b9a0-37fe-a22c-1653103fa143 was unloaded
