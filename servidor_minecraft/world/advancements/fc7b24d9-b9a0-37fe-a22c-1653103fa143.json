@@ -17,15 +17,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-01-09 17:06:07 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
     "criteria": {
       "has_smoking_upgrade": "2025-01-09 16:58:59 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
-      "has_auto_smelting_upgrade": "2025-01-09 16:58:59 +0000"
+      "has_cobblestone": "2025-01-09 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 17:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockwaypoint": {
+    "criteria": {
+      "has_build_tool": "2025-01-09 17:10:26 +0000"
     },
     "done": true
   },
@@ -35,9 +53,15 @@
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
+  "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
-      "WDA": "2025-01-09 16:58:59 +0000"
+      "has_stone": "2025-01-09 17:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 17:07:19 +0000"
     },
     "done": true
   },
@@ -47,9 +71,278 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockminecoloniesrack": {
+    "criteria": {
+      "has_build_tool": "2025-01-09 17:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhuttownhall": {
+    "criteria": {
+      "has_items": "2025-01-09 17:10:26 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-09 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-09 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-01-09 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "moguns:weapons/root": {
+    "criteria": {
+      "tick": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-01-09 17:07:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-09 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2025-01-09 17:10:00 +0000",
+      "minecraft:taiga": "2025-01-09 17:00:24 +0000",
+      "minecraft:taiga_hills": "2025-01-09 17:05:42 +0000",
+      "minecraft:river": "2025-01-09 17:09:57 +0000",
+      "minecraft:plains": "2025-01-09 16:58:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:unlock_deep_pockets_book": {
+    "criteria": {
+      "exists": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/root": {
+    "criteria": {
+      "obtain_relic": "2025-01-09 17:03:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-09 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-01-09 17:07:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-09 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "simple_hearts:simplehearts_adv": {
+    "criteria": {
+      "simplehearts_adv": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:currency/netherite_wallet": {
+    "criteria": {
+      "netherite_wallet": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 17:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-01-09 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 17:07:19 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot_smelting": {
+    "criteria": {
+      "has_item": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-01-09 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-09 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-09 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot": {
+    "criteria": {
+      "has_item": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "moguns:crayfish/root": {
+    "criteria": {
+      "tick": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-01-09 17:07:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/hunter_belt": {
+    "criteria": {
+      "obtain_relic": "2025-01-09 17:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-01-09 17:07:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/rock_path": {
+    "criteria": {
+      "has_stone": "2025-01-09 17:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 17:07:19 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-09 16:58:59 +0000",
+      "has_crying_obsidian": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-09 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 17:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-01-09 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 17:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-09 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/clipboard": {
+    "criteria": {
+      "has_build_tool": "2025-01-09 17:10:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_chair": {
+    "criteria": {
+      "has_planks": "2025-01-09 17:06:07 +0000"
     },
     "done": true
   },
@@ -65,15 +358,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-01-09 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_desk": {
+    "criteria": {
+      "has_planks": "2025-01-09 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/resourcescroll": {
+    "criteria": {
+      "has_build_tool": "2025-01-09 17:10:26 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2025-01-09 16:58:59 +0000"
     },
     "done": true
   },
-  "moguns:weapons/root": {
+  "cfm:recipes/cfm/stone_bedside_cabinet": {
     "criteria": {
-      "tick": "2025-01-09 16:58:59 +0000"
+      "has_planks": "2025-01-09 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-01-09 17:07:19 +0000"
     },
     "done": true
   },
@@ -101,14 +418,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:taiga": "2025-01-09 17:00:24 +0000",
-      "minecraft:taiga_hills": "2025-01-09 17:05:42 +0000",
-      "minecraft:plains": "2025-01-09 16:58:59 +0000"
-    },
-    "done": false
-  },
   "mca:root": {
     "criteria": {
       "village_taiga": "2025-01-09 16:58:59 +0000",
@@ -119,33 +428,9 @@
     },
     "done": true
   },
-  "minecraft:unlock_deep_pockets_book": {
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
-      "exists": "2025-01-09 16:58:59 +0000"
-    },
-    "done": true
-  },
-  "relics:obtain/root": {
-    "criteria": {
-      "obtain_relic": "2025-01-09 17:03:55 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2025-01-09 16:58:59 +0000"
-    },
-    "done": true
-  },
-  "simple_hearts:simplehearts_adv": {
-    "criteria": {
-      "simplehearts_adv": "2025-01-09 16:58:59 +0000"
-    },
-    "done": true
-  },
-  "lightmanscurrency:currency/netherite_wallet": {
-    "criteria": {
-      "netherite_wallet": "2025-01-09 16:58:59 +0000"
+      "has_cobblestone": "2025-01-09 17:06:07 +0000"
     },
     "done": true
   },
@@ -155,15 +440,9 @@
     },
     "done": true
   },
-  "mca:recipes/misc/rose_gold_ingot_smelting": {
+  "cfm:recipes/cfm/stone_table": {
     "criteria": {
-      "has_item": "2025-01-09 16:58:59 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/books": {
-    "criteria": {
-      "has_item": "2025-01-09 16:58:59 +0000"
+      "has_planks": "2025-01-09 17:06:07 +0000"
     },
     "done": true
   },
@@ -176,6 +455,12 @@
   "lightmanscurrency:currency/trading_core": {
     "criteria": {
       "trading_core": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-01-09 17:07:19 +0000"
     },
     "done": true
   },
@@ -193,46 +478,15 @@
     },
     "done": true
   },
-  "mca:recipes/misc/rose_gold_ingot": {
-    "criteria": {
-      "has_item": "2025-01-09 16:58:59 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-09 16:58:59 +0000"
     },
     "done": true
   },
-  "moguns:crayfish/root": {
+  "minecraft:recipes/tools/stone_axe": {
     "criteria": {
-      "tick": "2025-01-09 16:58:59 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
-    "criteria": {
-      "has_auto_smelting_upgrade": "2025-01-09 16:58:59 +0000"
-    },
-    "done": true
-  },
-  "relics:obtain/hunter_belt": {
-    "criteria": {
-      "obtain_relic": "2025-01-09 17:04:26 +0000"
-    },
-    "done": true
-  },
-  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-09 16:58:59 +0000",
-      "has_crying_obsidian": "2025-01-09 16:58:59 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/staff_of_life": {
-    "criteria": {
-      "has_item": "2025-01-09 16:58:59 +0000"
+      "has_cobblestone": "2025-01-09 17:06:07 +0000"
     },
     "done": true
   },
