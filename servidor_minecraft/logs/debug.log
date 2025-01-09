@@ -15474,3 +15474,9 @@ java.lang.Exception: null
 [09Jan2025 17:25:56.261] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [09Jan2025 17:25:56.276] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [09Jan2025 17:26:13.468] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/5682, l='ServerLevel[world]', x=-700.73, y=121.06, z=-767.11] died, message: 'Villager was slain by ATT_CANNIVAL'
+[09Jan2025 17:30:34.118] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Found 163 recipes with the 'lightmanscurrency' namespace!
+[09Jan2025 17:30:34.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [My first penny!]
+[09Jan2025 17:30:56.293] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Jan2025 17:30:56.305] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Jan2025 17:35:56.244] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Jan2025 17:35:56.257] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
