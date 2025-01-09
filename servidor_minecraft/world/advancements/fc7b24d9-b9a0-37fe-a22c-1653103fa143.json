@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/mediumquarry": {
+    "criteria": {
+      "has_items": "2025-01-09 18:13:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-09 17:06:07 +0000"
@@ -195,6 +201,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-01-09 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-01-09 18:10:00 +0000"
     },
     "done": true
   },
@@ -420,6 +432,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-01-09 18:10:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-01-09 17:06:07 +0000"
@@ -510,6 +528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-01-09 18:10:00 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/clipboard": {
     "criteria": {
       "has_build_tool": "2025-01-09 17:10:26 +0000"
@@ -582,6 +606,12 @@
     },
     "done": true
   },
+  "craftingdead:recipes/craftingdead.combat/c4_explosive": {
+    "criteria": {
+      "has_tnt": "2025-01-09 18:15:49 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:currency/coin_mint": {
     "criteria": {
       "coin_mint": "2025-01-09 16:58:59 +0000"
@@ -601,6 +631,12 @@
       "village_snowy": "2025-01-09 16:58:59 +0000",
       "village_desert": "2025-01-09 16:58:59 +0000",
       "village_plains": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/simplequarry": {
+    "criteria": {
+      "has_items": "2025-01-09 18:13:24 +0000"
     },
     "done": true
   },
