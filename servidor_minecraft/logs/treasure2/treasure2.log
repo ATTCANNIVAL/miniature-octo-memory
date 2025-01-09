@@ -1017,3 +1017,6 @@
 2025-01-09 17:37:48,816 [Server thread] INFO Treasure2 | AbstractChestContainer.java:77 | in buildContainer...
 2025-01-09 17:38:06,358 [Server thread] INFO Treasure2 | AbstractChestContainer.java:49 | inventory slot count -> 14
 2025-01-09 17:38:06,358 [Server thread] INFO Treasure2 | AbstractChestContainer.java:77 | in buildContainer...
+2025-01-09 17:43:37,517 [Worker-Main-69] INFO Treasure2 | AbstractChestBlock.java:159 | AbstractChestBlock | createNewTileEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.95, zOffset=0.3, rotation=0.0], lockItem=null], LockState [slot=LockSlot [index=1, face=NORTH, xOffset=0.5, yOffset=0.95, zOffset=0.7, rotation=0.0], lockItem=null]]
+2025-01-09 17:43:37,517 [Worker-Main-69] INFO Treasure2 | AbstractChestBlock.java:164 | AbstractChestBlock | createNewTileEntity | tileEntity -> mod.gottsch.forge.treasure2.core.tileentity.CauldronChestTileEntity@4d6d4af7 @ BlockPos{x=0, y=0, z=0}
+2025-01-09 17:43:37,519 [Worker-Main-69] INFO Treasure2 | SurfaceChestFeature.java:269 | CHEATER! EPIC chest at coords: -441 64 -665
