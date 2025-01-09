@@ -15486,3 +15486,10 @@ java.lang.Exception: null
 [09Jan2025 17:42:44.492] [Worker-Main-57/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-520, y=52, z=-538} at Chest with:minecraft:chests/ruined_portal in ruined_portal
 [09Jan2025 17:45:56.704] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [09Jan2025 17:45:56.718] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Jan2025 17:50:55.992] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Preparing airdrop spawn event
+[09Jan2025 17:50:55.992] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Created new airdrop at BlockPos{x=-568, y=164, z=-675} for player ATT_CANNIVAL
+[09Jan2025 17:50:56.443] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Jan2025 17:50:56.458] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Jan2025 17:53:15.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[09Jan2025 17:55:56.653] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Jan2025 17:55:56.665] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
