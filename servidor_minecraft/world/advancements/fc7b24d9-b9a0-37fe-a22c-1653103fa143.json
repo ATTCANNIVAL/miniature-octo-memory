@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-10 17:33:32 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stone_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-01-09 17:06:07 +0000"
@@ -203,6 +209,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/advanced_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-01-10 17:33:25 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/rose_gold_ingot": {
     "criteria": {
       "has_item": "2025-01-09 16:58:59 +0000"
@@ -282,6 +294,12 @@
     },
     "done": true
   },
+  "craftingdead:recipes/craftingdead.combat/frag_grenade": {
+    "criteria": {
+      "has_gunpowder": "2025-01-10 17:33:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-01-09 18:16:36 +0000"
@@ -315,6 +333,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-01-09 18:16:36 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/basic_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-01-10 17:33:25 +0000"
     },
     "done": true
   },
@@ -390,6 +414,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-10 17:32:35 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:currency/trading_core": {
     "criteria": {
       "trading_core": "2025-01-09 16:58:59 +0000"
@@ -410,9 +440,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-01-10 17:33:32 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/shell": {
+    "criteria": {
+      "has_gunpowder": "2025-01-10 17:33:25 +0000"
     },
     "done": true
   },
@@ -428,9 +470,27 @@
     },
     "done": true
   },
+  "craftingdead:recipes/craftingdead.combat/smoke_grenade": {
+    "criteria": {
+      "has_gunpowder": "2025-01-10 17:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-10 17:33:32 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dye_blue_picket_fence": {
     "criteria": {
       "has_fence": "2025-01-09 18:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-10 17:33:32 +0000"
     },
     "done": true
   },
@@ -446,9 +506,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-10 17:33:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2025-01-10 17:33:32 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-10 17:33:32 +0000"
     },
     "done": true
   },
@@ -473,6 +551,12 @@
   "minecolonies:recipes/minecolonies/blockwaypoint": {
     "criteria": {
       "has_build_tool": "2025-01-09 17:10:26 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/grenade": {
+    "criteria": {
+      "has_gunpowder": "2025-01-10 17:33:25 +0000"
     },
     "done": true
   },
@@ -536,6 +620,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/missile": {
+    "criteria": {
+      "has_gunpowder": "2025-01-10 17:33:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:mountains": "2025-01-09 17:10:00 +0000",
@@ -556,6 +646,18 @@
   "minecraft:unlock_deep_pockets_book": {
     "criteria": {
       "exists": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-10 17:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-10 17:28:56 +0000"
     },
     "done": true
   },
@@ -613,6 +715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_wood_slab": "2025-01-10 17:28:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stone_cabinet": {
     "criteria": {
       "has_planks": "2025-01-09 17:06:07 +0000"
@@ -667,6 +775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-10 17:33:32 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/staff_of_life": {
     "criteria": {
       "has_item": "2025-01-09 16:58:59 +0000"
@@ -688,6 +802,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-09 17:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-10 17:33:32 +0000"
     },
     "done": true
   },
@@ -833,9 +953,21 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/stun_grenade": {
+    "criteria": {
+      "has_gunpowder": "2025-01-10 17:33:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dye_light_gray_picket_fence": {
     "criteria": {
       "has_fence": "2025-01-09 18:19:55 +0000"
+    },
+    "done": true
+  },
+  "plastic_from_ava:recipes/survival/plastic": {
+    "criteria": {
+      "has_leather": "2025-01-10 17:33:32 +0000"
     },
     "done": true
   },
@@ -884,6 +1016,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-01-09 17:59:18 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/packed_gunpowder": {
+    "criteria": {
+      "has_gunpowder": "2025-01-10 17:33:25 +0000"
     },
     "done": true
   },

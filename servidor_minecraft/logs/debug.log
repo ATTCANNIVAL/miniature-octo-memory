@@ -12247,3 +12247,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Jan2025 17:26:20.459] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [10Jan2025 17:26:22.573] [Server thread/DEBUG] [flash.npcmod.Main/]: ATT_CANNIVAL used function openTrades from npc vendedor de armas
 [10Jan2025 17:28:19.089] [Server thread/DEBUG] [flash.npcmod.Main/]: ATT_CANNIVAL used function openTrades from npc vendedor de armas
+[10Jan2025 17:31:20.232] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 17:31:20.247] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 17:36:20.200] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 17:36:20.219] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
