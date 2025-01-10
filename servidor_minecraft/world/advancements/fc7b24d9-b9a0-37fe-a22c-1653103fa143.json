@@ -11,15 +11,15 @@
     },
     "done": true
   },
-  "minecolonies:recipes/minecolonies/mediumquarry": {
-    "criteria": {
-      "has_items": "2025-01-09 18:13:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-09 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/mediumquarry": {
+    "criteria": {
+      "has_items": "2025-01-09 18:13:24 +0000"
     },
     "done": true
   },
@@ -155,15 +155,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/dye_pink_picket_fence": {
-    "criteria": {
-      "has_fence": "2025-01-09 18:19:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-09 17:07:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_pink_picket_fence": {
+    "criteria": {
+      "has_fence": "2025-01-09 18:19:55 +0000"
     },
     "done": true
   },
@@ -221,16 +221,16 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-01-09 17:07:19 +0000"
-    },
-    "done": true
-  },
   "enchantinginfuser:recipes/decorations/enchanting_infuser": {
     "criteria": {
       "has_amethyst_shard": "2025-01-09 16:58:59 +0000",
       "has_crying_obsidian": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 17:07:19 +0000"
     },
     "done": true
   },
@@ -312,6 +312,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-01-09 17:06:07 +0000"
@@ -327,12 +333,6 @@
   "minecolonies:recipes/minecolonies/resourcescroll": {
     "criteria": {
       "has_build_tool": "2025-01-09 17:10:26 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/comb": {
-    "criteria": {
-      "has_item": "2025-01-09 16:58:59 +0000"
     },
     "done": true
   },
@@ -360,15 +360,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/dye_green_picket_fence": {
-    "criteria": {
-      "has_fence": "2025-01-09 18:19:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-01-09 17:55:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_green_picket_fence": {
+    "criteria": {
+      "has_fence": "2025-01-09 18:19:55 +0000"
     },
     "done": true
   },
@@ -384,17 +384,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2025-01-09 17:07:19 +0000"
-    },
-    "done": true
-  },
   "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
     "criteria": {
       "has_netherite_ingot": "2025-01-09 16:58:59 +0000",
       "has_crying_obsidian": "2025-01-09 16:58:59 +0000",
       "has_the_recipe": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-01-09 17:07:19 +0000"
     },
     "done": true
   },
@@ -524,12 +524,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2025-01-09 18:34:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:mountains": "2025-01-09 17:10:00 +0000",
@@ -540,6 +534,12 @@
       "minecraft:plains": "2025-01-09 16:58:59 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-09 18:34:27 +0000"
+    },
+    "done": true
   },
   "minecraft:unlock_deep_pockets_book": {
     "criteria": {
@@ -559,15 +559,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2025-01-09 17:55:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-09 17:27:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-09 17:55:52 +0000"
     },
     "done": true
   },
@@ -589,15 +589,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-01-09 18:10:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-01-09 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-01-09 18:10:00 +0000"
     },
     "done": true
   },
@@ -655,15 +655,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-01-09 17:59:18 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/misc/staff_of_life": {
     "criteria": {
       "has_item": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-01-09 17:59:18 +0000"
     },
     "done": true
   },
@@ -703,21 +703,27 @@
     },
     "done": true
   },
-  "minecolonies:recipes/minecolonies/clipboard": {
-    "criteria": {
-      "has_build_tool": "2025-01-09 17:10:26 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2025-01-09 16:58:59 +0000"
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/clipboard": {
+    "criteria": {
+      "has_build_tool": "2025-01-09 17:10:26 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/blockhutstonesmeltery": {
     "criteria": {
       "has_items": "2025-01-09 17:55:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-01-09 16:58:59 +0000"
     },
     "done": true
   },
@@ -733,12 +739,6 @@
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2025-01-09 16:58:59 +0000"
-    },
-    "done": true
-  },
   "lightmanscurrency:currency/myfirstpenny": {
     "criteria": {
       "coin": "2025-01-09 17:30:34 +0000"
@@ -751,15 +751,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2025-01-09 17:55:52 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stone_chair": {
     "criteria": {
       "has_planks": "2025-01-09 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-09 17:55:52 +0000"
     },
     "done": true
   },
@@ -781,15 +781,15 @@
     },
     "done": true
   },
-  "craftingdead:recipes/craftingdead.combat/c4_explosive": {
-    "criteria": {
-      "has_tnt": "2025-01-09 18:15:49 +0000"
-    },
-    "done": true
-  },
   "lightmanscurrency:currency/coin_mint": {
     "criteria": {
       "coin_mint": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "craftingdead:recipes/craftingdead.combat/c4_explosive": {
+    "criteria": {
+      "has_tnt": "2025-01-09 18:15:49 +0000"
     },
     "done": true
   },
