@@ -12109,3 +12109,126 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Jan2025 17:06:20.806] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [10Jan2025 17:06:20.832] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [10Jan2025 17:07:42.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Cover Me With Diamonds]
+[10Jan2025 17:11:20.261] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 17:11:20.281] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 17:14:39.819] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigLoadingException: Failed loading config file dmcloot-common.toml of type COMMON for modid dmcloot
+[10Jan2025 17:14:39.819] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigWatcher.run(ConfigFileTypeHandler.java:143)
+[10Jan2025 17:14:39.819] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread.run(FileWatcher.java:181)
+[10Jan2025 17:14:39.820] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: Caused by: com.electronwill.nightconfig.core.io.ParsingException: Invalid value f - Expected the boolean value false.
+[10Jan2025 17:14:39.820] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.ValueParser.parseFalse(ValueParser.java:166)
+[10Jan2025 17:14:39.820] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.ValueParser.parse(ValueParser.java:48)
+[10Jan2025 17:14:39.820] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.ValueParser.parse(ValueParser.java:68)
+[10Jan2025 17:14:39.820] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TableParser.parseNormal(TableParser.java:57)
+[10Jan2025 17:14:39.820] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TableParser.parseNormal(TableParser.java:101)
+[10Jan2025 17:14:39.821] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:88)
+[10Jan2025 17:14:39.821] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:37)
+[10Jan2025 17:14:39.821] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:113)
+[10Jan2025 17:14:39.821] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:219)
+[10Jan2025 17:14:39.821] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:202)
+[10Jan2025 17:14:39.821] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.file.WriteSyncFileConfig.load(WriteSyncFileConfig.java:73)
+[10Jan2025 17:14:39.821] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.file.AutosaveCommentedFileConfig.load(AutosaveCommentedFileConfig.java:85)
+[10Jan2025 17:14:39.822] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigWatcher.run(ConfigFileTypeHandler.java:132)
+[10Jan2025 17:14:39.822] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	... 1 more
+[10Jan2025 17:14:39.822] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigLoadingException: Failed loading config file dmcloot-common.toml of type COMMON for modid dmcloot
+[10Jan2025 17:14:39.822] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigWatcher.run(ConfigFileTypeHandler.java:143)
+[10Jan2025 17:14:39.823] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread.run(FileWatcher.java:181)
+[10Jan2025 17:14:39.823] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: Caused by: com.electronwill.nightconfig.core.io.ParsingException: Invalid value f - Expected the boolean value false.
+[10Jan2025 17:14:39.823] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.ValueParser.parseFalse(ValueParser.java:166)
+[10Jan2025 17:14:39.823] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.ValueParser.parse(ValueParser.java:48)
+[10Jan2025 17:14:39.823] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.ValueParser.parse(ValueParser.java:68)
+[10Jan2025 17:14:39.823] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TableParser.parseNormal(TableParser.java:57)
+[10Jan2025 17:14:39.824] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TableParser.parseNormal(TableParser.java:101)
+[10Jan2025 17:14:39.824] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:88)
+[10Jan2025 17:14:39.824] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:37)
+[10Jan2025 17:14:39.824] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:113)
+[10Jan2025 17:14:39.824] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:219)
+[10Jan2025 17:14:39.824] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:202)
+[10Jan2025 17:14:39.824] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.file.WriteSyncFileConfig.load(WriteSyncFileConfig.java:73)
+[10Jan2025 17:14:39.825] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.file.AutosaveCommentedFileConfig.load(AutosaveCommentedFileConfig.java:85)
+[10Jan2025 17:14:39.825] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigWatcher.run(ConfigFileTypeHandler.java:132)
+[10Jan2025 17:14:39.825] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	... 1 more
+[10Jan2025 17:14:43.393] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file dmcloot-common.toml changed, sending notifies
+[10Jan2025 17:14:43.394] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file dmcloot-common.toml changed, sending notifies
+[10Jan2025 17:14:47.829] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file dmcloot-common.toml changed, sending notifies
+[10Jan2025 17:14:47.829] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file dmcloot-common.toml changed, sending notifies
+[10Jan2025 17:15:10.516] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigLoadingException: Failed loading config file dmcloot-common.toml of type COMMON for modid dmcloot
+[10Jan2025 17:15:10.517] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigWatcher.run(ConfigFileTypeHandler.java:143)
+[10Jan2025 17:15:10.517] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread.run(FileWatcher.java:181)
+[10Jan2025 17:15:10.517] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: Caused by: com.electronwill.nightconfig.core.io.ParsingException: Invalid value fa - Expected the boolean value false.
+[10Jan2025 17:15:10.517] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.ValueParser.parseFalse(ValueParser.java:166)
+[10Jan2025 17:15:10.518] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.ValueParser.parse(ValueParser.java:48)
+[10Jan2025 17:15:10.518] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.ValueParser.parse(ValueParser.java:68)
+[10Jan2025 17:15:10.518] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TableParser.parseNormal(TableParser.java:57)
+[10Jan2025 17:15:10.518] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TableParser.parseNormal(TableParser.java:101)
+[10Jan2025 17:15:10.518] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:88)
+[10Jan2025 17:15:10.518] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:37)
+[10Jan2025 17:15:10.519] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:113)
+[10Jan2025 17:15:10.519] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:219)
+[10Jan2025 17:15:10.519] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:202)
+[10Jan2025 17:15:10.519] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.file.WriteSyncFileConfig.load(WriteSyncFileConfig.java:73)
+[10Jan2025 17:15:10.519] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.file.AutosaveCommentedFileConfig.load(AutosaveCommentedFileConfig.java:85)
+[10Jan2025 17:15:10.519] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigWatcher.run(ConfigFileTypeHandler.java:132)
+[10Jan2025 17:15:10.519] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	... 1 more
+[10Jan2025 17:15:10.520] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigLoadingException: Failed loading config file dmcloot-common.toml of type COMMON for modid dmcloot
+[10Jan2025 17:15:10.521] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigWatcher.run(ConfigFileTypeHandler.java:143)
+[10Jan2025 17:15:10.521] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread.run(FileWatcher.java:181)
+[10Jan2025 17:15:10.521] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: Caused by: com.electronwill.nightconfig.core.io.ParsingException: Invalid value fa - Expected the boolean value false.
+[10Jan2025 17:15:10.521] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.ValueParser.parseFalse(ValueParser.java:166)
+[10Jan2025 17:15:10.521] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.ValueParser.parse(ValueParser.java:48)
+[10Jan2025 17:15:10.521] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.ValueParser.parse(ValueParser.java:68)
+[10Jan2025 17:15:10.522] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TableParser.parseNormal(TableParser.java:57)
+[10Jan2025 17:15:10.522] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TableParser.parseNormal(TableParser.java:101)
+[10Jan2025 17:15:10.522] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:88)
+[10Jan2025 17:15:10.522] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:37)
+[10Jan2025 17:15:10.522] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:113)
+[10Jan2025 17:15:10.522] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:219)
+[10Jan2025 17:15:10.523] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:202)
+[10Jan2025 17:15:10.523] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.file.WriteSyncFileConfig.load(WriteSyncFileConfig.java:73)
+[10Jan2025 17:15:10.523] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.file.AutosaveCommentedFileConfig.load(AutosaveCommentedFileConfig.java:85)
+[10Jan2025 17:15:10.523] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigWatcher.run(ConfigFileTypeHandler.java:132)
+[10Jan2025 17:15:10.523] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	... 1 more
+[10Jan2025 17:15:13.385] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file dmcloot-common.toml changed, sending notifies
+[10Jan2025 17:15:13.386] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file dmcloot-common.toml changed, sending notifies
+[10Jan2025 17:15:18.017] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file dmcloot-common.toml changed, sending notifies
+[10Jan2025 17:15:18.018] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file dmcloot-common.toml changed, sending notifies
+[10Jan2025 17:15:23.087] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigLoadingException: Failed loading config file dmcloot-common.toml of type COMMON for modid dmcloot
+[10Jan2025 17:15:23.087] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigWatcher.run(ConfigFileTypeHandler.java:143)
+[10Jan2025 17:15:23.087] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread.run(FileWatcher.java:181)
+[10Jan2025 17:15:23.088] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: Caused by: com.electronwill.nightconfig.core.io.ParsingException: Invalid value fa - Expected the boolean value false.
+[10Jan2025 17:15:23.088] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.ValueParser.parseFalse(ValueParser.java:166)
+[10Jan2025 17:15:23.088] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.ValueParser.parse(ValueParser.java:48)
+[10Jan2025 17:15:23.088] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.ValueParser.parse(ValueParser.java:68)
+[10Jan2025 17:15:23.088] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TableParser.parseNormal(TableParser.java:57)
+[10Jan2025 17:15:23.088] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TableParser.parseNormal(TableParser.java:101)
+[10Jan2025 17:15:23.089] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:88)
+[10Jan2025 17:15:23.089] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:37)
+[10Jan2025 17:15:23.089] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:113)
+[10Jan2025 17:15:23.089] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:219)
+[10Jan2025 17:15:23.089] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:202)
+[10Jan2025 17:15:23.089] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.file.WriteSyncFileConfig.load(WriteSyncFileConfig.java:73)
+[10Jan2025 17:15:23.090] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.file.AutosaveCommentedFileConfig.load(AutosaveCommentedFileConfig.java:85)
+[10Jan2025 17:15:23.090] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigWatcher.run(ConfigFileTypeHandler.java:132)
+[10Jan2025 17:15:23.090] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	... 1 more
+[10Jan2025 17:15:23.090] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigLoadingException: Failed loading config file dmcloot-common.toml of type COMMON for modid dmcloot
+[10Jan2025 17:15:23.091] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigWatcher.run(ConfigFileTypeHandler.java:143)
+[10Jan2025 17:15:23.091] [Thread-0/INFO] [STDERR/]: [com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread:run:183]: 	at com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread.run(FileWatcher.java:181)
+[10Jan2025 17:15:23.091] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: Caused by: com.electronwill.nightconfig.core.io.ParsingException: Invalid value fa - Expected the boolean value false.
+[10Jan2025 17:15:23.091] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.ValueParser.parseFalse(ValueParser.java:166)
+[10Jan2025 17:15:23.092] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.ValueParser.parse(ValueParser.java:48)
+[10Jan2025 17:15:23.092] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.ValueParser.parse(ValueParser.java:68)
+[10Jan2025 17:15:23.092] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TableParser.parseNormal(TableParser.java:57)
+[10Jan2025 17:15:23.092] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TableParser.parseNormal(TableParser.java:101)
+[10Jan2025 17:15:23.092] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:88)
+[10Jan2025 17:15:23.093] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:37)
+[10Jan2025 17:15:23.093] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:113)
+[10Jan2025 17:15:23.093] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:219)
+[10Jan2025 17:15:23.093] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:202)
+[10Jan2025 17:15:23.093] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.file.WriteSyncFileConfig.load(WriteSyncFileConfig.java:73)
+[10Jan2025 17:15:23.093] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.file.AutosaveCommentedFileConfig.load(AutosaveCommentedFileConfig.java:85)
+[10Jan2025 17:15:23.094] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigWatcher.run(ConfigFileTypeHandler.java:132)
+[10Jan2025 17:15:23.094] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	... 1 more
+[10Jan2025 17:15:25.577] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file dmcloot-common.toml changed, sending notifies
+[10Jan2025 17:15:25.578] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file dmcloot-common.toml changed, sending notifies
+[10Jan2025 17:16:20.233] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 17:16:20.248] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 17:19:37.276] [Server thread/DEBUG] [flash.npcmod.Main/]: ATT_CANNIVAL used function openTrades from npc vendedor

@@ -10,7 +10,7 @@
 	#Range: 0.0 ~ 1.7976931348623157E308
 	global_strength_modifier = 0.2
 	#If all applicable items should recive random modifiers. Else they must be randomized through nbt.
-	modify_all = true
+	modify_all = false
 	#The chance of obtaining a Suffixed Affixed Metal when burning items.
 	#Range: 0.0 ~ 1.0
 	affixed_metal_suffix_burning_chance = 0.5
