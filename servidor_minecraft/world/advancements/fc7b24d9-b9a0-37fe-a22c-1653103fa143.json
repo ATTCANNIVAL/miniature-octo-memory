@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "craftingdead:recipes/craftingdead.combat/bowie_knife": {
+    "criteria": {
+      "has_combat_knife": "2025-01-10 17:21:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-01-09 17:07:19 +0000"

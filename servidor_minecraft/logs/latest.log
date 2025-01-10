@@ -7242,3 +7242,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Jan2025 17:15:23.093] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at com.electronwill.nightconfig.core.file.AutosaveCommentedFileConfig.load(AutosaveCommentedFileConfig.java:85)
 [10Jan2025 17:15:23.094] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	at net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigWatcher.run(ConfigFileTypeHandler.java:132)
 [10Jan2025 17:15:23.094] [Thread-0/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:639]: 	... 1 more
+[10Jan2025 17:23:15.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 1000]

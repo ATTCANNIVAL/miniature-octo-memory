@@ -12232,3 +12232,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Jan2025 17:16:20.233] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [10Jan2025 17:16:20.248] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [10Jan2025 17:19:37.276] [Server thread/DEBUG] [flash.npcmod.Main/]: ATT_CANNIVAL used function openTrades from npc vendedor
+[10Jan2025 17:20:02.066] [Server thread/DEBUG] [flash.npcmod.Main/]: ATT_CANNIVAL used function openTrades from npc vendedor de armas
+[10Jan2025 17:21:20.209] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 17:21:20.228] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 17:22:11.163] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon start notification
+[10Jan2025 17:22:11.164] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon start notification
+[10Jan2025 17:22:11.164] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon start notification
+[10Jan2025 17:23:15.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 1000]
+[10Jan2025 17:23:15.704] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon end notification
+[10Jan2025 17:23:15.713] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon end notification
+[10Jan2025 17:23:15.713] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon end notification
+[10Jan2025 17:25:15.593] [Server thread/DEBUG] [flash.npcmod.Main/]: ATT_CANNIVAL used function openTrades from npc mago
+[10Jan2025 17:26:20.433] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 17:26:20.459] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 17:26:22.573] [Server thread/DEBUG] [flash.npcmod.Main/]: ATT_CANNIVAL used function openTrades from npc vendedor de armas
+[10Jan2025 17:28:19.089] [Server thread/DEBUG] [flash.npcmod.Main/]: ATT_CANNIVAL used function openTrades from npc vendedor de armas
