@@ -31,5 +31,7 @@
   "guardvillagers:guard",
   "gunsrpg:mayor",
   "flashnpcs:npc",
-  "minecraft:horse"
+  "minecraft:horse",
+  "minecraft:donkey",
+  "minecraft:llama"
 ]

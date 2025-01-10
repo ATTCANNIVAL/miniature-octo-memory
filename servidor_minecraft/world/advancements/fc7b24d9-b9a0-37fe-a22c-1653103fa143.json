@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_chair": {
+    "criteria": {
+      "has_log": "2025-01-10 18:16:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-01-10 17:49:19 +0000"
@@ -80,6 +86,12 @@
   "relics:obtain/root": {
     "criteria": {
       "obtain_relic": "2025-01-09 17:03:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_table": {
+    "criteria": {
+      "has_log": "2025-01-10 18:16:51 +0000"
     },
     "done": true
   },
@@ -269,6 +281,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-10 18:16:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-01-10 17:33:32 +0000"
@@ -404,6 +422,12 @@
   "minecolonies:recipes/combat/chainmailleggings": {
     "criteria": {
       "has_iron": "2025-01-10 17:44:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-01-10 18:16:51 +0000"
     },
     "done": true
   },
@@ -591,9 +615,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_crate": {
+    "criteria": {
+      "has_log": "2025-01-10 18:16:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/diorite_desk": {
     "criteria": {
       "has_planks": "2025-01-09 18:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2025-01-10 18:16:51 +0000"
     },
     "done": true
   },
@@ -745,6 +781,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-10 17:49:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-01-10 18:16:51 +0000"
     },
     "done": true
   },
@@ -948,6 +990,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-01-09 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-01-10 18:16:51 +0000"
     },
     "done": true
   },
@@ -1182,6 +1230,12 @@
   "minecolonies:recipes/combat/chainmailhelmet": {
     "criteria": {
       "has_iron": "2025-01-10 17:44:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_coffee_table": {
+    "criteria": {
+      "has_log": "2025-01-10 18:16:51 +0000"
     },
     "done": true
   },
@@ -1461,6 +1515,18 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-10 18:16:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-01-10 18:16:51 +0000"
+    },
+    "done": true
+  },
   "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
     "criteria": {
       "has_netherite_ingot": "2025-01-09 16:58:59 +0000",
@@ -1589,6 +1655,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_desk": {
+    "criteria": {
+      "has_log": "2025-01-10 18:16:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-01-09 17:06:07 +0000"
@@ -1598,6 +1670,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-01-10 17:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-01-10 18:16:51 +0000"
     },
     "done": true
   },
@@ -1727,6 +1805,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-10 18:16:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_grill": {
     "criteria": {
       "has_iron": "2025-01-10 17:44:35 +0000"
@@ -1832,6 +1916,12 @@
   "cfm:recipes/cfm/acacia_mail_box": {
     "criteria": {
       "has_chest": "2025-01-10 18:12:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_park_bench": {
+    "criteria": {
+      "has_planks": "2025-01-10 18:16:51 +0000"
     },
     "done": true
   },
@@ -2105,6 +2195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-01-10 18:16:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-01-09 18:15:57 +0000"
@@ -2168,6 +2264,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-01-10 17:28:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-10 18:16:51 +0000"
     },
     "done": true
   },
@@ -2324,6 +2426,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2025-01-09 18:34:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_blinds": {
+    "criteria": {
+      "has_log": "2025-01-10 18:16:51 +0000"
     },
     "done": true
   },
