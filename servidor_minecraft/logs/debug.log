@@ -12270,3 +12270,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Jan2025 18:06:20.201] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [10Jan2025 18:06:20.216] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [10Jan2025 18:07:50.484] [Server thread/DEBUG] [flash.npcmod.Main/]: ATT_CANNIVAL used function openTrades from npc Traficante de armas de fuego
+[10Jan2025 18:11:20.246] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 18:11:20.264] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 18:11:21.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[10Jan2025 18:15:01.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Best Friends Forever]
+[10Jan2025 18:16:20.230] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 18:16:20.246] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
