@@ -7166,3 +7166,155 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Jan2025 16:42:56.620] [Worker-Main-11/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
 [11Jan2025 16:42:56.620] [Worker-Main-11/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
 [11Jan2025 16:43:00.405] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Margarido'/4013, l='ServerLevel[world]', x=-2007.61, y=69.56, z=-785.30] died, message: 'Margarido was slain by Night Hunter'
+[11Jan2025 16:43:08.301] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Zulmira'/4009, l='ServerLevel[world]', x=-2011.00, y=65.00, z=-793.48] died, message: 'Zulmira was slain by Night Hunter'
+[11Jan2025 16:43:58.859] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.860] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.861] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.862] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.864] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.865] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.866] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.867] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.868] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.869] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.871] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.872] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.873] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.875] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.876] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.877] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.878] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.878] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.879] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.880] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.881] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.882] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.884] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.888] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.889] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:58.891] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.022] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.023] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.024] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.024] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.025] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.026] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.026] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.027] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.027] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.028] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.029] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.029] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.030] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.030] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.031] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.032] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.032] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.033] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.033] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.034] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.035] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.035] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.036] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.037] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.037] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.038] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[11Jan2025 16:43:59.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2759ms or 55 ticks behind
+[11Jan2025 16:44:08.953] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Valter'/5074, l='ServerLevel[world]', x=-1929.65, y=69.00, z=-830.57] died, message: 'Valter suffocated in a wall'
+[11Jan2025 16:44:09.008] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Custódio'/5075, l='ServerLevel[world]', x=-1927.68, y=69.00, z=-830.59] died, message: 'Custódio suffocated in a wall'
+[11Jan2025 16:44:09.407] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Carmen'/5101, l='ServerLevel[world]', x=-1929.12, y=69.00, z=-829.67] died, message: 'Carmen suffocated in a wall'
+[11Jan2025 16:44:17.806] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Umbelina'/5104, l='ServerLevel[world]', x=-1927.83, y=69.00, z=-825.03] died, message: 'Umbelina suffocated in a wall'
+[11Jan2025 16:44:33.652] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Mirtila'/5070, l='ServerLevel[world]', x=-1955.71, y=65.00, z=-841.71] died, message: 'Mirtila was slain by Infected Spec Ops Soldier'
+[11Jan2025 16:44:36.604] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Ernestina'/4054, l='ServerLevel[world]', x=-2048.63, y=67.00, z=-770.49] died, message: 'Ernestina was slain by Fat Zombie'
+[11Jan2025 16:44:59.854] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Lucília'/5102, l='ServerLevel[world]', x=-1925.79, y=65.00, z=-824.40] died, message: 'Lucília was slain by Fast infected'
+[11Jan2025 16:45:03.252] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['André'/5060, l='ServerLevel[world]', x=-1967.46, y=65.06, z=-821.42] died, message: 'André was slain by Infected Spec Ops Soldier'
+[11Jan2025 16:45:17.502] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Antónia'/4015, l='ServerLevel[world]', x=-2048.08, y=67.00, z=-770.45] died, message: 'Antónia was slain by Fat Zombie'
+[11Jan2025 16:45:35.812] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Carmen'/5056, l='ServerLevel[world]', x=-1979.36, y=66.00, z=-827.50] died, message: 'Carmen was slain by Military Soldier'
+[11Jan2025 16:45:38.966] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Gregório'/5087, l='ServerLevel[world]', x=-1981.17, y=66.00, z=-828.55] died, message: 'Gregório was slain by Military Soldier'
+[11Jan2025 16:45:40.770] [Server thread/ERROR] [minecolonies/]: BuildTool: building is null!
+java.lang.Exception: null
+	at com.minecolonies.coremod.network.messages.server.BuildToolPasteMessage.setupBuilding(BuildToolPasteMessage.java:314) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.messages.server.BuildToolPasteMessage.handleHut(BuildToolPasteMessage.java:287) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.messages.server.BuildToolPasteMessage.onExecute(BuildToolPasteMessage.java:175) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.messages.splitting.SplitPacketMessage.lambda$onExecute$1(SplitPacketMessage.java:128) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at net.minecraftforge.fml.network.NetworkEvent$Context.enqueueWork(NetworkEvent.java:201) ~[forge:?]
+	at com.minecolonies.coremod.network.messages.splitting.SplitPacketMessage.onExecute(SplitPacketMessage.java:128) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.NetworkChannel.lambda$setupInternalMessages$4(NetworkChannel.java:256) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:114) ~[forge:?]
+	at java.util.Optional.ifPresent(Optional.java:183) ~[?:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:114) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:148) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:66) ~[forge:?]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:72) ~[forge:?]
+	at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:77) ~[forge:?]
+	at java.util.Optional.map(Optional.java:265) ~[?:?]
+	at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:77) ~[forge:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:1413) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[11Jan2025 16:45:41.124] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Libânia'/5058, l='ServerLevel[world]', x=-1979.27, y=66.00, z=-828.46] died, message: 'Libânia was slain by Military Soldier'
+[11Jan2025 16:45:45.012] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Matias'/5089, l='ServerLevel[world]', x=-1979.66, y=66.00, z=-833.54] died, message: 'Matias was slain by Military Soldier'
+[11Jan2025 16:45:46.466] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Armindo'/5064, l='ServerLevel[world]', x=-1960.41, y=66.00, z=-823.40] died, message: 'Armindo was slain by Military Soldier'
+[11Jan2025 16:45:46.818] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Ester'/4014, l='ServerLevel[world]', x=-2019.40, y=65.00, z=-794.40] died, message: 'Ester was slain by Infected Dog'
+[11Jan2025 16:45:48.207] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Augusta'/5059, l='ServerLevel[world]', x=-1960.21, y=66.00, z=-821.87] died, message: 'Augusta was slain by Military Soldier'
+[11Jan2025 16:45:48.707] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Inézia'/5055, l='ServerLevel[world]', x=-1981.44, y=67.02, z=-828.84] died, message: 'Inézia was slain by Military Soldier'
+[11Jan2025 16:45:57.265] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Tibúrcio'/5067, l='ServerLevel[world]', x=-1944.90, y=65.92, z=-826.94] died, message: 'Tibúrcio was slain by Military Soldier'
+[11Jan2025 16:46:00.009] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Idília'/5078, l='ServerLevel[world]', x=-1947.89, y=66.00, z=-823.59] died, message: 'Idília was slain by Military Soldier'
+[11Jan2025 16:46:04.454] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Marco'/5068, l='ServerLevel[world]', x=-1953.58, y=65.06, z=-830.50] died, message: 'Marco was slain by Military Soldier'
+[11Jan2025 16:46:07.061] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Gumercindo'/5054, l='ServerLevel[world]', x=-1952.44, y=66.00, z=-829.34] died, message: 'Gumercindo was slain by Military Soldier'
+[11Jan2025 16:46:11.857] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Silvia'/5077, l='ServerLevel[world]', x=-1928.35, y=69.56, z=-790.94] died, message: 'Silvia was slain by Night Hunter'
+[11Jan2025 16:46:14.602] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Alípio'/5082, l='ServerLevel[world]', x=-1955.43, y=65.00, z=-840.69] died, message: 'Alípio was slain by Military Soldier'
+[11Jan2025 16:46:18.504] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Ana'/5061, l='ServerLevel[world]', x=-1967.42, y=75.00, z=-808.71] died, message: 'Ana was slain by Explosive Zombie'
+[11Jan2025 16:46:25.057] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Cassilda'/3908, l='ServerLevel[world]', x=-2027.52, y=63.00, z=-736.86] died, message: 'Cassilda was slain by Infected'
+[11Jan2025 16:46:26.502] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Clementina'/5103, l='ServerLevel[world]', x=-1927.51, y=65.00, z=-840.61] died, message: 'Clementina was slain by Fast infected'
+[11Jan2025 16:46:27.700] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Cristiano'/5053, l='ServerLevel[world]', x=-1949.70, y=65.00, z=-820.30] died, message: 'Cristiano was slain by Military Soldier'
+[11Jan2025 16:46:34.150] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Décia'/5069, l='ServerLevel[world]', x=-1979.25, y=66.00, z=-834.51] died, message: 'Décia was slain by Military Soldier'
+[11Jan2025 16:46:41.903] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Henriqueta'/5095, l='ServerLevel[world]', x=-1969.33, y=65.00, z=-820.53] died, message: 'Henriqueta was slain by Military Soldier'
+[11Jan2025 16:46:48.858] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Diamantino'/5098, l='ServerLevel[world]', x=-1952.99, y=65.50, z=-822.38] died, message: 'Diamantino was slain by Demolisher'
+[11Jan2025 16:46:54.859] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Rita'/5080, l='ServerLevel[world]', x=-1947.18, y=65.50, z=-826.68] died, message: 'Rita was slain by Demolisher'
+[11Jan2025 16:46:56.858] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Cristino'/5092, l='ServerLevel[world]', x=-1949.88, y=66.17, z=-824.20] died, message: 'Cristino was slain by Demolisher'
+[11Jan2025 16:46:58.907] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Augusto'/5099, l='ServerLevel[world]', x=-1951.70, y=65.00, z=-822.63] died, message: 'Augusto was slain by Demolisher'
+[11Jan2025 16:47:02.449] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Ester'/5084, l='ServerLevel[world]', x=-1954.41, y=66.00, z=-839.06] died, message: 'Ester was slain by Military Soldier'
+[11Jan2025 16:47:03.799] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Georgina'/5083, l='ServerLevel[world]', x=-1955.17, y=65.50, z=-838.06] died, message: 'Georgina was slain by Military Soldier'
+[11Jan2025 16:47:05.804] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Venâncio'/5091, l='ServerLevel[world]', x=-1956.28, y=66.00, z=-833.69] died, message: 'Venâncio was slain by Military Soldier'
+[11Jan2025 16:47:07.750] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Adélia'/5081, l='ServerLevel[world]', x=-1954.77, y=66.00, z=-830.14] died, message: 'Adélia was slain by Military Soldier'
+[11Jan2025 16:47:09.904] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Luciana'/5094, l='ServerLevel[world]', x=-1951.64, y=65.00, z=-828.71] died, message: 'Luciana was slain by Military Soldier'
+[11Jan2025 16:48:43.754] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Clotilde'/4008, l='ServerLevel[world]', x=-2025.50, y=65.19, z=-779.02] died, message: 'Clotilde was slain by Crawler Zombie'
+[11Jan2025 16:48:46.351] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/6966, l='ServerLevel[world]', x=-1889.16, y=14.40, z=-809.81]
+[11Jan2025 16:48:46.851] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/6969, l='ServerLevel[world]', x=-1888.60, y=15.24, z=-809.91]
+[11Jan2025 16:48:47.103] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity WitherSkullEntity['Wither Skull'/6971, l='ServerLevel[world]', x=-1888.15, y=15.01, z=-809.79]
+[11Jan2025 16:48:47.359] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/6974, l='ServerLevel[world]', x=-1887.74, y=15.24, z=-810.92]
+[11Jan2025 16:48:47.605] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity WitherSkullEntity['Wither Skull'/6980, l='ServerLevel[world]', x=-1887.34, y=15.01, z=-811.13]
+[11Jan2025 16:48:47.851] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/6982, l='ServerLevel[world]', x=-1886.94, y=14.40, z=-811.20]
+[11Jan2025 16:48:49.351] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/6990, l='ServerLevel[world]', x=-1885.69, y=14.63, z=-810.44]
+[11Jan2025 16:48:49.853] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/6994, l='ServerLevel[world]', x=-1884.52, y=15.38, z=-809.81]
+[11Jan2025 16:48:50.352] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/6997, l='ServerLevel[world]', x=-1883.76, y=14.63, z=-809.01]
+[11Jan2025 16:48:59.799] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Irlinda'/5086, l='ServerLevel[world]', x=-2018.70, y=64.00, z=-819.14] died, message: 'Irlinda was slain by Infection Military'
+[11Jan2025 16:49:44.454] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Amélia'/5076, l='ServerLevel[world]', x=-1926.80, y=69.00, z=-824.29] died, message: 'Amélia was slain by Infected Police'
+[11Jan2025 16:50:05.409] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Maria do Carmo'/5088, l='ServerLevel[world]', x=-1999.26, y=64.00, z=-771.74] died, message: 'Maria do Carmo was slain by Demolisher'
+[11Jan2025 16:50:15.856] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Maria do Rosário'/3909, l='ServerLevel[world]', x=-1994.85, y=64.94, z=-774.44] died, message: 'Maria do Rosário was slain by Demolisher'
+[11Jan2025 16:50:21.813] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Ivo'/5073, l='ServerLevel[world]', x=-1996.92, y=65.18, z=-767.56] died, message: 'Ivo was slain by Infected Dog'
+[11Jan2025 16:50:31.211] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Rodrigo'/5057, l='ServerLevel[world]', x=-1958.55, y=64.00, z=-732.15] died, message: 'Rodrigo was slain by Infected Dog'
+[11Jan2025 16:50:43.757] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Álvaro'/5071, l='ServerLevel[world]', x=-1969.48, y=75.00, z=-804.13] died, message: 'Álvaro was slain by Rat King'
+[11Jan2025 16:51:16.012] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Dorinda'/5090, l='ServerLevel[world]', x=-1989.64, y=65.00, z=-766.93] died, message: 'Dorinda was slain by Demolisher'
+[11Jan2025 16:52:15.507] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Mariana'/5062, l='ServerLevel[world]', x=-1989.81, y=66.00, z=-799.19] died, message: 'Mariana was slain by Rat King'
+[11Jan2025 16:52:21.104] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Esperança'/3935, l='ServerLevel[world]', x=-2000.09, y=64.00, z=-771.71] died, message: 'Esperança was slain by Demolisher'
+[11Jan2025 16:53:02.213] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Fernando'/5093, l='ServerLevel[world]', x=-2015.82, y=63.94, z=-767.67] died, message: 'Fernando was slain by Infection Military'
