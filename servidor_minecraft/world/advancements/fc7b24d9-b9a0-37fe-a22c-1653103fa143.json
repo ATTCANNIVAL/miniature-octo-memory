@@ -1135,6 +1135,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:mountains": "2025-01-09 17:10:00 +0000",
+      "minecraft:forest": "2025-01-11 17:35:28 +0000",
       "minecraft:taiga": "2025-01-09 17:00:24 +0000",
       "minecraft:taiga_hills": "2025-01-09 17:05:42 +0000",
       "minecraft:warm_ocean": "2025-01-11 16:42:19 +0000",

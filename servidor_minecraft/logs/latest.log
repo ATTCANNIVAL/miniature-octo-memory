@@ -7375,3 +7375,13 @@ java.lang.Exception: null
 [11Jan2025 17:31:06.007] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Edite'/4066, l='ServerLevel[world]', x=-1990.28, y=66.00, z=-750.84] died, message: 'Edite was slain by Infected'
 [11Jan2025 17:31:32.257] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Henriqueta'/4067, l='ServerLevel[world]', x=-1988.27, y=64.40, z=-740.57] died, message: 'Henriqueta was slain by Infected Spec Ops Soldier'
 [11Jan2025 17:32:58.557] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Manuel'/3912, l='ServerLevel[world]', x=-1991.29, y=65.25, z=-732.57] died, message: 'Manuel was slain by Infected Hazmat'
+[11Jan2025 17:34:44.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 13000]
+[11Jan2025 17:36:41.456] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Encarnação'/11893, l='ServerLevel[world]', x=-2025.28, y=65.91, z=-778.28] died, message: 'Encarnação was slain by Night Hunter'
+[11Jan2025 17:36:51.257] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Manuel'/4050, l='ServerLevel[world]', x=-2018.51, y=64.00, z=-784.61] died, message: 'Manuel was slain by Night Hunter'
+[11Jan2025 17:42:43.694] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/3940, l='ServerLevel[world]', x=-1982.50, y=66.00, z=-715.50] quests expired
+[11Jan2025 17:42:44.943] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/3943, l='ServerLevel[world]', x=-1982.50, y=68.00, z=-774.50] quests expired
+[11Jan2025 17:42:45.593] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/3974, l='ServerLevel[world]', x=-2020.50, y=66.00, z=-731.50] quests expired
+[11Jan2025 17:42:46.643] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/4007, l='ServerLevel[world]', x=-1983.21, y=66.00, z=-788.93] quests expired
+[11Jan2025 17:42:47.345] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/3992, l='ServerLevel[world]', x=-2027.50, y=66.00, z=-707.50] quests expired
+[11Jan2025 17:42:47.346] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/4043, l='ServerLevel[world]', x=-2028.50, y=67.00, z=-813.50] quests expired
+[11Jan2025 17:42:47.346] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/4045, l='ServerLevel[world]', x=-2006.50, y=69.00, z=-806.50] quests expired
