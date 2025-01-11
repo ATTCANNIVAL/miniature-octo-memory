@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/barrel_block": {
+    "criteria": {
+      "has_items": "2025-01-11 16:51:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/diorite_table": {
     "criteria": {
       "has_planks": "2025-01-09 18:16:36 +0000"
@@ -371,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-11 16:56:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-01-09 18:34:27 +0000"
@@ -452,6 +464,12 @@
   "cfm:recipes/cfm/dye_purple_picket_fence": {
     "criteria": {
       "has_fence": "2025-01-09 18:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ice_from_freezing": {
+    "criteria": {
+      "has_water": "2025-01-11 16:56:12 +0000"
     },
     "done": true
   },
@@ -570,6 +588,12 @@
   "cfm:recipes/cfm/magenta_grill": {
     "criteria": {
       "has_iron": "2025-01-10 17:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-11 16:51:18 +0000"
     },
     "done": true
   },
@@ -714,6 +738,12 @@
   "mca:recipes/misc/rose_gold_ingot_smelting": {
     "criteria": {
       "has_item": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutmysticalsite": {
+    "criteria": {
+      "has_items": "2025-01-11 16:51:20 +0000"
     },
     "done": true
   },
@@ -946,6 +976,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutcrusher": {
+    "criteria": {
+      "has_items": "2025-01-11 16:51:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-01-09 18:16:36 +0000"
@@ -1146,6 +1182,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2025-01-11 16:30:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2025-01-11 16:51:18 +0000"
     },
     "done": true
   },
@@ -1533,6 +1575,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutsmeltery": {
+    "criteria": {
+      "has_items": "2025-01-11 16:51:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-10 18:12:39 +0000"
@@ -1772,6 +1820,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-01-10 17:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutblacksmith": {
+    "criteria": {
+      "has_items": "2025-01-11 16:51:21 +0000"
     },
     "done": true
   },
