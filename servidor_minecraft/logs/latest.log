@@ -7357,3 +7357,8 @@ java.lang.Exception: null
 [11Jan2025 17:09:30.752] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Benvinda'/5085, l='ServerLevel[world]', x=-1959.38, y=64.00, z=-754.51] died, message: 'Benvinda was slain by Fast infected'
 [11Jan2025 17:10:21.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
 [11Jan2025 17:12:16.753] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Catarina'/3934, l='ServerLevel[world]', x=-2020.30, y=64.00, z=-776.78] died, message: 'Catarina was slain by Zombie'
+[11Jan2025 17:14:39.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 1000]
+[11Jan2025 17:16:25.754] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Bernadete'/3987, l='ServerLevel[world]', x=-2022.50, y=65.00, z=-768.48] died, message: 'Bernadete was slain by Drawned zombie'
+[11Jan2025 17:18:08.508] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/13339, l='ServerLevel[world]', x=-1889.77, y=14.40, z=-790.52]
+[11Jan2025 17:18:08.755] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity WitherSkullEntity['Wither Skull'/13341, l='ServerLevel[world]', x=-1889.94, y=15.01, z=-790.52]
+[11Jan2025 17:18:09.009] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/13343, l='ServerLevel[world]', x=-1890.02, y=15.24, z=-790.34]

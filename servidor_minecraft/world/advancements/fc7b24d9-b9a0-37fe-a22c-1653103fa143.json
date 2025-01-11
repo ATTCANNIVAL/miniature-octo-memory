@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-01-11 17:10:57 +0000"
+    },
+    "done": true
+  },
   "relics:obtain/root": {
     "criteria": {
       "obtain_relic": "2025-01-09 17:03:55 +0000"
@@ -158,6 +164,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-01-10 17:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-01-11 17:10:57 +0000"
     },
     "done": true
   },
@@ -248,6 +260,12 @@
   "cfm:recipes/cfm/gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-10 18:12:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-11 17:10:57 +0000"
     },
     "done": true
   },
@@ -455,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-11 17:10:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-10 18:12:39 +0000"
@@ -633,6 +657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-01-11 17:10:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dye_lime_picket_fence": {
     "criteria": {
       "has_fence": "2025-01-09 18:19:55 +0000"
@@ -648,6 +678,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-10 17:49:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-01-11 17:10:57 +0000"
     },
     "done": true
   },
@@ -798,6 +834,12 @@
   "minecolonies:recipes/minecolonies/blockhutmysticalsite": {
     "criteria": {
       "has_items": "2025-01-11 16:51:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_chair": {
+    "criteria": {
+      "has_planks": "2025-01-11 17:10:57 +0000"
     },
     "done": true
   },
@@ -979,6 +1021,18 @@
   "cfm:recipes/cfm/stripped_birch_mail_box": {
     "criteria": {
       "has_chest": "2025-01-10 18:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2025-01-11 17:10:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-11 17:10:57 +0000"
     },
     "done": true
   },
@@ -1170,6 +1224,12 @@
   "cfm:recipes/cfm/diorite_coffee_table": {
     "criteria": {
       "has_planks": "2025-01-09 18:16:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-11 17:10:57 +0000"
     },
     "done": true
   },
@@ -1617,6 +1677,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_crate": {
+    "criteria": {
+      "has_planks": "2025-01-11 17:10:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/rock_path": {
     "criteria": {
       "has_stone": "2025-01-09 17:07:19 +0000"
@@ -1650,6 +1716,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-01-10 17:49:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-11 17:10:57 +0000"
     },
     "done": true
   },
@@ -1728,6 +1800,12 @@
   "ava:recipes/survival/mechanical_components": {
     "criteria": {
       "has_iron_ingot": "2025-01-10 17:44:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-01-11 17:10:57 +0000"
     },
     "done": true
   },
@@ -1850,6 +1928,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-01-10 17:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-11 17:10:57 +0000"
     },
     "done": true
   },
@@ -2159,6 +2243,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_park_bench": {
+    "criteria": {
+      "has_planks": "2025-01-11 17:10:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-01-10 17:44:36 +0000"
@@ -2405,9 +2495,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_table": {
+    "criteria": {
+      "has_planks": "2025-01-11 17:10:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-01-10 17:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-11 17:10:57 +0000"
     },
     "done": true
   },
@@ -2420,6 +2522,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2025-01-11 16:30:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_desk": {
+    "criteria": {
+      "has_planks": "2025-01-11 17:10:57 +0000"
     },
     "done": true
   },
@@ -2537,6 +2645,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-11 17:10:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/diorite_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-01-09 18:16:36 +0000"
@@ -2546,6 +2660,12 @@
   "cfm:recipes/cfm/acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-10 18:12:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-11 17:10:57 +0000"
     },
     "done": true
   },
@@ -2630,6 +2750,12 @@
   "cfm:recipes/cfm/gray_grill": {
     "criteria": {
       "has_iron": "2025-01-10 17:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-11 17:10:57 +0000"
     },
     "done": true
   },
@@ -2747,6 +2873,12 @@
     },
     "done": true
   },
+  "craftingdead:recipes/craftingdead.combat/trenchgun": {
+    "criteria": {
+      "has_oak_planks": "2025-01-11 17:10:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stone_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-01-09 17:06:07 +0000"
@@ -2831,9 +2963,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-01-11 17:10:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/fridge_light": {
     "criteria": {
       "has_iron": "2025-01-10 17:44:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-11 17:10:57 +0000"
     },
     "done": true
   },
