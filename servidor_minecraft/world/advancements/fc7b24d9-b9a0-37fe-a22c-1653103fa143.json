@@ -808,6 +808,12 @@
     },
     "done": true
   },
+  "tmtmcoresandmore:mystic_creeper_killed_ach": {
+    "criteria": {
+      "mystic_creeper_killed_ach": "2025-01-11 16:17:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/orange_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-10 18:12:39 +0000"
@@ -941,6 +947,7 @@
       "minecraft:taiga_hills": "2025-01-09 17:05:42 +0000",
       "minecraft:river": "2025-01-09 17:09:57 +0000",
       "minecraft:wooded_hills": "2025-01-09 18:59:23 +0000",
+      "minecraft:swamp": "2025-01-11 16:17:41 +0000",
       "minecraft:plains": "2025-01-09 16:58:59 +0000"
     },
     "done": false
@@ -1170,6 +1177,12 @@
   "lightmanscurrency:currency/cash_register": {
     "criteria": {
       "cash_register": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-01-11 16:13:39 +0000"
     },
     "done": true
   },
@@ -2192,6 +2205,12 @@
   "cfm:recipes/cfm/dye_blue_picket_fence": {
     "criteria": {
       "has_fence": "2025-01-09 18:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2025-01-11 16:14:11 +0000"
     },
     "done": true
   },
