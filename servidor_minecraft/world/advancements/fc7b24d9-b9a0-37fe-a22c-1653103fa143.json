@@ -35,15 +35,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-10 17:49:39 +0000"
-    },
-    "done": true
-  },
   "ava:recipes/survival/spring": {
     "criteria": {
       "has_iron_ingot": "2025-01-10 17:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-10 17:49:39 +0000"
     },
     "done": true
   },
@@ -323,15 +323,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/iron_bars": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-10 17:44:35 +0000"
-    },
-    "done": true
-  },
   "cgm:recipes/cgm/grenade": {
     "criteria": {
       "has_gunpowder": "2025-01-10 17:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-10 17:44:35 +0000"
     },
     "done": true
   },
@@ -425,15 +425,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_acacia_upgraded_fence": {
-    "criteria": {
-      "has_log": "2025-01-10 18:16:51 +0000"
-    },
-    "done": true
-  },
   "ava:recipes/survival/fuse": {
     "criteria": {
       "has_iron_ingot": "2025-01-10 17:44:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-01-10 18:16:51 +0000"
     },
     "done": true
   },
@@ -478,6 +478,12 @@
       "has_diamond": "2025-01-10 17:44:33 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-10 18:26:45 +0000"
+    },
+    "done": false
   },
   "minecolonies:recipes/minecolonies/blockhutstonemason": {
     "criteria": {
@@ -700,15 +706,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/blue_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2025-01-10 18:12:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-01-10 17:49:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/blue_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-10 18:12:39 +0000"
     },
     "done": true
   },
@@ -877,6 +883,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
     "criteria": {
       "has_leather": "2025-01-10 17:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-10 18:26:45 +0000"
     },
     "done": true
   },
@@ -1101,15 +1113,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/light_blue_cooler": {
-    "criteria": {
-      "has_chest": "2025-01-10 18:12:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-01-10 17:44:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-10 18:12:39 +0000"
     },
     "done": true
   },
@@ -1131,15 +1143,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_acacia_mail_box": {
-    "criteria": {
-      "has_chest": "2025-01-10 18:12:39 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/post_box": {
     "criteria": {
       "has_iron": "2025-01-10 17:44:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-10 18:12:39 +0000"
     },
     "done": true
   },
@@ -1161,15 +1173,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_jungle_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2025-01-10 18:12:39 +0000"
-    },
-    "done": true
-  },
   "ava:recipes/main/gun_modifying_table": {
     "criteria": {
       "has_iron_ingot": "2025-01-10 17:44:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-10 18:12:39 +0000"
     },
     "done": true
   },
@@ -1203,15 +1215,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/black_cooler": {
-    "criteria": {
-      "has_chest": "2025-01-10 18:12:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-01-10 17:49:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-10 18:12:39 +0000"
     },
     "done": true
   },
@@ -1365,15 +1377,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2025-01-10 17:44:33 +0000"
-    },
-    "done": true
-  },
   "cgm:recipes/cgm/advanced_bullet": {
     "criteria": {
       "has_gunpowder": "2025-01-10 17:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-01-10 17:44:33 +0000"
     },
     "done": true
   },
@@ -1583,15 +1595,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-10 17:44:36 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/yellow_grill": {
     "criteria": {
       "has_iron": "2025-01-10 17:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-10 17:44:36 +0000"
     },
     "done": true
   },
@@ -1766,6 +1778,12 @@
   "minecolonies:recipes/minecolonies/supplycampdeployer": {
     "criteria": {
       "has_chest": "2025-01-10 18:12:39 +0000"
+    },
+    "done": true
+  },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2025-01-10 18:29:46 +0000"
     },
     "done": true
   },
@@ -2330,6 +2348,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-09 17:07:19 +0000"
+    },
+    "done": true
+  },
+  "craftingdead:recipes/craftingdead.combat/small_handle": {
+    "criteria": {
+      "has_lever": "2025-01-11 15:55:27 +0000"
     },
     "done": true
   },
