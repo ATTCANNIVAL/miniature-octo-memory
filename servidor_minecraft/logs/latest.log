@@ -7344,3 +7344,16 @@ java.lang.Exception: null
 [11Jan2025 17:01:45.655] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/9806, l='ServerLevel[world]', x=-1886.45, y=14.63, z=-830.96]
 [11Jan2025 17:01:46.151] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/9809, l='ServerLevel[world]', x=-1884.98, y=15.38, z=-830.63]
 [11Jan2025 17:01:46.655] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/9813, l='ServerLevel[world]', x=-1884.08, y=14.63, z=-829.96]
+[11Jan2025 17:06:40.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[11Jan2025 17:07:01.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[11Jan2025 17:07:06.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[11Jan2025 17:07:10.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[11Jan2025 17:07:56.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[11Jan2025 17:08:05.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[11Jan2025 17:08:10.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[11Jan2025 17:08:13.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[11Jan2025 17:08:32.455] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Felicidade'/5063, l='ServerLevel[world]', x=-2045.45, y=67.00, z=-795.27] died, message: 'Felicidade was slain by Demolisher'
+[11Jan2025 17:08:43.456] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Carla'/3910, l='ServerLevel[world]', x=-2044.51, y=66.00, z=-795.72] died, message: 'Carla was slain by Demolisher'
+[11Jan2025 17:09:30.752] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Benvinda'/5085, l='ServerLevel[world]', x=-1959.38, y=64.00, z=-754.51] died, message: 'Benvinda was slain by Fast infected'
+[11Jan2025 17:10:21.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[11Jan2025 17:12:16.753] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Catarina'/3934, l='ServerLevel[world]', x=-2020.30, y=64.00, z=-776.78] died, message: 'Catarina was slain by Zombie'

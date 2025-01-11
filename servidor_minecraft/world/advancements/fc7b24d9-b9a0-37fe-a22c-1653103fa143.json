@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-01-09 17:06:07 +0000"
@@ -59,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-10 17:49:39 +0000"
@@ -86,6 +98,12 @@
   "relics:obtain/root": {
     "criteria": {
       "obtain_relic": "2025-01-09 17:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
     },
     "done": true
   },
@@ -323,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-09 17:07:19 +0000"
@@ -404,6 +428,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-01-10 17:49:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
     },
     "done": true
   },
@@ -533,6 +563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2025-01-11 16:46:23 +0000"
@@ -603,6 +639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-10 17:49:39 +0000"
@@ -630,6 +672,12 @@
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_ingredients": "2025-01-09 16:58:59 +0000"
+    },
+    "done": true
+  },
+  "craftingdead:recipes/craftingdead.combat/lp_scope": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
     },
     "done": true
   },
@@ -678,6 +726,12 @@
   "cfm:recipes/cfm/stripped_acacia_crate": {
     "criteria": {
       "has_log": "2025-01-10 18:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
     },
     "done": true
   },
@@ -769,6 +823,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-01-10 17:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
     },
     "done": true
   },
@@ -1119,6 +1179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-01-10 17:33:32 +0000"
@@ -1134,6 +1200,12 @@
   "cfm:recipes/cfm/light_gray_cooler": {
     "criteria": {
       "has_chest": "2025-01-10 18:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
     },
     "done": true
   },
@@ -1509,6 +1581,18 @@
     },
     "done": true
   },
+  "craftingdead:recipes/craftingdead.combat/acog_sight": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/rose_gold_ingot": {
     "criteria": {
       "has_item": "2025-01-09 16:58:59 +0000"
@@ -1659,6 +1743,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/upgrades/gold_to_diamond_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-01-10 18:16:51 +0000"
@@ -1668,6 +1758,12 @@
   "cfm:recipes/cfm/stripped_acacia_upgraded_gate": {
     "criteria": {
       "has_log": "2025-01-10 18:16:51 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/diamond_crystal_chest": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
     },
     "done": true
   },
@@ -1883,6 +1979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
+    },
+    "done": true
+  },
   "relics:obtain/hunter_belt": {
     "criteria": {
       "obtain_relic": "2025-01-09 17:04:26 +0000"
@@ -1979,6 +2081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dye_light_gray_picket_fence": {
     "criteria": {
       "has_fence": "2025-01-09 18:19:55 +0000"
@@ -1994,6 +2102,12 @@
   "cfm:recipes/cfm/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-10 18:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
     },
     "done": true
   },
@@ -2171,6 +2285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dye_red_picket_fence": {
     "criteria": {
       "has_fence": "2025-01-09 18:19:55 +0000"
@@ -2231,6 +2351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dye_light_blue_picket_fence": {
     "criteria": {
       "has_fence": "2025-01-09 18:19:55 +0000"
@@ -2240,6 +2366,12 @@
   "cfm:recipes/cfm/oak_mail_box": {
     "criteria": {
       "has_chest": "2025-01-10 18:12:39 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/diamond_to_obsidian_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
     },
     "done": true
   },
@@ -2327,6 +2459,12 @@
     },
     "done": true
   },
+  "craftingdead:recipes/craftingdead.combat/red_dot_sight": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-09 16:58:59 +0000"
@@ -2390,6 +2528,12 @@
   "ava:recipes/survival/compressed_wood": {
     "criteria": {
       "has_iron_ingot": "2025-01-10 17:44:35 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/diamond_to_crystal_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
     },
     "done": true
   },
@@ -2474,6 +2618,12 @@
   "cfm:recipes/cfm/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-10 18:12:39 +0000"
+    },
+    "done": true
+  },
+  "craftingdead:recipes/craftingdead.medical/syringe": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
     },
     "done": true
   },
@@ -2666,6 +2816,18 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-01-10 17:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-11 17:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutglassblower": {
+    "criteria": {
+      "has_items": "2025-01-11 17:05:09 +0000"
     },
     "done": true
   },
