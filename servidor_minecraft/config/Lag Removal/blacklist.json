@@ -33,5 +33,6 @@
   "flashnpcs:npc",
   "minecraft:horse",
   "minecraft:donkey",
-  "minecraft:llama"
+  "minecraft:llama",
+  "corpse:corpse"
 ]

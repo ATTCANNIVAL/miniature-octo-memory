@@ -7144,3 +7144,257 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Jan2025 02:43:43.815] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Margarido'/813, l='ServerLevel[world]', x=-1953.30, y=74.00, z=-786.45] died, message: 'Margarido was slain by Military Soldier'
 [12Jan2025 02:43:47.863] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Carlota'/829, l='ServerLevel[world]', x=-1951.93, y=74.00, z=-797.45] died, message: 'Carlota was slain by Military Soldier'
 [12Jan2025 02:48:18.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5375ms or 107 ticks behind
+[12Jan2025 02:49:56.014] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@84a4c3c
+[12Jan2025 02:49:56.026] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SalvadorssjZ[/127.234.242.55:42073] logged in with entity id 2863 at (95.5, 64.0, -14.5)
+[12Jan2025 02:49:56.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SalvadorssjZ joined the game
+[12Jan2025 02:49:56.035] [Server thread/INFO] [tac/]: PENDING
+[12Jan2025 02:49:56.063] [Server thread/INFO] [net.mcreator.tmtmcoresandmore.TmtmcoresandmoreMod/]: TmTmc-OresAndMore loaded
+[12Jan2025 02:49:56.063] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:72]: enable_welcome: true
+[12Jan2025 02:49:56.063] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:73]: welcome_message: Welcome to our server 
+[12Jan2025 02:49:56.063] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:74]: enable_all_ores: true
+[12Jan2025 02:49:56.064] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:75]: enable_all_ingots: true
+[12Jan2025 02:49:56.064] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:76]: enable_all_blocks: true
+[12Jan2025 02:49:56.064] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:77]: enable_all_armors: true
+[12Jan2025 02:49:56.064] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:78]: enable_all_swords_bows: true
+[12Jan2025 02:49:56.064] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:79]: enable_all_foods: true
+[12Jan2025 02:49:56.065] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:80]: enable_all_paintings: true
+[12Jan2025 02:49:56.065] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:81]: enable_all_poisons: true
+[12Jan2025 02:49:56.065] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:82]: enable_all_powders: true
+[12Jan2025 02:49:56.065] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:83]: enable_all_tools: true
+[12Jan2025 02:49:56.065] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:84]: enable_all_recipes: true
+[12Jan2025 02:49:56.066] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:85]: enable_all_advancements: true
+[12Jan2025 02:49:56.066] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[12Jan2025 02:49:56.066] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[12Jan2025 02:49:56.066] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[12Jan2025 02:49:56.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SalvadorssjZ has made the advancement [Trading Core]
+[12Jan2025 02:49:56.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SalvadorssjZ has made the advancement [All in one interaction!]
+[12Jan2025 02:49:56.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SalvadorssjZ has made the advancement [Minty Fresh!]
+[12Jan2025 02:49:56.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SalvadorssjZ has reached the goal [Fireproof Wallet]
+[12Jan2025 02:49:56.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SalvadorssjZ has made the advancement [Minecraft Comes Alive]
+[12Jan2025 02:49:56.384] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 23e09444-0fbf-3d57-841d-f16fc882eb07 was loaded
+[12Jan2025 02:50:00.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> el pepe
+[12Jan2025 02:50:11.221] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SalvadorssjZ lost connection: Timed out
+[12Jan2025 02:50:11.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SalvadorssjZ left the game
+[12Jan2025 02:50:11.223] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 23e09444-0fbf-3d57-841d-f16fc882eb07 was unloaded
+[12Jan2025 02:50:11.289] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[12Jan2025 02:50:39.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -1922.5, 63.5, -741.5]
+[12Jan2025 02:50:59.469] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@79fcd366
+[12Jan2025 02:50:59.484] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SalvadorssjZ[/127.234.242.55:55387] logged in with entity id 3780 at (95.5, 64.0, -14.5)
+[12Jan2025 02:50:59.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SalvadorssjZ joined the game
+[12Jan2025 02:50:59.493] [Server thread/INFO] [tac/]: PENDING
+[12Jan2025 02:50:59.520] [Server thread/INFO] [net.mcreator.tmtmcoresandmore.TmtmcoresandmoreMod/]: TmTmc-OresAndMore loaded
+[12Jan2025 02:50:59.521] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:72]: enable_welcome: true
+[12Jan2025 02:50:59.521] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:73]: welcome_message: Welcome to our server 
+[12Jan2025 02:50:59.521] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:74]: enable_all_ores: true
+[12Jan2025 02:50:59.521] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:75]: enable_all_ingots: true
+[12Jan2025 02:50:59.522] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:76]: enable_all_blocks: true
+[12Jan2025 02:50:59.522] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:77]: enable_all_armors: true
+[12Jan2025 02:50:59.522] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:78]: enable_all_swords_bows: true
+[12Jan2025 02:50:59.522] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:79]: enable_all_foods: true
+[12Jan2025 02:50:59.522] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:80]: enable_all_paintings: true
+[12Jan2025 02:50:59.523] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:81]: enable_all_poisons: true
+[12Jan2025 02:50:59.523] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:82]: enable_all_powders: true
+[12Jan2025 02:50:59.523] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:83]: enable_all_tools: true
+[12Jan2025 02:50:59.523] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:84]: enable_all_recipes: true
+[12Jan2025 02:50:59.523] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:85]: enable_all_advancements: true
+[12Jan2025 02:50:59.524] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[12Jan2025 02:50:59.524] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[12Jan2025 02:50:59.524] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[12Jan2025 02:50:59.846] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 23e09444-0fbf-3d57-841d-f16fc882eb07 was loaded
+[12Jan2025 02:51:04.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> qfue
+[12Jan2025 02:51:20.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: [Lag Removal] Added entity to blacklist]
+[12Jan2025 02:51:24.876] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Augusto'/888, l='ServerLevel[world]', x=-1996.92, y=64.00, z=-763.11] died, message: 'Augusto was slain by Fast infected'
+[12Jan2025 02:52:43.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SalvadorssjZ> aa
+[12Jan2025 02:52:49.883] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[12Jan2025 02:52:49.884] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[12Jan2025 02:52:50.127] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[12Jan2025 02:52:50.128] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[12Jan2025 02:52:50.129] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[12Jan2025 02:52:50.129] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[12Jan2025 02:52:50.129] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[12Jan2025 02:52:50.130] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[12Jan2025 02:52:50.245] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[12Jan2025 02:52:50.245] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[12Jan2025 02:52:54.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SalvadorssjZ> internet de la naza
+[12Jan2025 02:52:58.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> si
+[12Jan2025 02:53:29.777] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SalvadorssjZ lost connection: Timed out
+[12Jan2025 02:53:29.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SalvadorssjZ left the game
+[12Jan2025 02:53:29.778] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 23e09444-0fbf-3d57-841d-f16fc882eb07 was unloaded
+[12Jan2025 02:54:04.271] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@562f0c38
+[12Jan2025 02:54:04.283] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SalvadorssjZ[/127.234.242.55:45201] logged in with entity id 5247 at (-451.9935052422279, 73.0, -875.0140357124848)
+[12Jan2025 02:54:04.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SalvadorssjZ joined the game
+[12Jan2025 02:54:04.292] [Server thread/INFO] [tac/]: PENDING
+[12Jan2025 02:54:04.329] [Server thread/INFO] [net.mcreator.tmtmcoresandmore.TmtmcoresandmoreMod/]: TmTmc-OresAndMore loaded
+[12Jan2025 02:54:04.330] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:72]: enable_welcome: true
+[12Jan2025 02:54:04.331] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:73]: welcome_message: Welcome to our server 
+[12Jan2025 02:54:04.331] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:74]: enable_all_ores: true
+[12Jan2025 02:54:04.331] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:75]: enable_all_ingots: true
+[12Jan2025 02:54:04.331] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:76]: enable_all_blocks: true
+[12Jan2025 02:54:04.331] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:77]: enable_all_armors: true
+[12Jan2025 02:54:04.331] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:78]: enable_all_swords_bows: true
+[12Jan2025 02:54:04.331] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:79]: enable_all_foods: true
+[12Jan2025 02:54:04.332] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:80]: enable_all_paintings: true
+[12Jan2025 02:54:04.332] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:81]: enable_all_poisons: true
+[12Jan2025 02:54:04.332] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:82]: enable_all_powders: true
+[12Jan2025 02:54:04.332] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:83]: enable_all_tools: true
+[12Jan2025 02:54:04.332] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:84]: enable_all_recipes: true
+[12Jan2025 02:54:04.332] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:85]: enable_all_advancements: true
+[12Jan2025 02:54:04.333] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[12Jan2025 02:54:04.333] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[12Jan2025 02:54:04.333] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[12Jan2025 02:54:04.599] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 23e09444-0fbf-3d57-841d-f16fc882eb07 was loaded
+[12Jan2025 02:54:34.002] [Server thread/ERROR] [minecolonies/]: BuildTool: building is null!
+java.lang.Exception: null
+	at com.minecolonies.coremod.network.messages.server.BuildToolPasteMessage.setupBuilding(BuildToolPasteMessage.java:314) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.messages.server.BuildToolPasteMessage.handleHut(BuildToolPasteMessage.java:287) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.messages.server.BuildToolPasteMessage.onExecute(BuildToolPasteMessage.java:175) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.messages.splitting.SplitPacketMessage.lambda$onExecute$1(SplitPacketMessage.java:128) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at net.minecraftforge.fml.network.NetworkEvent$Context.enqueueWork(NetworkEvent.java:201) ~[forge:?]
+	at com.minecolonies.coremod.network.messages.splitting.SplitPacketMessage.onExecute(SplitPacketMessage.java:128) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at com.minecolonies.coremod.network.NetworkChannel.lambda$setupInternalMessages$4(NetworkChannel.java:256) ~[minecolonies:1.16.5-1.0.978-RELEASE]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:114) ~[forge:?]
+	at java.util.Optional.ifPresent(Optional.java:183) ~[?:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:114) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:148) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:66) ~[forge:?]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:72) ~[forge:?]
+	at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:77) ~[forge:?]
+	at java.util.Optional.map(Optional.java:265) ~[?:?]
+	at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:77) ~[forge:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:1413) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[12Jan2025 02:54:49.474] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SalvadorssjZ lost connection: Timed out
+[12Jan2025 02:54:49.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SalvadorssjZ left the game
+[12Jan2025 02:54:49.474] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 23e09444-0fbf-3d57-841d-f16fc882eb07 was unloaded
+[12Jan2025 02:55:54.471] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@42db838e
+[12Jan2025 02:55:54.482] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SalvadorssjZ[/127.234.242.55:38911] logged in with entity id 5694 at (-451.9935052422279, 73.0, -875.0140357124848)
+[12Jan2025 02:55:54.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SalvadorssjZ joined the game
+[12Jan2025 02:55:54.491] [Server thread/INFO] [tac/]: PENDING
+[12Jan2025 02:55:54.525] [Server thread/INFO] [net.mcreator.tmtmcoresandmore.TmtmcoresandmoreMod/]: TmTmc-OresAndMore loaded
+[12Jan2025 02:55:54.526] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:72]: enable_welcome: true
+[12Jan2025 02:55:54.526] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:73]: welcome_message: Welcome to our server 
+[12Jan2025 02:55:54.526] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:74]: enable_all_ores: true
+[12Jan2025 02:55:54.527] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:75]: enable_all_ingots: true
+[12Jan2025 02:55:54.527] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:76]: enable_all_blocks: true
+[12Jan2025 02:55:54.528] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:77]: enable_all_armors: true
+[12Jan2025 02:55:54.528] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:78]: enable_all_swords_bows: true
+[12Jan2025 02:55:54.528] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:79]: enable_all_foods: true
+[12Jan2025 02:55:54.529] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:80]: enable_all_paintings: true
+[12Jan2025 02:55:54.530] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:81]: enable_all_poisons: true
+[12Jan2025 02:55:54.530] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:82]: enable_all_powders: true
+[12Jan2025 02:55:54.531] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:83]: enable_all_tools: true
+[12Jan2025 02:55:54.532] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:84]: enable_all_recipes: true
+[12Jan2025 02:55:54.532] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:85]: enable_all_advancements: true
+[12Jan2025 02:55:54.533] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[12Jan2025 02:55:54.533] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[12Jan2025 02:55:54.534] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[12Jan2025 02:55:54.805] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 23e09444-0fbf-3d57-841d-f16fc882eb07 was loaded
+[12Jan2025 02:56:02.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SalvadorssjZ has made the advancement [A Seedy Place]
+[12Jan2025 02:56:02.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> a
+[12Jan2025 02:56:38.185] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SalvadorssjZ lost connection: Disconnected
+[12Jan2025 02:56:38.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SalvadorssjZ left the game
+[12Jan2025 02:56:38.186] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 23e09444-0fbf-3d57-841d-f16fc882eb07 was unloaded
+[12Jan2025 02:56:46.219] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[12Jan2025 02:56:46.219] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[12Jan2025 02:56:46.220] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[12Jan2025 02:56:46.220] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[12Jan2025 02:56:46.221] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[12Jan2025 02:56:46.221] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[12Jan2025 02:56:46.221] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[12Jan2025 02:56:46.221] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[12Jan2025 02:56:46.221] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[12Jan2025 02:56:46.222] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[12Jan2025 02:56:46.222] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[12Jan2025 02:56:46.222] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[12Jan2025 02:57:01.044] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[12Jan2025 02:57:01.045] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[12Jan2025 02:57:01.045] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[12Jan2025 02:57:01.046] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[12Jan2025 02:57:01.046] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[12Jan2025 02:57:01.047] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[12Jan2025 02:57:01.048] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[12Jan2025 02:57:01.048] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[12Jan2025 02:57:01.048] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[12Jan2025 02:57:01.060] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[12Jan2025 02:57:01.061] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[12Jan2025 02:57:01.062] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[12Jan2025 02:57:01.063] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[12Jan2025 02:57:01.063] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[12Jan2025 02:57:01.064] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[12Jan2025 02:57:01.064] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[12Jan2025 02:57:01.065] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[12Jan2025 02:57:01.065] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[12Jan2025 02:57:01.066] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[12Jan2025 02:57:01.067] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[12Jan2025 02:57:01.067] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[12Jan2025 02:57:01.067] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[12Jan2025 02:57:01.097] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[12Jan2025 02:57:01.098] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[12Jan2025 02:57:01.098] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[12Jan2025 02:57:01.098] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[12Jan2025 02:57:01.098] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[12Jan2025 02:57:01.098] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[12Jan2025 02:57:01.098] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[12Jan2025 02:57:01.099] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[12Jan2025 02:57:01.099] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[12Jan2025 02:57:01.103] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[12Jan2025 02:57:01.103] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[12Jan2025 02:57:01.104] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[12Jan2025 02:57:01.104] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[12Jan2025 02:57:01.104] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[12Jan2025 02:57:01.105] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[12Jan2025 02:57:01.105] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[12Jan2025 02:57:01.106] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[12Jan2025 02:57:01.106] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[12Jan2025 02:57:01.106] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[12Jan2025 02:57:01.106] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[12Jan2025 02:57:01.106] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[12Jan2025 02:57:01.106] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[12Jan2025 02:57:28.864] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7cf8bdbd
+[12Jan2025 02:57:28.873] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SalvadorssjZ[/127.234.242.55:45115] logged in with entity id 6581 at (-450.30000001192093, 72.0, -878.9499999880791)
+[12Jan2025 02:57:28.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SalvadorssjZ joined the game
+[12Jan2025 02:57:28.881] [Server thread/INFO] [tac/]: PENDING
+[12Jan2025 02:57:28.915] [Server thread/INFO] [net.mcreator.tmtmcoresandmore.TmtmcoresandmoreMod/]: TmTmc-OresAndMore loaded
+[12Jan2025 02:57:28.916] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:72]: enable_welcome: true
+[12Jan2025 02:57:28.916] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:73]: welcome_message: Welcome to our server 
+[12Jan2025 02:57:28.916] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:74]: enable_all_ores: true
+[12Jan2025 02:57:28.916] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:75]: enable_all_ingots: true
+[12Jan2025 02:57:28.916] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:76]: enable_all_blocks: true
+[12Jan2025 02:57:28.917] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:77]: enable_all_armors: true
+[12Jan2025 02:57:28.917] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:78]: enable_all_swords_bows: true
+[12Jan2025 02:57:28.917] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:79]: enable_all_foods: true
+[12Jan2025 02:57:28.917] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:80]: enable_all_paintings: true
+[12Jan2025 02:57:28.917] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:81]: enable_all_poisons: true
+[12Jan2025 02:57:28.917] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:82]: enable_all_powders: true
+[12Jan2025 02:57:28.917] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:83]: enable_all_tools: true
+[12Jan2025 02:57:28.918] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:84]: enable_all_recipes: true
+[12Jan2025 02:57:28.918] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:85]: enable_all_advancements: true
+[12Jan2025 02:57:28.918] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[12Jan2025 02:57:28.918] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[12Jan2025 02:57:28.918] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[12Jan2025 02:57:29.183] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 23e09444-0fbf-3d57-841d-f16fc882eb07 was loaded
+[12Jan2025 02:57:41.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SalvadorssjZ> ee
+[12Jan2025 02:57:48.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> o,u
+[12Jan2025 02:57:55.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to SalvadorssjZ]
+[12Jan2025 02:57:59.166] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SalvadorssjZ lost connection: Timed out
+[12Jan2025 02:57:59.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SalvadorssjZ left the game
+[12Jan2025 02:57:59.167] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 23e09444-0fbf-3d57-841d-f16fc882eb07 was unloaded
