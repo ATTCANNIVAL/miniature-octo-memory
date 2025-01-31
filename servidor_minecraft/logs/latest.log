@@ -7188,3 +7188,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Jan2025 17:36:40.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
 [31Jan2025 17:37:22.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
 [31Jan2025 17:37:55.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[31Jan2025 17:42:11.755] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL lost connection: Disconnected
+[31Jan2025 17:42:11.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL left the game
+[31Jan2025 17:42:11.757] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc7b24d9-b9a0-37fe-a22c-1653103fa143 was unloaded
+[31Jan2025 17:42:33.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[31Jan2025 17:42:34.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Jan2025 17:42:34.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Jan2025 17:42:34.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Jan2025 17:42:34.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Jan2025 17:42:34.250] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Jan2025 17:42:34.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Jan2025 17:42:34.252] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Jan2025 17:42:34.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Jan2025 17:42:34.253] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Jan2025 17:42:34.312] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Jan2025 17:42:34.365] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Jan2025 17:42:34.365] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
