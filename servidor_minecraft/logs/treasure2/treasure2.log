@@ -1487,3 +1487,17 @@
 2025-01-31 17:09:41,897 [Server thread] INFO Treasure2 | WorldEventHandler.java:66 | In world load event for dimension minecraft:the_nether
 2025-01-31 17:09:41,915 [Server thread] INFO Treasure2 | WorldEventHandler.java:58 | In world load event
 2025-01-31 17:09:41,915 [Server thread] INFO Treasure2 | WorldEventHandler.java:66 | In world load event for dimension minecraft:the_end
+2025-01-31 17:30:06,939 [Worker-Main-18] INFO Treasure2 | AbstractChestBlock.java:159 | AbstractChestBlock | createNewTileEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.95, zOffset=0.3, rotation=0.0], lockItem=null], LockState [slot=LockSlot [index=1, face=NORTH, xOffset=0.5, yOffset=0.95, zOffset=0.7, rotation=0.0], lockItem=null]]
+2025-01-31 17:30:06,939 [Worker-Main-18] INFO Treasure2 | AbstractChestBlock.java:164 | AbstractChestBlock | createNewTileEntity | tileEntity -> mod.gottsch.forge.treasure2.core.tileentity.CardboardBoxTileEntity@5239d3e7 @ BlockPos{x=0, y=0, z=0}
+2025-01-31 17:30:06,943 [Worker-Main-18] INFO Treasure2 | SurfaceChestFeature.java:269 | CHEATER! COMMON chest at coords: 551 68 407
+2025-01-31 17:30:07,344 [Worker-Main-33] INFO Treasure2 | AbstractChestBlock.java:159 | AbstractChestBlock | createNewTileEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=EAST, xOffset=0.72, yOffset=0.18, zOffset=0.5, rotation=90.0], lockItem=null]]
+2025-01-31 17:30:07,344 [Worker-Main-33] INFO Treasure2 | AbstractChestBlock.java:164 | AbstractChestBlock | createNewTileEntity | tileEntity -> mod.gottsch.forge.treasure2.core.tileentity.CrystalSkullChestTileEntity@19a055ca @ BlockPos{x=0, y=0, z=0}
+2025-01-31 17:30:07,345 [Worker-Main-33] INFO Treasure2 | SubmergedChestFeature.java:237 | CHEATER! RARE chest at coords: 590 59 439
+2025-01-31 17:30:07,854 [Worker-Main-17] INFO Treasure2 | WellGenerator.java:150 | CHEATER! Wishing Well at coords: 549 71 469
+2025-01-31 17:30:39,141 [Worker-Main-33] INFO Treasure2 | AbstractChestBlock.java:159 | AbstractChestBlock | createNewTileEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=EAST, xOffset=0.72, yOffset=0.18, zOffset=0.5, rotation=90.0], lockItem=null]]
+2025-01-31 17:30:39,142 [Worker-Main-33] INFO Treasure2 | AbstractChestBlock.java:164 | AbstractChestBlock | createNewTileEntity | tileEntity -> mod.gottsch.forge.treasure2.core.tileentity.GoldSkullChestTileEntity@dae05c8 @ BlockPos{x=0, y=0, z=0}
+2025-01-31 17:30:39,142 [Worker-Main-33] INFO Treasure2 | SubmergedChestFeature.java:237 | CHEATER! RARE chest at coords: -8609 46 7335
+2025-01-31 17:30:39,916 [Worker-Main-17] INFO Treasure2 | WellGenerator.java:150 | CHEATER! Wishing Well at coords: -8569 66 7415
+2025-01-31 17:32:02,727 [Worker-Main-6] INFO Treasure2 | AbstractChestBlock.java:159 | AbstractChestBlock | createNewTileEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.95, zOffset=0.3, rotation=0.0], lockItem=null], LockState [slot=LockSlot [index=1, face=NORTH, xOffset=0.5, yOffset=0.95, zOffset=0.7, rotation=0.0], lockItem=null]]
+2025-01-31 17:32:02,727 [Worker-Main-6] INFO Treasure2 | AbstractChestBlock.java:164 | AbstractChestBlock | createNewTileEntity | tileEntity -> mod.gottsch.forge.treasure2.core.tileentity.CardboardBoxTileEntity@715d5c6b @ BlockPos{x=0, y=0, z=0}
+2025-01-31 17:32:02,729 [Worker-Main-6] INFO Treasure2 | SurfaceChestFeature.java:269 | CHEATER! COMMON chest at coords: -8361 67 7303

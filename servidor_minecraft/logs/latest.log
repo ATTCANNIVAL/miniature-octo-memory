@@ -7128,3 +7128,63 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Jan2025 17:16:12.656] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Kristi'/896, l='ServerLevel[world]', x=-415.01, y=75.91, z=-891.10] died, message: 'Kristi was slain by Infected Bear'
 [31Jan2025 17:17:53.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 1000]
 [31Jan2025 17:27:10.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 1000]
+[31Jan2025 17:29:25.074] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Ludmil'/4846, l='ServerLevel[world]', x=-547.44, y=64.00, z=-707.71] died, message: 'Ludmil was slain by Magomed'
+[31Jan2025 17:29:49.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -831.5, 85.13993862883083, -815.5]
+[31Jan2025 17:29:53.617] [Worker-Main-17/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[31Jan2025 17:29:53.617] [Worker-Main-17/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[31Jan2025 17:29:53.617] [Worker-Main-17/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[31Jan2025 17:29:53.618] [Worker-Main-17/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[31Jan2025 17:29:53.620] [Worker-Main-17/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[31Jan2025 17:29:53.620] [Worker-Main-17/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[31Jan2025 17:29:53.620] [Worker-Main-17/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[31Jan2025 17:29:53.620] [Worker-Main-17/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[31Jan2025 17:29:53.620] [Worker-Main-17/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[31Jan2025 17:29:53.621] [Worker-Main-17/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[31Jan2025 17:29:53.621] [Worker-Main-17/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[31Jan2025 17:29:53.621] [Worker-Main-17/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[31Jan2025 17:30:07.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to 560.5, 87.17133601586066, 416.5]
+[31Jan2025 17:30:39.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -8575.5, 87.17133601586066, 7344.5]
+[31Jan2025 17:30:41.115] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[31Jan2025 17:30:41.116] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[31Jan2025 17:30:41.116] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[31Jan2025 17:30:41.116] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[31Jan2025 17:30:41.118] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[31Jan2025 17:30:41.119] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[31Jan2025 17:30:41.119] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[31Jan2025 17:30:41.119] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[31Jan2025 17:30:41.121] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[31Jan2025 17:30:41.121] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[31Jan2025 17:30:41.122] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[31Jan2025 17:30:41.122] [Worker-Main-6/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[31Jan2025 17:30:45.385] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[31Jan2025 17:30:45.386] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[31Jan2025 17:30:45.386] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[31Jan2025 17:30:45.386] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[31Jan2025 17:30:45.387] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[31Jan2025 17:30:45.387] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[31Jan2025 17:30:45.387] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[31Jan2025 17:30:45.387] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[31Jan2025 17:30:45.387] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[31Jan2025 17:30:45.387] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[31Jan2025 17:30:45.388] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[31Jan2025 17:30:45.388] [Worker-Main-18/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[31Jan2025 17:31:59.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Super Creeps]
+[31Jan2025 17:32:01.230] [Worker-Main-33/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[31Jan2025 17:32:01.231] [Worker-Main-33/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[31Jan2025 17:32:01.231] [Worker-Main-33/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[31Jan2025 17:32:01.231] [Worker-Main-33/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[31Jan2025 17:32:01.232] [Worker-Main-33/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[31Jan2025 17:32:01.232] [Worker-Main-33/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[31Jan2025 17:32:01.232] [Worker-Main-33/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[31Jan2025 17:32:01.233] [Worker-Main-33/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[31Jan2025 17:32:01.233] [Worker-Main-33/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[31Jan2025 17:32:01.233] [Worker-Main-33/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[31Jan2025 17:32:01.233] [Worker-Main-33/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[31Jan2025 17:32:14.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[31Jan2025 17:32:47.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[31Jan2025 17:35:19.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[31Jan2025 17:35:54.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[31Jan2025 17:36:09.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[31Jan2025 17:36:40.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[31Jan2025 17:37:22.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[31Jan2025 17:37:55.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
