@@ -8142,3 +8142,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 23:32:34.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
 [15May2025 23:33:11.434] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=602, y=72, z=-467}
 [15May2025 23:33:26.582] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=601, y=71, z=-467}
+[15May2025 23:41:44.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Acquire Hardware]
+[15May2025 23:42:37.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mejjor quita el mod de matar animales
