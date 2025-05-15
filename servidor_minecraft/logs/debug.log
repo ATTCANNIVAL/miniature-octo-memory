@@ -17508,3 +17508,138 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 22:54:25.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Dead Sea]
 [15May2025 22:54:29.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Spawner] to ATT_CANNIVAL]
 [15May2025 22:54:33.068] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3b271b9-e459-3933-aab2-de28059f91bf was loaded
+[15May2025 22:55:51.942] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [44,-20]
+[15May2025 22:55:51.942] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [44,-20]
+[15May2025 22:56:02.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> onde tas??}w
+[15May2025 22:56:42.299] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15May2025 22:56:42.316] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15May2025 22:57:31.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to TAQUIS123]
+[15May2025 22:57:36.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[15May2025 22:58:10.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> los generadores no funcionan
+[15May2025 22:58:12.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[15May2025 22:58:21.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> hay armas en los cofres
+[15May2025 22:58:23.813] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Ira'/45758, l='ServerLevel[world]', x=578.38, y=69.57, z=-541.49] died, message: 'Ira was slain by Fast infected'
+[15May2025 22:58:33.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Amateur Archaeologist]
+[15May2025 22:58:45.067] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Arina'/45757, l='ServerLevel[world]', x=639.29, y=74.00, z=-445.61] died, message: 'Arina was slain by Infected Dog'
+[15May2025 22:59:05.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> manda tp
+[15May2025 22:59:22.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Summoned new entity.brutalbosses.thrownitem]
+[15May2025 23:00:24.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Cinnabar Ore]
+[15May2025 23:01:32.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Monster Hunter]
+[15May2025 23:01:32.877] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Found 163 recipes with the 'lightmanscurrency' namespace!
+[15May2025 23:01:32.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [My first penny!]
+[15May2025 23:01:34.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Diamonds!]
+[15May2025 23:01:41.909] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15May2025 23:01:41.930] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15May2025 23:01:45.139] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[15May2025 23:01:45.139] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[15May2025 23:01:45.139] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[15May2025 23:01:45.139] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[15May2025 23:01:45.140] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[15May2025 23:01:45.140] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[15May2025 23:01:45.140] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[15May2025 23:01:45.140] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[15May2025 23:01:45.140] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[15May2025 23:01:45.140] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[15May2025 23:01:45.140] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[15May2025 23:01:45.140] [Worker-Main-5/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[15May2025 23:01:59.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Monster Hunter]
+[15May2025 23:02:44.978] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [37,-19]
+[15May2025 23:02:44.978] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_180 at (603 | 40 | -311)
+[15May2025 23:02:44.979] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_180 at (603 | 40 | -311)
+[15May2025 23:02:44.979] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/crumbled with rotation CLOCKWISE_90 at (607 | 28 | -298)
+[15May2025 23:02:44.979] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/crumbled with rotation CLOCKWISE_90 at (607 | 28 | -298)
+[15May2025 23:02:44.979] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3c80087f for dungeoncrawl:catacombs/multipart/node/ceiling/crumbled at (607 | 28 | -298)
+[15May2025 23:02:44.979] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3c80087f for dungeoncrawl:catacombs/multipart/node/ceiling/crumbled at (607 | 28 | -298)
+[15May2025 23:02:44.979] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (601 | 21 | -304)
+[15May2025 23:02:44.980] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (601 | 21 | -304)
+[15May2025 23:02:44.980] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3c80087f for dungeoncrawl:catacombs/node/sewers_straight at (601 | 21 | -304)
+[15May2025 23:02:44.980] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3c80087f for dungeoncrawl:catacombs/node/sewers_straight at (601 | 21 | -304)
+[15May2025 23:02:44.980] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (592 | 12 | -313)
+[15May2025 23:02:44.981] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (592 | 12 | -313)
+[15May2025 23:02:44.982] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [37,-19]
+[15May2025 23:02:44.988] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [38,-19]
+[15May2025 23:02:44.988] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation NONE at (616 | 40 | -307)
+[15May2025 23:02:44.988] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation NONE at (616 | 40 | -307)
+[15May2025 23:02:44.988] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (618 | 40 | -307)
+[15May2025 23:02:44.988] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (618 | 40 | -307)
+[15May2025 23:02:44.988] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_180 at (603 | 40 | -311)
+[15May2025 23:02:44.989] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_180 at (603 | 40 | -311)
+[15May2025 23:02:44.989] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker_4 with rotation NONE at (623 | 40 | -309)
+[15May2025 23:02:44.989] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker_4 with rotation NONE at (623 | 40 | -309)
+[15May2025 23:02:44.989] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation CLOCKWISE_90 at (623 | 40 | -300)
+[15May2025 23:02:44.989] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation CLOCKWISE_90 at (623 | 40 | -300)
+[15May2025 23:02:44.989] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/crumbled with rotation CLOCKWISE_90 at (607 | 28 | -298)
+[15May2025 23:02:44.989] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/crumbled with rotation CLOCKWISE_90 at (607 | 28 | -298)
+[15May2025 23:02:44.989] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3c80087f for dungeoncrawl:catacombs/multipart/node/ceiling/crumbled at (607 | 28 | -298)
+[15May2025 23:02:44.989] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3c80087f for dungeoncrawl:catacombs/multipart/node/ceiling/crumbled at (607 | 28 | -298)
+[15May2025 23:02:44.989] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (601 | 21 | -304)
+[15May2025 23:02:44.990] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (601 | 21 | -304)
+[15May2025 23:02:44.990] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3c80087f for dungeoncrawl:catacombs/node/sewers_straight at (601 | 21 | -304)
+[15May2025 23:02:44.991] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3c80087f for dungeoncrawl:catacombs/node/sewers_straight at (601 | 21 | -304)
+[15May2025 23:02:44.991] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (592 | 12 | -313)
+[15May2025 23:02:44.991] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (592 | 12 | -313)
+[15May2025 23:02:44.991] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [38,-19]
+[15May2025 23:02:44.996] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [39,-19]
+[15May2025 23:02:44.996] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (630 | 49 | -311)
+[15May2025 23:02:44.997] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (630 | 49 | -311)
+[15May2025 23:02:44.997] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker_4 with rotation NONE at (623 | 40 | -309)
+[15May2025 23:02:44.997] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker_4 with rotation NONE at (623 | 40 | -309)
+[15May2025 23:02:44.997] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation CLOCKWISE_90 at (623 | 40 | -300)
+[15May2025 23:02:44.997] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation CLOCKWISE_90 at (623 | 40 | -300)
+[15May2025 23:02:44.997] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (632 | 40 | -309)
+[15May2025 23:02:44.998] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (632 | 40 | -309)
+[15May2025 23:02:44.998] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [39,-19]
+[15May2025 23:02:45.090] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [40,-19]
+[15May2025 23:02:45.090] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (630 | 49 | -311)
+[15May2025 23:02:45.091] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (630 | 49 | -311)
+[15May2025 23:02:45.091] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (632 | 40 | -309)
+[15May2025 23:02:45.091] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (632 | 40 | -309)
+[15May2025 23:02:45.091] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (641 | 40 | -307)
+[15May2025 23:02:45.091] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (641 | 40 | -307)
+[15May2025 23:02:45.091] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation NONE at (646 | 40 | -313)
+[15May2025 23:02:45.091] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation NONE at (646 | 40 | -313)
+[15May2025 23:02:45.091] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [40,-19]
+[15May2025 23:02:45.097] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [41,-19]
+[15May2025 23:02:45.097] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation NONE at (646 | 40 | -313)
+[15May2025 23:02:45.097] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation NONE at (646 | 40 | -313)
+[15May2025 23:02:45.097] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [41,-19]
+[15May2025 23:02:45.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Config for configuration of type SERVER not found]
+[15May2025 23:02:50.096] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [42,-19]
+[15May2025 23:02:50.096] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (682 | 49 | -313)
+[15May2025 23:02:50.096] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (682 | 49 | -313)
+[15May2025 23:02:50.096] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [42,-19]
+[15May2025 23:03:20.988] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [40,-18]
+[15May2025 23:03:20.988] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [40,-18]
+[15May2025 23:03:21.003] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [41,-18]
+[15May2025 23:03:21.003] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [41,-18]
+[15May2025 23:03:21.042] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [42,-18]
+[15May2025 23:03:21.043] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [42,-18]
+[15May2025 23:03:21.088] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [37,-18]
+[15May2025 23:03:21.088] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (601 | 21 | -304)
+[15May2025 23:03:21.089] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (601 | 21 | -304)
+[15May2025 23:03:21.089] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3c80087f for dungeoncrawl:catacombs/node/sewers_straight at (601 | 21 | -304)
+[15May2025 23:03:21.089] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3c80087f for dungeoncrawl:catacombs/node/sewers_straight at (601 | 21 | -304)
+[15May2025 23:03:21.089] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [37,-18]
+[15May2025 23:03:21.095] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [38,-18]
+[15May2025 23:03:21.095] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (601 | 21 | -304)
+[15May2025 23:03:21.095] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (601 | 21 | -304)
+[15May2025 23:03:21.095] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3c80087f for dungeoncrawl:catacombs/node/sewers_straight at (601 | 21 | -304)
+[15May2025 23:03:21.095] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@3c80087f for dungeoncrawl:catacombs/node/sewers_straight at (601 | 21 | -304)
+[15May2025 23:03:21.095] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [38,-18]
+[15May2025 23:03:21.101] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [39,-18]
+[15May2025 23:03:21.101] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [39,-18]
+[15May2025 23:03:22.249] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [43,-19]
+[15May2025 23:03:22.249] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (682 | 49 | -313)
+[15May2025 23:03:22.249] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_90 at (682 | 49 | -313)
+[15May2025 23:03:22.250] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [43,-19]
+[15May2025 23:03:22.292] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [43,-18]
+[15May2025 23:03:22.292] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [43,-18]
+[15May2025 23:03:27.793] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [44,-19]
+[15May2025 23:03:27.793] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [44,-19]
+[15May2025 23:03:27.799] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [44,-18]
+[15May2025 23:03:27.799] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [44,-18]
+[15May2025 23:03:47.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[15May2025 23:04:21.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was shot by Plague Zombie
+[15May2025 23:04:23.115] [Server thread/INFO] [tac/]: PENDING
+[15May2025 23:04:27.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd??
+[15May2025 23:04:39.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Summoned golem with type "golems:netherite" at (604, 77, -468)]
