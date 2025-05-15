@@ -8066,3 +8066,56 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 23:13:26.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> en q canal
 [15May2025 23:13:40.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> papus nomas
 [15May2025 23:14:56.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Stone Age]
+[15May2025 23:15:35.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Stone Age]
+[15May2025 23:17:16.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Chalcanthite Ingot]
+[15May2025 23:17:36.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> traete hierro
+[15May2025 23:17:36.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Getting an Upgrade]
+[15May2025 23:18:44.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Skeleton
+[15May2025 23:18:45.718] [Server thread/INFO] [tac/]: PENDING
+[15May2025 23:18:50.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[15May2025 23:19:02.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Spider
+[15May2025 23:19:03.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has completed the challenge [Sniper Duel]
+[15May2025 23:19:04.167] [Server thread/INFO] [tac/]: PENDING
+[15May2025 23:20:29.819] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL lost connection: Timed out
+[15May2025 23:20:29.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL left the game
+[15May2025 23:20:29.821] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc7b24d9-b9a0-37fe-a22c-1653103fa143 was unloaded
+[15May2025 23:20:29.869] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[15May2025 23:20:57.846] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@eb10234
+[15May2025 23:20:57.876] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ATT_CANNIVAL[/127.25.132.71:36795] logged in with entity id 84793 at (514.7817771261718, 70.0, -557.6131682035312)
+[15May2025 23:20:57.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL joined the game
+[15May2025 23:20:57.892] [Server thread/INFO] [tac/]: PENDING
+[15May2025 23:20:57.928] [Server thread/INFO] [net.mcreator.tmtmcoresandmore.TmtmcoresandmoreMod/]: TmTmc-OresAndMore loaded
+[15May2025 23:20:57.929] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:72]: enable_welcome: true
+[15May2025 23:20:57.929] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:73]: welcome_message: Welcome to our server 
+[15May2025 23:20:57.929] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:74]: enable_all_ores: true
+[15May2025 23:20:57.929] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:75]: enable_all_ingots: true
+[15May2025 23:20:57.929] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:76]: enable_all_blocks: true
+[15May2025 23:20:57.929] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:77]: enable_all_armors: true
+[15May2025 23:20:57.929] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:78]: enable_all_swords_bows: true
+[15May2025 23:20:57.930] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:79]: enable_all_foods: true
+[15May2025 23:20:57.930] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:80]: enable_all_paintings: true
+[15May2025 23:20:57.930] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:81]: enable_all_poisons: true
+[15May2025 23:20:57.930] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:82]: enable_all_powders: true
+[15May2025 23:20:57.930] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:83]: enable_all_tools: true
+[15May2025 23:20:57.930] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:84]: enable_all_recipes: true
+[15May2025 23:20:57.930] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:85]: enable_all_advancements: true
+[15May2025 23:20:57.930] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[15May2025 23:20:57.931] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[15May2025 23:20:57.931] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[15May2025 23:20:57.987] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@4824e6b7 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[15May2025 23:20:57.987] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@6e5cc1e1 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15May2025 23:20:57.988] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@395d41b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15May2025 23:20:57.988] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@204ffa8b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15May2025 23:20:58.875] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc7b24d9-b9a0-37fe-a22c-1653103fa143 was loaded
+[15May2025 23:21:10.016] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Dilber'/45659, l='ServerLevel[world]', x=574.71, y=86.00, z=-460.29] died, message: 'Dilber (Staying) was slain by Drawned zombie'
+[15May2025 23:23:48.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to 616.5, 72.5, -560.5]
+[15May2025 23:24:00.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> porque no deja dormei
+[15May2025 23:24:11.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> hay z cerca
+[15May2025 23:24:32.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> no veo zombies serca
+[15May2025 23:24:32.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> un zombi justo aca al lado
+[15May2025 23:24:37.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> matalo pe
+[15May2025 23:24:50.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 fell from a high place
+[15May2025 23:24:51.415] [Server thread/INFO] [tac/]: PENDING
+[15May2025 23:24:53.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[15May2025 23:25:00.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> qfue
+[15May2025 23:25:01.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
