@@ -18050,3 +18050,205 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 23:41:41.925] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [15May2025 23:41:44.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Acquire Hardware]
 [15May2025 23:42:37.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mejjor quita el mod de matar animales
+[15May2025 23:45:52.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Zombie
+[15May2025 23:45:54.238] [Server thread/INFO] [tac/]: PENDING
+[15May2025 23:46:10.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Zombie
+[15May2025 23:46:11.973] [Server thread/INFO] [tac/]: PENDING
+[15May2025 23:46:15.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Infection Military
+[15May2025 23:46:17.876] [Server thread/INFO] [tac/]: PENDING
+[15May2025 23:46:17.881] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@4824e6b7 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[15May2025 23:46:17.881] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@6e5cc1e1 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15May2025 23:46:17.882] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@395d41b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15May2025 23:46:17.882] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@204ffa8b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15May2025 23:46:19.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by TAQUIS123's Zombie
+[15May2025 23:46:20.402] [Server thread/INFO] [tac/]: PENDING
+[15May2025 23:46:29.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Infected
+[15May2025 23:46:31.840] [Server thread/INFO] [tac/]: PENDING
+[15May2025 23:46:31.844] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@4824e6b7 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[15May2025 23:46:31.845] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@6e5cc1e1 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15May2025 23:46:31.845] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@395d41b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15May2025 23:46:31.845] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@204ffa8b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15May2025 23:46:33.612] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=611, y=70, z=-558}
+[15May2025 23:46:33.662] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=611, y=70, z=-558}
+[15May2025 23:46:34.751] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=613, y=70, z=-556}
+[15May2025 23:46:35.013] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=615, y=71, z=-556}
+[15May2025 23:46:38.900] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=609, y=70, z=-552}
+[15May2025 23:46:41.663] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Preparing airdrop spawn event
+[15May2025 23:46:41.664] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Created new airdrop at BlockPos{x=614, y=168, z=-583} for player TAQUIS123
+[15May2025 23:46:41.901] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15May2025 23:46:41.918] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15May2025 23:47:01.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mis cosas
+[15May2025 23:47:11.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has bled out
+[15May2025 23:47:13.321] [Server thread/INFO] [tac/]: PENDING
+[15May2025 23:47:13.325] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@4824e6b7 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[15May2025 23:47:13.325] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@6e5cc1e1 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15May2025 23:47:13.325] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@395d41b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15May2025 23:47:13.325] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@204ffa8b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15May2025 23:47:52.754] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45632, l='ServerLevel[world]', x=585.50, y=73.00, z=-479.50] quests expired
+[15May2025 23:47:52.954] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45668, l='ServerLevel[world]', x=597.50, y=73.00, z=-479.50] quests expired
+[15May2025 23:47:55.803] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45729, l='ServerLevel[world]', x=556.50, y=72.00, z=-507.50] quests expired
+[15May2025 23:47:55.904] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45718, l='ServerLevel[world]', x=585.50, y=73.00, z=-499.50] quests expired
+[15May2025 23:47:55.905] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45734, l='ServerLevel[world]', x=595.50, y=73.00, z=-499.50] quests expired
+[15May2025 23:47:55.905] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45735, l='ServerLevel[world]', x=605.50, y=72.00, z=-499.50] quests expired
+[15May2025 23:47:56.204] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45732, l='ServerLevel[world]', x=610.50, y=72.00, z=-479.50] quests expired
+[15May2025 23:47:56.204] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45733, l='ServerLevel[world]', x=622.50, y=71.00, z=-479.50] quests expired
+[15May2025 23:47:56.254] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45736, l='ServerLevel[world]', x=618.50, y=71.00, z=-499.50] quests expired
+[15May2025 23:47:57.704] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45747, l='ServerLevel[world]', x=576.50, y=71.00, z=-519.50] quests expired
+[15May2025 23:47:57.704] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45749, l='ServerLevel[world]', x=556.50, y=71.00, z=-519.50] quests expired
+[15May2025 23:47:58.054] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45750, l='ServerLevel[world]', x=528.50, y=93.00, z=-515.50] quests expired
+[15May2025 23:47:58.054] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45751, l='ServerLevel[world]', x=529.50, y=93.00, z=-506.50] quests expired
+[15May2025 23:47:59.554] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45830, l='ServerLevel[world]', x=576.50, y=71.00, z=-534.50] quests expired
+[15May2025 23:47:59.554] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45831, l='ServerLevel[world]', x=588.50, y=72.00, z=-541.50] quests expired
+[15May2025 23:47:59.604] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45852, l='ServerLevel[world]', x=631.50, y=65.00, z=-531.50] quests expired
+[15May2025 23:47:59.804] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45838, l='ServerLevel[world]', x=539.50, y=71.00, z=-539.50] quests expired
+[15May2025 23:47:59.804] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45839, l='ServerLevel[world]', x=528.50, y=79.00, z=-539.50] quests expired
+[15May2025 23:47:59.955] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45848, l='ServerLevel[world]', x=622.50, y=73.00, z=-541.50] quests expired
+[15May2025 23:48:00.804] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45907, l='ServerLevel[world]', x=576.50, y=71.00, z=-545.50] quests expired
+[15May2025 23:48:00.804] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45911, l='ServerLevel[world]', x=539.50, y=71.00, z=-549.50] quests expired
+[15May2025 23:48:01.754] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45914, l='ServerLevel[world]', x=503.50, y=93.00, z=-530.50] quests expired
+[15May2025 23:48:01.804] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45916, l='ServerLevel[world]', x=509.50, y=94.00, z=-519.50] quests expired
+[15May2025 23:48:01.805] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45917, l='ServerLevel[world]', x=503.50, y=93.00, z=-518.50] quests expired
+[15May2025 23:48:01.805] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45918, l='ServerLevel[world]', x=503.50, y=74.00, z=-555.50] quests expired
+[15May2025 23:48:02.304] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45962, l='ServerLevel[world]', x=559.50, y=72.00, z=-561.50] quests expired
+[15May2025 23:48:02.304] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45963, l='ServerLevel[world]', x=572.50, y=71.00, z=-561.50] quests expired
+[15May2025 23:48:02.305] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45964, l='ServerLevel[world]', x=585.50, y=72.00, z=-561.50] quests expired
+[15May2025 23:48:02.454] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45961, l='ServerLevel[world]', x=539.50, y=73.00, z=-560.50] quests expired
+[15May2025 23:48:02.454] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45965, l='ServerLevel[world]', x=598.50, y=72.00, z=-561.50] quests expired
+[15May2025 23:48:06.756] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45893, l='ServerLevel[world]', x=510.50, y=73.00, z=-479.50] quests expired
+[15May2025 23:48:13.755] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45686, l='ServerLevel[world]', x=576.50, y=98.00, z=-450.50] quests expired
+[15May2025 23:48:19.906] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45739, l='ServerLevel[world]', x=556.50, y=90.00, z=-433.50] quests expired
+[15May2025 23:48:19.906] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45740, l='ServerLevel[world]', x=556.50, y=99.00, z=-445.50] quests expired
+[15May2025 23:48:19.907] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45742, l='ServerLevel[world]', x=576.50, y=87.00, z=-437.50] quests expired
+[15May2025 23:48:19.907] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45777, l='ServerLevel[world]', x=633.50, y=74.00, z=-444.50] quests expired
+[15May2025 23:48:19.908] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45778, l='ServerLevel[world]', x=633.50, y=74.00, z=-434.50] quests expired
+[15May2025 23:48:19.908] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45854, l='ServerLevel[world]', x=512.50, y=65.00, z=-432.50] quests expired
+[15May2025 23:49:01.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by TAQUIS123's Zombie
+[15May2025 23:49:02.464] [Server thread/INFO] [tac/]: PENDING
+[15May2025 23:49:05.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Heavy Military
+[15May2025 23:49:07.215] [Server thread/INFO] [tac/]: PENDING
+[15May2025 23:50:23.057] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45781, l='ServerLevel[world]', x=606.50, y=77.00, z=-422.50] quests expired
+[15May2025 23:50:23.058] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45782, l='ServerLevel[world]', x=633.50, y=74.00, z=-424.50] quests expired
+[15May2025 23:50:41.235] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=616, y=70, z=-551}
+[15May2025 23:50:41.285] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=616, y=70, z=-551}
+[15May2025 23:50:55.384] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=616, y=70, z=-550}
+[15May2025 23:50:55.744] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=617, y=70, z=-550}
+[15May2025 23:50:55.983] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=616, y=70, z=-550}
+[15May2025 23:50:56.232] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=616, y=70, z=-550}
+[15May2025 23:50:56.485] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=616, y=70, z=-550}
+[15May2025 23:50:56.736] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=617, y=70, z=-550}
+[15May2025 23:50:56.989] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=616, y=70, z=-550}
+[15May2025 23:50:57.036] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=616, y=70, z=-550}
+[15May2025 23:50:57.143] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=616, y=70, z=-550}
+[15May2025 23:50:57.192] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=616, y=70, z=-550}
+[15May2025 23:50:57.385] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=616, y=70, z=-549}
+[15May2025 23:50:57.434] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=617, y=70, z=-549}
+[15May2025 23:50:57.490] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=617, y=70, z=-548}
+[15May2025 23:50:57.541] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=617, y=70, z=-548}
+[15May2025 23:50:57.584] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=616, y=70, z=-548}
+[15May2025 23:50:57.647] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=616, y=70, z=-547}
+[15May2025 23:50:57.683] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=616, y=70, z=-547}
+[15May2025 23:50:57.733] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=616, y=70, z=-547}
+[15May2025 23:50:57.844] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=616, y=70, z=-547}
+[15May2025 23:50:57.866] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=616, y=70, z=-547}
+[15May2025 23:50:57.888] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=615, y=70, z=-548}
+[15May2025 23:50:57.933] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=615, y=70, z=-546}
+[15May2025 23:50:57.984] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=616, y=70, z=-546}
+[15May2025 23:50:58.032] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=614, y=70, z=-547}
+[15May2025 23:50:58.083] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=614, y=70, z=-547}
+[15May2025 23:50:58.188] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=615, y=70, z=-547}
+[15May2025 23:50:58.286] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=613, y=70, z=-548}
+[15May2025 23:50:58.339] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=613, y=70, z=-548}
+[15May2025 23:50:58.383] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=613, y=70, z=-545}
+[15May2025 23:50:59.936] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=610, y=69, z=-544} BlockPos{x=610, y=69, z=-545}
+[15May2025 23:51:00.033] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=610, y=69, z=-544} BlockPos{x=611, y=69, z=-545}
+[15May2025 23:51:00.185] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=612, y=69, z=-545}
+[15May2025 23:51:00.234] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=612, y=69, z=-546}
+[15May2025 23:51:00.382] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=613, y=70, z=-546}
+[15May2025 23:51:00.436] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=613, y=70, z=-545}
+[15May2025 23:51:00.482] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=613, y=70, z=-545}
+[15May2025 23:51:00.533] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=613, y=70, z=-546}
+[15May2025 23:51:00.591] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=613, y=70, z=-547}
+[15May2025 23:51:00.632] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=613, y=70, z=-547}
+[15May2025 23:51:00.738] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=614, y=70, z=-547}
+[15May2025 23:51:00.790] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=614, y=70, z=-547}
+[15May2025 23:51:00.932] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=613, y=70, z=-548}
+[15May2025 23:51:01.082] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=613, y=70, z=-549}
+[15May2025 23:51:01.133] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=613, y=70, z=-549}
+[15May2025 23:51:02.683] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=616, y=70, z=-547}
+[15May2025 23:51:02.733] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=616, y=70, z=-547}
+[15May2025 23:51:02.781] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=616, y=70, z=-547}
+[15May2025 23:51:03.040] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=617, y=70, z=-547}
+[15May2025 23:51:03.082] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=616, y=70, z=-547}
+[15May2025 23:51:03.133] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=616, y=70, z=-547}
+[15May2025 23:51:03.183] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=616, y=70, z=-547}
+[15May2025 23:51:03.438] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=616, y=70, z=-547}
+[15May2025 23:51:03.493] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=614, y=70, z=-549}
+[15May2025 23:51:03.783] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=615, y=70, z=-549}
+[15May2025 23:51:03.833] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=615, y=70, z=-549}
+[15May2025 23:51:20.148] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=616, y=70, z=-551}
+[15May2025 23:51:20.434] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=615, y=70, z=-551}
+[15May2025 23:51:32.844] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=617, y=70, z=-551}
+[15May2025 23:51:33.033] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=612, y=69, z=-544} BlockPos{x=617, y=70, z=-552}
+[15May2025 23:51:41.983] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15May2025 23:51:41.999] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15May2025 23:52:41.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Isn't It Iron Pick]
+[15May2025 23:52:45.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Natural Blue Zircon Block]
+[15May2025 23:53:04.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Scheelite Block]
+[15May2025 23:53:29.649] [Worker-Main-54/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[15May2025 23:53:29.649] [Worker-Main-54/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[15May2025 23:53:29.649] [Worker-Main-54/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[15May2025 23:53:29.649] [Worker-Main-54/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[15May2025 23:53:29.650] [Worker-Main-54/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[15May2025 23:53:29.650] [Worker-Main-54/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[15May2025 23:53:29.650] [Worker-Main-54/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[15May2025 23:53:29.650] [Worker-Main-54/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[15May2025 23:53:29.650] [Worker-Main-54/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[15May2025 23:53:29.650] [Worker-Main-54/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[15May2025 23:53:29.650] [Worker-Main-54/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[15May2025 23:53:29.650] [Worker-Main-54/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[15May2025 23:54:06.017] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[15May2025 23:54:06.018] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[15May2025 23:54:06.018] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[15May2025 23:54:06.018] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[15May2025 23:54:06.018] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[15May2025 23:54:06.018] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[15May2025 23:54:06.018] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[15May2025 23:54:06.018] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[15May2025 23:54:06.018] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[15May2025 23:54:06.022] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[15May2025 23:54:06.022] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[15May2025 23:54:06.022] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[15May2025 23:54:06.022] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[15May2025 23:54:06.023] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[15May2025 23:54:06.023] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[15May2025 23:54:06.024] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[15May2025 23:54:06.024] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[15May2025 23:54:06.024] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[15May2025 23:54:06.025] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[15May2025 23:54:06.025] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[15May2025 23:54:06.025] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[15May2025 23:54:06.025] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[15May2025 23:54:06.063] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[15May2025 23:54:06.063] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[15May2025 23:54:06.063] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[15May2025 23:54:06.064] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[15May2025 23:54:06.064] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[15May2025 23:54:06.064] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[15May2025 23:54:06.065] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[15May2025 23:54:06.065] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[15May2025 23:54:06.065] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[15May2025 23:54:06.068] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[15May2025 23:54:06.068] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[15May2025 23:54:06.069] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[15May2025 23:54:06.069] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[15May2025 23:54:06.069] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[15May2025 23:54:06.069] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[15May2025 23:54:06.070] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[15May2025 23:54:06.070] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[15May2025 23:54:06.070] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[15May2025 23:54:06.070] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[15May2025 23:54:06.070] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[15May2025 23:54:06.070] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[15May2025 23:54:06.070] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[15May2025 23:55:30.680] [Worker-Main-54/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=622, y=39, z=-900} at Chest with:minecraft:chests/simple_dungeon in dungeons_arise:foundry
+[15May2025 23:55:39.906] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45885, l='ServerLevel[world]', x=520.50, y=66.00, z=-412.50] quests expired

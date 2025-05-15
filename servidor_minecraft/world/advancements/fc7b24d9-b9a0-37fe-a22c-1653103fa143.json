@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-15 23:49:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-05-15 23:16:23 +0000"
@@ -29,9 +35,21 @@
     },
     "done": true
   },
+  "tac:recipes/tac/medium_steel_armor": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:44:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_cooler": {
     "criteria": {
       "has_chest": "2025-05-15 23:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:43 +0000"
     },
     "done": true
   },
@@ -53,6 +71,12 @@
     },
     "done": true
   },
+  "ava:recipes/survival/spring": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_desk_cabinet": {
     "criteria": {
       "has_log": "2025-05-15 23:16:42 +0000"
@@ -68,6 +92,12 @@
   "cfm:recipes/cfm/stripped_warped_mail_box": {
     "criteria": {
       "has_chest": "2025-05-15 23:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
     },
     "done": true
   },
@@ -137,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-05-15 22:57:37 +0000"
@@ -185,6 +221,18 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/trampoline": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-05-15 23:11:59 +0000"
@@ -206,6 +254,18 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-05-15 23:01:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/brown_grill": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/green_grill": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:44 +0000"
     },
     "done": true
   },
@@ -275,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-05-15 23:23:03 +0000"
@@ -305,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-05-15 23:15:35 +0000"
@@ -326,6 +398,12 @@
   "mca:recipes/misc/rose_gold_ingot_blasting": {
     "criteria": {
       "has_item": "2025-05-15 22:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:43 +0000"
     },
     "done": true
   },
@@ -359,15 +437,51 @@
     },
     "done": true
   },
+  "ava:recipes/survival/mechanical_components": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/ceramic": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-05-15 23:16:42 +0000"
     },
     "done": true
   },
+  "cfm:recipes/cfm/orange_grill": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "craftingdead:recipes/craftingdead.medical/bandage": {
+    "criteria": {
+      "has_string": "2025-05-15 23:49:25 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:currency/trading_core": {
     "criteria": {
       "trading_core": "2025-05-15 22:46:56 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/work_hardened_iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:43 +0000"
     },
     "done": true
   },
@@ -385,6 +499,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/machine_pistol": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_kitchen_counter": {
     "criteria": {
       "has_log": "2025-05-15 23:16:42 +0000"
@@ -394,6 +514,12 @@
   "cfm:recipes/cfm/acacia_crate": {
     "criteria": {
       "has_log": "2025-05-15 23:16:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/blue_grill": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:44 +0000"
     },
     "done": true
   },
@@ -421,9 +547,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/yellow_grill": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:43 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-15 22:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-15 23:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/combat/chainmailboots": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:44 +0000"
     },
     "done": true
   },
@@ -454,6 +604,18 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-05-15 23:17:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/purple_grill": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:43 +0000"
     },
     "done": true
   },
@@ -517,6 +679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-05-15 22:48:52 +0000"
@@ -544,6 +712,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-05-15 23:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
     },
     "done": true
   },
@@ -613,6 +787,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/combat/chainmailleggings": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:43 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/fuse": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_the_recipe": "2025-05-15 23:17:08 +0000"
@@ -637,6 +835,12 @@
     },
     "done": true
   },
+  "ava:recipes/decorations/cobweb": {
+    "criteria": {
+      "has_string": "2025-05-15 23:49:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/black_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-15 23:33:04 +0000"
@@ -646,6 +850,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-05-15 23:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-15 23:49:25 +0000"
     },
     "done": true
   },
@@ -709,6 +919,12 @@
     },
     "done": true
   },
+  "ava:recipes/main/gun_crafting_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-05-15 23:22:42 +0000"
@@ -743,6 +959,30 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/white_grill": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/fibre": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_grill": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-15 23:33:04 +0000"
@@ -767,6 +1007,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/magenta_grill": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-05-15 23:11:59 +0000"
@@ -779,6 +1025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-15 23:44:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-15 23:33:04 +0000"
@@ -788,6 +1040,18 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-05-15 23:11:59 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/rifle": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/mini_gun": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
     },
     "done": true
   },
@@ -827,6 +1091,12 @@
     },
     "done": true
   },
+  "craftingdead:recipes/craftingdead.combat/small_barrel": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_park_bench": {
     "criteria": {
       "has_log": "2025-05-15 23:16:42 +0000"
@@ -836,6 +1106,12 @@
   "cfm:recipes/cfm/acacia_mail_box": {
     "criteria": {
       "has_chest": "2025-05-15 23:33:04 +0000"
+    },
+    "done": true
+  },
+  "tac:recipes/tac/workbench": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:44:05 +0000"
     },
     "done": true
   },
@@ -854,6 +1130,18 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-05-15 23:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-15 23:49:25 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/lens": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
     },
     "done": true
   },
@@ -878,6 +1166,12 @@
   "cfm:recipes/cfm/stripped_acacia_crate": {
     "criteria": {
       "has_planks": "2025-05-15 23:16:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_grill": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:43 +0000"
     },
     "done": true
   },
@@ -914,6 +1208,18 @@
   "cfm:recipes/cfm/cyan_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-15 23:33:04 +0000"
+    },
+    "done": true
+  },
+  "craftingdead:recipes/craftingdead.combat/medium_bolt": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
     },
     "done": true
   },
@@ -1032,9 +1338,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/spatula": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-05-15 23:11:40 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/acetone_solution": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:43 +0000"
     },
     "done": true
   },
@@ -1050,6 +1368,18 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/assault_rifle": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/workbench": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-15 23:33:04 +0000"
@@ -1059,6 +1389,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-05-15 23:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
     },
     "done": true
   },
@@ -1104,9 +1440,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-15 23:49:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-15 23:11:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/bazooka": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
     },
     "done": true
   },
@@ -1122,9 +1476,21 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/shotgun": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:43 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/gold_diamond_chest": {
     "criteria": {
       "has_diamonds": "2025-05-15 23:01:34 +0000"
+    },
+    "done": true
+  },
+  "craftingdead:recipes/craftingdead.medical/first_aid_kit": {
+    "criteria": {
+      "has_string": "2025-05-15 23:49:25 +0000"
     },
     "done": true
   },
@@ -1155,6 +1521,12 @@
   "cfm:recipes/cfm/acacia_blinds": {
     "criteria": {
       "has_log": "2025-05-15 23:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
     },
     "done": true
   },
@@ -1236,6 +1608,18 @@
     },
     "done": true
   },
+  "tac:recipes/tac/light_armor": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:44:05 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/iron_to_gold_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:43 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2025-05-15 22:46:56 +0000"
@@ -1251,6 +1635,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-05-15 23:01:59 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/compressed_wood": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:43 +0000"
     },
     "done": true
   },
@@ -1284,9 +1674,21 @@
     },
     "done": true
   },
+  "ava:recipes/main/mastery_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-05-15 23:15:35 +0000"
+    },
+    "done": true
+  },
+  "tac:recipes/tac/light_armor_plate": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:44:05 +0000"
     },
     "done": true
   },
@@ -1302,6 +1704,12 @@
     },
     "done": true
   },
+  "ava:recipes/survival/smoke_powder": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-15 22:51:38 +0000",
@@ -1314,9 +1722,33 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_iron_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/combat/chainmailchestplate": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-05-15 23:16:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/red_grill": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:43 +0000"
     },
     "done": true
   },
@@ -1374,6 +1806,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/grenade_launcher": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_coliseum": {
     "criteria": {
       "location0": "2025-05-15 22:50:17 +0000"
@@ -1383,6 +1821,18 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-05-15 23:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_grill": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:43 +0000"
     },
     "done": true
   },
@@ -1398,6 +1848,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/lime_grill": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:43 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/staff_of_life": {
     "criteria": {
       "has_item": "2025-05-15 22:46:56 +0000"
@@ -1410,9 +1866,21 @@
     },
     "done": true
   },
+  "ava:recipes/main/builders_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/door_mat": {
     "criteria": {
       "has_wheat": "2025-05-15 23:22:43 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/pistol": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
     },
     "done": true
   },
@@ -1428,9 +1896,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-15 23:44:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_gray_cooler": {
     "criteria": {
       "has_chest": "2025-05-15 23:33:04 +0000"
+    },
+    "done": true
+  },
+  "craftingdead:recipes/craftingdead.combat/small_stock": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/wood_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
     },
     "done": true
   },
@@ -1446,9 +1932,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/red_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-15 23:33:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_grill": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:44 +0000"
     },
     "done": true
   },
@@ -1470,9 +1968,21 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/heavy_rifle": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_acacia_planks": "2025-05-15 23:17:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/cyan_grill": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:43 +0000"
     },
     "done": true
   },
@@ -1485,6 +1995,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-15 23:33:04 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/main/gun_colouring_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:43 +0000"
     },
     "done": true
   },
@@ -1530,9 +2046,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stone_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-05-15 23:15:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_grill": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:43 +0000"
     },
     "done": true
   },
@@ -1551,6 +2079,12 @@
   "cfm:recipes/cfm/stripped_acacia_mail_box": {
     "criteria": {
       "has_chest": "2025-05-15 23:33:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/post_box": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:43 +0000"
     },
     "done": true
   },
@@ -1581,6 +2115,12 @@
   "cfm:recipes/cfm/stripped_jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-15 23:33:04 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/main/gun_modifying_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
     },
     "done": true
   },
@@ -1626,6 +2166,18 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/silicon": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-05-15 23:15:35 +0000"
@@ -1635,6 +2187,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-05-15 23:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/combat/chainmailhelmet": {
+    "criteria": {
+      "has_iron": "2025-05-15 23:41:43 +0000"
     },
     "done": true
   },

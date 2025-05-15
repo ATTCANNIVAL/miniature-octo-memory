@@ -928,7 +928,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-15 23:01:32 +0000",
-      "minecraft:spider": "2025-05-15 23:04:20 +0000"
+      "minecraft:spider": "2025-05-15 23:04:20 +0000",
+      "minecraft:zombie": "2025-05-15 23:47:14 +0000"
     },
     "done": false
   },
@@ -1305,6 +1306,12 @@
   "ironchest:recipes/ironchest/chests/iron_gold_chest": {
     "criteria": {
       "has_gold_ingot": "2025-05-15 23:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-05-15 23:48:14 +0000"
     },
     "done": true
   },
