@@ -17643,3 +17643,34 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 23:04:23.115] [Server thread/INFO] [tac/]: PENDING
 [15May2025 23:04:27.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd??
 [15May2025 23:04:39.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Summoned golem with type "golems:netherite" at (604, 77, -468)]
+[15May2025 23:05:23.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> dontas
+[15May2025 23:05:25.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> xd
+[15May2025 23:06:24.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Infected Dog
+[15May2025 23:06:26.388] [Server thread/INFO] [tac/]: PENDING
+[15May2025 23:06:41.996] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15May2025 23:06:42.014] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15May2025 23:06:50.134] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=640, y=65, z=-513}
+[15May2025 23:06:56.965] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Liliya'/45637, l='ServerLevel[world]', x=575.17, y=71.00, z=-521.56] died, message: 'Liliya was slain by Infected Dog'
+[15May2025 23:07:05.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Infected
+[15May2025 23:07:06.621] [Server thread/INFO] [tac/]: PENDING
+[15May2025 23:07:29.416] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Found 163 recipes with the 'lightmanscurrency' namespace!
+[15May2025 23:07:29.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [My first penny!]
+[15May2025 23:07:29.619] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Irina'/45908, l='ServerLevel[world]', x=572.54, y=70.00, z=-570.24] died, message: 'Irina was slain by Heavy Military'
+[15May2025 23:07:31.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Military Soldier
+[15May2025 23:07:33.882] [Server thread/INFO] [tac/]: PENDING
+[15May2025 23:07:38.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ptm
+[15May2025 23:09:33.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ati tambien te aparecia niebla?
+[15May2025 23:09:38.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Acquire Hardware]
+[15May2025 23:09:42.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> no
+[15May2025 23:10:54.146] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.inventory.DoubleSidedInventory
+[15May2025 23:11:18.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> no robes pe
+[15May2025 23:11:26.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> q fuera david
+[15May2025 23:11:41.964] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15May2025 23:11:41.982] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15May2025 23:12:03.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Cinnabar Ore]
+[15May2025 23:12:54.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> go mina?
+[15May2025 23:13:06.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> go dc
+[15May2025 23:13:12.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> a
+[15May2025 23:13:26.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> en q canal
+[15May2025 23:13:40.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> papus nomas
+[15May2025 23:14:56.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Stone Age]
