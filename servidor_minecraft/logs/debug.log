@@ -18017,3 +18017,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 23:24:53.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
 [15May2025 23:25:00.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> qfue
 [15May2025 23:25:01.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[15May2025 23:26:03.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[15May2025 23:26:08.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Fat Zombie
+[15May2025 23:26:09.669] [Server thread/INFO] [tac/]: PENDING
+[15May2025 23:26:41.907] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15May2025 23:26:41.923] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15May2025 23:27:26.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Fast infected
+[15May2025 23:27:27.389] [Server thread/INFO] [tac/]: PENDING
+[15May2025 23:27:54.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has died from pain caused by fracture
+[15May2025 23:27:55.864] [Server thread/INFO] [tac/]: PENDING
+[15May2025 23:28:05.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has bled out
+[15May2025 23:28:08.120] [Server thread/INFO] [tac/]: PENDING
+[15May2025 23:28:08.125] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@4824e6b7 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[15May2025 23:28:08.126] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@6e5cc1e1 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15May2025 23:28:08.126] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@395d41b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15May2025 23:28:08.127] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@204ffa8b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15May2025 23:29:30.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Suit Up]
+[15May2025 23:30:07.962] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Lyudmila'/45653, l='ServerLevel[world]', x=584.56, y=73.00, z=-484.60] died, message: 'Lyudmila was slain by Military Soldier'
+[15May2025 23:30:17.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to TAQUIS123]
+[15May2025 23:30:36.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to 563.5, 70.5, -534.5]
+[15May2025 23:31:42.062] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15May2025 23:31:42.078] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15May2025 23:32:29.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Iron Golem
+[15May2025 23:32:30.764] [Server thread/INFO] [tac/]: PENDING
+[15May2025 23:32:33.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> qfue
+[15May2025 23:32:34.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[15May2025 23:33:11.434] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=602, y=72, z=-467}
+[15May2025 23:33:26.582] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=601, y=71, z=-467}
