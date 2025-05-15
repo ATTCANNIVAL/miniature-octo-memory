@@ -12155,3 +12155,39 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 17:59:07.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
 [15May2025 17:59:17.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
 [15May2025 17:59:53.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[15May2025 18:00:26.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[15May2025 18:00:32.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[15May2025 18:03:01.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[15May2025 18:03:06.192] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15May2025 18:03:06.226] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15May2025 18:05:03.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[15May2025 18:06:11.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[15May2025 18:06:12.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Corvin the Rotten
+[15May2025 18:06:18.544] [Server thread/INFO] [tac/]: PENDING
+[15May2025 18:06:18.563] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@4c988046 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[15May2025 18:06:18.565] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@69678eb2 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15May2025 18:06:18.566] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@2d01ed0d (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15May2025 18:06:18.566] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4c4cae33 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15May2025 18:06:20.982] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/91270, l='ServerLevel[world]', x=-1982.50, y=68.00, z=-774.50] quests expired
+[15May2025 18:06:20.983] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/91275, l='ServerLevel[world]', x=-1983.21, y=66.00, z=-788.93] quests expired
+[15May2025 18:06:23.697] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/91332, l='ServerLevel[world]', x=-2006.50, y=69.00, z=-806.50] quests expired
+[15May2025 18:06:26.080] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/91280, l='ServerLevel[world]', x=-1982.50, y=66.00, z=-715.50] quests expired
+[15May2025 18:06:27.376] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/91360, l='ServerLevel[world]', x=-2028.50, y=67.00, z=-813.50] quests expired
+[15May2025 18:06:27.537] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/91379, l='ServerLevel[world]', x=-2020.50, y=66.00, z=-731.50] quests expired
+[15May2025 18:06:27.540] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/91399, l='ServerLevel[world]', x=-2027.50, y=66.00, z=-707.50] quests expired
+[15May2025 18:06:29.384] [Server thread/INFO] [com.willr27.blocklings.Blocklings/]: Creating trees list.
+[15May2025 18:06:46.043] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/91526, l='ServerLevel[world]', x=-2052.50, y=67.00, z=-770.50] quests expired
+[15May2025 18:06:46.046] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/91529, l='ServerLevel[world]', x=-2052.50, y=67.00, z=-799.50] quests expired
+[15May2025 18:06:48.962] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/91567, l='ServerLevel[world]', x=-2006.50, y=66.00, z=-686.50] quests expired
+[15May2025 18:08:04.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Infected
+[15May2025 18:08:06.399] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15May2025 18:08:06.421] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15May2025 18:08:06.537] [Server thread/INFO] [tac/]: PENDING
+[15May2025 18:08:06.553] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@4c988046 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[15May2025 18:08:06.557] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@69678eb2 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15May2025 18:08:06.558] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@2d01ed0d (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15May2025 18:08:06.558] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@4c4cae33 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[15May2025 18:08:18.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[15May2025 18:08:21.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[15May2025 18:09:36.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 1000]
+[15May2025 18:10:15.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
