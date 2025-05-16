@@ -637,6 +637,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-16 22:37:20 +0000",
       "minecraft:spider": "2025-05-16 22:35:14 +0000",
       "minecraft:creeper": "2025-05-16 22:33:49 +0000",
       "minecraft:cave_spider": "2025-05-16 21:50:19 +0000",
