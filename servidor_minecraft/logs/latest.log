@@ -7286,3 +7286,35 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16May2025 21:34:22.851] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
 [16May2025 21:34:24.239] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3db6159c-8813-3b63-a617-36f228374b83 was loaded
 [16May2025 21:36:40.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Magnesium Block]
+[16May2025 21:40:38.543] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: miradafilosa lost connection: Timed out
+[16May2025 21:40:38.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa left the game
+[16May2025 21:40:38.544] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3db6159c-8813-3b63-a617-36f228374b83 was unloaded
+[16May2025 21:49:17.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was shot by Skeleton
+[16May2025 21:49:20.014] [Server thread/INFO] [tac/]: PENDING
+[16May2025 21:49:20.024] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@4abd9389 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[16May2025 21:49:20.025] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@5b19dc0c (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[16May2025 21:49:20.025] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@2d7b3a7 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[16May2025 21:49:20.026] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@41dd4b5d (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[16May2025 21:49:57.009] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@20374558
+[16May2025 21:49:57.022] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TAQUIS123[/127.83.254.83:46297] logged in with entity id 14986 at (618.1912636421733, 72.0, -557.2247882743765)
+[16May2025 21:49:57.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 joined the game
+[16May2025 21:49:57.031] [Server thread/INFO] [tac/]: PENDING
+[16May2025 21:49:57.093] [Server thread/INFO] [net.mcreator.tmtmcoresandmore.TmtmcoresandmoreMod/]: TmTmc-OresAndMore loaded
+[16May2025 21:49:57.093] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:72]: enable_welcome: true
+[16May2025 21:49:57.093] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:73]: welcome_message: Welcome to our server 
+[16May2025 21:49:57.094] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:74]: enable_all_ores: true
+[16May2025 21:49:57.094] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:75]: enable_all_ingots: true
+[16May2025 21:49:57.094] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:76]: enable_all_blocks: true
+[16May2025 21:49:57.094] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:77]: enable_all_armors: true
+[16May2025 21:49:57.094] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:78]: enable_all_swords_bows: true
+[16May2025 21:49:57.094] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:79]: enable_all_foods: true
+[16May2025 21:49:57.094] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:80]: enable_all_paintings: true
+[16May2025 21:49:57.095] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:81]: enable_all_poisons: true
+[16May2025 21:49:57.095] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:82]: enable_all_powders: true
+[16May2025 21:49:57.095] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:83]: enable_all_tools: true
+[16May2025 21:49:57.095] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:84]: enable_all_recipes: true
+[16May2025 21:49:57.095] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:85]: enable_all_advancements: true
+[16May2025 21:49:57.095] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[16May2025 21:49:57.096] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[16May2025 21:49:57.096] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[16May2025 21:50:04.348] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3b271b9-e459-3933-aab2-de28059f91bf was loaded
