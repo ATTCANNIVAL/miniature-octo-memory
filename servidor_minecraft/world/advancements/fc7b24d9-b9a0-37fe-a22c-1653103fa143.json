@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-05-16 22:26:15 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/structurize/shapetool": {
     "criteria": {
       "has_stick": "2025-05-15 23:12:42 +0000"
@@ -149,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-16 22:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-05-15 23:12:42 +0000"
@@ -188,6 +200,12 @@
   "cfm:recipes/cfm/acacia_cabinet": {
     "criteria": {
       "has_log": "2025-05-15 23:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-16 22:26:15 +0000"
     },
     "done": true
   },
@@ -380,6 +398,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-05-15 23:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-16 22:26:15 +0000"
     },
     "done": true
   },
@@ -581,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-16 22:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-05-15 23:49:25 +0000"
@@ -607,6 +637,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-05-16 22:35:14 +0000",
+      "minecraft:creeper": "2025-05-16 22:33:49 +0000",
       "minecraft:cave_spider": "2025-05-16 21:50:19 +0000",
       "minecraft:zombie": "2025-05-15 23:01:59 +0000"
     },
@@ -905,6 +937,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-16 22:28:34 +0000"
+    },
+    "done": true
+  },
   "zombie_extreme:darkpearl": {
     "criteria": {
       "darkpearl": "2025-05-15 23:56:50 +0000"
@@ -1028,6 +1066,12 @@
   "cfm:recipes/cfm/orange_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-15 23:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-05-16 22:26:15 +0000"
     },
     "done": true
   },
@@ -1181,6 +1225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-05-16 22:26:15 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/missile": {
     "criteria": {
       "has_iron_ingot": "2025-05-16 00:02:34 +0000"
@@ -1299,6 +1349,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-16 21:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-05-16 22:26:15 +0000"
     },
     "done": true
   },
@@ -1626,6 +1682,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-05-16 22:26:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stone_coffee_table": {
     "criteria": {
       "has_planks": "2025-05-15 23:15:35 +0000"
@@ -1647,6 +1709,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-16 20:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-16 22:26:15 +0000"
     },
     "done": true
   },
@@ -2367,6 +2435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-16 22:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-05-15 23:49:25 +0000"
@@ -2454,6 +2528,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-05-16 21:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-05-16 22:26:15 +0000"
     },
     "done": true
   },
@@ -2865,6 +2945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-16 22:26:15 +0000"
+    },
+    "done": true
+  },
   "craftingdead:recipes/craftingdead.combat/small_stock": {
     "criteria": {
       "has_iron_ingot": "2025-05-15 23:41:44 +0000"
@@ -2964,6 +3050,12 @@
   "cfm:recipes/cfm/stone_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-05-15 23:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-05-16 22:26:15 +0000"
     },
     "done": true
   },
