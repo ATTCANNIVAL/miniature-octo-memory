@@ -18252,3 +18252,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 23:54:06.070] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
 [15May2025 23:55:30.680] [Worker-Main-54/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=622, y=39, z=-900} at Chest with:minecraft:chests/simple_dungeon in dungeons_arise:foundry
 [15May2025 23:55:39.906] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/45885, l='ServerLevel[world]', x=520.50, y=66.00, z=-412.50] quests expired
+[15May2025 23:56:42.190] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15May2025 23:56:42.206] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[15May2025 23:56:50.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Dark pearl]
+[15May2025 23:58:20.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Cover Me With Diamonds]
+[16May2025 00:00:51.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Military Soldier
+[16May2025 00:00:52.750] [Server thread/INFO] [tac/]: PENDING
+[16May2025 00:01:38.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Military Soldier
+[16May2025 00:01:40.865] [Server thread/INFO] [tac/]: PENDING
+[16May2025 00:01:42.213] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16May2025 00:01:42.227] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16May2025 00:01:56.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Infection Military
+[16May2025 00:01:58.171] [Server thread/INFO] [tac/]: PENDING
+[16May2025 00:02:50.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Copper Mineral Block]
+[16May2025 00:03:18.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Military Soldier
+[16May2025 00:03:20.999] [Server thread/INFO] [tac/]: PENDING
+[16May2025 00:03:24.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Zombie
+[16May2025 00:03:25.976] [Server thread/INFO] [tac/]: PENDING
+[16May2025 00:04:04.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mano ayuda pe
+[16May2025 00:04:11.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> qpaso
+[16May2025 00:04:18.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> tan que campean mi lut
+[16May2025 00:04:28.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> pponte en lugar seguro
+[16May2025 00:04:48.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Suit Up]
+[16May2025 00:05:25.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> m,e tome pastilla de resistencia y vision nocturna pa venir
+[16May2025 00:05:28.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> xd
