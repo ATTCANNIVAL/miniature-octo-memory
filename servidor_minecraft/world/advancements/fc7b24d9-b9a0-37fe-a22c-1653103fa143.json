@@ -675,6 +675,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-16 21:33:41 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/stun_grenade": {
     "criteria": {
       "has_iron_ingot": "2025-05-16 00:02:34 +0000"
@@ -723,6 +729,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/granite_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-16 21:33:41 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_ingredients": "2025-05-15 22:46:56 +0000"
@@ -738,6 +750,18 @@
   "craftingdead:recipes/craftingdead.combat/lp_scope": {
     "criteria": {
       "has_glass": "2025-05-16 21:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-05-16 21:33:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-16 21:33:41 +0000"
     },
     "done": true
   },
@@ -910,6 +934,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/granite_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-05-16 21:33:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2025-05-15 23:11:40 +0000"
@@ -988,6 +1018,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-16 21:28:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/orange_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-15 23:33:04 +0000"
@@ -1051,6 +1087,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-16 21:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-16 21:33:41 +0000"
     },
     "done": true
   },
@@ -1156,6 +1198,12 @@
       "minecraft:plains": "2025-05-15 22:50:11 +0000"
     },
     "done": false
+  },
+  "cfm:recipes/cfm/granite_table": {
+    "criteria": {
+      "has_planks": "2025-05-16 21:33:41 +0000"
+    },
+    "done": true
   },
   "ironchest:recipes/ironchest/chests/vanilla_iron_chest": {
     "criteria": {
@@ -1505,6 +1553,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/granite_desk": {
+    "criteria": {
+      "has_planks": "2025-05-16 21:33:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-16 21:08:25 +0000"
@@ -1586,6 +1640,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-16 20:56:06 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-16 21:29:32 +0000"
     },
     "done": true
   },
@@ -1688,6 +1748,12 @@
   "cfm:recipes/cfm/oak_kitchen_counter": {
     "criteria": {
       "has_log": "2025-05-15 23:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-16 21:33:41 +0000"
     },
     "done": true
   },
@@ -1809,6 +1875,12 @@
   "ironchest:recipes/ironchest/upgrades/gold_to_diamond_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-05-16 21:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-05-16 21:33:41 +0000"
     },
     "done": true
   },
@@ -2036,6 +2108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-16 21:33:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-16 20:56:06 +0000"
@@ -2120,6 +2198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-05-16 21:33:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_cabinet": {
     "criteria": {
       "has_log": "2025-05-15 23:16:42 +0000"
@@ -2171,6 +2255,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-05-15 23:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-16 21:33:41 +0000"
     },
     "done": true
   },
@@ -2420,6 +2510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-16 21:33:41 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/diamond_to_obsidian_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-05-16 21:01:59 +0000"
@@ -2513,6 +2609,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-05-15 23:11:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-16 21:33:41 +0000"
     },
     "done": true
   },
@@ -2621,6 +2723,12 @@
   "ava:recipes/main/mastery_table": {
     "criteria": {
       "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_chair": {
+    "criteria": {
+      "has_planks": "2025-05-16 21:33:41 +0000"
     },
     "done": true
   },
@@ -2801,6 +2909,12 @@
   "cfm:recipes/cfm/cyan_grill": {
     "criteria": {
       "has_iron": "2025-05-15 23:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-05-16 21:33:41 +0000"
     },
     "done": true
   },

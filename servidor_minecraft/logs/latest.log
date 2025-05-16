@@ -7237,3 +7237,52 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16May2025 21:19:38.431] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/907, l='ServerLevel[world]', x=606.50, y=77.00, z=-422.50] quests expired
 [16May2025 21:24:55.279] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/920, l='ServerLevel[world]', x=520.50, y=66.00, z=-412.50] quests expired
 [16May2025 21:28:51.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Isn't It Iron Pick]
+[16May2025 21:33:10.640] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5b516ae4
+[16May2025 21:33:10.661] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: miradafilosa[/127.185.2.216:35773] logged in with entity id 9623 at (591.5, 70.0, -563.5)
+[16May2025 21:33:10.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa joined the game
+[16May2025 21:33:10.671] [Server thread/INFO] [tac/]: PENDING
+[16May2025 21:33:10.709] [Server thread/INFO] [net.mcreator.tmtmcoresandmore.TmtmcoresandmoreMod/]: TmTmc-OresAndMore loaded
+[16May2025 21:33:10.710] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:72]: enable_welcome: true
+[16May2025 21:33:10.710] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:73]: welcome_message: Welcome to our server 
+[16May2025 21:33:10.710] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:74]: enable_all_ores: true
+[16May2025 21:33:10.710] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:75]: enable_all_ingots: true
+[16May2025 21:33:10.711] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:76]: enable_all_blocks: true
+[16May2025 21:33:10.711] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:77]: enable_all_armors: true
+[16May2025 21:33:10.711] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:78]: enable_all_swords_bows: true
+[16May2025 21:33:10.711] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:79]: enable_all_foods: true
+[16May2025 21:33:10.711] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:80]: enable_all_paintings: true
+[16May2025 21:33:10.711] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:81]: enable_all_poisons: true
+[16May2025 21:33:10.711] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:82]: enable_all_powders: true
+[16May2025 21:33:10.711] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:83]: enable_all_tools: true
+[16May2025 21:33:10.711] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:84]: enable_all_recipes: true
+[16May2025 21:33:10.711] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:85]: enable_all_advancements: true
+[16May2025 21:33:10.712] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[16May2025 21:33:10.712] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[16May2025 21:33:10.712] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[16May2025 21:33:25.788] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: miradafilosa lost connection: Timed out
+[16May2025 21:33:25.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa left the game
+[16May2025 21:33:25.789] [Server thread/WARN] [com.alrex.parcool.ParCool/]: Limitation entry is not loaded for UUID:3db6159c-8813-3b63-a617-36f228374b83. Skipped.
+[16May2025 21:34:22.790] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3724b754
+[16May2025 21:34:22.802] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: miradafilosa[/127.185.2.216:58911] logged in with entity id 9812 at (591.5, 70.0, -563.5)
+[16May2025 21:34:22.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa joined the game
+[16May2025 21:34:22.810] [Server thread/INFO] [tac/]: PENDING
+[16May2025 21:34:22.848] [Server thread/INFO] [net.mcreator.tmtmcoresandmore.TmtmcoresandmoreMod/]: TmTmc-OresAndMore loaded
+[16May2025 21:34:22.849] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:72]: enable_welcome: true
+[16May2025 21:34:22.849] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:73]: welcome_message: Welcome to our server 
+[16May2025 21:34:22.849] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:74]: enable_all_ores: true
+[16May2025 21:34:22.849] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:75]: enable_all_ingots: true
+[16May2025 21:34:22.849] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:76]: enable_all_blocks: true
+[16May2025 21:34:22.849] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:77]: enable_all_armors: true
+[16May2025 21:34:22.850] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:78]: enable_all_swords_bows: true
+[16May2025 21:34:22.850] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:79]: enable_all_foods: true
+[16May2025 21:34:22.850] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:80]: enable_all_paintings: true
+[16May2025 21:34:22.850] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:81]: enable_all_poisons: true
+[16May2025 21:34:22.850] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:82]: enable_all_powders: true
+[16May2025 21:34:22.850] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:83]: enable_all_tools: true
+[16May2025 21:34:22.850] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:84]: enable_all_recipes: true
+[16May2025 21:34:22.850] [Server thread/INFO] [STDOUT/]: [net.mcreator.tmtmcoresandmore.procedures.OpenConfigFileProcedure:executeProcedure:85]: enable_all_advancements: true
+[16May2025 21:34:22.851] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[16May2025 21:34:22.851] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[16May2025 21:34:22.851] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[16May2025 21:34:24.239] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3db6159c-8813-3b63-a617-36f228374b83 was loaded
+[16May2025 21:36:40.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Magnesium Block]
