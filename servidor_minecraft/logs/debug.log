@@ -12615,3 +12615,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16May2025 21:17:35.281] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/878, l='ServerLevel[world]', x=556.50, y=99.00, z=-445.50] quests expired
 [16May2025 21:19:38.431] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/905, l='ServerLevel[world]', x=633.50, y=74.00, z=-424.50] quests expired
 [16May2025 21:19:38.431] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/907, l='ServerLevel[world]', x=606.50, y=77.00, z=-422.50] quests expired
+[16May2025 21:20:59.172] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16May2025 21:20:59.188] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16May2025 21:24:55.279] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/920, l='ServerLevel[world]', x=520.50, y=66.00, z=-412.50] quests expired
+[16May2025 21:25:59.199] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16May2025 21:25:59.215] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16May2025 21:28:51.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Isn't It Iron Pick]

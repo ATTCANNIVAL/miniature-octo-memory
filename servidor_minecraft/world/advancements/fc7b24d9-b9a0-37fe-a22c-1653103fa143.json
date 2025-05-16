@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "craftingdead:recipes/craftingdead.combat/frag_grenade": {
+    "criteria": {
+      "has_gunpowder": "2025-05-16 21:25:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_kitchen_counter": {
     "criteria": {
       "has_log": "2025-05-15 23:16:42 +0000"
@@ -1045,6 +1051,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-16 21:12:38 +0000"
+    },
+    "done": true
+  },
+  "craftingdead:recipes/craftingdead.combat/smoke_grenade": {
+    "criteria": {
+      "has_gunpowder": "2025-05-16 21:25:54 +0000"
     },
     "done": true
   },
@@ -1910,6 +1922,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-16 21:25:54 +0000"
+    },
+    "done": true
+  },
   "tac:recipes/tac/module_item": {
     "criteria": {
       "has_diamond": "2025-05-15 23:01:34 +0000"
@@ -2756,6 +2774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-16 21:25:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-16 21:08:25 +0000"
@@ -2849,6 +2873,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2025-05-15 23:12:42 +0000"
+    },
+    "done": true
+  },
+  "ava:recipes/survival/packed_gunpowder": {
+    "criteria": {
+      "has_gunpowder": "2025-05-16 21:25:54 +0000"
     },
     "done": true
   },
