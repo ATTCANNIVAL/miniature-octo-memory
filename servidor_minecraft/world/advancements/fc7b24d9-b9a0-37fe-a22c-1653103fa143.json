@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diorite_table": {
+    "criteria": {
+      "has_planks": "2025-05-16 21:12:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2025-05-15 23:17:21 +0000"
@@ -206,6 +212,12 @@
   "cfm:recipes/cfm/lime_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-15 23:33:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_chair": {
+    "criteria": {
+      "has_planks": "2025-05-16 21:12:38 +0000"
     },
     "done": true
   },
@@ -263,9 +275,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-16 21:12:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/orange_grill": {
     "criteria": {
       "has_iron": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/andesite_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-16 21:08:25 +0000"
     },
     "done": true
   },
@@ -371,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-16 21:08:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/brown_cooler": {
     "criteria": {
       "has_chest": "2025-05-15 23:33:04 +0000"
@@ -473,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-16 21:08:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_coffee_table": {
     "criteria": {
       "has_planks": "2025-05-15 23:11:40 +0000"
@@ -572,6 +608,12 @@
   "ava:recipes/main/gun_crafting_table": {
     "criteria": {
       "has_iron_ingot": "2025-05-15 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-16 21:12:48 +0000"
     },
     "done": true
   },
@@ -717,6 +759,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-16 21:12:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_crate": {
     "criteria": {
       "has_planks": "2025-05-15 23:16:42 +0000"
@@ -726,6 +774,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-05-16 21:01:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_desk": {
+    "criteria": {
+      "has_planks": "2025-05-16 21:12:38 +0000"
     },
     "done": true
   },
@@ -988,6 +1042,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-16 21:12:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_desk": {
     "criteria": {
       "has_planks": "2025-05-15 23:11:40 +0000"
@@ -1039,6 +1099,12 @@
   "mca:recipes/building_blocks/rose_gold_block": {
     "criteria": {
       "has_item": "2025-05-15 22:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-05-16 21:12:38 +0000"
     },
     "done": true
   },
@@ -1160,6 +1226,12 @@
   "cfm:recipes/cfm/oak_desk_cabinet": {
     "criteria": {
       "has_log": "2025-05-15 23:11:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-05-16 21:12:38 +0000"
     },
     "done": true
   },
@@ -1349,6 +1421,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2025-05-16 21:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-05-16 21:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-05-16 21:08:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-05-15 23:17:09 +0000"
@@ -1403,6 +1493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-16 21:08:25 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2025-05-15 22:46:56 +0000"
@@ -1448,6 +1544,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-05-15 23:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-16 21:12:38 +0000"
     },
     "done": true
   },
@@ -1529,6 +1631,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/rock_path": {
+    "criteria": {
+      "has_andesite": "2025-05-16 21:08:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-05-15 22:51:56 +0000"
@@ -1544,6 +1652,12 @@
   "cfm:recipes/cfm/stripped_oak_table": {
     "criteria": {
       "has_planks": "2025-05-15 23:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-16 21:12:48 +0000"
     },
     "done": true
   },
@@ -1638,6 +1752,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/andesite_table": {
+    "criteria": {
+      "has_planks": "2025-05-16 21:08:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2025-05-15 23:11:59 +0000"
@@ -1662,6 +1782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-05-16 21:12:38 +0000"
+    },
+    "done": true
+  },
   "ava:recipes/survival/ceramic": {
     "criteria": {
       "has_iron_ingot": "2025-05-15 23:41:43 +0000"
@@ -1677,6 +1803,12 @@
   "cfm:recipes/cfm/stripped_acacia_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-05-15 23:16:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/andesite_chair": {
+    "criteria": {
+      "has_planks": "2025-05-16 21:08:25 +0000"
     },
     "done": true
   },
@@ -1796,6 +1928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-16 21:12:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-05-15 23:33:04 +0000"
@@ -1838,6 +1976,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-05-16 21:08:25 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/long_scope": {
     "criteria": {
       "has_iron_ingot": "2025-05-16 00:02:34 +0000"
@@ -1877,6 +2021,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-16 20:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-16 21:08:25 +0000"
     },
     "done": true
   },
@@ -2096,6 +2246,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/andesite_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-16 21:08:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-05-15 23:49:25 +0000"
@@ -2144,6 +2300,18 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/andesite_desk": {
+    "criteria": {
+      "has_planks": "2025-05-16 21:08:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/andesite_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-05-16 21:08:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_upgraded_fence": {
     "criteria": {
       "has_log": "2025-05-15 23:16:42 +0000"
@@ -2159,6 +2327,18 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-15 23:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-16 21:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-05-16 21:12:48 +0000"
     },
     "done": true
   },
@@ -2204,6 +2384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-05-16 21:12:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-16 21:01:58 +0000"
@@ -2222,6 +2408,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diorite_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-16 21:12:38 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/workbench": {
     "criteria": {
       "has_iron": "2025-05-15 23:41:43 +0000"
@@ -2237,6 +2429,12 @@
   "cfm:recipes/cfm/oak_table": {
     "criteria": {
       "has_log": "2025-05-15 23:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-05-16 21:12:38 +0000"
     },
     "done": true
   },
@@ -2384,6 +2582,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diorite_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-16 21:12:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-05-15 23:16:42 +0000"
@@ -2405,6 +2609,12 @@
   "cgm:recipes/cgm/weighted_stock": {
     "criteria": {
       "has_iron_ingot": "2025-05-16 00:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2025-05-16 21:08:25 +0000"
     },
     "done": true
   },
@@ -2504,6 +2714,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/andesite_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-16 21:08:25 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/pistol": {
     "criteria": {
       "has_iron_ingot": "2025-05-15 23:41:44 +0000"
@@ -2537,6 +2753,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-05-15 22:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-16 21:08:25 +0000"
     },
     "done": true
   },
@@ -2603,6 +2825,12 @@
   "cfm:recipes/cfm/oak_upgraded_fence": {
     "criteria": {
       "has_log": "2025-05-15 23:11:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-16 21:12:38 +0000"
     },
     "done": true
   },
