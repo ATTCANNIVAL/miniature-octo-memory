@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "tac:recipes/tac/medium_steel_armor": {
+    "criteria": {
+      "has_iron": "2025-05-16 22:16:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-05-15 23:09:38 +0000"
@@ -242,6 +248,12 @@
   "cfm:recipes/cfm/acacia_kitchen_counter": {
     "criteria": {
       "has_log": "2025-05-15 23:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-16 22:27:07 +0000"
     },
     "done": true
   },
@@ -1026,6 +1038,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-16 22:26:29 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/blue_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-15 23:10:52 +0000"
@@ -1272,6 +1290,12 @@
     },
     "done": true
   },
+  "tac:recipes/tac/light_armor": {
+    "criteria": {
+      "has_iron": "2025-05-16 22:16:24 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
     "criteria": {
       "has_leather": "2025-05-15 22:58:00 +0000"
@@ -1311,6 +1335,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-05-15 23:14:56 +0000"
+    },
+    "done": true
+  },
+  "tac:recipes/tac/light_armor_plate": {
+    "criteria": {
+      "has_iron": "2025-05-16 22:16:24 +0000"
     },
     "done": true
   },
@@ -1471,6 +1501,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-15 23:14:56 +0000"
+    },
+    "done": true
+  },
+  "tmtmcoresandmore:chalcanthite_ingot_ach": {
+    "criteria": {
+      "chalcanthite_ingot_ach": "2025-05-16 22:16:17 +0000"
     },
     "done": true
   },
@@ -2532,6 +2568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-16 22:16:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-05-16 21:59:19 +0000"
@@ -2619,6 +2661,12 @@
   "cfm:recipes/cfm/acacia_mail_box": {
     "criteria": {
       "has_chest": "2025-05-15 23:10:52 +0000"
+    },
+    "done": true
+  },
+  "tac:recipes/tac/workbench": {
+    "criteria": {
+      "has_iron": "2025-05-16 22:16:24 +0000"
     },
     "done": true
   },
@@ -3171,6 +3219,12 @@
   "cfm:recipes/cfm/pink_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-15 23:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-16 22:16:24 +0000"
     },
     "done": true
   },
