@@ -68,7 +68,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-05-26 17:42:16 +0000",
-      "minecraft:swamp": "2025-05-26 22:35:57 +0000"
+      "minecraft:swamp": "2025-05-26 22:35:57 +0000",
+      "minecraft:plains": "2025-05-26 23:16:41 +0000"
     },
     "done": false
   },
@@ -117,6 +118,12 @@
   "cfm:recipes/cfm/stripped_oak_crate": {
     "criteria": {
       "has_planks": "2025-05-26 22:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-05-26 23:22:04 +0000"
     },
     "done": true
   },
