@@ -14376,3 +14376,61 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26May2025 17:49:22.559] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Hong-Ji'/2316, l='ServerLevel[world]', x=-238.57, y=73.33, z=129.11] died, message: 'Hong-Ji was eliminated by ATT_CANNIVAL'
 [26May2025 17:49:28.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> xd
 [26May2025 17:49:38.978] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Yan-An'/2317, l='ServerLevel[world]', x=-245.51, y=69.33, z=129.28] died, message: 'Yan-An was eliminated by ATT_CANNIVAL'
+[26May2025 17:50:17.431] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Světluše'/2472, l='ServerLevel[world]', x=-246.45, y=67.33, z=126.17] died, message: 'Světluše was annihilated by ATT_CANNIVAL'
+[26May2025 17:50:28.129] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Štěpánka'/2478, l='ServerLevel[world]', x=-250.09, y=65.00, z=121.74] died, message: 'Štěpánka was eliminated by ATT_CANNIVAL'
+[26May2025 17:50:29.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> xq
+[26May2025 17:50:40.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> qpaso
+[26May2025 17:50:54.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> cuando me diste un arma se me quiso
+[26May2025 17:51:20.626] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[26May2025 17:51:23.019] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26May2025 17:51:23.047] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26May2025 17:52:15.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was slain by Zombie Brute
+[26May2025 17:52:42.077] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Bi-Rong'/2569, l='ServerLevel[world]', x=-263.48, y=78.00, z=132.33] died, message: 'Bi-Rong was slain by Night Hunter'
+[26May2025 17:52:51.425] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Guo-Feng'/2582, l='ServerLevel[world]', x=-261.50, y=78.00, z=123.56] died, message: 'Guo-Feng was slain by Night Hunter'
+[26May2025 17:53:32.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to miradafilosa]
+[26May2025 17:55:47.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Monster Hunter]
+[26May2025 17:56:23.042] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26May2025 17:56:23.059] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26May2025 17:56:50.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to miradafilosa]
+[26May2025 17:57:08.334] [Server thread/INFO] [tac/]: PENDING
+[26May2025 17:57:09.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> xd
+[26May2025 17:57:15.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> o esa
+[26May2025 17:57:16.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was slain by Night Hunter
+[26May2025 17:57:18.732] [Server thread/INFO] [tac/]: PENDING
+[26May2025 17:57:21.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was slain by Night Hunter
+[26May2025 17:57:23.465] [Server thread/INFO] [tac/]: PENDING
+[26May2025 17:57:24.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set miradafilosa's game mode to Creative Mode]
+[26May2025 17:57:28.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> de un golpe
+[26May2025 17:57:32.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 1000]
+[26May2025 17:57:35.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> regreso en un rato
+[26May2025 17:57:40.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> lo apago ps
+[26May2025 17:57:56.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> ya
+[26May2025 17:58:56.327] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL lost connection: Disconnected
+[26May2025 17:58:56.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL left the game
+[26May2025 17:58:56.329] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc7b24d9-b9a0-37fe-a22c-1653103fa143 was unloaded
+[26May2025 17:58:56.330] [Server thread/DEBUG] [Guns-RPG/Quests]: Handling player fc7b24d9-b9a0-37fe-a22c-1653103fa143 disconnect
+[26May2025 17:59:20.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[26May2025 17:59:20.519] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[26May2025 17:59:20.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26May2025 17:59:20.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26May2025 17:59:20.527] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: miradafilosa lost connection: Server closed
+[26May2025 17:59:20.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa left the game
+[26May2025 17:59:20.528] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3db6159c-8813-3b63-a617-36f228374b83 was unloaded
+[26May2025 17:59:20.528] [Server thread/DEBUG] [Guns-RPG/Quests]: Handling player 3db6159c-8813-3b63-a617-36f228374b83 disconnect
+[26May2025 17:59:20.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26May2025 17:59:20.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26May2025 17:59:21.081] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26May2025 17:59:21.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26May2025 17:59:21.082] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26May2025 17:59:21.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26May2025 17:59:21.083] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26May2025 17:59:21.083] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26May2025 17:59:21.097] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26May2025 17:59:21.128] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26May2025 17:59:21.142] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26May2025 17:59:21.143] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26May2025 17:59:21.144] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[26May2025 17:59:21.144] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[26May2025 17:59:21.144] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[26May2025 17:59:21.145] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file tac-server.toml changed, sending notifies
+[26May2025 17:59:21.146] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file /workspaces/miniature-octo-memory/servidor_minecraft/config/waystones-server.toml changed, sending notifies
