@@ -7061,3 +7061,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26May2025 22:49:53.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> nose
 [26May2025 22:50:01.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> y eso q no se consume todo
 [26May2025 22:50:27.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> la gpu esta en 10%
+[26May2025 22:51:51.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> xd
+[26May2025 22:52:47.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> pera
+[26May2025 22:52:51.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> me sacare mas ram del qlo
+[26May2025 22:54:02.412] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: miradafilosa lost connection: Disconnected
+[26May2025 22:54:02.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa left the game
+[26May2025 22:54:02.414] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3db6159c-8813-3b63-a617-36f228374b83 was unloaded
+[26May2025 22:57:00.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Drawned zombie
+[26May2025 22:57:04.104] [Server thread/INFO] [tac/]: PENDING
+[26May2025 22:57:04.111] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@7d188637 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[26May2025 22:57:04.111] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@e57df58 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[26May2025 22:57:04.112] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@75b6c17f (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[26May2025 22:57:04.112] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@60a7399b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[26May2025 22:57:09.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[26May2025 22:59:25.214] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@6939094e[id=<null>,name=TAQUIS123,properties={},legacy=false] (/127.83.254.83:36413) lost connection: Disconnected
+[26May2025 22:59:48.806] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@633ba7ee[id=<null>,name=TAQUIS123,properties={},legacy=false] (/127.83.254.83:43581) lost connection: Disconnected
