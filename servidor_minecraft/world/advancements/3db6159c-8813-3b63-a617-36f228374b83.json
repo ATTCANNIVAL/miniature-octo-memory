@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-26 22:33:32 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
     "criteria": {
       "has_smoking_upgrade": "2025-05-26 17:42:16 +0000"
@@ -91,7 +97,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2025-05-26 17:42:16 +0000"
+      "minecraft:forest": "2025-05-26 17:42:16 +0000",
+      "minecraft:swamp": "2025-05-26 22:35:57 +0000"
     },
     "done": false
   },
@@ -135,6 +142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-05-26 22:33:32 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2025-05-26 17:42:16 +0000"
@@ -164,6 +177,18 @@
       "has_netherite_ingot": "2025-05-26 17:42:16 +0000",
       "has_crying_obsidian": "2025-05-26 17:42:16 +0000",
       "has_the_recipe": "2025-05-26 17:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-05-26 22:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-26 22:33:32 +0000"
     },
     "done": true
   },
@@ -207,6 +232,18 @@
     "criteria": {
       "has_amethyst_shard": "2025-05-26 17:42:16 +0000",
       "has_crying_obsidian": "2025-05-26 17:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-05-26 22:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-05-26 22:33:32 +0000"
     },
     "done": true
   },

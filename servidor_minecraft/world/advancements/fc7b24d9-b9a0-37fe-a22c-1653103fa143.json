@@ -11,15 +11,27 @@
     },
     "done": true
   },
-  "mca:recipes/misc/potions": {
+  "cfm:recipes/cfm/stripped_oak_desk": {
     "criteria": {
-      "has_item": "2025-05-26 17:44:53 +0000"
+      "has_planks": "2025-05-26 22:35:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "cfm:recipes/cfm/stripped_oak_park_bench": {
     "criteria": {
-      "in_water": "2025-05-26 17:46:54 +0000"
+      "has_log": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-26 22:36:03 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-05-26 17:44:53 +0000"
     },
     "done": true
   },
@@ -35,6 +47,250 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-26 22:36:03 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/rose_gold_block": {
+    "criteria": {
+      "has_item": "2025-05-26 17:44:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-05-26 17:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-05-26 17:44:53 +0000",
+      "minecraft:wooded_hills": "2025-05-26 17:48:10 +0000",
+      "minecraft:swamp": "2025-05-26 22:36:32 +0000",
+      "minecraft:plains": "2025-05-26 17:45:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:unlock_deep_pockets_book": {
+    "criteria": {
+      "exists": "2025-05-26 17:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-05-26 22:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-05-26 17:44:53 +0000"
+    },
+    "done": true
+  },
+  "simple_hearts:simplehearts_adv": {
+    "criteria": {
+      "simplehearts_adv": "2025-05-26 17:44:53 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:currency/netherite_wallet": {
+    "criteria": {
+      "netherite_wallet": "2025-05-26 17:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-05-26 17:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-05-26 22:34:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-05-26 17:44:53 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot_smelting": {
+    "criteria": {
+      "has_item": "2025-05-26 17:44:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_chair": {
+    "criteria": {
+      "has_log": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-26 22:36:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-05-26 22:36:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-05-26 17:46:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot": {
+    "criteria": {
+      "has_item": "2025-05-26 17:44:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-26 22:36:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_crate": {
+    "criteria": {
+      "has_log": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-05-26 22:36:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-05-26 17:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-26 17:49:22 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2025-05-26 17:44:53 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-26 17:44:53 +0000",
+      "has_crying_obsidian": "2025-05-26 17:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-05-26 17:46:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-05-26 17:46:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_table": {
+    "criteria": {
+      "has_planks": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-26 17:46:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2025-05-26 17:44:53 +0000"
@@ -47,9 +303,27 @@
     },
     "done": false
   },
-  "mca:recipes/building_blocks/rose_gold_block": {
+  "cfm:recipes/cfm/oak_kitchen_counter": {
     "criteria": {
-      "has_item": "2025-05-26 17:44:53 +0000"
+      "has_log": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-05-26 22:35:25 +0000"
     },
     "done": true
   },
@@ -59,9 +333,15 @@
     },
     "done": true
   },
-  "mca:recipes/misc/needle_and_thread": {
+  "cfm:recipes/cfm/oak_table": {
     "criteria": {
-      "has_item": "2025-05-26 17:44:53 +0000"
+      "has_log": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_blinds": {
+    "criteria": {
+      "has_log": "2025-05-26 22:35:25 +0000"
     },
     "done": true
   },
@@ -95,6 +375,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-26 22:36:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
   "parcool:grant_parcool_guide": {
     "criteria": {
       "tick": "2025-05-26 17:44:53 +0000"
@@ -107,13 +399,11 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "cfm:recipes/cfm/oak_bedside_cabinet": {
     "criteria": {
-      "minecraft:forest": "2025-05-26 17:44:53 +0000",
-      "minecraft:wooded_hills": "2025-05-26 17:48:10 +0000",
-      "minecraft:plains": "2025-05-26 17:45:57 +0000"
+      "has_log": "2025-05-26 22:35:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "mca:root": {
     "criteria": {
@@ -125,51 +415,21 @@
     },
     "done": true
   },
-  "minecraft:unlock_deep_pockets_book": {
+  "cfm:recipes/cfm/oak_kitchen_sink_dark": {
     "criteria": {
-      "exists": "2025-05-26 17:44:53 +0000"
+      "has_bottom": "2025-05-26 22:36:03 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+  "cfm:recipes/cfm/oak_desk": {
     "criteria": {
-      "has_smelting_upgrade": "2025-05-26 17:44:53 +0000"
-    },
-    "done": true
-  },
-  "simple_hearts:simplehearts_adv": {
-    "criteria": {
-      "simplehearts_adv": "2025-05-26 17:44:53 +0000"
-    },
-    "done": true
-  },
-  "lightmanscurrency:currency/netherite_wallet": {
-    "criteria": {
-      "netherite_wallet": "2025-05-26 17:44:53 +0000"
+      "has_log": "2025-05-26 22:35:25 +0000"
     },
     "done": true
   },
   "lightmanscurrency:currency/cash_register": {
     "criteria": {
       "cash_register": "2025-05-26 17:44:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2025-05-26 17:46:54 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/books": {
-    "criteria": {
-      "has_item": "2025-05-26 17:44:53 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/rose_gold_ingot_smelting": {
-    "criteria": {
-      "has_item": "2025-05-26 17:44:53 +0000"
     },
     "done": true
   },
@@ -185,9 +445,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
-      "in_water": "2025-05-26 17:46:54 +0000"
+      "has_log": "2025-05-26 22:35:25 +0000"
     },
     "done": true
   },
@@ -196,6 +456,12 @@
       "has_netherite_ingot": "2025-05-26 17:44:53 +0000",
       "has_crying_obsidian": "2025-05-26 17:44:53 +0000",
       "has_the_recipe": "2025-05-26 17:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-26 22:36:03 +0000"
     },
     "done": true
   },
@@ -211,52 +477,45 @@
     },
     "done": true
   },
-  "mca:recipes/misc/rose_gold_ingot": {
-    "criteria": {
-      "has_item": "2025-05-26 17:44:53 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-26 17:44:53 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+  "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
-      "has_auto_smelting_upgrade": "2025-05-26 17:44:53 +0000"
+      "has_oak_planks": "2025-05-26 22:36:03 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
-      "killed_something": "2025-05-26 17:49:22 +0000"
+      "has_planks": "2025-05-26 22:36:03 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/staff_of_life": {
+  "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
-      "has_item": "2025-05-26 17:44:53 +0000"
+      "has_planks": "2025-05-26 22:36:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "cfm:recipes/cfm/oak_kitchen_sink_light": {
     "criteria": {
-      "in_water": "2025-05-26 17:46:54 +0000"
+      "has_bottom": "2025-05-26 22:36:03 +0000"
     },
     "done": true
   },
-  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+  "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
-      "has_amethyst_shard": "2025-05-26 17:44:53 +0000",
-      "has_crying_obsidian": "2025-05-26 17:44:53 +0000"
+      "has_log": "2025-05-26 22:35:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
+  "cfm:recipes/cfm/oak_coffee_table": {
     "criteria": {
-      "in_water": "2025-05-26 17:46:54 +0000"
+      "has_log": "2025-05-26 22:35:25 +0000"
     },
     "done": true
   },
