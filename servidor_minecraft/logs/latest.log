@@ -7316,3 +7316,53 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26May2025 23:40:06.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> si es por hueso es del yeso
 [26May2025 23:40:22.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has made the advancement [My first penny!]
 [26May2025 23:40:28.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [My first penny!]
+[26May2025 23:41:14.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> de la nd se laguea
+[26May2025 23:41:15.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> XD
+[26May2025 23:41:34.361] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Lakshmi'/7355, l='ServerLevel[world]', x=-724.70, y=69.50, z=-481.09] died, message: 'Lakshmi was slain by Infected'
+[26May2025 23:41:43.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 blew up
+[26May2025 23:41:45.036] [Server thread/INFO] [tac/]: PENDING
+[26May2025 23:41:46.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[26May2025 23:41:58.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> q nuv
+[26May2025 23:42:10.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> donde
+[26May2025 23:42:11.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> aa
+[26May2025 23:42:22.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> minimo una antorcha
+[26May2025 23:42:24.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> no se ve nd
+[26May2025 23:42:38.105] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Prakash'/7334, l='ServerLevel[world]', x=-744.21, y=71.94, z=-459.44] died, message: 'Prakash has died from infection'
+[26May2025 23:43:02.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> XD
+[26May2025 23:43:02.708] [Server thread/INFO] [forge.net.mca.MCA/]: TextComponent{text='Rajni', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} has been infected
+[26May2025 23:43:31.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> el golem está cansado
+[26May2025 23:43:33.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XDD
+[26May2025 23:44:07.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> me encontre un cora azul
+[26May2025 23:44:14.862] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: miradafilosa lost connection: Timed out
+[26May2025 23:44:14.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa left the game
+[26May2025 23:44:14.863] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3db6159c-8813-3b63-a617-36f228374b83 was unloaded
+[26May2025 23:44:15.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [A Little Extra Won't Hurt]
+[26May2025 23:44:15.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has completed the challenge [Eternal Health]
+[26May2025 23:44:25.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> de esos dan vida
+[26May2025 23:44:38.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> 2 corazones son permanentes creo
+[26May2025 23:45:46.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Suit Up]
+[26May2025 23:46:02.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> creo q es una contraseña
+[26May2025 23:46:36.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> XD
+[26May2025 23:46:51.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> hace un qlo de daño
+[26May2025 23:46:52.567] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@151e7b0b
+[26May2025 23:46:52.577] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: miradafilosa[/127.168.221.195:50645] logged in with entity id 16307 at (-750.2438668126354, 67.9375, -482.45168143671714)
+[26May2025 23:46:52.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa joined the game
+[26May2025 23:46:52.583] [Server thread/INFO] [tac/]: PENDING
+[26May2025 23:46:52.624] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[26May2025 23:46:52.624] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[26May2025 23:46:52.624] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[26May2025 23:46:55.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> incluso con escudo
+[26May2025 23:46:56.117] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3db6159c-8813-3b63-a617-36f228374b83 was loaded
+[26May2025 23:47:05.213] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Rajkumar'/7354, l='ServerLevel[world]', x=-812.31, y=72.00, z=-463.62] died, message: 'Rajkumar was slain by Military Soldier'
+[26May2025 23:47:07.615] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: miradafilosa lost connection: Disconnected
+[26May2025 23:47:07.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa left the game
+[26May2025 23:47:07.616] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3db6159c-8813-3b63-a617-36f228374b83 was unloaded
+[26May2025 23:49:10.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[26May2025 23:49:35.872] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@327f422d
+[26May2025 23:49:35.884] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: miradafilosa[/127.168.221.195:46535] logged in with entity id 16865 at (-750.2438668126354, 67.9375, -482.45168143671714)
+[26May2025 23:49:35.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa joined the game
+[26May2025 23:49:35.892] [Server thread/INFO] [tac/]: PENDING
+[26May2025 23:49:35.941] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[26May2025 23:49:35.941] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[26May2025 23:49:35.941] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[26May2025 23:49:39.415] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3db6159c-8813-3b63-a617-36f228374b83 was loaded

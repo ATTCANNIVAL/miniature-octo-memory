@@ -11,6 +11,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-05-26 23:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/structurize/shapetool": {
+    "criteria": {
+      "has_stick": "2025-05-26 23:45:07 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2025-05-26 17:44:53 +0000"
@@ -35,9 +47,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-05-26 23:45:07 +0000"
+    },
+    "done": true
+  },
   "relics:obtain/root": {
     "criteria": {
       "obtain_relic": "2025-05-26 23:27:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-05-26 23:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-05-26 23:38:45 +0000"
     },
     "done": true
   },
@@ -74,6 +104,12 @@
   "cfm:recipes/cfm/oak_chair": {
     "criteria": {
       "has_log": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-05-26 23:45:07 +0000"
     },
     "done": true
   },
@@ -138,6 +174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-05-26 23:45:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-05-26 22:35:25 +0000"
@@ -171,6 +213,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-05-26 23:35:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-05-26 23:45:07 +0000"
     },
     "done": true
   },
@@ -234,6 +282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-26 23:38:45 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:currency/trading_core": {
     "criteria": {
       "trading_core": "2025-05-26 17:44:53 +0000"
@@ -243,6 +297,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-26 23:44:59 +0000"
     },
     "done": true
   },
@@ -257,6 +317,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
     "criteria": {
       "has_leather": "2025-05-26 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2025-05-26 23:45:07 +0000"
     },
     "done": true
   },
@@ -314,6 +380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_boots": "2025-05-26 23:45:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-05-26 22:45:26 +0000"
@@ -368,6 +440,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-05-26 23:45:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_cabinet": {
     "criteria": {
       "has_log": "2025-05-26 22:35:25 +0000"
@@ -399,6 +477,18 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-26 23:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-05-26 23:45:07 +0000"
     },
     "done": true
   },
@@ -547,6 +637,12 @@
     },
     "done": true
   },
+  "lightmanscurrency:currency/myfirstpenny": {
+    "criteria": {
+      "coin": "2025-05-26 23:40:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-05-26 23:17:59 +0000"
@@ -568,6 +664,12 @@
   "lightmanscurrency:currency/coin_mint": {
     "criteria": {
       "coin_mint": "2025-05-26 17:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_boots": "2025-05-26 23:45:46 +0000"
     },
     "done": true
   },
@@ -638,6 +740,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-05-26 17:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2025-05-26 23:45:07 +0000"
     },
     "done": true
   },
