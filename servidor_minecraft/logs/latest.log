@@ -7076,3 +7076,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26May2025 22:57:09.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
 [26May2025 22:59:25.214] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@6939094e[id=<null>,name=TAQUIS123,properties={},legacy=false] (/127.83.254.83:36413) lost connection: Disconnected
 [26May2025 22:59:48.806] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@633ba7ee[id=<null>,name=TAQUIS123,properties={},legacy=false] (/127.83.254.83:43581) lost connection: Disconnected
+[26May2025 23:02:03.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set the time to 1000]
+[26May2025 23:05:49.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Amateur Archaeologist]
+[26May2025 23:05:56.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[26May2025 23:06:24.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[26May2025 23:09:19.458] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@132ddc8f
+[26May2025 23:09:19.474] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TAQUIS123[/127.83.254.83:48173] logged in with entity id 6986 at (-248.5, 72.0, 135.5)
+[26May2025 23:09:19.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 joined the game
+[26May2025 23:09:19.483] [Server thread/INFO] [tac/]: PENDING
+[26May2025 23:09:19.515] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[26May2025 23:09:19.516] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[26May2025 23:09:19.516] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[26May2025 23:09:19.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Minty Fresh!]
+[26May2025 23:09:19.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has reached the goal [Fireproof Wallet]
+[26May2025 23:09:19.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [All in one interaction!]
+[26May2025 23:09:19.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Trading Core]
+[26May2025 23:09:19.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Minecraft Comes Alive]
+[26May2025 23:09:23.217] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3b271b9-e459-3933-aab2-de28059f91bf was loaded
