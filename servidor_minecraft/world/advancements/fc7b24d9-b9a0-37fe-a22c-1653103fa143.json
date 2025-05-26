@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "relics:obtain/root": {
+    "criteria": {
+      "obtain_relic": "2025-05-26 23:27:08 +0000"
+    },
+    "done": true
+  },
   "simple_hearts:simplehearts_adv": {
     "criteria": {
       "simplehearts_adv": "2025-05-26 17:44:53 +0000"
@@ -138,6 +144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-26 23:27:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_kitchen_counter": {
     "criteria": {
       "has_log": "2025-05-26 22:35:25 +0000"
@@ -153,6 +165,12 @@
   "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-26 23:35:30 +0000"
     },
     "done": true
   },
@@ -390,6 +408,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-26 23:32:11 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:currency/netherite_wallet": {
     "criteria": {
       "netherite_wallet": "2025-05-26 17:44:53 +0000"
@@ -581,9 +605,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-26 23:35:30 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-05-26 17:44:53 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/squire_bag": {
+    "criteria": {
+      "obtain_relic": "2025-05-26 23:27:08 +0000"
     },
     "done": true
   },
