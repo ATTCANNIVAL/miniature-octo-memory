@@ -11544,3 +11544,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 15:42:25.727] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [27May2025 15:42:54.871] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.inventory.DoubleSidedInventory
 [27May2025 15:46:18.098] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: miradafilosa moved wrongly!
+[27May2025 15:47:25.669] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 15:47:25.681] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 15:52:25.663] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 15:52:25.678] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
