@@ -7079,3 +7079,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 16:03:00.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has made the advancement [Diamonds!]
 [27May2025 16:14:19.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa tried to swim in lava
 [27May2025 16:14:21.205] [Server thread/INFO] [tac/]: PENDING
+[27May2025 16:25:40.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has made the advancement [Cover Me With Diamonds]
+[27May2025 16:26:29.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has made the advancement [Enchanter]

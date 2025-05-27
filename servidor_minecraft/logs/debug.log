@@ -11583,3 +11583,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 16:13:16.231] [Worker-Main-121/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-17,-17]
 [27May2025 16:14:19.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa tried to swim in lava
 [27May2025 16:14:21.205] [Server thread/INFO] [tac/]: PENDING
+[27May2025 16:17:25.835] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 16:17:25.848] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 16:22:25.689] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 16:22:25.703] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 16:25:40.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has made the advancement [Cover Me With Diamonds]
+[27May2025 16:26:29.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has made the advancement [Enchanter]
