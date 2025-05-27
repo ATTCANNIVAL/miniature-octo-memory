@@ -11651,3 +11651,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 17:16:23.338] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 3x lightmanscurrency:coin_gold to the chest loot.
 [27May2025 17:17:25.699] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [27May2025 17:17:25.710] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 17:22:25.702] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 17:22:25.714] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 17:23:06.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa fell from a high place
+[27May2025 17:23:07.914] [Server thread/INFO] [tac/]: PENDING
+[27May2025 17:27:25.723] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 17:27:25.733] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
