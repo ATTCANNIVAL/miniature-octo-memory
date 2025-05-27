@@ -245,3 +245,57 @@ java.lang.NullPointerException: null
 [27May2025 00:29:41.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
 [27May2025 00:30:32.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ya quitame el creativo
 [27May2025 00:30:40.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set TAQUIS123's game mode to Survival Mode]
+[27May2025 00:32:13.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Diamonds!]
+[27May2025 00:32:39.558] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Pier'/32371, l='ServerLevel[world]', x=-815.67, y=69.00, z=-882.58] died, message: 'Pier was slain by Military Soldier'
+[27May2025 00:32:46.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Diamonds!]
+[27May2025 00:32:48.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> si
+[27May2025 00:32:54.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> una pocion
+[27May2025 00:34:30.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> con el boton explota todo
+[27May2025 00:34:39.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> aver
+[27May2025 00:34:42.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> david como vas
+[27May2025 00:34:51.571] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Virginia'/32456, l='ServerLevel[world]', x=-744.28, y=66.00, z=-895.28] died, message: 'Virginia was slain by Zombie'
+[27May2025 00:35:06.978] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/34857, l='ServerLevel[world]', x=-752.65, y=65.67, z=-797.39]
+[27May2025 00:35:06.979] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Polished Andesite'/34858, l='ServerLevel[world]', x=-753.34, y=65.51, z=-798.50]
+[27May2025 00:35:06.979] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/34859, l='ServerLevel[world]', x=-750.38, y=65.65, z=-799.34]
+[27May2025 00:35:06.979] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Redstone Torch'/34860, l='ServerLevel[world]', x=-750.47, y=64.52, z=-798.73]
+[27May2025 00:35:11.437] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/35092, l='ServerLevel[world]', x=-736.61, y=63.41, z=-808.49]
+[27May2025 00:35:11.437] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore Chunk'/35095, l='ServerLevel[world]', x=-739.40, y=61.36, z=-808.53]
+[27May2025 00:35:11.438] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/35096, l='ServerLevel[world]', x=-737.35, y=65.67, z=-811.35]
+[27May2025 00:35:25.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> solo explotó abajo
+[27May2025 00:35:40.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Stone Age]
+[27May2025 00:35:47.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> uy
+[27May2025 00:37:16.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Ice Bucket Challenge]
+[27May2025 00:38:07.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> uy
+[27May2025 00:38:12.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> tienes hilo??
+[27May2025 00:38:20.134] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-244, y=71, z=137}
+[27May2025 00:38:20.285] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-244, y=70, z=137}
+[27May2025 00:38:20.333] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-244, y=71, z=137}
+[27May2025 00:38:20.432] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-244, y=70, z=137}
+[27May2025 00:38:24.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> no
+[27May2025 00:38:27.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> pero tengo lanta
+[27May2025 00:38:56.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was slain by Infected Bear
+[27May2025 00:38:58.327] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:39:00.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> XD
+[27May2025 00:39:05.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> habia eso?
+[27May2025 00:39:06.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[27May2025 00:39:16.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> creo q ire al pueblo
+[27May2025 00:39:36.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was shot by Skeleton
+[27May2025 00:39:37.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has been shot by Zombie Gunner with [Rocket Launcher]
+[27May2025 00:39:38.316] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:39:39.351] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:39:45.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> un zombie con basuca xd
+[27May2025 00:39:48.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> pongan keep inventory
+[27May2025 00:39:48.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[27May2025 00:40:00.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> keep inventory?
+[27May2025 00:40:05.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> si po n kee inventory
+[27May2025 00:40:06.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mejor
+[27May2025 00:40:26.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> q es eso
+[27May2025 00:40:29.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> aa
+[27May2025 00:40:30.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has completed the challenge [Sniper Duel]
+[27May2025 00:40:43.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> pusiste??
+[27May2025 00:40:49.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> no
+[27May2025 00:40:53.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> a
+[27May2025 00:40:59.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has been shot by Zombie Gunner with [Rocket Launcher]
+[27May2025 00:41:02.842] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:41:09.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> lo pondras?
+[27May2025 00:41:13.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ptm
