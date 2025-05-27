@@ -1080,6 +1080,7 @@
       "minecraft:mountains": "2025-05-27 00:47:27 +0000",
       "minecraft:taiga": "2025-05-27 00:39:24 +0000",
       "minecraft:desert": "2025-05-27 01:37:53 +0000",
+      "minecraft:birch_forest": "2025-05-27 15:55:01 +0000",
       "minecraft:badlands": "2025-05-27 01:44:21 +0000",
       "minecraft:dark_forest": "2025-05-26 23:28:34 +0000",
       "minecraft:river": "2025-05-27 01:00:40 +0000",
@@ -1195,6 +1196,12 @@
   "cfm:recipes/cfm/light_gray_cooler": {
     "criteria": {
       "has_chest": "2025-05-27 15:41:56 +0000"
+    },
+    "done": true
+  },
+  "zombie_extreme:rubies": {
+    "criteria": {
+      "rubies": "2025-05-27 16:02:14 +0000"
     },
     "done": true
   },

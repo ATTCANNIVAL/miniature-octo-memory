@@ -7075,3 +7075,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 15:36:14.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was slain by Infected
 [27May2025 15:36:16.695] [Server thread/INFO] [tac/]: PENDING
 [27May2025 15:46:18.098] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: miradafilosa moved wrongly!
+[27May2025 16:02:14.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has made the advancement [Rubies!]
+[27May2025 16:03:00.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has made the advancement [Diamonds!]
