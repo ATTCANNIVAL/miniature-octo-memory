@@ -11611,3 +11611,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 16:44:19.406] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon end notification
 [27May2025 16:44:19.406] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon end notification
 [27May2025 16:44:19.406] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon end notification
+[27May2025 16:47:25.683] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 16:47:25.695] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 16:50:10.638] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: entity.treasure2.bound_soul did not drop coins, as it was spawned by a spawner.
+[27May2025 16:50:51.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has died from pain caused by fracture
+[27May2025 16:50:53.086] [Server thread/INFO] [tac/]: PENDING
+[27May2025 16:52:25.705] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 16:52:25.719] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 16:57:25.700] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 16:57:25.715] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 17:02:25.684] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 17:02:25.696] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 17:04:19.397] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Preparing airdrop spawn event
+[27May2025 17:04:19.397] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Created new airdrop at BlockPos{x=-192, y=173, z=71} for player miradafilosa
+[27May2025 17:07:25.702] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 17:07:25.714] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
