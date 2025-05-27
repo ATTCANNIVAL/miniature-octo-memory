@@ -11538,3 +11538,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 15:34:14.160] [Worker-Main-80/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [7, 14] with a total of 384 pieces.
 [27May2025 15:36:14.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was slain by Infected
 [27May2025 15:36:16.695] [Server thread/INFO] [tac/]: PENDING
+[27May2025 15:37:25.737] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 15:37:25.747] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 15:42:25.713] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 15:42:25.727] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 15:42:54.871] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.inventory.DoubleSidedInventory
+[27May2025 15:46:18.098] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: miradafilosa moved wrongly!
