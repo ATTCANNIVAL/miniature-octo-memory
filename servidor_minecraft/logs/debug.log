@@ -11589,3 +11589,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 16:22:25.703] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [27May2025 16:25:40.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has made the advancement [Cover Me With Diamonds]
 [27May2025 16:26:29.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has made the advancement [Enchanter]
+[27May2025 16:27:25.657] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 16:27:25.669] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 16:32:25.640] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 16:32:25.652] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 16:34:44.397] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon start notification
+[27May2025 16:34:44.397] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon start notification
+[27May2025 16:34:44.397] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Sending bloodmoon start notification
+[27May2025 16:36:20.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa tried to swim in lava
+[27May2025 16:36:22.300] [Server thread/INFO] [tac/]: PENDING

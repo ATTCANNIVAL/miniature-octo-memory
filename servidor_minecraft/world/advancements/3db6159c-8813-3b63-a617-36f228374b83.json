@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-05-27 16:25:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-05-27 16:18:12 +0000"
@@ -618,6 +624,12 @@
       "minecraft:zombie": "2025-05-27 01:23:11 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-27 16:26:29 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -2650,6 +2662,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-05-27 16:24:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/orange_cooler": {
     "criteria": {
       "has_chest": "2025-05-27 15:41:56 +0000"
@@ -2911,6 +2929,12 @@
   "cfm:recipes/cfm/oak_upgraded_fence": {
     "criteria": {
       "has_log": "2025-05-26 22:47:04 +0000"
+    },
+    "done": true
+  },
+  "toolleveling:recipes/tool_leveling_table": {
+    "criteria": {
+      "enchanted_item": "2025-05-27 16:26:29 +0000"
     },
     "done": true
   },
