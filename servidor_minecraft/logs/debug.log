@@ -11556,3 +11556,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 16:03:00.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has made the advancement [Diamonds!]
 [27May2025 16:04:19.397] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Preparing airdrop spawn event
 [27May2025 16:04:19.397] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Created new airdrop at BlockPos{x=-68, y=177, z=-60} for player miradafilosa
+[27May2025 16:07:25.874] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 16:07:25.885] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 16:12:25.803] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 16:12:25.816] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 16:13:16.119] [Worker-Main-121/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-15,-17]
+[27May2025 16:13:16.120] [Worker-Main-121/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-15,-17]
+[27May2025 16:13:16.127] [Worker-Main-119/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-14,-17]
+[27May2025 16:13:16.128] [Worker-Main-119/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-210 | 22 | -288)
+[27May2025 16:13:16.131] [Worker-Main-119/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-210 | 22 | -288)
+[27May2025 16:13:16.131] [Worker-Main-119/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@717927d6 for dungeoncrawl:catacombs/node/crypt_dead_end at (-210 | 22 | -288)
+[27May2025 16:13:16.132] [Worker-Main-119/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@717927d6 for dungeoncrawl:catacombs/node/crypt_dead_end at (-210 | 22 | -288)
+[27May2025 16:13:16.132] [Worker-Main-119/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-14,-17]
+[27May2025 16:13:16.137] [Worker-Main-119/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-13,-17]
+[27May2025 16:13:16.137] [Worker-Main-119/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-210 | 22 | -288)
+[27May2025 16:13:16.137] [Worker-Main-119/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-210 | 22 | -288)
+[27May2025 16:13:16.137] [Worker-Main-119/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@717927d6 for dungeoncrawl:catacombs/node/crypt_dead_end at (-210 | 22 | -288)
+[27May2025 16:13:16.137] [Worker-Main-119/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@717927d6 for dungeoncrawl:catacombs/node/crypt_dead_end at (-210 | 22 | -288)
+[27May2025 16:13:16.137] [Worker-Main-119/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-13,-17]
+[27May2025 16:13:16.151] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-12,-17]
+[27May2025 16:13:16.151] [Worker-Main-102/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-12,-17]
+[27May2025 16:13:16.163] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-16,-17]
+[27May2025 16:13:16.164] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-16,-17]
+[27May2025 16:13:16.170] [Worker-Main-97/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-154, y=51, z=-261} at Chest with:minecraft:chests/simple_dungeon in dungeons_arise:foundry
+[27May2025 16:13:16.231] [Worker-Main-121/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-17,-17]
+[27May2025 16:13:16.231] [Worker-Main-121/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-17,-17]
+[27May2025 16:14:19.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa tried to swim in lava
+[27May2025 16:14:21.205] [Server thread/INFO] [tac/]: PENDING

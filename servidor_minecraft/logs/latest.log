@@ -7077,3 +7077,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 15:46:18.098] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: miradafilosa moved wrongly!
 [27May2025 16:02:14.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has made the advancement [Rubies!]
 [27May2025 16:03:00.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has made the advancement [Diamonds!]
+[27May2025 16:14:19.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa tried to swim in lava
+[27May2025 16:14:21.205] [Server thread/INFO] [tac/]: PENDING
