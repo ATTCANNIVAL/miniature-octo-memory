@@ -6998,3 +6998,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 14:33:24.905] [Server thread/INFO] [structurize/]: New Server UUID f57e164b-e881-4e44-9249-5b5124e8a67b
 [27May2025 14:33:28.610] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3db6159c-8813-3b63-a617-36f228374b83 was loaded
 [27May2025 14:34:09.749] [Server thread/INFO] [com.willr27.blocklings.Blocklings/]: Creating trees list.
+[27May2025 14:44:32.149] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: miradafilosa lost connection: Disconnected
+[27May2025 14:44:32.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa left the game
+[27May2025 14:44:32.152] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3db6159c-8813-3b63-a617-36f228374b83 was unloaded
