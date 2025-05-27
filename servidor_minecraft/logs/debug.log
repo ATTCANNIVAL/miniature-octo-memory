@@ -20548,3 +20548,258 @@ java.lang.NullPointerException: null
 [27May2025 00:51:09.814] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 4x lightmanscurrency:coin_gold to the chest loot.
 [27May2025 00:51:09.814] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 7x lightmanscurrency:coin_copper to the chest loot.
 [27May2025 00:51:09.814] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_gold to the chest loot.
+[27May2025 00:51:38.923] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 00:51:38.935] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 00:52:46.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was killed by Silvana Heartfire using magic
+[27May2025 00:52:49.329] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:52:52.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> de un golpe pe
+[27May2025 00:53:09.613] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/50216, l='ServerLevel[world]', x=-435.80, y=53.44, z=-759.11]
+[27May2025 00:53:09.613] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/50216, l='ServerLevel[world]', x=-435.80, y=53.44, z=-759.11]
+[27May2025 00:53:09.613] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/50216, l='ServerLevel[world]', x=-435.80, y=53.44, z=-759.11]
+[27May2025 00:53:09.614] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/50218, l='ServerLevel[world]', x=-435.80, y=53.44, z=-759.11]
+[27May2025 00:53:09.614] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/50218, l='ServerLevel[world]', x=-435.80, y=53.44, z=-759.11]
+[27May2025 00:53:09.614] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/50218, l='ServerLevel[world]', x=-435.80, y=53.44, z=-759.11]
+[27May2025 00:53:10.110] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/50243, l='ServerLevel[world]', x=-435.80, y=54.19, z=-758.36]
+[27May2025 00:53:10.110] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/50243, l='ServerLevel[world]', x=-435.80, y=54.19, z=-758.36]
+[27May2025 00:53:10.111] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/50243, l='ServerLevel[world]', x=-435.80, y=54.19, z=-758.36]
+[27May2025 00:53:10.111] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/50245, l='ServerLevel[world]', x=-435.80, y=54.19, z=-758.36]
+[27May2025 00:53:10.111] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/50245, l='ServerLevel[world]', x=-435.80, y=54.19, z=-758.36]
+[27May2025 00:53:10.111] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/50245, l='ServerLevel[world]', x=-435.80, y=54.19, z=-758.36]
+[27May2025 00:53:14.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa went up in flames
+[27May2025 00:53:15.275] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:53:23.461] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/51069, l='ServerLevel[world]', x=-431.49, y=51.44, z=-759.20]
+[27May2025 00:53:23.461] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/51069, l='ServerLevel[world]', x=-431.49, y=51.44, z=-759.20]
+[27May2025 00:53:23.461] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/51069, l='ServerLevel[world]', x=-431.49, y=51.44, z=-759.20]
+[27May2025 00:53:23.461] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/51071, l='ServerLevel[world]', x=-431.49, y=51.44, z=-759.20]
+[27May2025 00:53:23.461] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/51071, l='ServerLevel[world]', x=-431.49, y=51.44, z=-759.20]
+[27May2025 00:53:23.462] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/51071, l='ServerLevel[world]', x=-431.49, y=51.44, z=-759.20]
+[27May2025 00:53:23.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was fireballed by Silvana Heartfire
+[27May2025 00:53:25.026] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:53:26.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was burnt to a crisp whilst fighting Silvana Heartfire
+[27May2025 00:53:28.514] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:53:28.519] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@7d188637 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[27May2025 00:53:28.520] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@e57df58 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 00:53:28.520] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@75b6c17f (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 00:53:28.520] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@60a7399b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 00:53:40.213] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/51904, l='ServerLevel[world]', x=-431.00, y=51.44, z=-763.96]
+[27May2025 00:53:40.213] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/51904, l='ServerLevel[world]', x=-431.00, y=51.44, z=-763.96]
+[27May2025 00:53:40.214] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/51904, l='ServerLevel[world]', x=-431.00, y=51.44, z=-763.96]
+[27May2025 00:53:40.716] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/51924, l='ServerLevel[world]', x=-431.75, y=52.19, z=-763.96]
+[27May2025 00:53:40.716] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/51924, l='ServerLevel[world]', x=-431.75, y=52.19, z=-763.96]
+[27May2025 00:53:40.716] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/51924, l='ServerLevel[world]', x=-431.75, y=52.19, z=-763.96]
+[27May2025 00:53:40.716] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/51926, l='ServerLevel[world]', x=-431.75, y=52.19, z=-763.96]
+[27May2025 00:53:40.716] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/51926, l='ServerLevel[world]', x=-431.75, y=52.19, z=-763.96]
+[27May2025 00:53:40.717] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/51926, l='ServerLevel[world]', x=-431.75, y=52.19, z=-763.96]
+[27May2025 00:53:41.215] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/51936, l='ServerLevel[world]', x=-432.50, y=51.44, z=-763.96]
+[27May2025 00:53:41.216] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/51936, l='ServerLevel[world]', x=-432.50, y=51.44, z=-763.96]
+[27May2025 00:53:41.216] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/51936, l='ServerLevel[world]', x=-432.50, y=51.44, z=-763.96]
+[27May2025 00:53:45.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was killed by Silvana Heartfire using magic
+[27May2025 00:53:45.224] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/52047, l='ServerLevel[world]', x=-432.07, y=50.98, z=-763.92]
+[27May2025 00:53:45.224] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/52047, l='ServerLevel[world]', x=-432.07, y=50.98, z=-763.92]
+[27May2025 00:53:45.225] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/52047, l='ServerLevel[world]', x=-432.07, y=50.98, z=-763.92]
+[27May2025 00:53:45.225] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/52049, l='ServerLevel[world]', x=-432.07, y=50.98, z=-763.92]
+[27May2025 00:53:45.225] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/52049, l='ServerLevel[world]', x=-432.07, y=50.98, z=-763.92]
+[27May2025 00:53:45.225] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/52049, l='ServerLevel[world]', x=-432.07, y=50.98, z=-763.92]
+[27May2025 00:53:45.712] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/52056, l='ServerLevel[world]', x=-432.22, y=51.61, z=-763.92]
+[27May2025 00:53:45.712] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/52056, l='ServerLevel[world]', x=-432.22, y=51.61, z=-763.92]
+[27May2025 00:53:45.712] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/52056, l='ServerLevel[world]', x=-432.22, y=51.61, z=-763.92]
+[27May2025 00:53:46.216] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/52061, l='ServerLevel[world]', x=-431.81, y=52.12, z=-763.92]
+[27May2025 00:53:46.216] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/52061, l='ServerLevel[world]', x=-431.81, y=52.12, z=-763.92]
+[27May2025 00:53:46.616] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:53:46.714] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/52066, l='ServerLevel[world]', x=-431.16, y=52.12, z=-763.92]
+[27May2025 00:53:46.714] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/52066, l='ServerLevel[world]', x=-431.16, y=52.12, z=-763.92]
+[27May2025 00:53:46.714] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/52066, l='ServerLevel[world]', x=-431.16, y=52.12, z=-763.92]
+[27May2025 00:53:47.213] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/52074, l='ServerLevel[world]', x=-430.75, y=51.61, z=-763.92]
+[27May2025 00:53:47.213] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/52074, l='ServerLevel[world]', x=-430.75, y=51.61, z=-763.92]
+[27May2025 00:53:47.213] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/52074, l='ServerLevel[world]', x=-430.75, y=51.61, z=-763.92]
+[27May2025 00:53:47.713] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/52078, l='ServerLevel[world]', x=-430.90, y=50.98, z=-763.92]
+[27May2025 00:53:47.714] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/52078, l='ServerLevel[world]', x=-430.90, y=50.98, z=-763.92]
+[27May2025 00:53:47.714] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/52078, l='ServerLevel[world]', x=-430.90, y=50.98, z=-763.92]
+[27May2025 00:53:48.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was struck by lightning whilst fighting Silvana Heartfire
+[27May2025 00:53:50.501] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:53:50.506] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@7d188637 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[27May2025 00:53:50.506] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@e57df58 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 00:53:50.506] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@75b6c17f (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 00:53:50.506] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@60a7399b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 00:53:53.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XDD
+[27May2025 00:53:54.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[27May2025 00:53:56.318] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/52496, l='ServerLevel[world]', x=-430.05, y=51.44, z=-762.34]
+[27May2025 00:53:56.319] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/52496, l='ServerLevel[world]', x=-430.05, y=51.44, z=-762.34]
+[27May2025 00:53:56.819] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/52522, l='ServerLevel[world]', x=-430.80, y=52.19, z=-762.34]
+[27May2025 00:53:56.819] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/52522, l='ServerLevel[world]', x=-430.80, y=52.19, z=-762.34]
+[27May2025 00:53:57.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was killed by Silvana Heartfire using magic
+[27May2025 00:53:59.418] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:54:00.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> me caeron 10 rayos
+[27May2025 00:54:09.264] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/53235, l='ServerLevel[world]', x=-433.71, y=54.44, z=-766.79]
+[27May2025 00:54:09.264] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/53235, l='ServerLevel[world]', x=-433.71, y=54.44, z=-766.79]
+[27May2025 00:54:09.265] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/53235, l='ServerLevel[world]', x=-433.71, y=54.44, z=-766.79]
+[27May2025 00:54:09.762] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/53262, l='ServerLevel[world]', x=-433.00, y=55.19, z=-766.81]
+[27May2025 00:54:09.762] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/53262, l='ServerLevel[world]', x=-433.00, y=55.19, z=-766.81]
+[27May2025 00:54:09.763] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/53262, l='ServerLevel[world]', x=-433.00, y=55.19, z=-766.81]
+[27May2025 00:54:10.264] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/53285, l='ServerLevel[world]', x=-432.25, y=54.44, z=-766.81]
+[27May2025 00:54:10.264] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/53285, l='ServerLevel[world]', x=-432.25, y=54.44, z=-766.81]
+[27May2025 00:54:10.264] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/53285, l='ServerLevel[world]', x=-432.25, y=54.44, z=-766.81]
+[27May2025 00:54:12.762] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/53398, l='ServerLevel[world]', x=-433.59, y=53.98, z=-766.81]
+[27May2025 00:54:12.762] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/53398, l='ServerLevel[world]', x=-433.59, y=53.98, z=-766.81]
+[27May2025 00:54:12.762] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/53398, l='ServerLevel[world]', x=-433.59, y=53.98, z=-766.81]
+[27May2025 00:54:13.262] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/53419, l='ServerLevel[world]', x=-433.73, y=54.61, z=-766.81]
+[27May2025 00:54:13.263] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/53419, l='ServerLevel[world]', x=-433.73, y=54.61, z=-766.81]
+[27May2025 00:54:13.263] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/53419, l='ServerLevel[world]', x=-433.73, y=54.61, z=-766.81]
+[27May2025 00:54:13.263] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/53421, l='ServerLevel[world]', x=-433.73, y=54.61, z=-766.81]
+[27May2025 00:54:13.263] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/53421, l='ServerLevel[world]', x=-433.73, y=54.61, z=-766.81]
+[27May2025 00:54:13.263] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/53421, l='ServerLevel[world]', x=-433.73, y=54.61, z=-766.81]
+[27May2025 00:54:13.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was slain by Silvana Heartfire
+[27May2025 00:54:13.764] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/53485, l='ServerLevel[world]', x=-432.02, y=55.12, z=-766.81]
+[27May2025 00:54:13.764] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/53485, l='ServerLevel[world]', x=-432.02, y=55.12, z=-766.81]
+[27May2025 00:54:13.764] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/53485, l='ServerLevel[world]', x=-432.02, y=55.12, z=-766.81]
+[27May2025 00:54:13.765] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/53487, l='ServerLevel[world]', x=-432.02, y=55.12, z=-766.81]
+[27May2025 00:54:13.765] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/53487, l='ServerLevel[world]', x=-432.02, y=55.12, z=-766.81]
+[27May2025 00:54:13.765] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/53487, l='ServerLevel[world]', x=-432.02, y=55.12, z=-766.81]
+[27May2025 00:54:14.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Silvana Heartfire
+[27May2025 00:54:14.263] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/53552, l='ServerLevel[world]', x=-432.17, y=55.12, z=-767.00]
+[27May2025 00:54:14.263] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/53552, l='ServerLevel[world]', x=-432.17, y=55.12, z=-767.00]
+[27May2025 00:54:14.264] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/53552, l='ServerLevel[world]', x=-432.17, y=55.12, z=-767.00]
+[27May2025 00:54:14.667] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:54:14.763] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/53571, l='ServerLevel[world]', x=-431.76, y=54.61, z=-767.00]
+[27May2025 00:54:14.764] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/53571, l='ServerLevel[world]', x=-431.76, y=54.61, z=-767.00]
+[27May2025 00:54:14.764] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/53571, l='ServerLevel[world]', x=-431.76, y=54.61, z=-767.00]
+[27May2025 00:54:15.262] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/53599, l='ServerLevel[world]', x=-431.90, y=53.98, z=-767.00]
+[27May2025 00:54:15.262] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/53599, l='ServerLevel[world]', x=-431.90, y=53.98, z=-767.00]
+[27May2025 00:54:17.831] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:54:17.837] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@7d188637 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[27May2025 00:54:17.838] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@e57df58 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 00:54:17.838] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@75b6c17f (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 00:54:17.838] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@60a7399b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 00:54:21.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[27May2025 00:54:28.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ta wb
+[27May2025 00:54:38.663] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54167, l='ServerLevel[world]', x=-429.74, y=53.44, z=-766.63]
+[27May2025 00:54:38.663] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54167, l='ServerLevel[world]', x=-429.74, y=53.44, z=-766.63]
+[27May2025 00:54:38.663] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54167, l='ServerLevel[world]', x=-429.74, y=53.44, z=-766.63]
+[27May2025 00:54:39.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was fireballed by Silvana Heartfire
+[27May2025 00:54:40.393] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:54:46.812] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54248, l='ServerLevel[world]', x=-428.99, y=51.44, z=-766.51]
+[27May2025 00:54:46.813] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54248, l='ServerLevel[world]', x=-428.99, y=51.44, z=-766.51]
+[27May2025 00:54:46.813] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54248, l='ServerLevel[world]', x=-428.99, y=51.44, z=-766.51]
+[27May2025 00:54:47.315] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54256, l='ServerLevel[world]', x=-428.99, y=52.19, z=-767.26]
+[27May2025 00:54:47.316] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54256, l='ServerLevel[world]', x=-428.99, y=52.19, z=-767.26]
+[27May2025 00:54:47.316] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54256, l='ServerLevel[world]', x=-428.99, y=52.19, z=-767.26]
+[27May2025 00:54:48.815] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54267, l='ServerLevel[world]', x=-429.88, y=51.44, z=-766.90]
+[27May2025 00:54:48.816] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54267, l='ServerLevel[world]', x=-429.88, y=51.44, z=-766.90]
+[27May2025 00:54:48.816] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54267, l='ServerLevel[world]', x=-429.88, y=51.44, z=-766.90]
+[27May2025 00:54:51.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was burnt to a crisp whilst fighting Silvana Heartfire
+[27May2025 00:54:52.615] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:54:56.462] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54327, l='ServerLevel[world]', x=-429.86, y=51.44, z=-766.73]
+[27May2025 00:54:56.462] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54327, l='ServerLevel[world]', x=-429.86, y=51.44, z=-766.73]
+[27May2025 00:54:56.462] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54327, l='ServerLevel[world]', x=-429.86, y=51.44, z=-766.73]
+[27May2025 00:54:56.463] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54329, l='ServerLevel[world]', x=-429.86, y=51.44, z=-766.73]
+[27May2025 00:54:56.463] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54329, l='ServerLevel[world]', x=-429.86, y=51.44, z=-766.73]
+[27May2025 00:54:56.463] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54329, l='ServerLevel[world]', x=-429.86, y=51.44, z=-766.73]
+[27May2025 00:54:56.960] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54332, l='ServerLevel[world]', x=-429.22, y=52.19, z=-766.79]
+[27May2025 00:54:56.961] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54332, l='ServerLevel[world]', x=-429.22, y=52.19, z=-766.79]
+[27May2025 00:54:56.961] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54332, l='ServerLevel[world]', x=-429.22, y=52.19, z=-766.79]
+[27May2025 00:54:56.961] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54334, l='ServerLevel[world]', x=-429.22, y=52.19, z=-766.79]
+[27May2025 00:54:56.961] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54334, l='ServerLevel[world]', x=-429.22, y=52.19, z=-766.79]
+[27May2025 00:54:56.961] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54334, l='ServerLevel[world]', x=-429.22, y=52.19, z=-766.79]
+[27May2025 00:54:57.463] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54338, l='ServerLevel[world]', x=-428.58, y=51.44, z=-767.11]
+[27May2025 00:54:57.463] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54338, l='ServerLevel[world]', x=-428.58, y=51.44, z=-767.11]
+[27May2025 00:54:57.463] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/54338, l='ServerLevel[world]', x=-428.58, y=51.44, z=-767.11]
+[27May2025 00:54:59.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was burnt to a crisp whilst fighting Silvana Heartfire
+[27May2025 00:55:00.663] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:55:01.461] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/54352, l='ServerLevel[world]', x=-427.81, y=50.98, z=-768.08]
+[27May2025 00:55:01.461] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/54352, l='ServerLevel[world]', x=-427.81, y=50.98, z=-768.08]
+[27May2025 00:55:01.461] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/54352, l='ServerLevel[world]', x=-427.81, y=50.98, z=-768.08]
+[27May2025 00:55:01.961] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/54355, l='ServerLevel[world]', x=-428.62, y=52.64, z=-767.73]
+[27May2025 00:55:01.961] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/54355, l='ServerLevel[world]', x=-428.62, y=52.64, z=-767.73]
+[27May2025 00:55:01.961] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/54355, l='ServerLevel[world]', x=-428.62, y=52.64, z=-767.73]
+[27May2025 00:55:02.464] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/54358, l='ServerLevel[world]', x=-428.93, y=52.12, z=-767.14]
+[27May2025 00:55:02.464] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/54358, l='ServerLevel[world]', x=-428.93, y=52.12, z=-767.14]
+[27May2025 00:55:02.464] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/54358, l='ServerLevel[world]', x=-428.93, y=52.12, z=-767.14]
+[27May2025 00:55:02.962] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/54361, l='ServerLevel[world]', x=-428.76, y=52.12, z=-766.67]
+[27May2025 00:55:02.962] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/54361, l='ServerLevel[world]', x=-428.76, y=52.12, z=-766.67]
+[27May2025 00:55:02.962] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/54361, l='ServerLevel[world]', x=-428.76, y=52.12, z=-766.67]
+[27May2025 00:55:03.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> nada q es mujer
+[27May2025 00:55:04.460] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/54366, l='ServerLevel[world]', x=-426.04, y=51.61, z=-767.27]
+[27May2025 00:55:04.460] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/54366, l='ServerLevel[world]', x=-426.04, y=51.61, z=-767.27]
+[27May2025 00:55:04.460] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/54366, l='ServerLevel[world]', x=-426.04, y=51.61, z=-767.27]
+[27May2025 00:55:04.460] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/54368, l='ServerLevel[world]', x=-426.04, y=51.61, z=-767.27]
+[27May2025 00:55:04.460] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/54368, l='ServerLevel[world]', x=-426.04, y=51.61, z=-767.27]
+[27May2025 00:55:04.461] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/54368, l='ServerLevel[world]', x=-426.04, y=51.61, z=-767.27]
+[27May2025 00:55:04.817] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Loot table 'minecraft:chests/jungle_temple' has T3 level chest loot. Adding coins to the spawned loot.
+[27May2025 00:55:04.817] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_gold to the chest loot.
+[27May2025 00:55:04.817] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 4x lightmanscurrency:coin_iron to the chest loot.
+[27May2025 00:55:04.817] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 5x lightmanscurrency:coin_gold to the chest loot.
+[27May2025 00:55:04.817] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 9x lightmanscurrency:coin_iron to the chest loot.
+[27May2025 00:55:04.817] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 9x lightmanscurrency:coin_gold to the chest loot.
+[27May2025 00:55:04.817] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 6x lightmanscurrency:coin_gold to the chest loot.
+[27May2025 00:55:12.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 burned to death
+[27May2025 00:55:15.446] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:55:32.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Skeleton
+[27May2025 00:55:34.262] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:55:36.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[27May2025 00:55:41.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mis cosas pe
+[27May2025 00:55:54.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Zombie
+[27May2025 00:55:55.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was slain by Skeleton
+[27May2025 00:55:56.988] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:55:59.011] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:56:08.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has made the advancement [Monster Hunter]
+[27May2025 00:56:14.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by miradafilosa
+[27May2025 00:56:18.617] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionRotationPacket.func_148833_a(SourceFile:18) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[27May2025 00:56:18.784] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:56:18.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XDDDD
+[27May2025 00:56:20.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> de quien su loot
+[27May2025 00:56:21.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> XDD
+[27May2025 00:56:27.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> dame crea
+[27May2025 00:56:33.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set TAQUIS123's game mode to Creative Mode]
+[27May2025 00:56:38.919] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 00:56:38.933] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 00:57:00.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> ismael
+[27May2025 00:57:02.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> oe mataleo 'pe
+[27May2025 00:57:03.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> hazme barra kill
+[27May2025 00:57:11.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa died
+[27May2025 00:57:11.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Killed miradafilosa]
+[27May2025 00:57:13.065] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:57:41.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> como hago mi mochilka
+[27May2025 00:57:43.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Not Today, Thank You]
+[27May2025 00:58:19.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> quitamelo
+[27May2025 00:58:48.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Getting an Upgrade]
+[27May2025 00:58:48.763] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Loot table 'minecraft:chests/simple_dungeon' has T3 level chest loot. Adding coins to the spawned loot.
+[27May2025 00:58:48.763] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 9x lightmanscurrency:coin_iron to the chest loot.
+[27May2025 00:58:48.763] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 9x lightmanscurrency:coin_gold to the chest loot.
+[27May2025 00:58:48.764] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 7x lightmanscurrency:coin_iron to the chest loot.
+[27May2025 00:59:02.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> mientras mas bajo mejor?
+[27May2025 00:59:55.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> oe quitame el creat
+[27May2025 01:00:01.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set TAQUIS123's game mode to Survival Mode]
+[27May2025 01:00:17.995] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Loot table 'minecraft:chests/simple_dungeon' has T3 level chest loot. Adding coins to the spawned loot.
+[27May2025 01:00:17.995] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 7x lightmanscurrency:coin_iron to the chest loot.
+[27May2025 01:00:17.995] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 7x lightmanscurrency:coin_gold to the chest loot.
+[27May2025 01:00:17.995] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 6x lightmanscurrency:coin_iron to the chest loot.
+[27May2025 01:00:17.995] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 4x lightmanscurrency:coin_gold to the chest loot.
+[27May2025 01:00:17.995] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_iron to the chest loot.
+[27May2025 01:00:17.995] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 7x lightmanscurrency:coin_gold to the chest loot.
+[27May2025 01:00:28.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> XDD
+[27May2025 01:01:02.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> oe me faltan cosas ptm david
+[27May2025 01:01:13.662] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Preparing airdrop spawn event
+[27May2025 01:01:13.662] [Server thread/DEBUG] [Guns-RPG/WorldEvent]: Created new airdrop at BlockPos{x=-375, y=195, z=-779} for player TAQUIS123
+[27May2025 01:01:15.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mis garras y botas de velocidad no las tienes??
+[27May2025 01:01:17.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> no agarre nd
