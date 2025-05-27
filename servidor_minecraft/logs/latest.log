@@ -882,3 +882,70 @@ java.lang.NullPointerException: null
 [27May2025 01:42:04.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> que cosa??
 [27May2025 01:42:04.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> un rato q entre david
 [27May2025 01:42:07.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> para mostrarle
+[27May2025 01:42:11.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> sa wea de los cofres
+[27May2025 01:42:19.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> yo lo abro pe
+[27May2025 01:42:31.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> si
+[27May2025 01:42:38.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> acepta
+[27May2025 01:42:39.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> q entre el esternocleidomastoideo
+[27May2025 01:44:03.461] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@107c4e5d
+[27May2025 01:44:03.473] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: miradafilosa[/127.168.221.195:35109] logged in with entity id 123640 at (-234.5, 63.0, 124.5)
+[27May2025 01:44:03.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa joined the game
+[27May2025 01:44:03.481] [Server thread/INFO] [tac/]: PENDING
+[27May2025 01:44:03.529] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[27May2025 01:44:03.530] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[27May2025 01:44:03.530] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[27May2025 01:44:06.960] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3db6159c-8813-3b63-a617-36f228374b83 was loaded
+[27May2025 01:44:06.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> david
+[27May2025 01:44:08.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ya lo encontre
+[27May2025 01:44:20.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported miradafilosa to ATT_CANNIVAL]
+[27May2025 01:44:33.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> llave de hoja falta
+[27May2025 01:44:52.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> prueba con eso aver
+[27May2025 01:45:00.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> se rompio
+[27May2025 01:45:11.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> XD
+[27May2025 01:45:20.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> nd
+[27May2025 01:45:44.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> XDD
+[27May2025 01:45:46.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> lo q tuviste q excarbar
+[27May2025 01:45:48.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[27May2025 01:45:49.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> xd
+[27May2025 01:46:10.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[27May2025 01:46:25.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> como me quito algo
+[27May2025 01:46:30.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> como un anillo
+[27May2025 01:46:50.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> en el inventario en una esquina hay una tuerca
+[27May2025 01:46:50.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> q
+[27May2025 01:47:00.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ai es donde se ponen los anillos
+[27May2025 01:47:28.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> encontré uno
+[27May2025 01:47:35.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[27May2025 01:47:58.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> espera
+[27May2025 01:48:04.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> radiaceon
+[27May2025 01:48:21.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa fell from a high place
+[27May2025 01:48:24.415] [Server thread/INFO] [tac/]: PENDING
+[27May2025 01:48:26.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> sin creativo ps
+[27May2025 01:48:39.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> es para mostrar ps
+[27May2025 01:48:45.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Dead Sea]
+[27May2025 01:48:45.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> david ven
+[27May2025 01:48:49.110] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: miradafilosa lost connection: Timed out
+[27May2025 01:48:49.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa left the game
+[27May2025 01:48:49.111] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3db6159c-8813-3b63-a617-36f228374b83 was unloaded
+[27May2025 01:49:00.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Parasite
+[27May2025 01:49:01.958] [Server thread/INFO] [tac/]: PENDING
+[27May2025 01:49:05.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[27May2025 01:49:09.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.radiation.player
+[27May2025 01:49:11.027] [Server thread/INFO] [tac/]: PENDING
+[27May2025 01:49:20.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[27May2025 01:49:28.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported TAQUIS123 to ATT_CANNIVAL]
+[27May2025 01:49:33.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> q vea david ps
+[27May2025 01:49:36.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> sino termina volando
+[27May2025 01:50:02.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> hacia bajo
+[27May2025 01:50:16.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Fat Zombie
+[27May2025 01:50:17.246] [Server thread/INFO] [tac/]: PENDING
+[27May2025 01:50:19.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> a
+[27May2025 01:50:21.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[27May2025 01:50:34.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set TAQUIS123's game mode to Creative Mode]
+[27May2025 01:50:39.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported TAQUIS123 to ATT_CANNIVAL]
+[27May2025 01:51:11.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> esta para safar
+[27May2025 01:51:12.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> xd
+[27May2025 01:51:14.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> toy lag
+[27May2025 01:51:20.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set TAQUIS123's game mode to Survival Mode]
+[27May2025 01:52:02.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> los cofres op son los q aparecen en un bioma negro
+[27May2025 01:52:14.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> me are tp a la villa
+[27May2025 01:52:15.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> xd

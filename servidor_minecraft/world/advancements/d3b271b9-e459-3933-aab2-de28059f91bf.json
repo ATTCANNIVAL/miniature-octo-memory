@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-27 01:43:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-05-26 23:29:50 +0000"
@@ -296,6 +302,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-05-26 23:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-27 01:50:11 +0000"
     },
     "done": true
   },
@@ -1434,6 +1446,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-05-27 01:45:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-26 23:21:06 +0000"
@@ -2059,6 +2077,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-05-27 01:43:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-05-26 23:29:36 +0000"
@@ -2194,6 +2218,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-05-27 00:32:46 +0000"
+    },
+    "done": true
+  },
+  "zombie_extreme:alternateworldadvancement": {
+    "criteria": {
+      "alternateworldadvancement": "2025-05-27 01:48:45 +0000"
     },
     "done": true
   },
@@ -2500,6 +2530,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-05-26 23:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-05-27 01:45:43 +0000"
     },
     "done": true
   },
