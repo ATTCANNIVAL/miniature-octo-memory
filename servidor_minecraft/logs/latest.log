@@ -66,3 +66,70 @@ java.lang.NullPointerException: null
 [27May2025 00:10:13.645] [Server thread/INFO] [tac/]: PENDING
 [27May2025 00:10:16.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
 [27May2025 00:10:17.873] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Ermes'/22831, l='ServerLevel[world]', x=-758.37, y=73.00, z=-811.23] died, message: 'Ermes was shot by Pillager'
+[27May2025 00:11:35.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to miradafilosa]
+[27May2025 00:11:46.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Dark pearl]
+[27May2025 00:11:53.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to TAQUIS123]
+[27May2025 00:11:56.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[27May2025 00:11:59.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Titan ignot]
+[27May2025 00:12:08.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mas legal
+[27May2025 00:12:20.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ya viste ese barco
+[27May2025 00:13:19.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> tengo 3 minutos de nausesas
+[27May2025 00:13:27.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> esperate pe
+[27May2025 00:13:28.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> yo sigo sin pie
+[27May2025 00:15:08.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> onde tas??
+[27May2025 00:15:14.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> aca
+[27May2025 00:15:21.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> toy mareado xd
+[27May2025 00:15:27.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> xd
+[27May2025 00:15:35.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> no tomes nada con el nombre en amarillo
+[27May2025 00:15:41.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> no alcoholes
+[27May2025 00:15:41.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ya
+[27May2025 00:15:47.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> no tienes antorcha=?
+[27May2025 00:16:19.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ten
+[27May2025 00:16:54.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 blew up
+[27May2025 00:16:56.567] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:16:59.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[27May2025 00:17:02.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[27May2025 00:17:37.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> vamo lutear
+[27May2025 00:17:54.458] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Luigia'/23006, l='ServerLevel[world]', x=-824.92, y=69.56, z=-849.70] died, message: 'Luigia was slain by Zombie'
+[27May2025 00:17:58.555] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Fiorenzo'/23017, l='ServerLevel[world]', x=-756.47, y=72.50, z=-849.47] died, message: 'Fiorenzo suffocated in a wall'
+[27May2025 00:18:18.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Monster Hunter]
+[27May2025 00:18:25.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Zombie
+[27May2025 00:18:29.198] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:18:29.425] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/26757, l='ServerLevel[world]', x=-807.50, y=75.00, z=-443.50] quests expired
+[27May2025 00:18:29.462] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/7374, l='ServerLevel[world]', x=-748.50, y=71.00, z=-496.50] quests expired
+[27May2025 00:18:29.463] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/7401, l='ServerLevel[world]', x=-776.50, y=68.00, z=-496.50] quests expired
+[27May2025 00:18:29.463] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/7426, l='ServerLevel[world]', x=-795.50, y=67.00, z=-496.50] quests expired
+[27May2025 00:18:29.481] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/26758, l='ServerLevel[world]', x=-761.50, y=72.00, z=-443.50] quests expired
+[27May2025 00:18:29.527] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/26782, l='ServerLevel[world]', x=-755.50, y=75.00, z=-413.50] quests expired
+[27May2025 00:18:29.564] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/7438, l='ServerLevel[world]', x=-811.50, y=72.00, z=-496.50] quests expired
+[27May2025 00:18:29.606] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/26794, l='ServerLevel[world]', x=-731.50, y=74.00, z=-436.50] quests expired
+[27May2025 00:18:29.732] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/26804, l='ServerLevel[world]', x=-755.50, y=81.00, z=-391.50] quests expired
+[27May2025 00:18:29.732] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/26809, l='ServerLevel[world]', x=-731.50, y=83.00, z=-391.50] quests expired
+[27May2025 00:18:32.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ptm
+[27May2025 00:18:46.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by ATT_CANNIVAL
+[27May2025 00:18:50.365] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Asio'/23250, l='ServerLevel[world]', x=-779.54, y=70.00, z=-828.71] died, message: 'Asio was slain by Fast infected'
+[27May2025 00:18:51.190] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionRotationPacket.func_148833_a(SourceFile:18) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[27May2025 00:18:51.256] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:18:55.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> matalo pe primero
+[27May2025 00:19:14.423] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Odda'/23016, l='ServerLevel[world]', x=-813.69, y=72.23, z=-852.72] died, message: 'Odda was slain by Infected Dog'

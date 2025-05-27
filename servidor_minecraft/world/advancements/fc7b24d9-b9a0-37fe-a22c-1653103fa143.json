@@ -577,6 +577,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-27 00:07:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_sofa": {
     "criteria": {
       "has_wool": "2025-05-26 23:54:13 +0000"
@@ -886,6 +892,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-05-26 17:55:47 +0000",
+      "minecraft:phantom": "2025-05-27 00:14:05 +0000",
       "minecraft:zombie": "2025-05-26 23:14:16 +0000"
     },
     "done": false
@@ -1212,6 +1219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-27 00:11:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/fridge_dark": {
     "criteria": {
       "has_iron": "2025-05-27 00:01:00 +0000"
@@ -1324,6 +1337,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-26 23:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-27 00:11:05 +0000"
     },
     "done": true
   },
@@ -1648,6 +1667,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-05-26 17:44:53 +0000",
+      "minecraft:mountains": "2025-05-27 00:09:50 +0000",
       "minecraft:dark_forest": "2025-05-26 23:26:28 +0000",
       "minecraft:wooded_hills": "2025-05-26 17:48:10 +0000",
       "minecraft:swamp": "2025-05-26 22:36:32 +0000",
@@ -1682,6 +1702,12 @@
   "cfm:recipes/cfm/green_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-27 00:04:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-27 00:11:05 +0000"
     },
     "done": true
   },
@@ -1826,6 +1852,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2025-05-26 17:44:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-27 00:11:05 +0000"
     },
     "done": true
   },
