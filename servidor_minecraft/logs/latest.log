@@ -713,3 +713,72 @@ java.lang.NullPointerException: null
 [27May2025 01:21:20.106] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/75185, l='ServerLevel[world]', x=-684.50, y=67.00, z=-446.50] quests expired
 [27May2025 01:21:47.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 withered away
 [27May2025 01:21:48.525] [Server thread/INFO] [tac/]: PENDING
+[27May2025 01:22:11.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 withered away
+[27May2025 01:22:13.022] [Server thread/INFO] [tac/]: PENDING
+[27May2025 01:22:57.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -901.5, 69.5, -969.5]
+[27May2025 01:23:31.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> chicos
+[27May2025 01:23:36.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> quieren jugar a la suerte
+[27May2025 01:23:41.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> arrojando monedas
+[27May2025 01:23:55.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> como ???
+[27May2025 01:24:07.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[27May2025 01:24:13.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> lo q scuchaste
+[27May2025 01:24:18.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Infection Military
+[27May2025 01:24:20.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> en donde gasto mi money
+[27May2025 01:24:26.167] [Server thread/INFO] [tac/]: PENDING
+[27May2025 01:24:36.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ven pues
+[27May2025 01:25:15.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> david vienes?
+[27May2025 01:25:28.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> ya+
+[27May2025 01:25:31.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> manden tp
+[27May2025 01:25:49.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported TAQUIS123 to ATT_CANNIVAL]
+[27May2025 01:25:56.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported miradafilosa to ATT_CANNIVAL]
+[27May2025 01:26:02.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> aca
+[27May2025 01:26:20.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> dio eso
+[27May2025 01:26:29.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> monedas
+[27May2025 01:26:33.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> aver pasa
+[27May2025 01:26:35.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> oe
+[27May2025 01:26:38.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> te llevaste todo
+[27May2025 01:26:39.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XDDDD
+[27May2025 01:27:05.208] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL lost connection: Timed out
+[27May2025 01:27:05.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL left the game
+[27May2025 01:27:05.209] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc7b24d9-b9a0-37fe-a22c-1653103fa143 was unloaded
+[27May2025 01:27:15.558] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: miradafilosa lost connection: Timed out
+[27May2025 01:27:15.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa left the game
+[27May2025 01:27:15.558] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3db6159c-8813-3b63-a617-36f228374b83 was unloaded
+[27May2025 01:27:26.515] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1945ae90
+[27May2025 01:27:26.530] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: miradafilosa[/127.168.221.195:42137] logged in with entity id 112555 at (-905.2455798128157, 68.0, -988.5896864539416)
+[27May2025 01:27:26.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa joined the game
+[27May2025 01:27:26.538] [Server thread/INFO] [tac/]: PENDING
+[27May2025 01:27:26.582] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[27May2025 01:27:26.582] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[27May2025 01:27:26.582] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[27May2025 01:27:26.959] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3db6159c-8813-3b63-a617-36f228374b83 was loaded
+[27May2025 01:27:28.315] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5e695ed3
+[27May2025 01:27:28.327] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ATT_CANNIVAL[/127.235.100.93:36885] logged in with entity id 112565 at (-904.0265608133225, 69.0, -985.643204205154)
+[27May2025 01:27:28.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL joined the game
+[27May2025 01:27:28.338] [Server thread/INFO] [tac/]: PENDING
+[27May2025 01:27:28.388] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[27May2025 01:27:28.388] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[27May2025 01:27:28.388] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[27May2025 01:27:28.407] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@7d188637 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[27May2025 01:27:28.407] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@e57df58 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 01:27:28.408] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@75b6c17f (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 01:27:28.408] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@60a7399b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 01:27:29.840] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc7b24d9-b9a0-37fe-a22c-1653103fa143 was loaded
+[27May2025 01:28:01.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> tiraste moneda?
+[27May2025 01:28:13.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> se llaman coins
+[27May2025 01:28:18.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> full aternos
+[27May2025 01:28:32.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> eso
+[27May2025 01:28:52.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[27May2025 01:28:55.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[27May2025 01:29:05.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> las monedas de plata dan mejor q las de bronce
+[27May2025 01:29:15.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> las coins de oro dan cosas op creo
+[27May2025 01:29:49.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> eso dio
+[27May2025 01:30:02.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mira mis pies
+[27May2025 01:30:10.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> a
+[27May2025 01:30:13.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> sin creepers
+[27May2025 01:30:25.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> tengo de conejeos tambien
+[27May2025 01:31:04.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> pa q son las llaves
+[27May2025 01:31:49.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> llavez
+[27May2025 01:31:54.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> hay cofres enterrador
+[27May2025 01:31:56.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> pa q es
+[27May2025 01:32:00.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> enterrados

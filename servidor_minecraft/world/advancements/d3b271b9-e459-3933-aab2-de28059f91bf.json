@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-27 01:26:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-05-26 23:29:50 +0000"
@@ -1169,6 +1175,7 @@
       "minecraft:river": "2025-05-27 00:52:17 +0000",
       "minecraft:wooded_mountains": "2025-05-27 00:43:57 +0000",
       "minecraft:wooded_hills": "2025-05-27 01:20:11 +0000",
+      "minecraft:swamp": "2025-05-27 01:27:44 +0000",
       "minecraft:plains": "2025-05-26 23:10:42 +0000"
     },
     "done": false
@@ -1743,6 +1750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-05-27 01:23:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-05-26 23:40:05 +0000"
@@ -1960,6 +1973,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-27 01:26:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_sofa": {
     "criteria": {
       "has_wool": "2025-05-26 23:40:05 +0000"
@@ -1975,6 +1994,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-26 23:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-27 01:26:51 +0000"
     },
     "done": true
   },
@@ -2263,6 +2288,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-05-26 23:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-27 01:26:51 +0000"
     },
     "done": true
   },
@@ -2695,6 +2726,12 @@
   "cfm:recipes/cfm/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-26 23:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-27 01:23:11 +0000"
     },
     "done": true
   },
