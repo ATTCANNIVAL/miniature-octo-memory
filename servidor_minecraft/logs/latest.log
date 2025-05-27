@@ -7083,3 +7083,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 16:26:29.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has made the advancement [Enchanter]
 [27May2025 16:36:20.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa tried to swim in lava
 [27May2025 16:36:22.300] [Server thread/INFO] [tac/]: PENDING
+[27May2025 16:37:23.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was slain by Infected Spec Ops Soldier
+[27May2025 16:37:24.629] [Server thread/INFO] [tac/]: PENDING
+[27May2025 16:37:31.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has died from pain caused by fracture
+[27May2025 16:37:34.104] [Server thread/INFO] [tac/]: PENDING
+[27May2025 16:38:01.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was blown up by Creeper
+[27May2025 16:38:03.236] [Server thread/INFO] [tac/]: PENDING
