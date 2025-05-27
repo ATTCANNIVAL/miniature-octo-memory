@@ -11657,3 +11657,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 17:23:07.914] [Server thread/INFO] [tac/]: PENDING
 [27May2025 17:27:25.723] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [27May2025 17:27:25.733] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 17:32:25.675] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 17:32:25.688] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 17:34:09.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> -155 69
+[27May2025 17:37:25.710] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 17:37:25.722] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
