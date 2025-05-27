@@ -11519,3 +11519,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 15:17:25.672] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [27May2025 15:22:25.670] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [27May2025 15:22:25.683] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 15:27:25.665] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 15:27:25.677] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 15:32:25.657] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 15:32:25.671] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 15:32:38.851] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-256, y=76, z=134}
+[27May2025 15:34:14.143] [Worker-Main-80/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (36 | 49 | 148).
+[27May2025 15:34:14.146] [Worker-Main-80/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[27May2025 15:34:14.148] [Worker-Main-80/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 6(0) Rooms
+[27May2025 15:34:14.148] [Worker-Main-80/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[27May2025 15:34:14.150] [Worker-Main-80/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 8(0) Nodes and 6(0) Rooms
+[27May2025 15:34:14.150] [Worker-Main-80/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[27May2025 15:34:14.151] [Worker-Main-80/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 10(0) Nodes and 6(0) Rooms
+[27May2025 15:34:14.151] [Worker-Main-80/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[27May2025 15:34:14.151] [Worker-Main-80/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 4(9) Nodes and 7(0) Rooms
+[27May2025 15:34:14.151] [Worker-Main-80/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[27May2025 15:34:14.152] [Worker-Main-80/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 8(0) Rooms
+[27May2025 15:34:14.160] [Worker-Main-80/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [7, 14] with a total of 384 pieces.
+[27May2025 15:36:14.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was slain by Infected
+[27May2025 15:36:16.695] [Server thread/INFO] [tac/]: PENDING
