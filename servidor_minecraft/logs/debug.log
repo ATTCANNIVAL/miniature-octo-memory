@@ -20885,3 +20885,61 @@ java.lang.NullPointerException: null
 [27May2025 01:11:40.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has died from pain caused by fracture
 [27May2025 01:11:40.893] [Worker-Main-96/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:phantomboss at BlockPos{x=-425, y=17, z=-515} at Chest with:minecraft:chests/ruined_portal in ruined_portal
 [27May2025 01:11:41.907] [Server thread/INFO] [tac/]: PENDING
+[27May2025 01:12:56.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> como hago las curas esas
+[27May2025 01:13:04.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> cuales
+[27May2025 01:13:28.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> no se
+[27May2025 01:13:41.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was slain by Zombie
+[27May2025 01:13:42.816] [Server thread/INFO] [tac/]: PENDING
+[27May2025 01:13:53.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was slain by Juggernaut Zombie
+[27May2025 01:13:55.226] [Server thread/INFO] [tac/]: PENDING
+[27May2025 01:14:06.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 withered away whilst fighting Zombie
+[27May2025 01:14:07.555] [Server thread/INFO] [tac/]: PENDING
+[27May2025 01:14:10.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[27May2025 01:14:16.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[27May2025 01:14:45.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> donde es los cosos de los puntos
+[27May2025 01:14:53.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has made the advancement [Not Today, Thank You]
+[27May2025 01:14:53.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> presionando la letra O
+[27May2025 01:14:55.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> com la o
+[27May2025 01:15:11.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to miradafilosa]
+[27May2025 01:15:18.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[27May2025 01:16:29.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> el coso de anilos
+[27May2025 01:16:36.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> es donde se pone el escudo no?=
+[27May2025 01:16:39.083] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 01:16:39.094] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 01:16:42.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> no
+[27May2025 01:16:49.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> hay 4 espacios
+[27May2025 01:16:54.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ahi no es
+[27May2025 01:16:55.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[27May2025 01:16:58.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> donde es
+[27May2025 01:16:58.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> XD
+[27May2025 01:17:02.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> dale con clic derecho y se equipa
+[27May2025 01:17:16.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> con razon p
+[27May2025 01:17:23.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> y donde me pongo la mochila
+[27May2025 01:17:25.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Silver Ring] to ATT_CANNIVAL]
+[27May2025 01:17:53.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> tmb tiene su menú en donde se ven lo q te puedes equipar
+[27May2025 01:17:59.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> es el mod de curious api
+[27May2025 01:18:29.406] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/91542, l='ServerLevel[world]', x=-807.50, y=75.00, z=-443.50] quests expired
+[27May2025 01:18:29.458] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/91544, l='ServerLevel[world]', x=-761.50, y=72.00, z=-443.50] quests expired
+[27May2025 01:18:29.459] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/91568, l='ServerLevel[world]', x=-795.50, y=67.00, z=-496.50] quests expired
+[27May2025 01:18:29.459] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/91572, l='ServerLevel[world]', x=-776.50, y=68.00, z=-496.50] quests expired
+[27May2025 01:18:29.459] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/91573, l='ServerLevel[world]', x=-748.50, y=71.00, z=-496.50] quests expired
+[27May2025 01:18:29.508] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/91577, l='ServerLevel[world]', x=-755.50, y=75.00, z=-413.50] quests expired
+[27May2025 01:18:29.555] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/75140, l='ServerLevel[world]', x=-731.50, y=74.00, z=-436.50] quests expired
+[27May2025 01:18:29.566] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/91559, l='ServerLevel[world]', x=-811.50, y=72.00, z=-496.50] quests expired
+[27May2025 01:18:29.716] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/86979, l='ServerLevel[world]', x=-731.50, y=83.00, z=-391.50] quests expired
+[27May2025 01:18:29.720] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/91601, l='ServerLevel[world]', x=-755.50, y=81.00, z=-391.50] quests expired
+[27May2025 01:18:50.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gamerule naturalRegeneration is now set to: true]
+[27May2025 01:18:54.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> un zombien me quiso meter plomo
+[27May2025 01:19:26.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ustedes cuanto brillo le ponen
+[27May2025 01:19:31.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> yo juego con -45
+[27May2025 01:19:51.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has died from pain caused by fracture
+[27May2025 01:19:52.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> le ponen brillo?
+[27May2025 01:19:53.301] [Server thread/INFO] [tac/]: PENDING
+[27May2025 01:20:01.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was slain by Juggernaut Zombie
+[27May2025 01:20:02.972] [Server thread/INFO] [tac/]: PENDING
+[27May2025 01:20:07.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> hace el mc más realista
+[27May2025 01:21:20.106] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/75185, l='ServerLevel[world]', x=-684.50, y=67.00, z=-446.50] quests expired
+[27May2025 01:21:39.198] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27May2025 01:21:39.209] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27May2025 01:21:47.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 withered away
+[27May2025 01:21:48.525] [Server thread/INFO] [tac/]: PENDING

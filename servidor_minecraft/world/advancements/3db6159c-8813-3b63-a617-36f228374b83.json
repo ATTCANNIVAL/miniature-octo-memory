@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/granite_desk": {
+    "criteria": {
+      "has_planks": "2025-05-27 01:20:26 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/structurize/shapetool": {
     "criteria": {
       "has_stick": "2025-05-26 23:30:52 +0000"
@@ -341,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-27 01:20:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-05-26 22:47:04 +0000"
@@ -362,6 +374,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-05-27 01:08:17 +0000",
+      "cooked_beef": "2025-05-27 01:18:42 +0000",
       "cooked_rabbit": "2025-05-27 01:00:33 +0000"
     },
     "done": false
@@ -471,6 +484,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-05-27 00:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-05-27 01:20:26 +0000"
     },
     "done": true
   },
@@ -800,6 +819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-27 01:20:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_table": {
     "criteria": {
       "has_planks": "2025-05-26 23:30:19 +0000"
@@ -974,6 +999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-05-27 01:20:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-05-27 00:51:55 +0000"
@@ -1038,6 +1069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-27 01:20:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-05-27 01:01:53 +0000"
@@ -1053,6 +1090,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-05-27 00:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-27 01:20:26 +0000"
     },
     "done": true
   },
@@ -1128,6 +1171,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/granite_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-27 01:20:26 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_ingredients": "2025-05-26 17:42:16 +0000"
@@ -1146,6 +1195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-05-27 01:20:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-27 00:56:08 +0000"
@@ -1155,6 +1210,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-27 00:44:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-27 01:20:26 +0000"
     },
     "done": true
   },
@@ -1261,6 +1322,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-27 01:14:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-05-26 23:30:52 +0000"
@@ -1303,9 +1370,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/granite_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-05-27 01:20:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-05-27 00:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-27 01:20:26 +0000"
     },
     "done": true
   },
@@ -1453,6 +1532,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/granite_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-27 01:20:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 00:48:05 +0000"
@@ -1492,6 +1577,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-26 22:51:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-27 01:20:26 +0000"
     },
     "done": true
   },
@@ -1579,6 +1670,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/granite_chair": {
+    "criteria": {
+      "has_planks": "2025-05-27 01:20:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-05-27 00:42:20 +0000"
@@ -1614,6 +1711,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 00:48:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_table": {
+    "criteria": {
+      "has_planks": "2025-05-27 01:20:26 +0000"
     },
     "done": true
   },
@@ -1806,6 +1909,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-05-26 23:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-05-27 01:20:26 +0000"
     },
     "done": true
   },

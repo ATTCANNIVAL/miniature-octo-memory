@@ -781,6 +781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-27 01:13:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/diorite_desk": {
     "criteria": {
       "has_log": "2025-05-26 23:41:30 +0000"
@@ -1005,6 +1011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-27 01:20:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/orange_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-26 23:21:06 +0000"
@@ -1056,6 +1068,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-26 23:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-27 01:13:47 +0000"
     },
     "done": true
   },
@@ -1113,6 +1131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-05-27 01:13:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-27 00:36:58 +0000"
@@ -1144,9 +1168,16 @@
       "minecraft:dark_forest": "2025-05-26 23:26:02 +0000",
       "minecraft:river": "2025-05-27 00:52:17 +0000",
       "minecraft:wooded_mountains": "2025-05-27 00:43:57 +0000",
+      "minecraft:wooded_hills": "2025-05-27 01:20:11 +0000",
       "minecraft:plains": "2025-05-26 23:10:42 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-27 01:20:55 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/cfm/stripped_crimson_kitchen_sink_dark": {
     "criteria": {
@@ -1406,6 +1437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2025-05-27 01:13:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-27 00:36:58 +0000"
@@ -1595,6 +1632,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-05-26 23:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-27 01:13:47 +0000"
     },
     "done": true
   },
@@ -1796,6 +1839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-05-27 01:13:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-26 23:24:01 +0000"
@@ -1932,6 +1981,12 @@
   "dungeons_arise:find_illager_windmill": {
     "criteria": {
       "location0": "2025-05-27 00:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-27 01:13:47 +0000"
     },
     "done": true
   },
@@ -2415,6 +2470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-05-27 01:13:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_mail_box": {
     "criteria": {
       "has_chest": "2025-05-26 23:21:06 +0000"
@@ -2442,6 +2503,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-05-26 23:41:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-05-27 01:13:47 +0000"
     },
     "done": true
   },
