@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-05-27 00:24:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_chair": {
     "criteria": {
       "has_planks": "2025-05-26 22:35:25 +0000"
@@ -613,6 +619,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-05-27 00:26:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/purple_grill": {
     "criteria": {
       "has_iron": "2025-05-27 00:01:00 +0000"
@@ -893,6 +905,7 @@
     "criteria": {
       "minecraft:spider": "2025-05-26 17:55:47 +0000",
       "minecraft:phantom": "2025-05-27 00:14:05 +0000",
+      "minecraft:witch": "2025-05-27 00:26:24 +0000",
       "minecraft:zombie": "2025-05-26 23:14:16 +0000"
     },
     "done": false
@@ -954,6 +967,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_dark_oak_planks": "2025-05-27 00:04:01 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-05-27 00:22:04 +0000"
     },
     "done": true
   },
@@ -1276,6 +1295,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-05-26 22:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-05-27 00:24:28 +0000"
     },
     "done": true
   },

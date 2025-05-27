@@ -133,3 +133,115 @@ java.lang.NullPointerException: null
 [27May2025 00:18:51.256] [Server thread/INFO] [tac/]: PENDING
 [27May2025 00:18:55.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> matalo pe primero
 [27May2025 00:19:14.423] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Odda'/23016, l='ServerLevel[world]', x=-813.69, y=72.23, z=-852.72] died, message: 'Odda was slain by Infected Dog'
+[27May2025 00:21:17.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has been shot by Zombie Gunner with [M1911]
+[27May2025 00:21:19.797] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:21:19.803] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@7d188637 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[27May2025 00:21:19.804] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@e57df58 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 00:21:19.804] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@75b6c17f (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 00:21:19.804] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@60a7399b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 00:21:20.126] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/27792, l='ServerLevel[world]', x=-684.50, y=67.00, z=-446.50] quests expired
+[27May2025 00:22:00.257] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Marcella'/23018, l='ServerLevel[world]', x=-818.35, y=63.00, z=-934.81] died, message: 'Marcella hit the ground too hard whilst trying to escape Infected Dog'
+[27May2025 00:24:02.508] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Pierina'/22904, l='ServerLevel[world]', x=-872.70, y=54.00, z=-886.30] died, message: 'Pierina hit the ground too hard whilst trying to escape Fast infected'
+[27May2025 00:24:45.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> si
+[27May2025 00:24:54.567] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Concetto'/23247, l='ServerLevel[world]', x=-761.02, y=73.00, z=-811.50] died, message: 'Concetto has been shot by Zombie Gunner with [Rocket Launcher]'
+[27May2025 00:25:00.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> allá
+[27May2025 00:25:05.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> go
+[27May2025 00:25:32.019] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TAQUIS123 lost connection: Timed out
+[27May2025 00:25:32.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 left the game
+[27May2025 00:25:32.020] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3b271b9-e459-3933-aab2-de28059f91bf was unloaded
+[27May2025 00:25:58.222] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5308ed7a
+[27May2025 00:25:58.233] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TAQUIS123[/127.83.254.83:59635] logged in with entity id 30033 at (-762.2476852818024, 72.18668707874468, -842.4570456355513)
+[27May2025 00:25:58.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 joined the game
+[27May2025 00:25:58.240] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:25:58.273] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[27May2025 00:25:58.274] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[27May2025 00:25:58.274] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[27May2025 00:25:58.528] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3b271b9-e459-3933-aab2-de28059f91bf was loaded
+[27May2025 00:26:10.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [All Along The Watchtower]
+[27May2025 00:26:14.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [All Along The Watchtower]
+[27May2025 00:26:24.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Zombie
+[27May2025 00:26:25.798] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:26:29.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[27May2025 00:26:33.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> un golpe pe
+[27May2025 00:26:50.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Suit Up]
+[27May2025 00:26:57.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> que rico
+[27May2025 00:27:00.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ven
+[27May2025 00:27:04.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ponte este pantalon
+[27May2025 00:27:06.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> dame una espada
+[27May2025 00:27:13.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> da bolsillo extra
+[27May2025 00:27:15.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ala madres
+[27May2025 00:27:21.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> es un encantamiento
+[27May2025 00:27:25.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> tiene hasta nivel 3
+[27May2025 00:27:27.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> me lo regalas
+[27May2025 00:27:32.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ya
+[27May2025 00:27:33.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> xd
+[27May2025 00:27:57.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was killed by Witch using magic
+[27May2025 00:27:59.081] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:28:07.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mis cosas
+[27May2025 00:28:19.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was killed by Witch using magic
+[27May2025 00:28:20.933] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:28:24.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mis cosas
+[27May2025 00:28:27.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[27May2025 00:28:41.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by TAQUIS123's Zombie
+[27May2025 00:28:41.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was killed by Witch using magic
+[27May2025 00:28:42.810] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:28:43.219] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:28:43.225] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@7d188637 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[27May2025 00:28:43.226] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@e57df58 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 00:28:43.226] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@75b6c17f (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 00:28:43.226] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@60a7399b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 00:28:45.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> XD
+[27May2025 00:28:47.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[27May2025 00:28:49.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[27May2025 00:29:01.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has died from pain caused by fracture
+[27May2025 00:29:04.278] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionPacket.func_148833_a(SourceFile:56) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[27May2025 00:29:04.772] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionRotationPacket.func_148833_a(SourceFile:18) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[27May2025 00:29:06.622] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:29:14.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set TAQUIS123's game mode to Creative Mode]
+[27May2025 00:29:16.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> 2 bloques pe xd}
+[27May2025 00:29:39.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [My first penny!]
+[27May2025 00:29:41.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Survival Mode]
+[27May2025 00:30:32.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ya quitame el creativo
+[27May2025 00:30:40.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set TAQUIS123's game mode to Survival Mode]
