@@ -1032,10 +1032,14 @@
     "criteria": {
       "minecraft:forest": "2025-05-26 17:44:53 +0000",
       "minecraft:mountains": "2025-05-27 00:09:50 +0000",
+      "minecraft:desert": "2025-05-27 01:37:50 +0000",
+      "minecraft:birch_forest": "2025-05-27 01:35:38 +0000",
+      "minecraft:badlands": "2025-05-27 01:41:17 +0000",
       "minecraft:dark_forest": "2025-05-26 23:26:28 +0000",
       "minecraft:river": "2025-05-27 00:51:28 +0000",
       "minecraft:wooded_mountains": "2025-05-27 00:44:35 +0000",
       "minecraft:wooded_hills": "2025-05-26 17:48:10 +0000",
+      "minecraft:wooded_badlands_plateau": "2025-05-27 01:41:25 +0000",
       "minecraft:swamp": "2025-05-26 22:36:32 +0000",
       "minecraft:plains": "2025-05-26 17:45:57 +0000"
     },
@@ -1904,6 +1908,12 @@
   "cfm:recipes/cfm/dark_oak_coffee_table": {
     "criteria": {
       "has_log": "2025-05-26 23:47:22 +0000"
+    },
+    "done": true
+  },
+  "zombie_extreme:alternateworldadvancement": {
+    "criteria": {
+      "alternateworldadvancement": "2025-05-27 01:40:49 +0000"
     },
     "done": true
   },

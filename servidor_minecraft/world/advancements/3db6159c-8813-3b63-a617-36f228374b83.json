@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-27 01:34:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/diorite_chair": {
     "criteria": {
       "has_planks": "2025-05-27 00:42:52 +0000"
@@ -805,6 +811,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-27 00:42:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2025-05-27 01:33:00 +0000"
     },
     "done": true
   },
@@ -1391,6 +1403,12 @@
     },
     "done": true
   },
+  "zombie_extreme:darkpearl": {
+    "criteria": {
+      "darkpearl": "2025-05-27 01:40:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-05-26 23:30:52 +0000"
@@ -1774,6 +1792,7 @@
       "minecraft:forest": "2025-05-26 17:42:16 +0000",
       "minecraft:mountains": "2025-05-27 00:47:27 +0000",
       "minecraft:taiga": "2025-05-27 00:39:24 +0000",
+      "minecraft:desert": "2025-05-27 01:37:53 +0000",
       "minecraft:dark_forest": "2025-05-26 23:28:34 +0000",
       "minecraft:river": "2025-05-27 01:00:40 +0000",
       "minecraft:wooded_mountains": "2025-05-27 00:50:33 +0000",
@@ -1930,6 +1949,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-27 00:42:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-27 01:36:08 +0000"
     },
     "done": true
   },
