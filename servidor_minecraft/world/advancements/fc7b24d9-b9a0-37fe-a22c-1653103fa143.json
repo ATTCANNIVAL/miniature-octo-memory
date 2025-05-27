@@ -770,6 +770,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-27 00:57:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-05-26 23:54:13 +0000"
@@ -869,6 +875,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 00:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-27 00:58:03 +0000"
     },
     "done": true
   },
@@ -1952,6 +1964,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-05-27 00:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-27 00:58:48 +0000"
     },
     "done": true
   },

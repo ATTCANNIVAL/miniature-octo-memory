@@ -584,3 +584,78 @@ java.lang.NullPointerException: null
 [27May2025 01:01:02.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> oe me faltan cosas ptm david
 [27May2025 01:01:15.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mis garras y botas de velocidad no las tienes??
 [27May2025 01:01:17.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> no agarre nd
+[27May2025 01:03:11.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL withered away
+[27May2025 01:03:15.542] [Server thread/INFO] [tac/]: PENDING
+[27May2025 01:03:15.546] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@7d188637 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[27May2025 01:03:15.547] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@e57df58 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 01:03:15.547] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@75b6c17f (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 01:03:15.547] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@60a7399b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 01:04:19.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL withered away
+[27May2025 01:04:21.969] [Server thread/INFO] [tac/]: PENDING
+[27May2025 01:04:21.975] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@7d188637 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[27May2025 01:04:21.975] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@e57df58 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 01:04:21.975] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@75b6c17f (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 01:04:21.975] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@60a7399b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 01:04:55.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL withered away
+[27May2025 01:04:58.405] [Server thread/INFO] [tac/]: PENDING
+[27May2025 01:04:58.410] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@7d188637 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[27May2025 01:04:58.411] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@e57df58 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 01:04:58.411] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@75b6c17f (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 01:04:58.411] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@60a7399b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 01:05:34.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> regalen mochila
+[27May2025 01:05:49.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> el pepe
+[27May2025 01:05:55.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> con q se hace?
+[27May2025 01:05:59.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> cuero
+[27May2025 01:06:01.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mario pon keep inventori tan que me dasaparecen cosas
+[27May2025 01:06:05.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> vrgs encontraste tu mochila?
+[27May2025 01:06:12.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> como pongo
+[27May2025 01:06:15.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> keep inventory
+[27May2025 01:06:18.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> es un comando
+[27May2025 01:06:21.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> en el chat
+[27May2025 01:06:22.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> pon /gamerule kee
+[27May2025 01:06:26.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> y true
+[27May2025 01:06:34.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> listo
+[27May2025 01:06:37.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> a
+[27May2025 01:06:41.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gamerule keepInventory is now set to: true]
+[27May2025 01:06:44.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ahora si
+[27May2025 01:07:23.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ese anillo da poder
+[27May2025 01:07:32.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> oe oe oe
+[27May2025 01:07:34.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> mis cosas
+[27May2025 01:07:39.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> q
+[27May2025 01:07:44.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> k
+[27May2025 01:07:45.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> mi loot
+[27May2025 01:07:48.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> del coso ese q mate
+[27May2025 01:07:48.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> sabes ponerte ese amillo=?
+[27May2025 01:07:55.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> no
+[27May2025 01:07:58.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> yo no agare ni pincho
+[27May2025 01:08:00.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> ni lo agarre
+[27May2025 01:08:08.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> yo tampoco
+[27May2025 01:08:12.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> fue p
+[27May2025 01:08:18.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> te regalo uno pues
+[27May2025 01:08:18.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> masvien me faltan mis anillos mi garra y botas de velocidad pipipi0p
+[27May2025 01:08:40.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> regalen mochilaç
+[27May2025 01:08:47.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ten
+[27May2025 01:08:53.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> tengo para una mas
+[27May2025 01:08:58.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Silver Ring] to miradafilosa]
+[27May2025 01:09:19.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> arriba hay un votoncito verde
+[27May2025 01:09:29.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> de la parte superior del inventario a la derecha
+[27May2025 01:09:31.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> quien quiere mochila
+[27May2025 01:09:34.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> to
+[27May2025 01:09:35.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> yo
+[27May2025 01:09:38.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> si ya me lo puse
+[27May2025 01:09:47.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> q ta da ese anillo
+[27May2025 01:09:49.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> gracias
+[27May2025 01:10:01.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> te puedes equipar la mochila sabes
+[27May2025 01:10:20.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mira
+[27May2025 01:10:30.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> como
+[27May2025 01:10:32.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> te lo estas sacando del qlo
+[27May2025 01:10:34.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[27May2025 01:10:38.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> tu mama
+[27May2025 01:10:44.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> xd
+[27May2025 01:11:15.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has been shot by Grenadier with [Grenade Launcher]
+[27May2025 01:11:17.228] [Server thread/INFO] [tac/]: PENDING
+[27May2025 01:11:19.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> XD
+[27May2025 01:11:21.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[27May2025 01:11:23.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> :v
+[27May2025 01:11:40.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has died from pain caused by fracture
+[27May2025 01:11:41.907] [Server thread/INFO] [tac/]: PENDING
