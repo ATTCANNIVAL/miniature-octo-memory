@@ -299,3 +299,57 @@ java.lang.NullPointerException: null
 [27May2025 00:41:02.842] [Server thread/INFO] [tac/]: PENDING
 [27May2025 00:41:09.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> lo pondras?
 [27May2025 00:41:13.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ptm
+[27May2025 00:41:22.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ayuda pe
+[27May2025 00:41:30.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Infected Hazmat
+[27May2025 00:41:30.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> creo q si
+[27May2025 00:41:34.433] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:42:20.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has made the advancement [Stone Age]
+[27May2025 00:42:37.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has made the advancement [Getting an Upgrade]
+[27May2025 00:43:20.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has died from pain caused by fracture
+[27May2025 00:43:22.420] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:43:22.425] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@7d188637 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[27May2025 00:43:22.426] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@e57df58 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 00:43:22.426] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@75b6c17f (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 00:43:22.426] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@60a7399b (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[27May2025 00:43:43.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> pongan keep inventory
+[27May2025 00:43:46.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -764.5, 69.5, -437.5]
+[27May2025 00:43:52.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to miradafilosa]
+[27May2025 00:44:05.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mario ven encontre dungeon
+[27May2025 00:44:07.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -735.5, 72.5, -449.5]
+[27May2025 00:44:30.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> pasa coords
+[27May2025 00:44:38.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> mandale solicitud de tp
+[27May2025 00:44:46.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> manda tpe
+[27May2025 00:45:00.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> pon /tpa
+[27May2025 00:45:06.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> pa q se me crashee
+[27May2025 00:45:08.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> ahi nomas
+[27May2025 00:45:13.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[27May2025 00:45:23.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> -431 -768
+[27May2025 00:45:29.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> esas son las cord
+[27May2025 00:45:51.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was slain by Fast infected
+[27May2025 00:45:53.034] [Server thread/INFO] [tac/]: PENDING
+[27May2025 00:45:56.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> cnsmr
+[27May2025 00:45:57.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> apnewpjmdq
+[27May2025 00:45:58.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> qidhjnasd
+[27May2025 00:46:03.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> pongan keep inventory
+[27May2025 00:46:07.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> de dos golpes me mato
+[27May2025 00:46:19.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> sio de un golpe me matan a mi xd
+[27May2025 00:47:15.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Who respects the bees...]
+[27May2025 00:47:51.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ten
+[27May2025 00:47:57.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has made the advancement [Amateur Archaeologist]
+[27May2025 00:48:03.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> XD
+[27May2025 00:48:05.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has made the advancement [Acquire Hardware]
+[27May2025 00:48:11.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> ala
+[27May2025 00:48:16.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> gracias
+[27May2025 00:48:30.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has made the advancement [Suit Up]
+[27May2025 00:48:43.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mario porque mi mochila desaparecio
+[27May2025 00:48:48.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> ahi esta
+[27May2025 00:48:50.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> a volvio
+[27May2025 00:49:22.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> tienes hilo??
+[27May2025 00:49:31.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> tengo papel
+[27May2025 00:49:59.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has made the advancement [Isn't It Iron Pick]
+[27May2025 00:50:19.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ya regresé
+[27May2025 00:50:28.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> como q desaparecio
+[27May2025 00:50:37.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> y como pongo el keep inventory
+[27May2025 00:50:54.166] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: miradafilosa moved wrongly!
+[27May2025 00:51:05.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> a
+[27May2025 00:51:09.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> pensaba q eras un mob
