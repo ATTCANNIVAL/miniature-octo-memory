@@ -7087,3 +7087,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29May2025 14:27:16.932] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
 [29May2025 14:27:16.932] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
 [29May2025 14:37:14.762] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Yogarajah'/942, l='ServerLevel[world]', x=-728.30, y=65.00, z=-404.70] died, message: 'Yogarajah was slain by Infected'
+[29May2025 14:43:09.041] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1a9a99b
+[29May2025 14:43:09.066] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: miradafilosa[/127.157.139.158:42113] logged in with entity id 3494 at (-154.32893846360165, 26.0, 68.91878682635331)
+[29May2025 14:43:09.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa joined the game
+[29May2025 14:43:09.078] [Server thread/INFO] [tac/]: PENDING
+[29May2025 14:43:09.126] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[29May2025 14:43:09.126] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[29May2025 14:43:09.126] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[29May2025 14:43:13.317] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3db6159c-8813-3b63-a617-36f228374b83 was loaded
+[29May2025 14:45:57.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> ey ey ey
+[29May2025 14:49:10.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> mira
+[29May2025 14:49:15.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> ya tengo mi granja
