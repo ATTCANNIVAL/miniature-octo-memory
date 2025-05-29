@@ -1959,6 +1959,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2025-05-29 15:47:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-05-26 22:47:04 +0000"
@@ -2675,6 +2681,12 @@
   "cfm:recipes/cfm/stripped_birch_cabinet": {
     "criteria": {
       "has_log": "2025-05-27 16:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-29 15:47:57 +0000"
     },
     "done": true
   },
