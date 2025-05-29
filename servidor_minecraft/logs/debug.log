@@ -11544,3 +11544,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29May2025 14:49:04.397] [Worker-Main-14/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [7, 14] with a total of 384 pieces.
 [29May2025 14:49:10.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> mira
 [29May2025 14:49:15.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> ya tengo mi granja
+[29May2025 14:51:00.068] [Server thread/INFO] [forge.net.mca.MCA/]: TextComponent{text='Sugata', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} has been infected
+[29May2025 14:51:01.070] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Sugata'/908, l='ServerLevel[world]', x=-737.45, y=73.02, z=-420.96] died, message: 'Sugata was slain by Zombie'
+[29May2025 14:51:49.134] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.inventory.DoubleSidedInventory
+[29May2025 14:52:48.532] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29May2025 14:52:48.545] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29May2025 14:55:21.865] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Rajni'/907, l='ServerLevel[world]', x=-747.70, y=71.94, z=-450.36] died, message: 'Rajni was slain by Zombie Knight'
+[29May2025 14:57:48.539] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29May2025 14:57:48.551] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
