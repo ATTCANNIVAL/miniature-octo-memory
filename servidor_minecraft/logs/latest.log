@@ -11183,3 +11183,42 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29May2025 17:00:06.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was shot by Skeleton
 [29May2025 17:00:08.067] [Server thread/INFO] [tac/]: PENDING
 [29May2025 17:01:59.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Cover Me With Diamonds]
+[29May2025 17:04:19.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[29May2025 17:06:12.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[29May2025 17:06:41.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 tried to swim in lava
+[29May2025 17:06:42.373] [Server thread/INFO] [tac/]: PENDING
+[29May2025 17:08:15.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> toy viendo las dunyons
+[29May2025 17:08:18.416] [Server thread/INFO] [tac/]: PENDING
+[29May2025 17:08:18.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [We Need to Go Deeper]
+[29May2025 17:08:18.783] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL moved too quickly! -7.795332080570915,0.0,-6.599117449638925
+[29May2025 17:08:18.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [A Terrible Fortress]
+[29May2025 17:08:26.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> justo en fortres xd
+[29May2025 17:08:48.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to 7728.5, 30.209096450884072, -2847.5]
+[29May2025 17:08:58.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> no espawnean los blazes pipipi
+[29May2025 17:09:00.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Jaws]
+[29May2025 17:09:08.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> a
+[29May2025 17:09:11.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> david
+[29May2025 17:09:12.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> juega oe no te spoylees
+[29May2025 17:09:16.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Smoke On The Water]
+[29May2025 17:09:20.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ptm
+[29May2025 17:09:34.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has been shot by Zombie Gunner with [SKS]
+[29May2025 17:09:35.272] [Server thread/INFO] [tac/]: PENDING
+[29May2025 17:09:53.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to 4304.5, 27.93865981281753, -10943.5]
+[29May2025 17:10:02.580] [Server thread/INFO] [tac/]: PENDING
+[29May2025 17:10:22.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 tried to swim in lava
+[29May2025 17:10:23.271] [Server thread/INFO] [tac/]: PENDING
+[29May2025 17:10:26.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to 4304.5, 36.57499698480022, -10943.5]
+[29May2025 17:10:32.079] [Server thread/INFO] [tac/]: PENDING
+[29May2025 17:11:16.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was shot by Skeleton
+[29May2025 17:11:17.472] [Server thread/INFO] [tac/]: PENDING
+[29May2025 17:11:28.578] [Server thread/INFO] [tac/]: PENDING
+[29May2025 17:11:42.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [Ghost Riders In The Sky]
+[29May2025 17:11:52.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> oe deja de espoliarte mrd
+[29May2025 17:11:56.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[29May2025 17:12:00.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Into Fire]
+[29May2025 17:12:02.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> es q
+[29May2025 17:12:05.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> es una wbda
+[29May2025 17:12:07.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> aca arriba
+[29May2025 17:12:10.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Wither Skeleton
+[29May2025 17:12:11.815] [Server thread/INFO] [tac/]: PENDING
+[29May2025 17:12:12.359] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 09a81cf2-c2ea-4c31-9e0b-d8a342e2cc15. Existing blocklings:blockling#72332, new: blocklings:blockling#74173

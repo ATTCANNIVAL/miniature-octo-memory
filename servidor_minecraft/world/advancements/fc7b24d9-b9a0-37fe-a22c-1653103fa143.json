@@ -2488,6 +2488,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_scorched_mines": {
+    "criteria": {
+      "location0": "2025-05-29 16:59:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-05-26 23:17:59 +0000"
