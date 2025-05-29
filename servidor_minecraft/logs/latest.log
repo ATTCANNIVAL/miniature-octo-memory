@@ -7407,3 +7407,57 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29May2025 23:39:48.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> l
 [29May2025 23:40:32.513] [Server thread/INFO] [tac/]: PENDING
 [29May2025 23:42:57.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> hay algo q me da lag
+[29May2025 23:43:56.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has died from pain caused by fracture
+[29May2025 23:43:57.728] [Server thread/INFO] [tac/]: PENDING
+[29May2025 23:44:08.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> xd
+[29May2025 23:45:12.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Parasite
+[29May2025 23:45:13.825] [Server thread/INFO] [tac/]: PENDING
+[29May2025 23:45:17.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ptm
+[29May2025 23:46:08.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has bled out
+[29May2025 23:46:09.772] [Server thread/INFO] [tac/]: PENDING
+[29May2025 23:46:14.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> XD
+[29May2025 23:46:19.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ayuden ps
+[29May2025 23:46:20.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> no hay algo q les da lag?
+[29May2025 23:46:26.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> por momentos va fluidaso
+[29May2025 23:46:30.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> a 500fps
+[29May2025 23:46:34.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> y de la nd se laguea
+[29May2025 23:47:21.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by TAQUIS123's Zombie
+[29May2025 23:47:22.491] [Server thread/INFO] [tac/]: PENDING
+[29May2025 23:47:55.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by MrCuakk21's Zombie
+[29May2025 23:47:56.480] [Server thread/INFO] [tac/]: PENDING
+[29May2025 23:48:06.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was slain by Infection Military
+[29May2025 23:48:08.146] [Server thread/INFO] [tac/]: PENDING
+[29May2025 23:48:08.150] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@2a1f6640 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[29May2025 23:48:08.150] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@24405f45 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[29May2025 23:48:08.150] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@498eb952 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[29May2025 23:48:08.150] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@3a555261 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[29May2025 23:48:08.154] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/18307, l='ServerLevel[world]', x=-173.51, y=70.60, z=97.83]
+[29May2025 23:48:15.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Zombie
+[29May2025 23:48:16.928] [Server thread/INFO] [tac/]: PENDING
+[29May2025 23:48:39.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL blew up
+[29May2025 23:48:43.780] [Server thread/INFO] [tac/]: PENDING
+[29May2025 23:48:43.784] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@2a1f6640 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[29May2025 23:48:43.785] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@24405f45 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[29May2025 23:48:43.785] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@498eb952 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[29May2025 23:48:43.785] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@3a555261 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[29May2025 23:48:46.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> ismale otra barra kill p
+[29May2025 23:48:51.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa died
+[29May2025 23:48:51.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Killed miradafilosa]
+[29May2025 23:49:01.822] [Server thread/INFO] [tac/]: PENDING
+[29May2025 23:49:12.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by TAQUIS123's Zombie
+[29May2025 23:49:13.826] [Server thread/INFO] [tac/]: PENDING
+[29May2025 23:49:39.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL was shot by Skeleton
+[29May2025 23:49:42.251] [Server thread/INFO] [tac/]: PENDING
+[29May2025 23:49:42.254] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@2a1f6640 (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[29May2025 23:49:42.254] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@24405f45 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[29May2025 23:49:42.254] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@498eb952 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[29May2025 23:49:42.255] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@3a555261 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[29May2025 23:49:46.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was shot by Skeleton
+[29May2025 23:49:48.151] [Server thread/INFO] [tac/]: PENDING
+[29May2025 23:50:38.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> q pasa si quito el mod del minimapa
+[29May2025 23:50:44.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Military Soldier
+[29May2025 23:50:45.332] [Server thread/INFO] [tac/]: PENDING
+[29May2025 23:51:11.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Infected Police
+[29May2025 23:51:12.229] [Server thread/INFO] [tac/]: PENDING
+[29May2025 23:51:22.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> no me deja entrar?
+[29May2025 23:51:42.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was slain by Juggernaut Zombie
