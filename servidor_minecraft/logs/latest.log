@@ -7115,3 +7115,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29May2025 15:06:46.240] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
 [29May2025 15:06:46.241] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
 [29May2025 15:06:50.262] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3db6159c-8813-3b63-a617-36f228374b83 was loaded
+[29May2025 15:11:41.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa died
+[29May2025 15:11:41.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Killed miradafilosa
+[29May2025 15:11:49.417] [Server thread/INFO] [tac/]: PENDING
+[29May2025 15:20:17.934] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3a0a8b28
+[29May2025 15:20:17.963] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TAQUIS123[/127.83.254.83:46603] logged in with entity id 9881 at (-812.0691107962646, 71.79673560066871, -477.49925313401155)
+[29May2025 15:20:17.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 joined the game
+[29May2025 15:20:17.972] [Server thread/INFO] [tac/]: PENDING
+[29May2025 15:20:18.015] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[29May2025 15:20:18.015] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[29May2025 15:20:18.015] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[29May2025 15:20:21.373] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3b271b9-e459-3933-aab2-de28059f91bf was loaded
+[29May2025 15:20:27.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Fast infected
+[29May2025 15:20:54.716] [Server thread/INFO] [tac/]: PENDING
