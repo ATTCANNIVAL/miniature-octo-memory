@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/colony_banner": {
+    "criteria": {
+      "has_items": "2025-05-29 23:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-26 23:49:05 +0000"
@@ -146,6 +152,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-05-27 00:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/barrel_block": {
+    "criteria": {
+      "has_items": "2025-05-29 23:04:45 +0000"
     },
     "done": true
   },
@@ -413,6 +425,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutlumberjackstone": {
+    "criteria": {
+      "has_items": "2025-05-29 23:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-05-26 23:54:13 +0000"
@@ -615,6 +633,12 @@
     },
     "done": false
   },
+  "minecolonies:recipes/minecolonies/blockhutcombatacademy": {
+    "criteria": {
+      "has_items": "2025-05-29 23:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-05-26 23:17:59 +0000"
@@ -739,6 +763,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutdeliverymaniron": {
+    "criteria": {
+      "has_items": "2025-05-29 23:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-05-26 23:54:13 +0000"
@@ -826,6 +856,12 @@
   "cfm:recipes/cfm/oak_chair": {
     "criteria": {
       "has_log": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutmysticalsite": {
+    "criteria": {
+      "has_items": "2025-05-29 23:04:45 +0000"
     },
     "done": true
   },
@@ -1106,6 +1142,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutcrusher": {
+    "criteria": {
+      "has_items": "2025-05-29 23:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-05-27 00:35:40 +0000"
@@ -1268,6 +1310,12 @@
   "cfm:recipes/cfm/light_blue_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-27 00:04:05 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/clipboard": {
+    "criteria": {
+      "has_build_tool": "2025-05-29 23:04:45 +0000"
     },
     "done": true
   },
@@ -1457,6 +1505,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockminecoloniesrack": {
+    "criteria": {
+      "has_build_tool": "2025-05-29 23:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-05-26 23:54:13 +0000"
@@ -1502,6 +1556,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-05-27 00:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutcook": {
+    "criteria": {
+      "has_items": "2025-05-29 23:04:45 +0000"
     },
     "done": true
   },
@@ -1556,6 +1616,12 @@
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-05-26 23:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutminerstone": {
+    "criteria": {
+      "has_items": "2025-05-29 23:04:45 +0000"
     },
     "done": true
   },
@@ -1631,6 +1697,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutsmeltery": {
+    "criteria": {
+      "has_items": "2025-05-29 23:04:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-05-26 22:35:25 +0000"
@@ -1670,6 +1742,12 @@
   "cfm:recipes/cfm/stone_desk": {
     "criteria": {
       "has_planks": "2025-05-27 00:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/resourcescroll": {
+    "criteria": {
+      "has_build_tool": "2025-05-29 23:04:45 +0000"
     },
     "done": true
   },
@@ -1849,6 +1927,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockwaypoint": {
+    "criteria": {
+      "has_build_tool": "2025-05-29 23:04:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-05-27 00:04:05 +0000"
@@ -1882,6 +1966,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-05-27 00:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutblacksmith": {
+    "criteria": {
+      "has_items": "2025-05-29 23:04:45 +0000"
     },
     "done": true
   },
@@ -2263,6 +2353,12 @@
     },
     "done": true
   },
+  "relics:obtain/reflection_necklace": {
+    "criteria": {
+      "obtain_relic": "2025-05-29 23:01:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-05-26 22:45:26 +0000"
@@ -2452,6 +2548,12 @@
   "cfm:recipes/cfm/oak_cabinet": {
     "criteria": {
       "has_log": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhuttownhall": {
+    "criteria": {
+      "has_items": "2025-05-29 23:04:45 +0000"
     },
     "done": true
   },
