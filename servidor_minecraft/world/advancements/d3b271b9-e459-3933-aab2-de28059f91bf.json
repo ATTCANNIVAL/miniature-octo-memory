@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2025-05-29 16:30:29 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/structurize/shapetool": {
     "criteria": {
       "has_stick": "2025-05-26 23:29:50 +0000"
@@ -1012,6 +1018,12 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-05-29 15:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-05-29 16:30:34 +0000"
     },
     "done": true
   },
@@ -2102,6 +2114,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-05-29 16:36:26 +0000",
       "bread": "2025-05-27 00:53:52 +0000",
       "golden_apple": "2025-05-29 15:51:34 +0000"
     },

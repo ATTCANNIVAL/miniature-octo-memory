@@ -11065,3 +11065,57 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29May2025 16:31:26.972] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc7b24d9-b9a0-37fe-a22c-1653103fa143 was loaded
 [29May2025 16:31:27.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> un negro
 [29May2025 16:31:39.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> quemenlo
+[29May2025 16:31:56.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> ven a la base
+[29May2025 16:32:40.915] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/51522, l='ServerLevel[world]', x=-755.50, y=81.00, z=-391.50] quests expired
+[29May2025 16:32:40.915] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/51523, l='ServerLevel[world]', x=-731.50, y=83.00, z=-391.50] quests expired
+[29May2025 16:34:09.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> encanto palas y voy
+[29May2025 16:34:42.691] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-173, y=73, z=107} BlockPos{x=-173, y=73, z=105}
+[29May2025 16:34:46.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -696.5, 66.5, -461.5]
+[29May2025 16:35:56.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> XD
+[29May2025 16:36:29.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mira
+[29May2025 16:36:44.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> ala
+[29May2025 16:36:45.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> es comida infinita
+[29May2025 16:36:52.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> de donde lo sacaste
+[29May2025 16:37:01.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> en un cofre de dungeon
+[29May2025 16:37:05.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> xd
+[29May2025 16:37:05.796] [Server thread/WARN] [flash.npcmod.Main/]: Could not find dialogue file hola:v.json, creating it now...
+[29May2025 16:37:11.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> dupealo
+[29May2025 16:37:29.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ten esta pala mejor
+[29May2025 16:37:35.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> tengo varias
+[29May2025 16:37:42.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> quiero q esta se rompa
+[29May2025 16:37:42.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> esa tiene eficiencia
+[29May2025 16:37:48.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> esta tmb
+[29May2025 16:37:52.073] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-163, y=70, z=67} BlockPos{x=-162, y=70, z=67}
+[29May2025 16:37:52.125] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-163, y=70, z=67} BlockPos{x=-162, y=70, z=67}
+[29May2025 16:37:52.149] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-163, y=70, z=67} BlockPos{x=-162, y=70, z=67}
+[29May2025 16:37:52.199] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-163, y=70, z=67} BlockPos{x=-162, y=70, z=67}
+[29May2025 16:37:52.251] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-163, y=70, z=67} BlockPos{x=-162, y=70, z=67}
+[29May2025 16:37:52.298] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-163, y=70, z=67} BlockPos{x=-162, y=70, z=67}
+[29May2025 16:37:52.350] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-163, y=70, z=67} BlockPos{x=-162, y=70, z=67}
+[29May2025 16:37:52.422] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-163, y=70, z=67} BlockPos{x=-162, y=70, z=67}
+[29May2025 16:37:52.474] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-163, y=70, z=67} BlockPos{x=-162, y=70, z=67}
+[29May2025 16:37:52.491] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-163, y=70, z=67} BlockPos{x=-162, y=70, z=67}
+[29May2025 16:37:52.547] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-163, y=70, z=67} BlockPos{x=-162, y=70, z=67}
+[29May2025 16:38:01.795] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-153, y=68, z=77} BlockPos{x=-153, y=69, z=78}
+[29May2025 16:38:01.845] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-153, y=68, z=77} BlockPos{x=-153, y=69, z=78}
+[29May2025 16:38:01.898] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-154, y=69, z=77} BlockPos{x=-153, y=69, z=78}
+[29May2025 16:38:01.946] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-154, y=69, z=77} BlockPos{x=-153, y=69, z=78}
+[29May2025 16:38:01.995] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-154, y=69, z=77} BlockPos{x=-153, y=69, z=78}
+[29May2025 16:38:02.046] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-154, y=69, z=77} BlockPos{x=-153, y=69, z=78}
+[29May2025 16:38:02.096] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-154, y=69, z=77} BlockPos{x=-153, y=69, z=78}
+[29May2025 16:38:02.145] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-154, y=69, z=77} BlockPos{x=-153, y=69, z=78}
+[29May2025 16:38:02.195] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-154, y=69, z=77} BlockPos{x=-153, y=69, z=78}
+[29May2025 16:38:02.248] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-154, y=69, z=77} BlockPos{x=-153, y=69, z=78}
+[29May2025 16:38:02.296] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-154, y=69, z=77} BlockPos{x=-153, y=69, z=78}
+[29May2025 16:38:02.345] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-154, y=69, z=77} BlockPos{x=-153, y=69, z=78}
+[29May2025 16:38:59.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> toy picando lentop
+[29May2025 16:39:05.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa blew up
+[29May2025 16:39:07.343] [Server thread/INFO] [tac/]: PENDING
+[29May2025 16:39:07.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> curate
+[29May2025 16:39:09.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[29May2025 16:39:33.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> hasta curarme
+[29May2025 16:40:19.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> cuanto de eficiencia tiene tu pala
+[29May2025 16:40:45.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> no botes la tierra
+[29May2025 16:40:56.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was slain by Night Hunter
+[29May2025 16:40:58.345] [Server thread/INFO] [tac/]: PENDING
+[29May2025 16:40:59.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> XD
