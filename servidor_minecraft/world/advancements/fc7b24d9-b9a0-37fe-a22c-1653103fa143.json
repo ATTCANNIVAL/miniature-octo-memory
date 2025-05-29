@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-29 23:35:11 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/colony_banner": {
     "criteria": {
       "has_items": "2025-05-29 23:04:45 +0000"
@@ -116,6 +122,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-26 23:49:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
+    "criteria": {
+      "has_the_recipe": "2025-05-29 23:36:42 +0000"
     },
     "done": true
   },
@@ -350,6 +362,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-26 23:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutsifter": {
+    "criteria": {
+      "has_items": "2025-05-29 23:35:11 +0000"
     },
     "done": true
   },
@@ -611,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-29 23:35:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-05-27 00:32:13 +0000"
@@ -784,6 +808,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-05-27 00:32:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-29 23:35:43 +0000"
     },
     "done": true
   },
@@ -1001,6 +1031,12 @@
   "cfm:recipes/cfm/purple_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-27 00:04:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-29 23:35:11 +0000"
     },
     "done": true
   },
@@ -1268,6 +1304,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-05-26 23:18:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-05-29 23:36:47 +0000"
     },
     "done": true
   },
@@ -1891,6 +1933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-29 23:35:11 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/combat/chainmailboots": {
     "criteria": {
       "has_iron": "2025-05-27 00:01:00 +0000"
@@ -2305,6 +2353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-29 23:35:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-05-26 23:54:13 +0000"
@@ -2566,6 +2620,12 @@
   "cfm:recipes/cfm/acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-27 00:04:05 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutfletcher": {
+    "criteria": {
+      "has_items": "2025-05-29 23:35:11 +0000"
     },
     "done": true
   },
