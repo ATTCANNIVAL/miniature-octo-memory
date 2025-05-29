@@ -617,6 +617,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutshepherd": {
+    "criteria": {
+      "has_items": "2025-05-29 23:22:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-05-26 22:35:25 +0000"
@@ -1649,6 +1655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-29 23:23:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/rock_path": {
     "criteria": {
       "has_andesite": "2025-05-27 00:35:36 +0000"
@@ -1760,6 +1772,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 00:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutcowboy": {
+    "criteria": {
+      "has_items": "2025-05-29 23:20:39 +0000"
     },
     "done": true
   },
@@ -2806,6 +2824,12 @@
   "cfm:recipes/cfm/oak_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-05-26 22:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2025-05-29 23:23:11 +0000"
     },
     "done": true
   },
