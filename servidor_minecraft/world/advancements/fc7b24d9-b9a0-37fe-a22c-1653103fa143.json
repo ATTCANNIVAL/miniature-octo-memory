@@ -2341,6 +2341,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutgraveyard": {
+    "criteria": {
+      "has_items": "2025-05-29 23:19:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/andesite_desk": {
     "criteria": {
       "has_planks": "2025-05-27 00:35:36 +0000"
@@ -2602,6 +2608,12 @@
   "cfm:recipes/cfm/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-27 00:04:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-29 23:17:22 +0000"
     },
     "done": true
   },

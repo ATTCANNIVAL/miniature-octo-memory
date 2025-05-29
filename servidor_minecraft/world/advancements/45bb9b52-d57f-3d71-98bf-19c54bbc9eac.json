@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-05-29 23:11:23 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2025-05-29 22:58:39 +0000"
@@ -160,6 +166,12 @@
   "cfm:recipes/cfm/stripped_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-05-29 23:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-29 23:10:51 +0000"
     },
     "done": true
   },
