@@ -11025,3 +11025,43 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29May2025 16:21:17.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> zonbie con armadura de netherite xd
 [29May2025 16:21:19.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> hay hierro en el cofre
 [29May2025 16:21:38.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> tengo como 4 staks de hierro
+[29May2025 16:21:42.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> XD
+[29May2025 16:21:55.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> haste un arma ta mas facil matar zombiens
+[29May2025 16:22:42.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> cuanto hace
+[29May2025 16:23:46.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Infected Bear
+[29May2025 16:23:48.034] [Server thread/INFO] [tac/]: PENDING
+[29May2025 16:24:57.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> sabes como entrar y como salir
+[29May2025 16:24:58.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> sale su aplanada
+[29May2025 16:25:06.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> la vrd q si
+[29May2025 16:25:07.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> mira por aca
+[29May2025 16:25:20.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> entras
+[29May2025 16:25:25.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> xd
+[29May2025 16:25:26.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> y pones bloques
+[29May2025 16:25:34.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> su espalanada pe
+[29May2025 16:25:38.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> mira
+[29May2025 16:30:27.112] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-195, y=69, z=119} BlockPos{x=-196, y=70, z=120}
+[29May2025 16:30:34.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> aplanaremos?
+[29May2025 16:30:53.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> ayuda en talar los arobles
+[29May2025 16:31:16.670] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3bfeba9e
+[29May2025 16:31:16.681] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ATT_CANNIVAL[/127.73.179.77:51945] logged in with entity id 51358 at (-774.3000000119209, 65.0, -496.69999998807907)
+[29May2025 16:31:16.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL joined the game
+[29May2025 16:31:16.693] [Server thread/INFO] [tac/]: PENDING
+[29May2025 16:31:16.726] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[29May2025 16:31:16.726] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[29May2025 16:31:16.726] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[29May2025 16:31:16.766] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize jackiecrazy.wardance.command.SkillArgument@3c97093f (class jackiecrazy.wardance.command.SkillArgument) - will not be sent to client!
+[29May2025 16:31:16.767] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@7a7fe1e9 (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[29May2025 16:31:16.768] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@751661cb (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[29May2025 16:31:16.768] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.toma.gunsrpg.common.command.JsonArgumentType@3cdf301d (class dev.toma.gunsrpg.common.command.JsonArgumentType) - will not be sent to client!
+[29May2025 16:31:17.032] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/51359, l='ServerLevel[world]', x=-776.50, y=68.00, z=-496.50] quests expired
+[29May2025 16:31:17.032] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/51360, l='ServerLevel[world]', x=-795.50, y=67.00, z=-496.50] quests expired
+[29May2025 16:31:17.124] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/51399, l='ServerLevel[world]', x=-811.50, y=72.00, z=-496.50] quests expired
+[29May2025 16:31:17.125] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/51408, l='ServerLevel[world]', x=-748.50, y=71.00, z=-496.50] quests expired
+[29May2025 16:31:17.273] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/51451, l='ServerLevel[world]', x=-731.50, y=74.00, z=-436.50] quests expired
+[29May2025 16:31:17.379] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/51431, l='ServerLevel[world]', x=-807.50, y=75.00, z=-443.50] quests expired
+[29May2025 16:31:17.380] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/51445, l='ServerLevel[world]', x=-761.50, y=72.00, z=-443.50] quests expired
+[29May2025 16:31:17.576] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/51505, l='ServerLevel[world]', x=-684.50, y=67.00, z=-446.50] quests expired
+[29May2025 16:31:17.622] [Server thread/INFO] [Guns-RPG/Quests]: Mayor MayorEntity['Mayor'/51480, l='ServerLevel[world]', x=-755.50, y=75.00, z=-413.50] quests expired
+[29May2025 16:31:26.972] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc7b24d9-b9a0-37fe-a22c-1653103fa143 was loaded
+[29May2025 16:31:27.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> un negro
+[29May2025 16:31:39.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> quemenlo
