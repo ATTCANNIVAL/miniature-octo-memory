@@ -1800,6 +1800,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/decorations/water_purifier": {
+    "criteria": {
+      "has_charcoal": "2025-05-29 16:11:40 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/blockconstructiontape": {
     "criteria": {
       "has_wool": "2025-05-26 23:40:05 +0000"
