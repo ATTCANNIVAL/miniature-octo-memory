@@ -10909,3 +10909,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29May2025 15:38:43.017] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TAQUIS123 lost connection: Disconnected
 [29May2025 15:38:43.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 left the game
 [29May2025 15:38:43.017] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3b271b9-e459-3933-aab2-de28059f91bf was unloaded
+[29May2025 15:44:26.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa died
+[29May2025 15:44:26.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Killed miradafilosa
+[29May2025 15:44:30.705] [Server thread/INFO] [tac/]: PENDING
+[29May2025 15:47:07.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa was doomed to fall
+[29May2025 15:47:10.533] [Server thread/INFO] [tac/]: PENDING
+[29May2025 15:48:34.771] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2f1a12d8
+[29May2025 15:48:34.786] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TAQUIS123[/127.83.254.83:47823] logged in with entity id 20276 at (-914.6999999880791, 41.0, -371.69999998807907)
+[29May2025 15:48:34.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 joined the game
+[29May2025 15:48:34.795] [Server thread/INFO] [tac/]: PENDING
+[29May2025 15:48:34.831] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[29May2025 15:48:34.832] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[29May2025 15:48:34.832] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[29May2025 15:48:35.223] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3b271b9-e459-3933-aab2-de28059f91bf was loaded
+[29May2025 15:48:42.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> hola
+[29May2025 15:49:55.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> que paso david
+[29May2025 15:50:05.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> hola
+[29May2025 15:50:40.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> solo me escondia de la luna
+[29May2025 15:50:54.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> sale hacer su base??
+[29May2025 15:50:59.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> ya estoy haciendo
+[29May2025 15:51:11.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> te recomiendo que sea en el aire o vajo tierra
+[29May2025 15:51:13.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> mira manda tp
