@@ -18237,3 +18237,125 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29May2025 17:12:10.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Wither Skeleton
 [29May2025 17:12:11.815] [Server thread/INFO] [tac/]: PENDING
 [29May2025 17:12:12.359] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 09a81cf2-c2ea-4c31-9e0b-d8a342e2cc15. Existing blocklings:blockling#72332, new: blocklings:blockling#74173
+[29May2025 17:12:32.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Ghost Riders In The Sky]
+[29May2025 17:12:38.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> este webon
+[29May2025 17:12:48.871] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29May2025 17:12:48.883] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29May2025 17:13:34.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> re caga q los spwners no funcionen
+[29May2025 17:13:54.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> que mod dijiste que havia que quitar??
+[29May2025 17:14:00.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> el guns rog
+[29May2025 17:14:02.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> gunsrpg
+[29May2025 17:14:06.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> cheka este loot
+[29May2025 17:14:23.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported TAQUIS123 to ATT_CANNIVAL]
+[29May2025 17:15:14.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> sabes regresar a donde estabas?
+[29May2025 17:15:28.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> acá es una caida larga
+[29May2025 17:16:25.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Zombie
+[29May2025 17:16:26.716] [Server thread/INFO] [tac/]: PENDING
+[29May2025 17:16:51.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -5055.5, 67.0, -21535.5]
+[29May2025 17:16:55.436] [Worker-Main-123/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-5126, y=49, z=-21505} at Chest with:minecraft:chests/simple_dungeon in dungeons_arise:foundry
+[29May2025 17:16:59.704] [Worker-Main-123/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-5020 | 49 | -21340).
+[29May2025 17:16:59.704] [Worker-Main-123/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[29May2025 17:16:59.704] [Worker-Main-123/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 3(0) Rooms
+[29May2025 17:16:59.704] [Worker-Main-123/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[29May2025 17:16:59.704] [Worker-Main-123/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 4(0) Rooms
+[29May2025 17:16:59.704] [Worker-Main-123/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[29May2025 17:16:59.705] [Worker-Main-123/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 4(5) Nodes and 4(0) Rooms
+[29May2025 17:16:59.705] [Worker-Main-123/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[29May2025 17:16:59.705] [Worker-Main-123/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 8(1) Nodes and 5(0) Rooms
+[29May2025 17:16:59.705] [Worker-Main-123/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[29May2025 17:16:59.705] [Worker-Main-123/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 9(2) Nodes and 4(0) Rooms
+[29May2025 17:16:59.706] [Worker-Main-123/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [-309, -1329] with a total of 263 pieces.
+[29May2025 17:17:20.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[29May2025 17:17:38.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Creative Mode]
+[29May2025 17:17:49.170] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29May2025 17:17:49.185] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29May2025 17:18:14.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> quita ese mod nomas
+[29May2025 17:18:30.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> el timeles es el mod de armas god
+[29May2025 17:19:53.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[29May2025 17:20:15.500] [Worker-Main-94/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=4099, y=19, z=-11049} at Chest with:minecraft:chests/simple_dungeon in dungeons_arise:foundry
+[29May2025 17:20:21.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [You Are A Pirate]
+[29May2025 17:20:31.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was shot by Pillager
+[29May2025 17:20:32.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [The Imperial March]
+[29May2025 17:20:33.012] [Server thread/INFO] [tac/]: PENDING
+[29May2025 17:20:44.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was shot by Pillager
+[29May2025 17:20:45.706] [Server thread/INFO] [tac/]: PENDING
+[29May2025 17:20:57.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> hay un boss en esta danyon
+[29May2025 17:21:09.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> espera
+[29May2025 17:21:35.466] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=20] to hordespawn on day 20
+[29May2025 17:21:35.466] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=3,minDay=0,maxDay=20] to hordespawn on day 20
+[29May2025 17:21:35.466] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=20] to hordespawn on day 20
+[29May2025 17:21:35.466] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=3,minDay=0,maxDay=20] to hordespawn on day 20
+[29May2025 17:21:35.467] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie_villager
+[29May2025 17:21:35.468] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[29May2025 17:21:35.468] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[29May2025 17:21:35.468] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[29May2025 17:21:35.468] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[29May2025 17:21:35.468] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[29May2025 17:21:35.468] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_218_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[29May2025 17:21:35.468] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[29May2025 17:21:35.468] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[29May2025 17:21:35.468] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[29May2025 17:21:35.468] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[29May2025 17:21:35.468] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[29May2025 17:21:35.469] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[29May2025 17:21:35.469] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[29May2025 17:21:35.469] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[29May2025 17:21:35.469] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[29May2025 17:21:35.469] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[29May2025 17:21:35.469] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[29May2025 17:21:35.469] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[29May2025 17:21:35.469] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[29May2025 17:21:35.469] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[29May2025 17:21:35.469] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[29May2025 17:21:35.472] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=20] to hordespawn on day 20
+[29May2025 17:21:35.472] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=3,minDay=0,maxDay=20] to hordespawn on day 20
+[29May2025 17:21:35.472] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=20] to hordespawn on day 20
+[29May2025 17:21:35.472] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=3,minDay=0,maxDay=20] to hordespawn on day 20
+[29May2025 17:21:35.472] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie_villager
+[29May2025 17:21:35.473] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[29May2025 17:21:35.473] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[29May2025 17:21:35.473] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[29May2025 17:21:35.473] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[29May2025 17:21:35.473] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[29May2025 17:21:35.473] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_218_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[29May2025 17:21:35.473] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[29May2025 17:21:35.473] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[29May2025 17:21:35.473] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[29May2025 17:21:35.473] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[29May2025 17:21:35.474] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[29May2025 17:21:35.474] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[29May2025 17:21:35.474] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[29May2025 17:21:35.474] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[29May2025 17:21:35.474] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[29May2025 17:21:35.474] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[29May2025 17:21:35.474] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[29May2025 17:21:35.474] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[29May2025 17:21:35.474] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[29May2025 17:21:35.474] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[29May2025 17:21:35.474] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[29May2025 17:21:35.476] [Server thread/ERROR] [The Hordes/]: Unable to spawn entity from entity.minecraft.zombie_villager
+[29May2025 17:21:35.476] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: java.lang.Exception
+[29May2025 17:21:35.476] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.spawnWave(HordeEvent.java:164)
+[29May2025 17:21:35.476] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:97)
+[29May2025 17:21:35.476] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.capability.HordeEvent.update(HordeEvent.java:45)
+[29May2025 17:21:35.477] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.smileycorp.hordes.common.hordeevent.HordeEventHandler.playerTick(HordeEventHandler.java:96)
+[29May2025 17:21:35.477] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler_218_HordeEventHandler_playerTick_PlayerTickEvent.invoke(.dynamic)
+[29May2025 17:21:35.477] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[29May2025 17:21:35.477] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[29May2025 17:21:35.477] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[29May2025 17:21:35.477] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.onPlayerPostTick(BasicEventHooks.java:76)
+[29May2025 17:21:35.477] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:266)
+[29May2025 17:21:35.477] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404)
+[29May2025 17:21:35.477] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207)
+[29May2025 17:21:35.477] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226)
+[29May2025 17:21:35.477] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[29May2025 17:21:35.477] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[29May2025 17:21:35.477] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[29May2025 17:21:35.477] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[29May2025 17:21:35.477] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[29May2025 17:21:35.478] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[29May2025 17:21:35.478] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[29May2025 17:21:46.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -2959.5, 181.21551514038654, -24447.5]
+[29May2025 17:21:46.690] [Worker-Main-206/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-2977, y=64, z=-24449} at Chest with:dungeons_arise:chests/illager_corsair/illager_corsair_treasure in dungeons_arise:illager_corsair
+[29May2025 17:21:54.328] [Worker-Main-198/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vindicatorboss at BlockPos{x=-3074, y=18, z=-24291} at Chest with:minecraft:chests/simple_dungeon in dungeons_arise:foundry
+[29May2025 17:22:01.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [You Are A Pirate]
