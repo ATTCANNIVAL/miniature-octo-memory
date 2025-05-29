@@ -2504,3 +2504,8 @@
 2025-05-29 14:22:39,083 [Server thread] INFO Treasure2 | WorldEventHandler.java:66 | In world load event for dimension minecraft:the_nether
 2025-05-29 14:22:39,095 [Server thread] INFO Treasure2 | WorldEventHandler.java:58 | In world load event
 2025-05-29 14:22:39,096 [Server thread] INFO Treasure2 | WorldEventHandler.java:66 | In world load event for dimension minecraft:the_end
+2025-05-29 16:58:20,661 [Worker-Main-94] INFO Treasure2 | WellGenerator.java:150 | CHEATER! Wishing Well at coords: -1035 67 1717
+2025-05-29 16:59:54,587 [Worker-Main-204] INFO Treasure2 | AbstractChestBlock.java:159 | AbstractChestBlock | createNewTileEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=EAST, xOffset=0.72, yOffset=0.18, zOffset=0.5, rotation=90.0], lockItem=null]]
+2025-05-29 16:59:54,587 [Worker-Main-204] INFO Treasure2 | AbstractChestBlock.java:164 | AbstractChestBlock | createNewTileEntity | tileEntity -> mod.gottsch.forge.treasure2.core.tileentity.SkullChestTileEntity@51aafe71 @ BlockPos{x=0, y=0, z=0}
+2025-05-29 16:59:54,592 [Worker-Main-204] INFO Treasure2 | SurfaceChestFeature.java:269 | CHEATER! SCARCE chest at coords: 8007 69 2055
+2025-05-29 16:59:56,572 [Worker-Main-94] INFO Treasure2 | WellGenerator.java:150 | CHEATER! Wishing Well at coords: 8039 71 1987

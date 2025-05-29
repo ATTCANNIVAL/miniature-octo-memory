@@ -11146,3 +11146,40 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29May2025 16:51:29.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> primero hay q hacer la granha
 [29May2025 16:51:39.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> pa tener buenos encantamientos
 [29May2025 16:51:44.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> y acabar mas rapido
+[29May2025 16:52:10.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa has died from pain caused by fracture
+[29May2025 16:52:12.268] [Server thread/INFO] [tac/]: PENDING
+[29May2025 16:52:35.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Command Block] to ATT_CANNIVAL]
+[29May2025 16:53:19.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> creo que si deja veo{w
+[29May2025 16:54:38.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> tienes tre de obsidiana??
+[29May2025 16:54:49.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> no
+[29May2025 16:54:50.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> pa q
+[29May2025 16:55:03.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> creo que se como mejorar la eficiencia
+[29May2025 16:55:11.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> como
+[29May2025 16:55:18.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> hay una mesa
+[29May2025 16:55:28.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> pero nesecito tres de obsidiana}
+[29May2025 16:55:45.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa fell from a high place
+[29May2025 16:55:47.231] [Server thread/INFO] [tac/]: PENDING
+[29May2025 16:55:47.242] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/60957, l='ServerLevel[world]', x=-128.08, y=68.00, z=58.30]
+[29May2025 16:55:50.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> en la mina debe
+[29May2025 16:55:52.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> haber
+[29May2025 16:56:02.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> safp
+[29May2025 16:56:03.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 tried to swim in lava
+[29May2025 16:56:04.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> safo
+[29May2025 16:56:04.769] [Server thread/INFO] [tac/]: PENDING
+[29May2025 16:56:09.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> tengo clases en la tarde
+[29May2025 16:56:11.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> ire a alistarme
+[29May2025 16:56:12.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miradafilosa> xd
+[29May2025 16:56:24.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> a}
+[29May2025 16:56:29.164] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: miradafilosa lost connection: Disconnected
+[29May2025 16:56:29.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa left the game
+[29May2025 16:56:29.165] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3db6159c-8813-3b63-a617-36f228374b83 was unloaded
+[29May2025 16:56:44.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[29May2025 16:56:51.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> ese david
+[29May2025 16:57:06.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TAQUIS123> mario tienes 3 de obsidiana??
+[29May2025 16:57:12.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ATT_CANNIVAL> no
+[29May2025 16:58:21.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to -1039.5, 21.098749869010884, 1712.5]
+[29May2025 16:58:51.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Set own game mode to Spectator Mode]
+[29May2025 16:59:54.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Teleported ATT_CANNIVAL to 8000.5, 26.337131911216566, 2048.5]
+[29May2025 17:00:06.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was shot by Skeleton
+[29May2025 17:00:08.067] [Server thread/INFO] [tac/]: PENDING
+[29May2025 17:01:59.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 has made the advancement [Cover Me With Diamonds]
