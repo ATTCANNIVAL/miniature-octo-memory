@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-05-29 17:23:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-05-29 17:14:45 +0000"
@@ -728,11 +734,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-05-29 17:10:55 +0000",
+      "minecraft:pillager": "2025-05-29 17:20:24 +0000",
       "minecraft:skeleton": "2025-05-27 00:40:30 +0000",
       "minecraft:magma_cube": "2025-05-29 17:11:03 +0000",
       "minecraft:spider": "2025-05-27 00:35:34 +0000",
       "minecraft:creeper": "2025-05-27 01:07:28 +0000",
       "minecraft:witch": "2025-05-27 00:29:35 +0000",
+      "minecraft:wither_skeleton": "2025-05-29 17:23:41 +0000",
       "minecraft:zombie": "2025-05-27 00:18:18 +0000"
     },
     "done": false
@@ -1104,6 +1112,12 @@
   "cfm:recipes/cfm/birch_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-05-29 16:25:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-05-29 17:20:21 +0000"
     },
     "done": true
   },
@@ -1481,6 +1495,9 @@
       "minecraft:mountains": "2025-05-27 00:42:47 +0000",
       "minecraft:snowy_tundra": "2025-05-29 17:12:32 +0000",
       "minecraft:desert": "2025-05-27 01:39:17 +0000",
+      "minecraft:frozen_river": "2025-05-29 17:20:14 +0000",
+      "minecraft:jungle": "2025-05-29 17:23:28 +0000",
+      "minecraft:snowy_beach": "2025-05-29 17:20:19 +0000",
       "minecraft:badlands": "2025-05-27 01:39:28 +0000",
       "minecraft:dark_forest": "2025-05-26 23:26:02 +0000",
       "minecraft:river": "2025-05-27 00:52:17 +0000",
@@ -2850,6 +2867,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-29 17:20:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-05-26 23:42:06 +0000"
@@ -3477,6 +3500,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_red_flower": "2025-05-26 23:30:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-29 17:20:26 +0000"
     },
     "done": true
   },
