@@ -7086,3 +7086,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29May2025 14:27:16.931] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
 [29May2025 14:27:16.932] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
 [29May2025 14:27:16.932] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[29May2025 14:37:14.762] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Yogarajah'/942, l='ServerLevel[world]', x=-728.30, y=65.00, z=-404.70] died, message: 'Yogarajah was slain by Infected'

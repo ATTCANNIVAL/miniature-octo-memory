@@ -11261,3 +11261,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29May2025 14:27:16.932] [Server thread/INFO] [STDERR/]: [net.smileycorp.hordes.common.Hordes:logError:98]: 	at java.base/java.lang.Thread.run(Thread.java:829)
 [29May2025 14:27:49.221] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [29May2025 14:27:49.242] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29May2025 14:32:48.468] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29May2025 14:32:48.489] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29May2025 14:37:14.762] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Yogarajah'/942, l='ServerLevel[world]', x=-728.30, y=65.00, z=-404.70] died, message: 'Yogarajah was slain by Infected'
+[29May2025 14:37:48.446] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29May2025 14:37:48.459] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
