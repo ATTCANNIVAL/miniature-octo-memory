@@ -7101,3 +7101,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29May2025 14:51:00.068] [Server thread/INFO] [forge.net.mca.MCA/]: TextComponent{text='Sugata', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} has been infected
 [29May2025 14:51:01.070] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Sugata'/908, l='ServerLevel[world]', x=-737.45, y=73.02, z=-420.96] died, message: 'Sugata was slain by Zombie'
 [29May2025 14:55:21.865] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Rajni'/907, l='ServerLevel[world]', x=-747.70, y=71.94, z=-450.36] died, message: 'Rajni was slain by Zombie Knight'
+[29May2025 15:03:39.815] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: miradafilosa lost connection: Disconnected
+[29May2025 15:03:39.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa left the game
+[29May2025 15:03:39.817] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3db6159c-8813-3b63-a617-36f228374b83 was unloaded
+[29May2025 15:06:37.012] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ATT_CANNIVAL lost connection: Disconnected
+[29May2025 15:06:37.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL left the game
+[29May2025 15:06:37.012] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fc7b24d9-b9a0-37fe-a22c-1653103fa143 was unloaded
+[29May2025 15:06:46.169] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4297c8e8
+[29May2025 15:06:46.198] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: miradafilosa[/127.157.139.158:47235] logged in with entity id 7777 at (-146.1003952145774, 27.0, 83.05628214220376)
+[29May2025 15:06:46.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miradafilosa joined the game
+[29May2025 15:06:46.207] [Server thread/INFO] [tac/]: PENDING
+[29May2025 15:06:46.240] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[29May2025 15:06:46.240] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[29May2025 15:06:46.241] [Server thread/INFO] [ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[29May2025 15:06:50.262] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3db6159c-8813-3b63-a617-36f228374b83 was loaded
