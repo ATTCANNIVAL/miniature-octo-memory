@@ -12,3 +12,5 @@
 [30May2025 00:03:01.724] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: TAQUIS123 moved wrongly!
 [30May2025 00:03:05.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Fast infected
 [30May2025 00:03:06.864] [Server thread/INFO] [tac/]: PENDING
+[30May2025 00:10:00.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ATT_CANNIVAL: Gave 1 [Affixed Metal] to ATT_CANNIVAL]
+[30May2025 00:12:26.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [It's Tradin' Time!]
