@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-05-30 00:13:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-05-29 17:14:36 +0000"
@@ -167,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-30 00:13:47 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/barrel_block": {
     "criteria": {
       "has_items": "2025-05-29 23:04:45 +0000"
@@ -206,6 +218,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-05-26 22:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-30 00:13:47 +0000"
     },
     "done": true
   },
@@ -404,6 +422,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-26 23:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-30 00:13:47 +0000"
     },
     "done": true
   },
@@ -629,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-30 00:13:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-05-29 23:35:11 +0000"
@@ -664,6 +694,12 @@
       "minecraft:zombie": "2025-05-26 23:14:16 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-30 00:18:38 +0000"
+    },
+    "done": true
   },
   "minecolonies:recipes/minecolonies/blockhutcombatacademy": {
     "criteria": {
@@ -1084,6 +1120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-05-30 00:13:47 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
     "criteria": {
       "has_leather": "2025-05-26 23:17:59 +0000"
@@ -1204,6 +1246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-05-30 00:13:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-05-26 17:44:53 +0000",
@@ -1306,6 +1354,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-26 23:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-05-30 00:13:47 +0000"
     },
     "done": true
   },
@@ -1633,6 +1687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-05-30 00:13:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stone_coffee_table": {
     "criteria": {
       "has_planks": "2025-05-27 00:35:40 +0000"
@@ -1648,6 +1708,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-26 23:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-30 00:13:47 +0000"
     },
     "done": true
   },
@@ -1861,6 +1927,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-05-30 00:18:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/andesite_chair": {
     "criteria": {
       "has_planks": "2025-05-27 00:35:36 +0000"
@@ -2037,6 +2109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-05-30 00:18:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 00:01:00 +0000"
@@ -2088,6 +2166,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-05-26 23:32:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-05-30 00:18:38 +0000"
     },
     "done": true
   },
@@ -2157,6 +2241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-05-30 00:18:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-05-29 17:14:36 +0000"
@@ -2202,6 +2292,12 @@
   "cfm:recipes/cfm/oak_upgraded_gate": {
     "criteria": {
       "has_log": "2025-05-26 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:currency/trader": {
+    "criteria": {
+      "trader": "2025-05-30 00:12:26 +0000"
     },
     "done": true
   },
@@ -2367,6 +2463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-30 00:13:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-05-29 23:35:11 +0000"
@@ -2460,6 +2562,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-27 00:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-05-30 00:13:47 +0000"
     },
     "done": true
   },
@@ -2571,6 +2679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-30 00:18:38 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2025-05-26 17:44:53 +0000"
@@ -2622,6 +2736,12 @@
   "cfm:recipes/cfm/dark_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2025-05-26 23:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-30 00:18:38 +0000"
     },
     "done": true
   },
@@ -2757,6 +2877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-30 00:13:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 00:01:00 +0000"
@@ -2829,9 +2955,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-05-30 00:18:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stone_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-05-27 00:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-05-30 00:13:47 +0000"
     },
     "done": true
   },

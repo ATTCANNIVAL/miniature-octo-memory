@@ -13759,3 +13759,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30May2025 00:10:01.764] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [30May2025 00:10:01.777] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [30May2025 00:12:26.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ATT_CANNIVAL has made the advancement [It's Tradin' Time!]
+[30May2025 00:13:24.440] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Not enough money in storage to pay for the purchased items.
+[30May2025 00:13:24.441] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock.
+[30May2025 00:14:19.382] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
+[30May2025 00:15:01.783] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30May2025 00:15:01.797] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30May2025 00:15:32.041] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
+[30May2025 00:16:56.616] [Server thread/INFO] [tac/]: PENDING
+[30May2025 00:20:01.796] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30May2025 00:20:01.809] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30May2025 00:20:45.316] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (36 | 49 | 148).
+[30May2025 00:20:45.316] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[30May2025 00:20:45.316] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 6(0) Rooms
+[30May2025 00:20:45.316] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[30May2025 00:20:45.316] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 8(0) Nodes and 6(0) Rooms
+[30May2025 00:20:45.317] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[30May2025 00:20:45.317] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 10(0) Nodes and 6(0) Rooms
+[30May2025 00:20:45.317] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[30May2025 00:20:45.317] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 4(9) Nodes and 7(0) Rooms
+[30May2025 00:20:45.317] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[30May2025 00:20:45.318] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 8(0) Rooms
+[30May2025 00:20:45.320] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [7, 14] with a total of 384 pieces.
+[30May2025 00:21:35.881] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [2,19]
+[30May2025 00:21:35.881] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [2,19]
+[30May2025 00:21:50.724] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [3,19]
+[30May2025 00:21:50.724] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [3,19]
+[30May2025 00:23:16.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TAQUIS123 was slain by Fast infected
+[30May2025 00:23:17.218] [Server thread/INFO] [tac/]: PENDING
